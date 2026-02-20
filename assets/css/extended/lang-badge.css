@@ -6,6 +6,8 @@
   border-radius: 4px;
   line-height: 1.4;
   letter-spacing: 0.3px;
+  background: rgba(106, 159, 216, 0.15);
+  color: #6a9fd8;
 }
 
 .archive-tags {
@@ -23,33 +25,8 @@
   border-radius: 4px;
   line-height: 1.4;
   letter-spacing: 0.3px;
-  background: #f0e6d6;
-  color: #8a6530;
-}
-
-.lang-es {
-  background: #fef3cd;
-  color: #856404;
-}
-
-.lang-en {
-  background: #d6e4f0;
-  color: #3a6a9b;
-}
-
-.lang-eo {
-  background: #d4edda;
-  color: #2d6a3f;
-}
-
-.lang-ca {
-  background: #f8d7da;
-  color: #a44049;
-}
-
-.lang-it {
-  background: #d1f0db;
-  color: #1e7a3a;
+  background: rgba(192, 120, 48, 0.15);
+  color: #c07830;
 }
 
 /* Topic guide nav */
@@ -159,3 +136,15 @@
 .filter-btn.active .lang-filter-count {
   background: rgba(255, 255, 255, 0.25);
 }
+
+/* Language emoji flags */
+.lang-en::before,
+.lang-filter-btn[data-lang="en"]::before { content: "🇺🇸 "; }
+.lang-es::before,
+.lang-filter-btn[data-lang="es"]::before { content: "🇪🇸 "; }
+.lang-eo::before,
+.lang-filter-btn[data-lang="eo"]::before { content: "🌍 "; }
+.lang-it::before,
+.lang-filter-btn[data-lang="it"]::before { content: "🇮🇹 "; }
+.lang-ca::before,
+.lang-filter-btn[data-lang="ca"]::before { content: "🇦🇩 "; }
