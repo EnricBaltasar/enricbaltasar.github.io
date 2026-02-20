@@ -1,0 +1,41 @@
+
+
+
+I have:
+
+some content is drafts! pages and articles
+
+
+public_html/wp-content/uploads/
+
+
+
+-----
+
+
+from github pages -> railway with access to only one repo to enricbaltasar
+
+
+
+>>>> GOOGLE ANALYTICS
+
+
+>>> cloudflare: trailing slashes
+
+>>> rewrite urls --> choose strategy, then redirect with CF
+
+
+>>> TRY TO REPLICATE THEME (create new theme) based on files we have of WP of enricbaltasar.com
+
+
+>> https://enricbaltasar.com/vicent-andres-estelles-esperanto/ images are small (we used the same size as in the blog). Can we save also the biggest version and link to it? I think for many images we have bigger sizes in the WordPress backup (and probably needs to be target blank, although better to show modal or something instead of opening new page), just like discoveryfund.com
+
+
+
+
+
+
+---
+
+enricbaltasar-com/static/CNAME
+enricbaltasar.com
