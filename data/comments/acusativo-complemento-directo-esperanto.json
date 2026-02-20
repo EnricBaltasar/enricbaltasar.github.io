@@ -1,0 +1,72 @@
+[
+  {
+    "id": 69,
+    "author": "Roberto Rdz",
+    "date": "2017-05-06 20:23:21",
+    "content": "Me ha servido de mucho, la explicación es clara y concisa.\n\nLlevo varios días tratando de entender el acusativo, afortunadamente me acabo de dar cuenta que todas mis otras dudas del esperanto eran a raíz de esto\n\nMuchas gracias",
+    "parent": 0
+  },
+  {
+    "id": 70,
+    "author": "Enric Baltasar",
+    "date": "2017-05-07 09:17:12",
+    "content": "De nada, Roberto!\nEl acusativo al principio puede darnos inseguridad o hacernos dudar del idioma, pero se pasa :)",
+    "parent": 69
+  },
+  {
+    "id": 71,
+    "author": "Nayma Luna",
+    "date": "2018-02-11 10:29:08",
+    "content": "Es difícil aprender un idioma sin ningún tipo de explicación, ahora que lo entiendo me será más fácil recordarlo y hacerlo bien así que MUCHÍSIMAS GRACIAS",
+    "parent": 0
+  },
+  {
+    "id": 72,
+    "author": "Anaiia",
+    "date": "2018-02-14 23:08:31",
+    "content": "El acusativo se pone en unas categorías gramaticales específicas o en todos los complementos directos. Por ejemplo, en la frase \"Me gusta nadar\", si no estoy equivocado el complemento directo seria \"nadar\"\n\n \"Mi ŝatas naĝi\" o \"Mi ŝatas naĝin\"",
+    "parent": 0
+  },
+  {
+    "id": 73,
+    "author": "Enric Baltasar",
+    "date": "2018-02-15 11:41:06",
+    "content": "Hola, Anaiia,\n\nAunque tu análisis sintáctico es correcto, los verbos no pueden llevar la marca del acusativo. Estas son todas las posibilidades:\n- Sustantivos y adjetivos: bonA(J)N motorciklO(J)N\n- Adverbios y correlativos acabados en -e para indicar dirección: hejmEN (a casa), tiEN (hacia allí)\n- Correlativos acabados en -o, -u, -a: kiON, kiU(J)N, kiA(J)N\n\nPuedes ver una tabla resumen de uso de las terminaciones gramaticales junto con los correlativos en esta otra lección:\nhttp://enricbaltasar.com/terminaciones-gramaticales-correlativos-esperanto/",
+    "parent": 72
+  },
+  {
+    "id": 74,
+    "author": "Anaiia",
+    "date": "2018-02-15 20:03:33",
+    "content": "Muchas gracias!!",
+    "parent": 73
+  },
+  {
+    "id": 650,
+    "author": "Sara",
+    "date": "2019-09-22 15:59:21",
+    "content": "Bien!!! Ahora entiendo el porqué de la n.\nGracias Enric.",
+    "parent": 0
+  },
+  {
+    "id": 651,
+    "author": "Enric Baltasar",
+    "date": "2019-09-22 18:56:08",
+    "content": "De nada, Sara ;)",
+    "parent": 650
+  },
+  {
+    "id": 850,
+    "author": "Vicente RG",
+    "date": "2023-09-10 17:28:14",
+    "content": "No se puede escribir la \"n\" cuando va tras \"esti\" o \"ŝajni\" porque eso sería un atributo en lugar de un complemento indirecto, ¿cierto?",
+    "parent": 0
+  },
+  {
+    "id": 851,
+    "author": "Enric Baltasar",
+    "date": "2023-09-11 09:15:30",
+    "content": "Esti es un verbo copulativo y sxajni es intransitivo, los cuales no pueden llevar acusativo.",
+    "parent": 850
+  }
+]

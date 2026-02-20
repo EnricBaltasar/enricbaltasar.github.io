@@ -1,0 +1,74 @@
+baseURL = "https://enricbaltasar.com/"
+languageCode = "en-us"
+title = "Enric Baltasar"
+theme = "PaperMod"
+paginate = 10
+
+# Keep WordPress-compatible URL structure
+[permalinks]
+  [permalinks.page]
+    posts = "/:contentbasename/"
+
+# Allow raw HTML in markdown (needed for converted WordPress content)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# Output formats: JSON needed for PaperMod search
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  topic = "topics"
+  tag = "tags"
+
+# PaperMod theme parameters
+[params]
+  env = "production"
+  description = "Growth Engineer"
+  author = "Enric Baltasar"
+  [params.assets]
+    favicon = "/favicon.png"
+    favicon16x16 = "/favicon.png"
+    favicon32x32 = "/favicon.png"
+    apple_touch_icon = "/favicon.png"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+  comments = true
+
+# Main navigation menu
+[[menus.main]]
+  name = "About"
+  url = "/about/"
+  weight = 10
+
+[[menus.main]]
+  name = "Articles"
+  url = "/articles/"
+  weight = 20
+
+# [[menus.main]]
+#   name = "Topics"
+#   url = "/topics/"
+#   weight = 30
+
+[[menus.main]]
+  name = "Search"
+  url = "/search/"
+  weight = 40
+
+# Minification for production
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false

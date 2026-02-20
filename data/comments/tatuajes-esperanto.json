@@ -1,0 +1,44 @@
+[
+  {
+    "id": 536,
+    "author": "Raúl J. García",
+    "date": "2017-08-02 01:33:52",
+    "content": "¿Donde está la foto del seno? :P",
+    "parent": 0
+  },
+  {
+    "id": 537,
+    "author": "Enric Baltasar",
+    "date": "2017-08-17 01:19:15",
+    "content": "XD. Tendremos que esperar a ver si quiere hacer la foto pública",
+    "parent": 536
+  },
+  {
+    "id": 538,
+    "author": "Raquel",
+    "date": "2017-11-28 03:42:51",
+    "content": "Yo quería tatuarme \"Que mientras dure sea eterno\" en esperanto pero me salen dos traducciones diferentes: por un lado me ponen que la primera palabra es \"ke\" y por otro que es \"Ol\", me encantaría que pudieras resolver mi duda; saludos y me encanta lo que haces!",
+    "parent": 0
+  },
+  {
+    "id": 539,
+    "author": "Enric Baltasar",
+    "date": "2017-11-28 20:03:48",
+    "content": "Hola, Raquel,\n\nLa traducción de tu oración sería \"Dum ĝi daŭras ĝi estu eterna\", aunque si quieres podemos pensar en alguna traducción libre que suene mejor en esperanto (si me envías un correo, te paso mis datos de contacto para hablar).\n\nLa cuestión de ke/ol se debe a una mala traducción de la herramienta que has utilizado (tu oración tiene una estructura un poco más compleja de lo normal y me imagino que no será frecuente verla). \n\n+Info: http://enricbaltasar.com/comparativo-esperanto/",
+    "parent": 538
+  },
+  {
+    "id": 743,
+    "author": "Gabriel Pelli de Lamar",
+    "date": "2022-05-10 00:27:50",
+    "content": "Hola Enric, me podrías decir cuál sería la traducción correcta para la frase \"si nunca lo intentas, nunca lo sabrás\" ? Muchas gracias",
+    "parent": 0
+  },
+  {
+    "id": 744,
+    "author": "Enric Baltasar",
+    "date": "2022-05-11 18:09:12",
+    "content": "Se vi neniam provas, vi neniam scios",
+    "parent": 743
+  }
+]

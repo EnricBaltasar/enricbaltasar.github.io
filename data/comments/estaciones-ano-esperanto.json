@@ -1,0 +1,37 @@
+[
+  {
+    "id": 264,
+    "author": "Felipe AT",
+    "date": "2016-07-06 23:51:50",
+    "content": "¿Sería incorrecto decir:\"LA sezonoj EL LA jaro\"?",
+    "parent": 0
+  },
+  {
+    "id": 265,
+    "author": "Enric Baltasar",
+    "date": "2016-07-07 09:36:23",
+    "content": "Hola, Felipe,\n\nEl primer artículo es correcto, con el segundo probablemente te referirías a un año concreto. Respecto a la preposición, un año no contiene estaciones, simplemente las hay, por eso no se usa \"el\".",
+    "parent": 264
+  },
+  {
+    "id": 266,
+    "author": "sergio",
+    "date": "2016-11-21 08:00:16",
+    "content": "hola Enric\nTal vez luego puedas poner una lista de festividades",
+    "parent": 0
+  },
+  {
+    "id": 267,
+    "author": "Enric Baltasar",
+    "date": "2016-11-21 10:31:52",
+    "content": "Gracias por la sugerencia, Sergio. Si me ayudas con la lista, yo me encargo de traducirla. ¿Qué te parece?",
+    "parent": 266
+  },
+  {
+    "id": 268,
+    "author": "sergio",
+    "date": "2016-12-02 04:53:46",
+    "content": "vale!",
+    "parent": 0
+  }
+]

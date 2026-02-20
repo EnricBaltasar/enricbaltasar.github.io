@@ -1,0 +1,37 @@
+[
+  {
+    "id": 530,
+    "author": "cspinolawp",
+    "date": "2017-06-10 18:30:19",
+    "content": "BONEGE!!",
+    "parent": 0
+  },
+  {
+    "id": 531,
+    "author": "M. Antonio Cancinos.",
+    "date": "2017-06-12 07:46:03",
+    "content": "Excelente el material Baltasar, lo felicito, por sus conocimientos de Esperanto y por ayudar a divulgar, este lenguaje. Dios lo bendiga.",
+    "parent": 0
+  },
+  {
+    "id": 532,
+    "author": "Enric Baltasar",
+    "date": "2017-06-12 09:26:46",
+    "content": "Gracias, Antonio. Para eso estamos ;)",
+    "parent": 531
+  },
+  {
+    "id": 533,
+    "author": "enzo",
+    "date": "2017-06-28 08:56:34",
+    "content": "Hola Enric, tengo una pregunta, lavi min es igual a lavigxi? o no existe la palabra lavigxi?",
+    "parent": 0
+  },
+  {
+    "id": 534,
+    "author": "Enric Baltasar",
+    "date": "2017-06-29 11:46:29",
+    "content": "Buenas, Enzo. Son sinónimos, aunque la primera forma se usa más y posiblemente suene más natural",
+    "parent": 533
+  }
+]

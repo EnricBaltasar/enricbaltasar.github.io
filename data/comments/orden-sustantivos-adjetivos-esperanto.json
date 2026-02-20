@@ -1,0 +1,30 @@
+[
+  {
+    "id": 370,
+    "author": "maco cancinos",
+    "date": "2015-09-28 05:55:56",
+    "content": "Muy buena esta lección, Sencilla y fácil de aprender. Felicitaciones buena su contribución.",
+    "parent": 0
+  },
+  {
+    "id": 371,
+    "author": "Enric Baltasar",
+    "date": "2015-09-28 12:15:08",
+    "content": "Gracias, Maco! Ahora acabo de añadir una nota sobre un caso particular pero bastante común de traducción castellano-esperanto.",
+    "parent": 370
+  },
+  {
+    "id": 372,
+    "author": "sergio",
+    "date": "2015-12-18 07:45:19",
+    "content": "¿se pueden convertir en verbo todos o casi todos los adjetivos? por ejemplo, mi estas bela es igual que mi belas; o bien, la kafo estas trinkinda es igual que la kafo trinkindas. ¿se puede?",
+    "parent": 0
+  },
+  {
+    "id": 373,
+    "author": "Enric Baltasar",
+    "date": "2015-12-18 11:15:17",
+    "content": "Cualquier raíz adjetiva con terminación verbal se puede traducir del modo que indicas.\n→ estAS bela = belAS\n\nPara quienes no sepan a qué me refiero, enlazo este otro artículo:\nhttp://enricbaltasar.com/errores-habituales-esperanto/#necesitar\n\nPor cierto, un fenómeno que me llama la atención es que decir por ejemplo \"belas\" suena totalmente normal, pero en forma de infinitivo, \"beli\", puede sonar un poco raro... por la infrecuencia de uso.",
+    "parent": 372
+  }
+]

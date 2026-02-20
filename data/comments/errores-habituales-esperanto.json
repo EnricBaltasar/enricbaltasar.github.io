@@ -1,0 +1,219 @@
+[
+  {
+    "id": 141,
+    "author": "sergio",
+    "date": "2015-12-20 20:36:27",
+    "content": "Saluton Enric\nmi havas multajn dubojn pri kiel uzi korekte la vorton KIA.\ncxu oni povas uzi: Kia agxa vi estas? aux kia estas via nomo?\nkoran dankon",
+    "parent": 0
+  },
+  {
+    "id": 142,
+    "author": "Enric Baltasar",
+    "date": "2015-12-21 13:38:08",
+    "content": "Los correlativos acabandos en -a preguntan por un adjetivo:\n→ kiA vi estas? belA\nhttp://enricbaltasar.com/correlativos-esperanto-acabados-a/\n\n\"¿Qué edad tienes?\" se diría \"Kiom vi aĝas?\" (aconsejo), o \"Kiomjara vi estas?\".\n\n\"¿Cuál es tu nombre?\" se diría \"Kio estas via nomo\" (aconsejo), o \"Kiu estas via nomo?\".\n\nAdicional: http://enricbaltasar.com/preguntas-habituales-particulas-interrogativas-esperanto/",
+    "parent": 141
+  },
+  {
+    "id": 143,
+    "author": "sergio",
+    "date": "2016-02-24 08:30:34",
+    "content": "en la primera parte, explicas que los adjetivos al ser pasados como  verbos, sobre entienden el verbo ESTI en ellos. Como por ejemplo BELI y NECESI. Mi pregunta es ¿ocurre lo mismo con los sustantivos? por ejemplo HUNDO HUNDI, INFANO INFANI",
+    "parent": 0
+  },
+  {
+    "id": 144,
+    "author": "Enric Baltasar",
+    "date": "2016-02-24 22:48:33",
+    "content": "No es frecuente, y el significado puede ser a veces ambiguo, pero se puede:\n- Mi hejmas/domas (estoy en casa)\n- Li patras (es padre / hace de padre)\n\nMi recomendación es que no uses \"hundi\" o \"infani\" salvo que el significado quede bastante claro.",
+    "parent": 143
+  },
+  {
+    "id": 145,
+    "author": "sergio",
+    "date": "2016-03-03 06:18:57",
+    "content": "hola\nhe estado buscando las diferentes maneras de decir -intentar-y he encontrado verbos como intenci, provi y klopodi. Me que da clara la diferencia entre intenci y provi, pero ¿cómo funciona klopodi?",
+    "parent": 0
+  },
+  {
+    "id": 146,
+    "author": "Enric Baltasar",
+    "date": "2016-03-03 10:44:10",
+    "content": "\"Klopodi\" hace más hincapié en el esfuerzo, mientras que provi en lo que se hace.\n\nUn truco: cuando un verbo te resulte complicado al compararlo, mira la traducción en forma sustantiva.",
+    "parent": 145
+  },
+  {
+    "id": 147,
+    "author": "sergio",
+    "date": "2016-03-04 08:02:18",
+    "content": "Muchas Gracias. Es un consejo bastante útil que no sabía.",
+    "parent": 0
+  },
+  {
+    "id": 148,
+    "author": "Sebastian Aldave",
+    "date": "2016-09-11 00:42:19",
+    "content": "Hola. me podrías decir en que oración se usa la preposición correcta:\n-Mi petis de li la libron.\n-Mi petis al li la libron.\n-MI petis el li la libron.",
+    "parent": 0
+  },
+  {
+    "id": 149,
+    "author": "Enric Baltasar",
+    "date": "2016-09-11 14:34:52",
+    "content": "Saluton, Sebastian! La segunda oración es la que solemos usar.",
+    "parent": 148
+  },
+  {
+    "id": 150,
+    "author": "Sebastian Aldave",
+    "date": "2016-10-22 01:16:40",
+    "content": "¿Cual sería la traducción correcta de \"tampoco\", y como la usarías?",
+    "parent": 0
+  },
+  {
+    "id": 151,
+    "author": "Enric Baltasar",
+    "date": "2016-10-22 10:09:35",
+    "content": "\"Tampoco\" se dice \"Ankaŭ ne\", Sebastian. Un ejemplo: a mí tampoco me gusta ir a pescar = ankaŭ mi ne ŝatas fiŝkapti.",
+    "parent": 150
+  },
+  {
+    "id": 152,
+    "author": "Sebastian Aldave",
+    "date": "2016-10-26 22:10:13",
+    "content": "Dankon!",
+    "parent": 151
+  },
+  {
+    "id": 153,
+    "author": "Pablo",
+    "date": "2016-11-06 11:50:40",
+    "content": "Bona kompilaĵo de eraroj en esperanto! Dankon pro tiu kontribuo. Mi iel utiligos ĝin kun miaj gelernantoj.",
+    "parent": 0
+  },
+  {
+    "id": 154,
+    "author": "Enric Baltasar",
+    "date": "2016-11-06 12:40:43",
+    "content": "Nedankinde, Pablo :)",
+    "parent": 153
+  },
+  {
+    "id": 155,
+    "author": "sergio",
+    "date": "2016-11-17 10:26:30",
+    "content": "hola Enric\nÚltimamente he estado leyendo e investigando más en diccionarios en esperanto y me he encontrado con palabras que se escriben distintas pero parecen tener significados muy muy similares, por no decir que son  sinónimos. Por ejemplo: eltrovi y malkovri, elpensi e inventi, entre otras. ¿existen diferencias sustanciales entre ellas? \nPor ejemplo se podría decir: \nLi eltrovas novan planedon ó Li malkovras novan planedon. (él descubre un nuevo planeta)\nsxi elpensas kanton ó sxi inventas kanton. (ella inventa una canción)",
+    "parent": 0
+  },
+  {
+    "id": 156,
+    "author": "Enric Baltasar",
+    "date": "2016-11-17 11:31:31",
+    "content": "¡Hola, Sergio!\nPodemos decir que son pares del naturalismo (inventar raíces) y esquemismo (crear palabras a partir de elementos existentes) que significan lo mismo.\n- elparoli = prononci\n- elpensi = inventi\n- eltrovi = malkovri",
+    "parent": 155
+  },
+  {
+    "id": 157,
+    "author": "sergio bernal",
+    "date": "2016-11-18 04:23:27",
+    "content": "Hola Enric\nGracias por la orientación, me alegra darme cuenta que no estoy tan desorientado aprendiendo esta lengua. Tengo que reconocer que es una lengua muy vasta y rica. Te agradezco mucho tu tiempo y respuestas.",
+    "parent": 156
+  },
+  {
+    "id": 158,
+    "author": "sergio",
+    "date": "2016-12-15 09:21:32",
+    "content": "Hola Enric\nPodrías explicarnos la diferencia entre flegi, varti y zorgi por favor",
+    "parent": 0
+  },
+  {
+    "id": 159,
+    "author": "Enric Baltasar",
+    "date": "2016-12-17 22:15:30",
+    "content": "Hola, Sergio.\nLa diferencia es que:\n- Varti es cuidar por joventud (del otro)\n- Flegi es cuidar por enfermedad, pero también \"ocuparse de\" [prizorgi] (infrecuente el segundo uso)\n- Zorgi es intransitivo y tiene un significado general. Se entiende como \"preocuparse por\" (zorgi pri), pero abarca el significado de en castellano \"ocuparse de, preocuparse por\".",
+    "parent": 158
+  },
+  {
+    "id": 160,
+    "author": "sergio",
+    "date": "2016-12-23 00:14:43",
+    "content": "muchas gracias por la explicación",
+    "parent": 0
+  },
+  {
+    "id": 161,
+    "author": "sergio",
+    "date": "2017-03-24 20:27:26",
+    "content": "Hola Enric\nEncontré una cuarta manera para decir la edad que creo que es poco común peri aún así me gustaría compartirla, la fuente es bertilow.com, y dice así:\n\" Tempomezura N-frazparto povas ankaŭ esti priskribo de A-vorto aŭ E-vorto:\nLi estis dudek du jarojn aĝa. = ...je dudek du jaroj aĝa.\"\n¿qué opinas de esta?",
+    "parent": 0
+  },
+  {
+    "id": 162,
+    "author": "Enric Baltasar",
+    "date": "2017-03-29 08:54:22",
+    "content": "Buenas, Sergio,\nSí, también es correcta. Se ve muy poco porque si usas \"jara\" es dos sílabas más corta la frase.",
+    "parent": 161
+  },
+  {
+    "id": 163,
+    "author": "Panchete",
+    "date": "2017-09-08 21:10:01",
+    "content": "Qué pasada de recopilación. Enhorabuena, Enric! Belan lavoron faris vi! (no sé si el esperanto usa \"laboro\" como \"effort expended on a particular task\" aparte de como \"labour, employment, occupation, job\", al igual que como ocurre en otros idiomas...) Mira, esa sería otra duda a añadir ;) .",
+    "parent": 0
+  },
+  {
+    "id": 164,
+    "author": "Enric Baltasar",
+    "date": "2017-10-09 12:56:22",
+    "content": "Hola, Panchete.\nEspero que te ayude la recopilación :)\n\nEn cuanto a \"tasko\" y \"laboro\", en castellano puede variar la traducción según el territorio, y el diccionario no me da una definición que merezca la pena usar, así que probemos con esto: \"tasko\" se usa como en castellano \"tarea\" o cuando sea equivalente a esta (ej.: lernej-tasko), mientras si no es \"laboro\"... y por eso se puede decir \"labortasko\" (algo que te han mandado hacer en el trabajo).",
+    "parent": 163
+  },
+  {
+    "id": 165,
+    "author": "Johano Kajmano",
+    "date": "2017-12-21 09:56:44",
+    "content": "Saluton Enric,\n\nMi sekvis la kurson “Gerda malaperis!” en Ikurso. En ekzerco mia korektisto diris al mi pri tiu frazo: “Sekvi kurson estas traduko de franca esprimo. Dirinte tion, mi ne scias, ĉu Ĉina esperantisto komprenos vin ! Oni diras: viziti kurson, ĉeesti kurson.” \n\nKio vi opinias pri tio? Ĉar vi diras ke esti lernanto en kurso oni diras “sekvi” kurson.",
+    "parent": 0
+  },
+  {
+    "id": 166,
+    "author": "Enric Baltasar",
+    "date": "2017-12-21 10:19:02",
+    "content": "Saluton, Johano,\n\nLaŭ mi \"hacer un curso\" (estante unu el la kursanoj) estas \"sekvi kurson\", kaj mi ne havis iam komprenproblemojn uzante tiun frazon, kvankam mi ne ĉefe parolas kun ĉinoj en Esperanto. La verbo en tiu frazo havas figuran sencon, same kiel en la jenaj:\n- \"estas malfacile sekvi viajn pensojn\" (PIV)\n- \"ĉiu sekvas kun intereso la malfacilan bataladon\" (ReVo)\n\nRilate al la proponoj de via korektinto, mi opinias ke:\n- \"Ĉeesti\" donas la nuancon \"esti en loko\". Tial \"ir a clase\" = ĉeesti lecionon. Oni tamen povus diri \"ĉeesti kurson\" ĉar temas pri lecionaro, sed mi persone ne uzus ĝin por reta kurso, eĉ se la senco de la verbo ne estas limigita al la nereta mondo. Aparte, \"sekvi\" ne enhavas absolute pasivan nuancon: aŭskulti kaj kompreni estas pli ol nur ĉeesti.\n- \"Viziti kurson\" sonas fremde al mi, kun sufiĉe malsama signifo. Per tiu frazo mi komprenus ekzemple ke vi estis invitita (nur) al unu leciono pro iu kialo.",
+    "parent": 165
+  },
+  {
+    "id": 167,
+    "author": "Johano Kajmano",
+    "date": "2017-12-22 08:56:52",
+    "content": "Dankon pro via rapidega respondo, Enric.\n\nMi volis konsulti al vi pri ĉi tiu afero ĉar la respondo de mia korektisto aspektis stranga al mi.\n\nFeliĉan Kristnaskon.",
+    "parent": 166
+  },
+  {
+    "id": 596,
+    "author": "Nayma Luna",
+    "date": "2019-03-07 17:36:27",
+    "content": "Hola, que tal! Tengo una duda que no logró resolver, cuando se dice\"vin\" y cuando \"al vi\"? Por ejemplo:\nTe dije mi nombre ayer. Cómo sería?\nMi diris vin...  O  mi diris al vi ?\n\nGracias de antemano y un saludo \n/(^_^)\\",
+    "parent": 0
+  },
+  {
+    "id": 598,
+    "author": "Kato",
+    "date": "2019-04-04 00:26:08",
+    "content": "Si es complemento/objeto directo = vin\nSi es complemento/objeto indirecto = al vi\n\nMi vidas vin (te veo = c. directo)\nMi diris (gxin) al vi (te lo dije, a ti = c. indirecto)",
+    "parent": 596
+  },
+  {
+    "id": 601,
+    "author": "EnricBaltasar",
+    "date": "2019-04-05 15:12:20",
+    "content": "Hola, Kato,\n\nAsí es.\n\nP.S.: Te lo dije = Mi diris _tion_ al vi",
+    "parent": 598
+  },
+  {
+    "id": 703,
+    "author": "Jonathan Castro",
+    "date": "2021-01-17 08:40:06",
+    "content": "Tengo una duda con las frases que se ocupan en la sección de la palabra \"Suerte\"\nhttp://enricbaltasar.com/errores-habituales-esperanto/#suerte\nHablo de estas:\n» Mi estis bonŝanca (Tuve suerte) \n» Qué mala suerte tienes en la vida (Vi estas malbonsorta en la vivo)\nEl verbo esti se usa como havi. ¿Se puede hacer eso?\n¿Es igual de correcto decir lo siguiente?\nMi havis bonŝanca\nVi havas malbonsorta en la vivo",
+    "parent": 0
+  }
+]

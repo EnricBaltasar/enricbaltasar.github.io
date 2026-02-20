@@ -1,0 +1,44 @@
+[
+  {
+    "id": 303,
+    "author": "Andres' Piĉinte",
+    "date": "2017-09-01 23:46:52",
+    "content": "Bis! = ¡De nuevo!, ¡otra vez!",
+    "parent": 0
+  },
+  {
+    "id": 304,
+    "author": "Enric Baltasar",
+    "date": "2017-10-09 12:59:16",
+    "content": "Buenos días, Andrés,\nEs cierto que también existe \"bis\", pero su uso es muy reducido: bonege, mirinde o brave lo oigo mucho más. Aun así, es importante saber que existen más interjecciones :)",
+    "parent": 303
+  },
+  {
+    "id": 713,
+    "author": "carolina",
+    "date": "2021-02-15 02:30:31",
+    "content": "Muchas gracias por el contenido",
+    "parent": 0
+  },
+  {
+    "id": 718,
+    "author": "Enric Baltasar",
+    "date": "2021-03-31 15:20:59",
+    "content": "Un placer, Carolina ;)",
+    "parent": 713
+  },
+  {
+    "id": 1361,
+    "author": "Luciano",
+    "date": "2025-04-18 19:23:41",
+    "content": "O Hej pelo https://vortaro.net/py/serchi.py?simpla=1&amp;s=hej&amp;kap=1&amp;der=1 é uma interjeição mais para encorajar e/ou instigar alegria, ânimo. Apesar disso eu gosto do uso dela para chamar atenção.",
+    "parent": 0
+  },
+  {
+    "id": 1363,
+    "author": "Enric Baltasar",
+    "date": "2025-04-19 12:12:25",
+    "content": "Hola, Luciano. Esa interjección en la práctica no se usa de ese modo aunque el diccionario diga eso.",
+    "parent": 1361
+  }
+]

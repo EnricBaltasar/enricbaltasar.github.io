@@ -1,0 +1,30 @@
+[
+  {
+    "id": 492,
+    "author": "Vicent Gimeno",
+    "date": "2016-12-15 03:01:01",
+    "content": "Dia de sant Jordi, Dia de la marededéu, dia dels Reis Mags i Magues, dia de Cendra (Quaresma), dia de Pentecosta, Tots Sants, Dia de sant Josep (les Falles, patrimoni de la humanitat)",
+    "parent": 0
+  },
+  {
+    "id": 493,
+    "author": "Enric Baltasar",
+    "date": "2016-12-17 22:56:06",
+    "content": "Hola, Vicent. Després de cercar i algun invent:\nDia de Sant Jordi = Tago de Sankta Georgo\nDia de la Mare de Déu = Di-patrina Tago (*)\nDia dels Reis Mags = Tri-reĝa Tago (*)\nDia de Quaresma = Karesma Tago\nDia de Pentecosta = Pentekosto\nDia de Tots Sants = Ĉiuj Sanktuloj\nFalles: una vegada al grup de WhatsApp al qual estem vam pensar en com traduir la paraula, era alguna cosa similar a \"brulmonumenta tago\".",
+    "parent": 492
+  },
+  {
+    "id": 494,
+    "author": "Laia",
+    "date": "2017-10-31 11:36:43",
+    "content": "Cóm es diria \"Castanyada\"?",
+    "parent": 0
+  },
+  {
+    "id": 495,
+    "author": "Enric Baltasar",
+    "date": "2017-11-01 11:43:01",
+    "content": "Hola, Laia!\nSe m'ocorre que podria ser \"kaŝtanfesto\".",
+    "parent": 494
+  }
+]

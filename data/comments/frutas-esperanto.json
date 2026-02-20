@@ -1,0 +1,37 @@
+[
+  {
+    "id": 105,
+    "author": "Pitufina",
+    "date": "2017-04-02 17:23:17",
+    "content": "Se escribe dátiles, no dáctiles. Supongo que se te ha colado la letra.\nY pruna en castellano se llama ciruela, soy catalana y también me pasa eso.😉",
+    "parent": 0
+  },
+  {
+    "id": 106,
+    "author": "Enric Baltasar",
+    "date": "2017-04-02 17:31:53",
+    "content": "jaja, ¡cierto! Con algunas categorías de palabras me pasa a veces que me salen los nombres en catalán. Gracias por la corrección, Pitufina. A propósito, ¿de qué parte de Cataluña eres?",
+    "parent": 105
+  },
+  {
+    "id": 107,
+    "author": "Pitufina",
+    "date": "2017-04-02 17:42:45",
+    "content": "Vivo en Barcelona, pero no en la capital. 😊",
+    "parent": 106
+  },
+  {
+    "id": 108,
+    "author": "Grudo",
+    "date": "2017-07-08 07:17:19",
+    "content": "Mankas la mandarino, la limeo, la frambo, la kapsiko kaj la pasiofrukto:)\n\nKaj ne estas Mirteo, sed Mirtelo.",
+    "parent": 0
+  },
+  {
+    "id": 109,
+    "author": "Enric Baltasar",
+    "date": "2017-07-15 19:29:03",
+    "content": "Hola, Grudo. He añadido limeDo y frambo, mientras que la mandarina y la fruta de la pasión no me queda claro que sean tan básicas e internacionales, luego el pimiento no es una fruta, y he añadido la L de mirtelo. Gracias por tus propuestas :)",
+    "parent": 108
+  }
+]

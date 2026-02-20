@@ -1,0 +1,58 @@
+[
+  {
+    "id": 242,
+    "author": "sergio",
+    "date": "2015-12-11 07:55:55",
+    "content": "muy buena explicación, sólo me queda la duda ¿es valido decir?: li parolas angle ó li parolas en angla.\n¿las dos maneras son correctas para decir que alguien habla en alguna lengua?",
+    "parent": 0
+  },
+  {
+    "id": 243,
+    "author": "Enric Baltasar",
+    "date": "2015-12-11 13:17:41",
+    "content": "Así es, Sergio: <em>Li parolas la anglan</em> y <em>Li parolas angle</em> son sinónimos. Pero a <em>en angla</em> le falta el artículo: <em>en la angla</em>.",
+    "parent": 242
+  },
+  {
+    "id": 244,
+    "author": "sergio",
+    "date": "2015-12-16 06:45:13",
+    "content": "¡oh! muy bien entonces me queda más claro. Gracias.",
+    "parent": 0
+  },
+  {
+    "id": 245,
+    "author": "Pitufina",
+    "date": "2017-03-30 23:58:06",
+    "content": "Mi parolas la kataluna​, la hispana, la angla, la itala, la franca kaj mi lernas la esperanto.",
+    "parent": 0
+  },
+  {
+    "id": 246,
+    "author": "Enric Baltasar",
+    "date": "2017-03-31 08:40:20",
+    "content": "Tre bone. Du komentojn, Pitufina:\n- Aldonu akuzativon: la katalunaN\n- \"el esperanto\" = Esperanton",
+    "parent": 245
+  },
+  {
+    "id": 247,
+    "author": "Pitufina",
+    "date": "2017-03-31 10:54:01",
+    "content": "Dankon!",
+    "parent": 246
+  },
+  {
+    "id": 248,
+    "author": "Àlex Ros",
+    "date": "2017-12-23 12:23:31",
+    "content": "Ĉu oni diras \"el mexicano\" aŭ \"el brasileño\" en Esperanto?",
+    "parent": 0
+  },
+  {
+    "id": 249,
+    "author": "Enric Baltasar",
+    "date": "2017-12-23 14:19:01",
+    "content": "Saluton, Àlex,\n\nEblus diri tion en iu momento por substreki ke vi parolas pri iu dialekto (la brazila = la portugala en Brazilo), kvankam povus soni strange, same kiel se aŭdi \"la usona\".",
+    "parent": 248
+  }
+]

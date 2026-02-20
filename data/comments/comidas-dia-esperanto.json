@@ -1,0 +1,30 @@
+[
+  {
+    "id": 191,
+    "author": "sergio",
+    "date": "2015-12-11 23:47:40",
+    "content": "wow! yo no sabía que había más manĝoj de las 3 tradicionales que uno aprende en cualquier idioma.\nMe parece muy completo el artículo.",
+    "parent": 0
+  },
+  {
+    "id": 192,
+    "author": "Radioboy",
+    "date": "2017-02-20 01:16:28",
+    "content": "Me da un poco de rabia que se llame tagmanĝo al almuerzo.",
+    "parent": 0
+  },
+  {
+    "id": 629,
+    "author": "Pablo Pozo",
+    "date": "2019-07-17 03:13:09",
+    "content": "Como se dirá La once/ La hora del té en esperanto? Yo me imagino que es Temangxo, pero no estoy seguro",
+    "parent": 0
+  },
+  {
+    "id": 630,
+    "author": "EnricBaltasar",
+    "date": "2019-07-17 05:42:21",
+    "content": "Hora de comer se dice mangxotempo, así que hora del té será te-tempo (o también \"tempo teumi\" u otra manera de decirlo)",
+    "parent": 629
+  }
+]

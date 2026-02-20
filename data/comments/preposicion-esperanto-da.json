@@ -1,0 +1,30 @@
+[
+  {
+    "id": 290,
+    "author": "Sebastian Aldave",
+    "date": "2016-11-09 03:49:57",
+    "content": "Saluton!\nPodrías decirme cómo se pregunta la edad.\n-Kiom vi aĝas?\n-Kiom da vi aĝas?\n-kia estas via aĝo?\n¿Cuál es la forma correcta o las formas correctas de preguntarlo?",
+    "parent": 0
+  },
+  {
+    "id": 291,
+    "author": "Enric Baltasar",
+    "date": "2016-11-09 10:01:50",
+    "content": "Saluton, Sebastian!\nLa primera opción es correcta, las otras dos no. Mira esta página, que acabo de actualizar para responder de una manera más completa a tu pregunta: http://enricbaltasar.com/errores-habituales-esperanto/#edad",
+    "parent": 290
+  },
+  {
+    "id": 292,
+    "author": "sergio",
+    "date": "2016-12-23 10:43:32",
+    "content": "Hola Enric\ncuando se usa TIOM con MULTE, entonces ¿se debe poner DA?  por ejemplo: Neniam mi estis kun tiom multe da usonanoj.",
+    "parent": 0
+  },
+  {
+    "id": 293,
+    "author": "Enric Baltasar",
+    "date": "2016-12-24 01:09:24",
+    "content": "Hola, Sergio. En ambos casos se usa \"da\": tiom da usonanoj, multe da usonanoj, tiom multe da usonanoj",
+    "parent": 292
+  }
+]

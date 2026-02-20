@@ -1,0 +1,51 @@
+[
+  {
+    "id": 589,
+    "author": "Maurico Murillo",
+    "date": "2019-01-01 00:17:32",
+    "content": "Saluton Baltazar. Mi estas komencanto!\nOk. Ahora que agoté mi esperanto (jeje) te hago un pequeño alcance, o mas bien una opinión. La regla de la vocal la recuerdo como \"Cada sílaba tiene 'una sola' vocal\". Cómo yo lo entiendo es más bien una regla que ayuda a descomponer una palabra correctamente tanto para encontrar el acento (en español la palabra restoracio podría leerse erróneamente con el acento en la a) como para no tomar en cuenta las semivocales al hacer esto mismo (como la palabra ankaŭ que es bisílaba y no trisílaba). \n\nUn abrazo y espero que sigas publicando, como dije al principio soy principiante y todo esto ayuda.\n\nFeliĉa jaro!",
+    "parent": 0
+  },
+  {
+    "id": 590,
+    "author": "Rafa",
+    "date": "2019-01-03 18:44:31",
+    "content": "Muy interesante el tema: no hay mucho escrito sobre la división en sílabas en esperanto. Dicho sea de paso, ¿de dónde sacaste esta información (por ejemplo, eso de que \"stelo\" ha de dividirse \"s-te-lo\")? Mi fuente principal de gramática en esperanto es PMEG, y sobre este tema, no dice prácticamente nada: https://bertilow.com/pmeg/skribo_elparolo/elparolo/specialaj_reguloj.html#j-fs1\n\nUna nota: una mejor manera de pensar en dónde llevan la fuerza tónica las palabras en esperanto es no pensando en sílabas, sino en vocales: la fuerza tónica está en la penúltima vocal (tomando en cuenta que ni \"ŭ\" ni \"j\" son vocales, y que una \"o\" elidida cuenta en este cálculo).",
+    "parent": 0
+  },
+  {
+    "id": 591,
+    "author": "Enric Baltasar",
+    "date": "2019-01-04 15:11:18",
+    "content": "He de reconocer que como argumento tiene lógica, Mauricio. Es similar a cuando en el colegio nos hacen sobresimplificaciones y más adelante nos creamos una imagen más compleja de los hechos",
+    "parent": 589
+  },
+  {
+    "id": 592,
+    "author": "Enric Baltasar",
+    "date": "2019-01-04 15:24:41",
+    "content": "Tenía las notas de este artículo escritas hace tiempo, con lo que tengo menos frescas las fuentes. Sin embargo, recuerdo haber leído indicaciones incorrectas en varios foros y algún curso",
+    "parent": 590
+  },
+  {
+    "id": 599,
+    "author": "Elián",
+    "date": "2019-04-05 00:44:27",
+    "content": "En realidad la co puede no corresponder exactamente a t + s, sino a una africada dental/alveolar sorda (t͡s); es decir, sí se trata dos fonemas, pero que se pronuncian juntos.\nLo mismo ocurre con la che española, que es una africada palatal alveolar sorda (t͡ʃ); son dos fonemas (t + sh) y no se pronuncian nunca separados. Puedes comprobarlo al separar en sílabas «agachar» (o cualquier otra palabra con che intermedia), que pronuncia a - ga - char, y no *a - gat - shar.",
+    "parent": 0
+  },
+  {
+    "id": 602,
+    "author": "EnricBaltasar",
+    "date": "2019-04-05 15:15:42",
+    "content": "Hola, Elián,\n\nLlevas razón. Gracias por tu aportación ;)",
+    "parent": 599
+  },
+  {
+    "id": 735,
+    "author": "femmesuigeneris",
+    "date": "2021-11-25 23:40:34",
+    "content": "yo tengo una duda: ¿cuál es la diferencia fonética entre u y ŭ ? A mí me suenan idénticas, igual que i e j , aunque en ellas veo que la diferencia es en la separación del diptongo, cuando lo hay: si el diptongo tiene \"j\", no se rompe ( domoj suena do-moi), y cuando tiene \"i\" el diptongo se rompe, como si hubiera acento (Francio suena fran-cí-o) ... aunque en realidad no sé si es una regla porque voy empezando. ¿La ŭ también se usa para los diptongos, o qué pasa con ella? \n\nUn saludo y muchas gracias, tu blog es muy útil.",
+    "parent": 0
+  }
+]

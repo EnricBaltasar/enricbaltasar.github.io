@@ -1,0 +1,14 @@
+.nav {
+  position: relative;
+}
+
+.logo .logo-switches {
+  position: absolute;
+  right: var(--gap);
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#menu {
+  margin-inline-end: calc(var(--gap) * 2 + 30px);
+}

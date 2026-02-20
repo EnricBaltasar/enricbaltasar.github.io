@@ -1,0 +1,37 @@
+[
+  {
+    "id": 345,
+    "author": "Drikus Roor",
+    "date": "2015-06-11 16:04:11",
+    "content": "Ne manĝu infanojn :-(",
+    "parent": 0
+  },
+  {
+    "id": 346,
+    "author": "Enric Baltasar",
+    "date": "2015-06-11 16:09:36",
+    "content": "Verŝajne mi forgesis anstataŭigi la vortojn ĉar mi ne trovis en tiu momento aliajn. Nun ŝanĝite!",
+    "parent": 345
+  },
+  {
+    "id": 347,
+    "author": "Edgar Fp",
+    "date": "2016-10-21 20:49:22",
+    "content": "Hola, estoy aprendiendo esperanto, veo que en las tablas \"Yo\" en español lo traduces al esperanto por \"ni\" en lugar de \"mi\" ¿Es por error? Gracias por la ayuda :)",
+    "parent": 0
+  },
+  {
+    "id": 348,
+    "author": "Enric Baltasar",
+    "date": "2016-10-21 22:16:00",
+    "content": "Hola, Edgar. Era un error mío, ya está corregido. ¡Gracias por avisar!",
+    "parent": 347
+  },
+  {
+    "id": 647,
+    "author": "Nicasio Benlloch",
+    "date": "2019-09-11 12:26:51",
+    "content": "Si no me equivoco, la forma de indicar los objetivos/complementos, es en resumen:\n- Objetivo directo, con la marca -n del acusativo.\n- Objetivo indirecto, con la preposición Al.\n- Complementos circunstanciales, con las preposiciones.",
+    "parent": 0
+  }
+]

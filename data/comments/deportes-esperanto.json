@@ -1,0 +1,44 @@
+[
+  {
+    "id": 253,
+    "author": "sergio",
+    "date": "2017-03-04 07:00:27",
+    "content": "patinaje\nhokey\nlucha\ncarrera\nskateboarding\nlevantamiento de pesas (altero filia)\nfisicoculturismo\nremo\ngimnasia\ntiro con arco\nboliche\najedrez",
+    "parent": 0
+  },
+  {
+    "id": 254,
+    "author": "Enric Baltasar",
+    "date": "2017-03-16 09:18:01",
+    "content": "Gracias por el aporte, Sergio. ¿Te animas a traducirlas tú?",
+    "parent": 253
+  },
+  {
+    "id": 255,
+    "author": "Vicente",
+    "date": "2017-05-23 13:41:51",
+    "content": "Buenas, como se diría el fútbol americano? Hay alguna manera para diferenciarlo del fútbol europeo? O una palabra para cada uno?",
+    "parent": 0
+  },
+  {
+    "id": 256,
+    "author": "Enric Baltasar",
+    "date": "2017-05-24 23:35:04",
+    "content": "Buenas, Vicente. El americano se dice usona futbalo, y el europeo solamente futbalo.",
+    "parent": 255
+  },
+  {
+    "id": 257,
+    "author": "Johano",
+    "date": "2017-08-12 16:34:39",
+    "content": "Rugby: rugbeo",
+    "parent": 0
+  },
+  {
+    "id": 258,
+    "author": "Enric Baltasar",
+    "date": "2017-08-17 01:21:33",
+    "content": "Añadida, Johano. Gracias ;)",
+    "parent": 257
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "id": 195,
+    "author": "Fran",
+    "date": "2015-08-26 20:52:33",
+    "content": "Mi aldonus \"meti\" , kiu similas al \"meter\" sed vere signifas \"poner\"",
+    "parent": 0
+  },
+  {
+    "id": 196,
+    "author": "Enric Baltasar",
+    "date": "2015-08-27 10:34:45",
+    "content": "Depende, Fran. Se ni konsideras ke \"meti\" nur signifas \"poner\", jes, vi pravas. Se ni konsideras plursignifecon, la ebloj pli vastas:\n\nMeti = poner, meter\nEnmeti = meter (\"poner dentro\")\n\nTio estas kiel ka kazo \"porti\" (llevar, traer), pliprecizigebla per prepozicioj: alporti, kunporti...",
+    "parent": 195
+  },
+  {
+    "id": 197,
+    "author": "sergio",
+    "date": "2015-12-16 09:16:58",
+    "content": "yo agregaría pato que realmente significa sartén  y creo que postuli significa pedir algo de manera severa",
+    "parent": 0
+  },
+  {
+    "id": 198,
+    "author": "Enric Baltasar",
+    "date": "2015-12-16 12:46:17",
+    "content": "¡Es verdad! Ahora la añado, Sergio, gracias :)\n\nEn cuanto a <em>postuli</em>, no tiene por qué. Por ejemplo, una máquina te puede PEDIR que pagues con tarjeta, un trámite burocrático te puede PEDIR que fotocopies tu DNI, o un cargo que hayas aceptado te EXIGE que lleves a cabo unas funciones. (<em>Postuli</em> significa <em>exigir</em>, pero a veces también <em>pedir</em>).",
+    "parent": 197
+  },
+  {
+    "id": 201,
+    "author": "sergio bernal",
+    "date": "2015-12-16 23:16:14",
+    "content": "gracias Enric",
+    "parent": 198
+  },
+  {
+    "id": 202,
+    "author": "sergio bernal",
+    "date": "2016-02-15 20:50:56",
+    "content": "cierto, no lo había pensado de esa manera. Procuraré tener más cuidado con el uso de la palabra viro para masculinizar, y en su lugar preferiré usar el afijo icx.",
+    "parent": 200
+  },
+  {
+    "id": 199,
+    "author": "sergio",
+    "date": "2016-02-24 08:10:45",
+    "content": "hace poco me di cuenta que para decir rey (regxo) en un sentido estrictamente masculino se podía decir regxicxo o bien virregxo (vir-regxo). La segunda palabra creo que es un falso amigo, pues se parece la palabra virrey del castellano, pero ciertamente no significaría lo mismo.",
+    "parent": 0
+  },
+  {
+    "id": 200,
+    "author": "Enric Baltasar",
+    "date": "2016-02-24 22:36:56",
+    "content": "Hola, Sergio,\n\nLas composiciones con \"vir\" son un parche que no tienen sentido, por ejemplo virbovo, que parece que sea más un minotauro que otra cosa. La opción con -iĉ- es mucho mejor.",
+    "parent": 199
+  },
+  {
+    "id": 203,
+    "author": "sergio bernal",
+    "date": "2016-11-18 20:52:49",
+    "content": "hola Enric\nMe parece que encontré un falso amigo más: MANIKO que se parece a MANIQUÍ",
+    "parent": 0
+  },
+  {
+    "id": 204,
+    "author": "Enric Baltasar",
+    "date": "2016-11-18 21:03:52",
+    "content": "Bien visto, Sergio! Podría tratarse de otro falso amigo:\n- Palabra: maniko\n- Parece significar: manquín\n- Pero significa: manga\n- Compara con: manekeno",
+    "parent": 203
+  },
+  {
+    "id": 205,
+    "author": "sergio",
+    "date": "2016-11-19 21:58:29",
+    "content": "Hola Enric\nGracias. Creo haber hallado otro: BUDO y BUDHO/BUDAO",
+    "parent": 204
+  },
+  {
+    "id": 206,
+    "author": "sergio",
+    "date": "2016-11-21 06:15:30",
+    "content": "PINTI contra pintar (pentri/farbi)",
+    "parent": 205
+  },
+  {
+    "id": 704,
+    "author": "Jonathan Castro",
+    "date": "2021-01-21 03:35:24",
+    "content": "Entonces como se dice puto en esperanto?",
+    "parent": 0
+  },
+  {
+    "id": 1118,
+    "author": "Pablo",
+    "date": "2023-12-20 04:59:27",
+    "content": "¿Añadirías alguna palabra a la lista?\nPues unas cuantas  ;-)\n\nComparto una hoja de cálculo de Google Docs en el que voy añadiendo los «amigos» a la lista de vez en cuando.\n\nURL al documento: \nhttps://docs.google.com/spreadsheets/d/14wAYejd7Wb3zInrj5SiZCAJgP4FARnqI8c4h07ZGGXk/edit?usp=sharing",
+    "parent": 0
+  }
+]

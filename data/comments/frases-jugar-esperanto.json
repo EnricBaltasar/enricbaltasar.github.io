@@ -1,0 +1,16 @@
+[
+  {
+    "id": 135,
+    "author": "Gilian",
+    "date": "2017-08-26 05:54:49",
+    "content": "La frase \"Preparados, listos, ¡ya!\" puede traducirse \"Atentu, pretu, ek!\"\n¿Qué dices?",
+    "parent": 0
+  },
+  {
+    "id": 136,
+    "author": "Enric Baltasar",
+    "date": "2017-08-26 09:49:10",
+    "content": "Me gusta, Gilian. Ahora la añado, gracias :)",
+    "parent": 135
+  }
+]

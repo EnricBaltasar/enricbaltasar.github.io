@@ -1,6 +1,9 @@
 # WordPress backup files - DO NOT COMMIT (1.6GB, contains credentials)
 wordpress-backups/
 
+# Draft content (local only)
+_drafts/
+
 # Hugo build output
 public/
 resources/_gen/
@@ -15,6 +18,7 @@ Thumbs.db
 
 # Conversion scripts and temp files
 convert_wp.py
+cleanup_content.py
 __pycache__/
 *.pyc
 

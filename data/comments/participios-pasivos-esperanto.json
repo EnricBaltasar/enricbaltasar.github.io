@@ -1,0 +1,44 @@
+[
+  {
+    "id": 644,
+    "author": "Nicasio Benlloch",
+    "date": "2019-09-09 17:40:56",
+    "content": "He buscado información sobre la voz pasiva y en todas las gramáticas y cursos que he consultado explican cómo se forma, pero no realmente cuando se debe usar la voz pasiva en vez de la activa. Si encima dices que la pasiva se usa en esperanto más que en español, pero menos que en inglés ( en el que se usa muchísimo más que en español ), aún me interesa más saber cuándo se debe usar y cuando no...¿algunas reglas de uso ?",
+    "parent": 0
+  },
+  {
+    "id": 645,
+    "author": "Enric Baltasar",
+    "date": "2019-09-10 08:58:20",
+    "content": "Hola, Nicasio,\n\nCreo que nunca he pensado en ello, pero se me ocurren estas 2 ideas:\n\n- Yo recomendaría empezar haciendo uso de cómo se hace en castellano pero mostrarse flexible a otras posibilidades.\n- La forma pasiva se puede utilizar para enfatizar la acción o el hecho por encima de quién realiza la acción.\n\nSi a lo largo de tu aprendizaje encuentras algún patrón o te das cuenta de recomendaciones generales, sería muy útil si pudieras compartirlas por aquí.",
+    "parent": 644
+  },
+  {
+    "id": 646,
+    "author": "Nicasio Benlloch",
+    "date": "2019-09-10 16:38:41",
+    "content": "Basándome en el uso que se hace de la voz en pasiva en inglés, he supuesto que de forma similar en esperanto la voz pasiva se usa: \n1- Para dar más importancia al objeto directo que al sujeto.\nHamlet estis skribita de W. Shakespeare\nSe escribe en pasiva si hablamos de la obra, Hamlet. Si hablamos de Shakespeare ponemos la frase en activa: Shakespeare skribis Hamlet\n\n2- Cuando el sujeto no se conoce o no se quiere mencionar.\nMia biciklo estis ŝtelita ĉi-vespere\nNo sabemos quién robo la bicicleta.\n\n3- Afirmaciones generales que tienen un sujeto indefinido, del tipo: se dice que...  se supone que...\nOni kredas ke... Oni supozas ke...\n\n4- Cuando el sujeto está claro, se sobreentiende o no tiene importancia.\nMulte da vino estas farita en Hispanujo.\nSe sobreentiende que el vino lo hacen los vinicultores, no hace falta decirlo.\n\n5- Cuando describimos procesos, cómo se hace algo, y queremos mantener el carácter impersonal de la descripción.\nĈokolaj ovoj estas faritaj kun lakto kaj kokoso\n\n6- Para evitar responsabilidades, no se menciona el sujeto de la acción.\nVia flugo estis nuligita\nAsi la aerolínea evita decir que ella es la responsable dela cancelación.",
+    "parent": 0
+  },
+  {
+    "id": 697,
+    "author": "Daĉjo",
+    "date": "2020-12-26 17:14:56",
+    "content": "Gracias por el artículo, me ayudó a entender mejor a los participios. Escuchando algo de música en YouTube me encontré con este título: \"La haven' de l' ekmortontaj revoj\" y aún no lo entiendo bien porque no lleva el verbo \"esti\" como en los ejemplos de este artículo. ¿Podría decirse \"ekmortotaj revoj\" o por qué no? Gracias de antemano",
+    "parent": 0
+  },
+  {
+    "id": 699,
+    "author": "Enric Baltasar",
+    "date": "2020-12-27 11:34:19",
+    "content": "Hola, Dacxjo,\n\nSignifica: el puerto de los sueños que van a ponerse a morir.\n\nEl verbo \"esti\" no está presente, con lo que el peso temporal recae en en el propio -ont- exclusivamente. Así que hablamos de futuro.\n\nPor lo demás, el apóstrofo (') se usa como recurso estilístico para quitar la terminación sustantiva en nominativo (ej. sí mangxo->mangx' pero no mangxon->mangx'n) y la vocal del artículo determinado (la->l')\n\nQueda más claro ahora?",
+    "parent": 697
+  },
+  {
+    "id": 701,
+    "author": "Daĉjo",
+    "date": "2021-01-09 21:20:37",
+    "content": "Hola, Enric,\n\nSí, me queda más claro ahora. Gracias",
+    "parent": 699
+  }
+]

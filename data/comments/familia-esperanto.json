@@ -1,0 +1,51 @@
+[
+  {
+    "id": 231,
+    "author": "sergio",
+    "date": "2015-12-07 05:33:19",
+    "content": "Yo tengo ciertas dudas sobre la partícula iĉ, ¿qué hacer con las palabras que surgieron como masculino o femenino desde el principio? por ejemplo la palabra gejsxo es siempre femenino, no neutro, al menos eso creo. Otro ejemplo serían las palabras samurajo o gentlemano, las cuales son masculinas. \nOtra duda que tengo es ¿cuál sería la diferencia entre patroj (padre y madre) con gepatroj (padre y madre)? El diccionario REVO dice al respecto que todas las palabras que terminan en ul, ist, an, estr e id, junto con palabras que terminan en anto, into, onto, ato, ito, oto y radicales que hacen referencia a animales o bien personas no relacionadas a miembros de la familia, como amiko, gasto o infano, son sujetas de usar la partícula iĉ o bien la palabra vir- al inicio para masculinizarlas.\nEstoy completamente de acuerdo con Enric cuando dice que una lengua que pretende ser internacional debe tener palabras en su mayoría de ser posible, sin género. \nPor lo que creo que poco a poco tendremos que integrar esta partícula con sus debidas reflexiones.",
+    "parent": 0
+  },
+  {
+    "id": 232,
+    "author": "Enric Baltasar",
+    "date": "2015-12-07 18:34:14",
+    "content": "Las lenguas tienen una historia, y hay palabras cuyo significado es difícil de cambiar incluso con la evolución, por ejemplo \"patro\" (padre). Pero hay otras palabras que, incluso históricamente referidas a un único sexo, se pueden llegar a neutralizar o a entender como tales, por ejemplo \"papo\" (papa). Otro caso son algunas, por ejemplo científicas, que se refieren a un solo sexo a propósito. No es un asunto de blanco o negro, por razones históricas e influencias de otros idiomas. Por ejemplo, \"amiko\" puede ser neutral para la mayoría, pero no para algunos. \"Hundo\" puede ser neutral para la mayoría, pero para la mayoría \"bovo\" no lo es. Y los afijos, como -ist-, no solucionan ese problema. Lo que sí puedo asegurar y sin lugar a dudas es que el esperanto sigue la evolución que se sigue en todo el mundo con otros idiomas de que el género sea cada vez menos relevante. Y en esta evolución (que no reforma) el afijo -iĉ- se vuelve completamente necesario. Para acabar, me gustaría transmitirte una sensación de tranquilidad con el género: no hay caos en esperanto con este asunto; se entiende.",
+    "parent": 231
+  },
+  {
+    "id": 233,
+    "author": "sergio",
+    "date": "2016-02-25 20:43:34",
+    "content": "Me surgen otras dudas. ¿En ciertos casos entonces patroj y gepatroj significarían lo mismo? ¿cuál sería la diferencia entre patro, gepatro y gepatrano?",
+    "parent": 0
+  },
+  {
+    "id": 234,
+    "author": "Enric Baltasar",
+    "date": "2016-02-27 03:00:12",
+    "content": "Hola,\n\nSolo mencionar que el prefijo ge- teóricamente no se puede usar en singular, así que gepatro y gepatrano (¿Te referías a \"parenco\"?) son incorrectas.",
+    "parent": 233
+  },
+  {
+    "id": 235,
+    "author": "sergio",
+    "date": "2016-02-27 10:23:55",
+    "content": "Gracias",
+    "parent": 0
+  },
+  {
+    "id": 236,
+    "author": "Ivan",
+    "date": "2018-11-12 21:06:43",
+    "content": "Entonces, si se usa el sufijo -icx-, ¿cómo debería usarse el prefijo ge-? Creo que la opción más lógica seria asumir que en caso de usar un plural como \"patroj\", se indica que son padres o madres, pero solo de un género, mientras que \"patrichoj\" serían padres, \"patrinoj\" serían madres y \"gepatroj\" serían progenitores de diversos géneros.",
+    "parent": 0
+  },
+  {
+    "id": 237,
+    "author": "Enric Baltasar",
+    "date": "2018-11-25 22:02:53",
+    "content": "El sufijo -iĉ- convierte a ge- en irrelevante, con lo que patroj y gepatroj sería lo mismo.\nAl final es una cuestión de foco; si digo \"mis amigos\" o \"mis padres\", ¿es realmente tan importante el sexo? No lo creo. Y si uno quiere especificar, siempre tiene los sufijos :)",
+    "parent": 236
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 87,
+    "author": "sergio",
+    "date": "2015-12-04 10:14:47",
+    "content": "kara Enric, vi maltrafis en la 3a ekzemplo. 60 ne estas sama ol 16.",
+    "parent": 0
+  },
+  {
+    "id": 88,
+    "author": "Enric Baltasar",
+    "date": "2015-12-04 13:59:29",
+    "content": "Dankon pro la sciigo, Sergio. Mi ĵus ŝanĝis la frazon :-)",
+    "parent": 87
+  },
+  {
+    "id": 761,
+    "author": "Guille",
+    "date": "2023-05-21 22:56:58",
+    "content": "Algunas veces si no está el complemento directo, le ponen -n al indirecto: Mi skribas ŝin (en vez de al ŝi), ¿cómo se llama este tipo de acusativo? ¿está mal?",
+    "parent": 0
+  },
+  {
+    "id": 762,
+    "author": "Enric Baltasar",
+    "date": "2023-05-25 16:12:11",
+    "content": "Esa oración está mal.\n\nMás allá de eso, para la teoría de lo que comentas ahora mismo no se me ocurre un ejemplo.",
+    "parent": 761
+  }
+]

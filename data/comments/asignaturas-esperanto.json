@@ -1,0 +1,65 @@
+[
+  {
+    "id": 110,
+    "author": "jplaral",
+    "date": "2015-03-17 06:59:47",
+    "content": "Matematiko\nLingvo Hispana?\n(RECESO)\nLingvo (FRANCES)\nHistorio\nLingvo (JAPONES)\n\nBiologio\nMentora tempo\nKomputiko\n(HABILIDADES DEL PENSAMIENTO)\n(Voleibol)",
+    "parent": 0
+  },
+  {
+    "id": 111,
+    "author": "Enric Baltasar",
+    "date": "2015-03-17 09:33:07",
+    "content": "¡Muy bien por la iniciativa, jplaral!\n\nTe comento:\n- Las lenguas se dicen \"la hispana\", \"la franca\", \"la japana\". Si tienes varias lenguas, yo haría una de estas dos cosas: A) poner el nombre de todas o B) poner \"lingvo\" a la propia, y el resto por su nombre.\n- El recreo/descanso/patio (esta última, no referida al lugar; si no, sería \"lerneja korto\") se dice de una manera obvia y totalmente inesperada: \"(lern)paŭzo\". Es decir, receso = paŭzo.\n- ¡La de habilidades del pensamiento no la había oído nunca! ¿Puedo preguntar en qué consiste y en qué curso se da?\n- Voleibol, o balonvolea, se dice \"flug-pilkado\".",
+    "parent": 0
+  },
+  {
+    "id": 112,
+    "author": "sergio",
+    "date": "2015-12-11 09:27:43",
+    "content": "la asignatura de letras, sería creo, beletro",
+    "parent": 0
+  },
+  {
+    "id": 113,
+    "author": "Enric Baltasar",
+    "date": "2015-12-11 13:48:47",
+    "content": "Beletro se refiere, por así decirlo, a un nivel más elevado. Te remito a ReVo y FD:\nhttp://www.reta-vortaro.de/revo/art/beletr.html#beletr.0o\nhttp://www.esperanto.es:8080/diccionario/inicio.jsp?que=letra\n\nSobre la traducción de la dicotomía <em>ciencias</em> y <em>letras</em>, te doy una pista: traduce literalmente en esta ocasión.",
+    "parent": 112
+  },
+  {
+    "id": 114,
+    "author": "Otaku",
+    "date": "2017-03-14 14:36:16",
+    "content": "Lundo: Matematiko, pauxzo kaj lingvo.\nMardo: Historio kaj geografio, pauxzo, fiziko kaj kemio, lingvo (CATALANA) kaj mentora tempo.\nMerkredo: Lingvo (CATALANA), pauxzo, historio kaj geografio kaj lingvo la angla.\nJXauxdo: Lingvo la angla, pauxzo, matematiko kaj fiziko kaj kemio.",
+    "parent": 0
+  },
+  {
+    "id": 115,
+    "author": "Enric Baltasar",
+    "date": "2017-03-15 10:24:46",
+    "content": "Hola, Maria. Muy bien ;) Solo una nota: \"lingvo la angla/catalana\" --> angla/kataluna lingvo",
+    "parent": 114
+  },
+  {
+    "id": 116,
+    "author": "Otaku",
+    "date": "2017-03-31 01:50:24",
+    "content": "Gracias, por la corrección. He colgado el horario de clase en el tablón del aula y ha habido bastante gente que me ha preguntado acerca del esperanto. 😊",
+    "parent": 115
+  },
+  {
+    "id": 117,
+    "author": "Jonathan Velásquez",
+    "date": "2017-08-03 20:16:40",
+    "content": "Orientación para la vida, sociales, modulo. Sería: Viva orientiĝo,sociaj studoj, módulo;  respectivamente ¿No?",
+    "parent": 0
+  },
+  {
+    "id": 118,
+    "author": "Enric Baltasar",
+    "date": "2017-08-26 09:45:31",
+    "content": "Me pica la curiosidad por la asignatura \"orientación para la vida\", Jonathan. ¿Me podrías contar qué tipo de cosas os enseñan y de qué país eres? Y sí, las traducciones son correctas; para \"módulo\" quizá podría ser \"temo\" ;)",
+    "parent": 117
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 89,
+    "author": "Victoria MB",
+    "date": "2019-01-13 20:34:00",
+    "content": "Saluton!, tengo una duda, me da curiosidad saber porque se llama acusativo elíptico, ya que no encuentro más información en internet con ese nombre, ¿se lo creaste tú?",
+    "parent": 0
+  },
+  {
+    "id": 90,
+    "author": "Enric Baltasar",
+    "date": "2019-01-14 15:12:49",
+    "content": "Saluton, Victoria!\n\nEste término lo aprendí probablemente de Fernando de Diego en su libro \"Nuevo método de Esperanto: para clases y autodidactas\". En Internet he encontrado algunas menciones, principalmente relacionadas con el latín.",
+    "parent": 89
+  }
+]

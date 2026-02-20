@@ -1,0 +1,30 @@
+[
+  {
+    "id": 502,
+    "author": "Rafa",
+    "date": "2017-04-26 16:48:48",
+    "content": "Mi ŝatus ke vi donu ekzemplofrazojn, kiuj uzas tiujn kompasdirektojn. Ekzemple, kiel oni diras la jenajn frazojn?\n\n- Vivo al norte de la ciudad.\n- La ventana da hacia el sur.\n- El edificio 1 está al oeste del edificio 2.\n- El este de la ciudad es bello.\n- La parte oeste del país es todo costa.",
+    "parent": 0
+  },
+  {
+    "id": 503,
+    "author": "Enric Baltasar",
+    "date": "2017-04-30 14:17:26",
+    "content": "Saluton, Rafa. Mi aldonis viajn petitajn tradukojn.\nPri la lasta frazo, ĉu vi celis \"La tuta okcidenta parto de la lando havas marbordon\"?",
+    "parent": 502
+  },
+  {
+    "id": 504,
+    "author": "sergio",
+    "date": "2017-05-23 20:29:27",
+    "content": "¿también se vale decir uesto y eosto\nsaludos",
+    "parent": 0
+  },
+  {
+    "id": 505,
+    "author": "Enric Baltasar",
+    "date": "2017-05-24 16:43:37",
+    "content": "Aunque menos frecuentes, también se las puedes uno encontrar, sí",
+    "parent": 504
+  }
+]

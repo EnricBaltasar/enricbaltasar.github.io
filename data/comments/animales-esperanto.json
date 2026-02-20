@@ -1,0 +1,58 @@
+[
+  {
+    "id": 119,
+    "author": "Miguelángel",
+    "date": "2015-06-03 19:59:16",
+    "content": "Se la virseksa nomo de bovo devu esti bov-iĉo, tiam ĉiuj la ceteraj ankaŭ: leoniĉo, leporiĉo...  ĉu ne?.",
+    "parent": 0
+  },
+  {
+    "id": 120,
+    "author": "Enric Baltasar",
+    "date": "2015-06-03 23:14:37",
+    "content": "Kompreneble, sed en praktiko oni kutime nur indikas sekson por kelkaj malmultegaj bestoj, kaj do simple diras -o anstataŭ ekzemple -ino. Fakte, ĉi tio ankaŭ okazas pri homoj ĉe la vortoj \"bebo\" kaj \"infano\".",
+    "parent": 119
+  },
+  {
+    "id": 121,
+    "author": "sergio",
+    "date": "2015-12-11 08:44:21",
+    "content": "¿cuál es la diferencia entre krabo y kankro, así como, serpento y serpo?",
+    "parent": 0
+  },
+  {
+    "id": 122,
+    "author": "Enric Baltasar",
+    "date": "2015-12-11 13:37:37",
+    "content": "<strong>SERPENTO / SERPO</strong>\n\n<strong>Serpento</strong> es un animal (serpiente), y <strong>serpo</strong> es un instrumento del campo (hoz).\n\nCuando no sepas cómo traducir una palabra, puedes probar con lo siguiente:\n\n1) Wikipedia en esperanto\nhttps://eo.wikipedia.org/wiki/Serpento\nhttps://eo.wikipedia.org/wiki/Serpo\n2) ReVo, para consultar definiciones, y en muchas ocasiones hay traducción a otros idiomas. Si sale por ejemplo en inglés, puedes buscarlo en un diccionario inglés-castellano.\nhttp://www.reta-vortaro.de/revo/art/serpen.html#serpen.0o\nhttp://www.reta-vortaro.de/revo/art/serp.html#serp.0o\n3) Gran Diccionario de Fernando de Diego, búsqueda en las definiciones\nhttp://www.esperanto.es:8080/diccionario/iniciob.jsp?que=serpento\nhttp://www.esperanto.es:8080/diccionario/iniciob.jsp?que=serpo\n\n\n<strong>KANKRO / KRABO</strong>\n\nEsta es menos sencilla: son dos especies diferentes, que se traducen por <em>cangrejo</em>. La primera es la más común, e incluso se usa para la constelación o el signo del zodiaco (con inicial mayúscula en estos casos).\n\nhttps://eo.wikipedia.org/wiki/Kankro_(besto)\nhttps://eo.wikipedia.org/wiki/Krabo\n\nPuedes buscar la traducción cambiando de idioma en el artículo.",
+    "parent": 121
+  },
+  {
+    "id": 123,
+    "author": "sergio",
+    "date": "2015-12-11 23:38:43",
+    "content": "Gracias, los links estan bastante útiles. Me surge una duda más. ¿Qué ocurre con los nombres de animales endémicos? por ejemplo en mi país existe una variante de perro llamada xoloitzcuintle , incluso especies poco conocidas de anfibios como el axolotl o tlacuache(tipo zarigüeya). Incluso bestias míticas como el ahuizotl. ¿Sería mejor usar sus nombres científicos en latín? o ¿usar el nombre original? o ¿darle una ligera adaptación para que los demás sepan como se pronuncian? por ejemplo tlakuacxe",
+    "parent": 0
+  },
+  {
+    "id": 124,
+    "author": "Enric Baltasar",
+    "date": "2015-12-11 23:44:08",
+    "content": "En este grupo encontrarás esperantistas con experiencia en ese campo:\nhttps://www.facebook.com/groups/konsultejo/",
+    "parent": 123
+  },
+  {
+    "id": 652,
+    "author": "LeoH",
+    "date": "2019-09-25 23:09:07",
+    "content": "¿Porqué que si el femenino se forma con -in vaca es bovino en lugar de boviĉino? Gracias por el blog &lt;3",
+    "parent": 0
+  },
+  {
+    "id": 653,
+    "author": "Enric Baltasar",
+    "date": "2019-09-27 14:26:11",
+    "content": "Hola, Leoh,\n\nPorque la raíz es la que aporta el elemento (qué es), e IN o ICX agregan el significado sexual.",
+    "parent": 652
+  }
+]

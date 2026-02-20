@@ -1,0 +1,25 @@
+<script>
+(function() {
+  // Friendly domains: target="_blank" WITHOUT noopener noreferrer
+  var friendly = ['nakora.ai'];
+
+  document.querySelectorAll('a[href]').forEach(function(a) {
+    var href = a.getAttribute('href');
+    if (!href || href.startsWith('#') || href.startsWith('/') || href.startsWith('mailto:')) return;
+    try {
+      var url = new URL(href, window.location.origin);
+      if (url.origin === window.location.origin || url.hostname === 'enricbaltasar.com') return;
+      // External link
+      a.setAttribute('target', '_blank');
+      var isFriendly = friendly.some(function(d) {
+        return url.hostname === d || url.hostname.endsWith('.' + d);
+      });
+      if (isFriendly) {
+        a.removeAttribute('rel');
+      } else {
+        a.setAttribute('rel', 'noopener noreferrer');
+      }
+    } catch(e) {}
+  });
+})();
+</script>

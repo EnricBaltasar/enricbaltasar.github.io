@@ -1,0 +1,23 @@
+[
+  {
+    "id": 75,
+    "author": "sergio bernal",
+    "date": "2016-11-29 03:00:06",
+    "content": "hola Enric\npodrías explicarme por favor cual oración es correcta y porque\n1. la forpasinto estis sepdek jaroj agxa.\n\n2. la forpasinto estis sepdek jarojn agxa.",
+    "parent": 0
+  },
+  {
+    "id": 76,
+    "author": "Enric Baltasar",
+    "date": "2016-11-29 13:24:30",
+    "content": "Hola,\nLo correcto seríar \"sepdekjara\" o \"aĝis sepdek (jarojn)\". Te recomiendo leer esto:\nhttp://enricbaltasar.com/errores-habituales-esperanto/#edad",
+    "parent": 75
+  },
+  {
+    "id": 77,
+    "author": "sergio",
+    "date": "2016-12-02 04:42:48",
+    "content": "muchas gracias",
+    "parent": 0
+  }
+]

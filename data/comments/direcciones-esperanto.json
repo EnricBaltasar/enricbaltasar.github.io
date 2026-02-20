@@ -1,0 +1,30 @@
+[
+  {
+    "id": 498,
+    "author": "Rafa",
+    "date": "2017-02-15 16:57:18",
+    "content": "Tre utila, dankon! Parenteze, la ekzemplon pri \"Cruza la calle\" vi skribis inverse (unue en la hispana kaj poste en Esperanto): ĉu vi eble faris tion nur por vidi kiuj atentis vian artikolon? ;-)",
+    "parent": 0
+  },
+  {
+    "id": 499,
+    "author": "Enric Baltasar",
+    "date": "2017-02-15 17:50:26",
+    "content": "Hahaha, dankon pro la atentigo, Rafa! Mi ĵus ŝanĝis la lingv-ordon ;)",
+    "parent": 498
+  },
+  {
+    "id": 500,
+    "author": "Leonel Roriguez",
+    "date": "2017-10-17 22:14:34",
+    "content": "Estas tre bonaj por kartoj de Anki",
+    "parent": 0
+  },
+  {
+    "id": 501,
+    "author": "Enric Baltasar",
+    "date": "2017-10-20 07:30:09",
+    "content": "Saluton, Leonel. Ĉu vi scias la adreson de tiuj kartoj? :)",
+    "parent": 500
+  }
+]

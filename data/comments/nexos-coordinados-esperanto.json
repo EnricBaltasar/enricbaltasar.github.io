@@ -1,0 +1,37 @@
+[
+  {
+    "id": 305,
+    "author": "sergio",
+    "date": "2016-02-27 10:38:37",
+    "content": "Hola Enric\nEstoy leyendo artículos en esperanto en la revista El Popolo Cxinio.\nMe encontré con esta oración:\n\nJuna ekspedisto: liaj vivo kaj juneco estas nenio alia ol kurado sur vojo.\n\nPor favor corrígeme si me equivoco, pero creo que la oración dice:\nJoven expedidora: su vida y juventud no son otros que una carrera sobre el camino.  \n¿es correcto?",
+    "parent": 0
+  },
+  {
+    "id": 306,
+    "author": "Enric Baltasar",
+    "date": "2016-02-27 13:57:11",
+    "content": "Hola, Sergio. ¿Y qué nivel piensas que tienen los artículos? ¿Se lo recomendarías a otra gente que esté aprendiendo el idioma?\n\nTu traducción es correcta; solo decir que \"estas nenio alia\" o \"estas nenio plia\" debe entenderse como \"no hay nada más\". La oración quedaría traducida del siguiente modo:\n\n[EO] Juna ekspedisto: liaj vivo kaj juneco estas nenio alia ol kurado sur vojo.\n[ES] Joven expedidor: su vida y juventud no son más que / no son nada más que una carrera en el camino.",
+    "parent": 305
+  },
+  {
+    "id": 307,
+    "author": "sergio",
+    "date": "2016-02-28 07:54:34",
+    "content": "¡¡Muchas gracias!! Me alegra ver que cada vez tengo una mejor comprensión del idioma. Respecto a tus preguntas, creo que los artículos son de nivel avanzado aunque son bastante claros y honestamente sólo se los recomendaría a estudiantes de nivel medio en adelante. A veces es difícil encontrar lectura en nivel básico, no solo en esperanto, sino en cualquier idioma.",
+    "parent": 0
+  },
+  {
+    "id": 658,
+    "author": "Nicasii",
+    "date": "2019-10-14 13:53:14",
+    "content": "No he encontrado un tema sobre las frases subordinadas...",
+    "parent": 0
+  },
+  {
+    "id": 659,
+    "author": "Enric Baltasar",
+    "date": "2019-10-15 17:52:05",
+    "content": "Hola, Nicasii,\n\nNo llegué a escribir un artículo sobre ese tema, pero agradezco tu sugerencia!",
+    "parent": 658
+  }
+]

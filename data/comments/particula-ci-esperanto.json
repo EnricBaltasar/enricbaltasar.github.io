@@ -1,0 +1,37 @@
+[
+  {
+    "id": 351,
+    "author": "Eliette",
+    "date": "2015-08-05 00:21:27",
+    "content": "# ĈI TIU + PALABRA,  Ĉi tiu libro (este libro), ¿no es suficiente Tiu libro? No entiendo porque es necesaria la partícula ĉi en este caso ni en los otros casos donde aparece este mismo ejemplo. \n\nGracias y saludos.",
+    "parent": 0
+  },
+  {
+    "id": 352,
+    "author": "Enric Baltasar",
+    "date": "2015-08-07 09:43:43",
+    "content": "Saluton, Eliette! La explicación es que, como en castellano, en esperanto tenemos diferentes palabras para indicar las diferentes percepciones de distancia:\nTiu (ese, aquel)\nĈi tiu (este) <-- La partícula \"ĉi\" indica proximidad.",
+    "parent": 351
+  },
+  {
+    "id": 353,
+    "author": "Lycus D. Lapponte",
+    "date": "2015-08-20 10:46:52",
+    "content": "Exactamente para que sirve el guion ( - )?",
+    "parent": 0
+  },
+  {
+    "id": 354,
+    "author": "Enric Baltasar",
+    "date": "2015-08-20 11:06:49",
+    "content": "Bienvenido, Lycus. Se trata de un elemento que debe añadirse cuando ĈI se \"refiera\" a un adjetivo o adverbio.\n→ La *ĉi-jara* premio (el premio *de este año*)\n→ *Ĉi-flanke* estas multaj dekstruloj (*a este lado* hay muchos de derechas)\n\nEn los sustantivos no se pone porque se considera abreviatura de \"ĉi tiu\".\n→ Ĉi libro = Ĉi tiu libro (este libro)",
+    "parent": 353
+  },
+  {
+    "id": 355,
+    "author": "Eliette",
+    "date": "2015-08-22 02:34:52",
+    "content": "Gracias, copiado :)",
+    "parent": 352
+  }
+]

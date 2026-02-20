@@ -1,0 +1,30 @@
+[
+  {
+    "id": 294,
+    "author": "Morenazzo",
+    "date": "2015-06-08 05:29:14",
+    "content": "que es esperanto? me han pedido un trabajo sobre eufemismos ... eso de esperantos no lo etiendo...me podrías explicar a que te refieres?",
+    "parent": 0
+  },
+  {
+    "id": 295,
+    "author": "Enric Baltasar",
+    "date": "2015-06-08 07:59:35",
+    "content": "Buenas, David.\n\nEl esperanto es una lengua internacional que no se asocia a ningún país ni cultura concretas, es la más fácil de aprender y la hablan millones de personas por todo el mundo.\n\nUn eufemismo es una palabra que decimos para no usar otra que consideramos tabú. Este artículo trata de enseñar algunas palabras tabú y eufemismos en esperanto, así como poner de manifiesto que su uso varía respecto al castellano (se usan menos eufemismos en esperanto).",
+    "parent": 294
+  },
+  {
+    "id": 296,
+    "author": "Pitufina",
+    "date": "2017-03-31 01:45:03",
+    "content": "\"Putino\", es prostituta y \"puto\" es pozo. Entonces, ¿Cómo se dice prostituto?\nGracias.",
+    "parent": 0
+  },
+  {
+    "id": 297,
+    "author": "Enric Baltasar",
+    "date": "2017-03-31 08:31:00",
+    "content": "Puedes decir \"amoristo\", Pitufina",
+    "parent": 296
+  }
+]

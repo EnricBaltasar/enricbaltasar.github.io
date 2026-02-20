@@ -1,0 +1,37 @@
+[
+  {
+    "id": 517,
+    "author": "Boleco Romanés",
+    "date": "2017-05-17 16:12:15",
+    "content": "deberías de hacer una lista grande con todos los verbos por orden alfabetico en esperanto.\n\npor ejemplo:\nbailar: danci\ncantar: kanti",
+    "parent": 0
+  },
+  {
+    "id": 518,
+    "author": "Enric Baltasar",
+    "date": "2017-05-18 14:41:21",
+    "content": "Gracias por tu sugerencia, Boleco :)\nEn un idioma existen muchísimos verbos, sin embargo listas más concretas, como acciones cotidianas, pueden ser ideas interesantes en las que trabajar.",
+    "parent": 517
+  },
+  {
+    "id": 519,
+    "author": "José Juan",
+    "date": "2018-01-01 09:16:17",
+    "content": "Estoy de acuerdo con Boleco,  una lista de verbis es necesaria... Quizá podria ser una lista de verbis básicos o ppr el contrario una lista de verbos no tan comunes para ampliar el vocabulario...\n\nTambién sería muy interesante una lista de trucos para simplificar tal y como lo pones en algún momento en tu artículo... \n\nFelicidades y buen comienzo de año 2018",
+    "parent": 0
+  },
+  {
+    "id": 520,
+    "author": "Enric Baltasar",
+    "date": "2018-01-02 22:53:15",
+    "content": "Hola, José Juan,\n\nEn este tiempo he publicado, además del ya existe listado de vocabulario básico con una pequeña lista de verbos, un nuevo artículo con una compilación de acciones diarias: http://enricbaltasar.com/actividades-diarias-esperanto/\n\nPara una lista más completa, quizá podría hacerla a partir de estadísticas de frecuencia. Lo que sucede es que el vocabulario se aprende situacionalmente, y por ello no estoy seguro de que un listado de 500 verbos en esperanto sea lo más adecuado, más considerando que existen raíces verbales y no verbales. Pero si sois varios los que pensáis que os resultaría útil, lo veo planteable ;)",
+    "parent": 519
+  },
+  {
+    "id": 705,
+    "author": "Jonathan Castro",
+    "date": "2021-01-21 03:49:24",
+    "content": "Entonces lo que dice aquí: https://en.wikibooks.org/wiki/Esperanto:_A_Complete_and_Comprehensive_Grammar/Verbs\n¿es falso o no se utiliza?",
+    "parent": 0
+  }
+]

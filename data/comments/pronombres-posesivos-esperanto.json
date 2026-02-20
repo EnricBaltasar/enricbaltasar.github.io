@@ -1,0 +1,16 @@
+[
+  {
+    "id": 343,
+    "author": "sergio bernal",
+    "date": "2016-11-29 02:45:03",
+    "content": "Hola Enric\n¿cuál es la correcta y porque?\n\nIli decidis donaci ilian televidilon al li.\n\nIli decidis donaco sian televidilon al li.",
+    "parent": 0
+  },
+  {
+    "id": 344,
+    "author": "Enric Baltasar",
+    "date": "2016-11-29 13:21:15",
+    "content": "Buenos días, Sergio. Te lo compararé del siguiente modo:\n\nIli decidis donaci ilian televidilon al li.\n= La francoj donacis la televidilon de la angloj al la hispano.\n\nIli decidis donaco sian televidilon al li.\n= La francoj donacis la televidon kiu apartenas al tiuj francoj mem al la hispano.",
+    "parent": 343
+  }
+]

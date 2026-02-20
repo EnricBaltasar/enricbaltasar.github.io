@@ -1,0 +1,37 @@
+[
+  {
+    "id": 82,
+    "author": "sergio",
+    "date": "2015-12-11 08:27:48",
+    "content": "yo tengo dudas sobre el significado de un adverbio con acusativo, por ejemplo. \nMi promenas arbare. - Yo paseo en el bosque.\nMi promenas arbaren. - Yo paseo hacia el bosque. (estoy en otro lugar y voy hacia el interior del bosque).\nMi promenas en arbaron- Yo paseo hacia el bosque. (estoy en otro lugar y voy hacia el interior del bosque).\n¿estan correctas de acuerdo a lo que quiero decir?¿ tanto la segunda oración como la tercera significan lo mismo?",
+    "parent": 0
+  },
+  {
+    "id": 83,
+    "author": "Enric Baltasar",
+    "date": "2015-12-11 13:23:21",
+    "content": "Son sinónimos, pero hay matices:\n1) Mi promenas arbare: caminando dentro de un bosque\n2) Mi promenas arbaren: caminando en dirección a un bosque\n3) Mi promenas en arbaron: caminando para entrar en un bosque\n\nSe suele usar 2) para indicar 3), porque se sobreentiende. Por ejemplo, si digo <em>Mi iras lernejen</em>, lo más normal es que entres, o sencillamente no es relevante si entras o no.",
+    "parent": 82
+  },
+  {
+    "id": 84,
+    "author": "sergio",
+    "date": "2015-12-11 23:15:06",
+    "content": "¡¡¡Muchas gracias!!!",
+    "parent": 0
+  },
+  {
+    "id": 85,
+    "author": "sergio",
+    "date": "2016-11-10 01:56:23",
+    "content": "hola Enric\nel verbo ENIRI ya implica una dirección de movimiento. ¿aún así es necesario preposición EN?\npor ejemplo para este caso: li eniras en domon, seria igual que, li eniras domon,",
+    "parent": 0
+  },
+  {
+    "id": 86,
+    "author": "Enric Baltasar",
+    "date": "2016-11-11 12:16:21",
+    "content": "Buenas, Sergio. Se puede decir sin “en”, pero se oye muy poco y muchos lo consideran incorrecto, por ejemplo argumentando que es un calco del inglés. A mí personalmente la forma sin “en” me desagrada bastante. ¿Se te ocurre otra palabra con en- para comparar? A mí me viene a la cabeza eliri: se oigo a alguien decir \"eliri la domon\", automáticamente pienso que es un principiante. La razón que se me ocurre para que se tenga que poner otra vez la preposición (ENiri EN) es que pseudoafijarlo con la preposición \"en\" no hace que el verbo deje de ser intransitivo (lo contrario sucede con otros, por ejemplo, o siendo los únicos casos: paroli pri tio, priparoli ion; paroli al vi, alparoli vin).",
+    "parent": 85
+  }
+]

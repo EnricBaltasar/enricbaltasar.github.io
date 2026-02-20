@@ -1,0 +1,51 @@
+[
+  {
+    "id": 91,
+    "author": "Joŝuo",
+    "date": "2018-01-08 02:52:24",
+    "content": "Gracias por estas detalladas explicaciones que respondieron todas mis dudas :) Soy principiante y este sitio web es increíble.",
+    "parent": 0
+  },
+  {
+    "id": 92,
+    "author": "Enric Baltasar",
+    "date": "2018-01-08 20:11:12",
+    "content": "Encantado de poder ayudar, Joŝuo.\nGracias por tu comentario :)",
+    "parent": 91
+  },
+  {
+    "id": 93,
+    "author": "edmu",
+    "date": "2018-04-14 05:39:55",
+    "content": "Hola Enric.- en la oración...eniri en la trajnon, porque trajnon? se que el acusativo indica dirección, pero acaso el verbo entrar no nos indica la direccion ya?, gracias Enric.",
+    "parent": 0
+  },
+  {
+    "id": 94,
+    "author": "Enric Baltasar",
+    "date": "2018-04-16 10:02:47",
+    "content": "Buenas, Edmu,\n\nCuando indicamos que estamos en un lugar, usamos \"en\", p.e. \"Mi estas en mia hejmo\". El acusativo lo que le añade es el sentido de movimiento (una de sus funciones), p.e. \"Mi eniras en mian hejmon\" (entro a mi casa). Por si se entendiera mejor, también se podría decir \"mi eniras al en mia hejmo\", solo que no se usa.",
+    "parent": 93
+  },
+  {
+    "id": 95,
+    "author": "edmu",
+    "date": "2018-04-16 15:25:10",
+    "content": "Gracias Enric.",
+    "parent": 0
+  },
+  {
+    "id": 96,
+    "author": "Aedan Diaz",
+    "date": "2018-08-24 23:55:50",
+    "content": "Buenas!\nYo aun no lo entiendo, debo usar el acusativo siempre que hable sin importar el verbo? (Excepto los mencionados en la lección lo que me hace sorpresa pues el esperanto se caracterizaba por no tener excepciones) ejemplo mi mangxas la pano... Deber ser panon? Mi trinkas akvo, es akvon?  Vi sxatas piediri en la parko.. Es piediri la parkon?  A mi me cuesta mucho aún... Sobre todo con las partículas interrogativas...",
+    "parent": 0
+  },
+  {
+    "id": 97,
+    "author": "Enric Baltasar",
+    "date": "2018-11-25 21:45:30",
+    "content": "Hola, Aedan,\n\nLa respuesta a tu pregunta se encuentra aquí:\nhttp://enricbaltasar.com/acusativo-verbos-esperanto/",
+    "parent": 96
+  }
+]

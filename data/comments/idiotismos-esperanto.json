@@ -1,0 +1,37 @@
+[
+  {
+    "id": 356,
+    "author": "avo pepe",
+    "date": "2015-08-18 20:30:55",
+    "content": "saluton, figura.\nestic encara en LLeo, te avisaré cuant arribe.",
+    "parent": 0
+  },
+  {
+    "id": 357,
+    "author": "sergio",
+    "date": "2016-11-22 00:43:07",
+    "content": "hola Enric\n¿alguna vez has oído del verbo KABEI? ¿sería un idiotismo?",
+    "parent": 0
+  },
+  {
+    "id": 358,
+    "author": "Enric Baltasar",
+    "date": "2016-11-22 12:55:05",
+    "content": "Saluton! Diría que \"kabei\" es un \"esperantismo\", pero no un \"idiotismo\". La definición de estas dos palabras en ReVo es bastante buena.",
+    "parent": 357
+  },
+  {
+    "id": 359,
+    "author": "sergio",
+    "date": "2016-12-24 09:46:09",
+    "content": "hace poco encontré otra palabra curiosa KAJMANI que significa hablar na lengua que nadie comprende en un ambiente esperantista. Por ejemplo, comenzar a hablar en klingon a un esperantista.",
+    "parent": 358
+  },
+  {
+    "id": 360,
+    "author": "Enric Baltasar",
+    "date": "2016-12-24 12:23:02",
+    "content": "Aquí puedes encontrar unas pocas palabras más:\nhttps://eo.wikipedia.org/wiki/Reptiliumi\nKajmani es tal como lo has dicho, solo que en vez de \"que nadie comprende\" es \"que no es la lengua materna de nadie\".",
+    "parent": 358
+  }
+]

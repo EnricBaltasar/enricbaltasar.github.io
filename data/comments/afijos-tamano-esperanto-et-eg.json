@@ -1,0 +1,37 @@
+[
+  {
+    "id": 226,
+    "author": "sergio",
+    "date": "2016-03-24 22:50:30",
+    "content": "hola Enric\nCreo que sería muy útil que pudieras poner una sección de prefijos y sufijos no oficiales \nhttp://bertilow.com/pmeg/vortfarado/neoficialaj_afiksoj/\nClaro advirtiendo sus precauciones",
+    "parent": 0
+  },
+  {
+    "id": 227,
+    "author": "Enric Baltasar",
+    "date": "2016-03-28 12:42:40",
+    "content": "Hola, Sergio. Pienso que es una buena idea; lo haré cuando tenga algo más de tiempo para ello",
+    "parent": 226
+  },
+  {
+    "id": 228,
+    "author": "sergio",
+    "date": "2016-03-31 09:13:27",
+    "content": "¿Me permitirías ayudarte?",
+    "parent": 0
+  },
+  {
+    "id": 229,
+    "author": "Enric Baltasar",
+    "date": "2016-03-31 16:23:00",
+    "content": "¿De verdad? Sería increíble",
+    "parent": 228
+  },
+  {
+    "id": 230,
+    "author": "sergio",
+    "date": "2016-04-01 08:18:42",
+    "content": "¡claro! empezaré con un borrador y lo enviaré a tu correo electrónico",
+    "parent": 0
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 65,
+    "author": "lisandro586",
+    "date": "2015-08-22 22:38:11",
+    "content": "Kafumi - Cafetera\nCerbumi - Pensar",
+    "parent": 0
+  },
+  {
+    "id": 66,
+    "author": "Enric Baltasar",
+    "date": "2015-08-22 22:54:59",
+    "content": "Enhorabuena por lanzarte, Lisandro; así se hace ;)\n\n→ Kafumi = tomar un café (recuerda que -i es una terminación verbal. Cafetera sería kaf-maŝino).\n→ Cerbumi = pensar, reflexionar, rebanarse los sesos...",
+    "parent": 65
+  },
+  {
+    "id": 67,
+    "author": "sergio",
+    "date": "2015-12-11 23:57:33",
+    "content": "El sufijo UM parece bastante útil. Tengo varias preguntas al respecto. ¿existen entonces palabras como UMO y UMI? pero ¿serían palabras comodines para decir una cosa o un verbo que no recordamos o conocemos?",
+    "parent": 0
+  },
+  {
+    "id": 68,
+    "author": "Enric Baltasar",
+    "date": "2015-12-12 00:15:35",
+    "content": "Por supuesto, puedes crearlas/decirlas. De \"umo\" no se me ocurre ningún ejemplo, y no recuerdo haberla visto, pero \"mi umas\" sí que se usa. Es como decir \"estoy con ello\". \"- Kion vi faras? - Mi umas pri la projekto\".",
+    "parent": 67
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 238,
+    "author": "sergio",
+    "date": "2016-02-25 08:08:48",
+    "content": "En latinoamerica tenemos mucha familia extensa y compuesta como los padrinos, compadres, padrastros, entre otros. ¿cómo serían estos en esperanto? se e ocurre: baptpatroj, kunpatroj y duonpatroj ¿es así?",
+    "parent": 0
+  },
+  {
+    "id": 239,
+    "author": "Enric Baltasar",
+    "date": "2016-02-25 08:56:51",
+    "content": "Padrinos: baptopatroj\nPadrastros: duonpatroj (!)\nCompadres: baptanoj\n\nEn este diccionario puedes encontrar todos estos términos: http://www.esperanto.es:8080/diccionario/inicio.jsp",
+    "parent": 238
+  },
+  {
+    "id": 240,
+    "author": "sergio",
+    "date": "2016-11-10 02:51:04",
+    "content": "hola Enric\n¿como se usa GE-?",
+    "parent": 0
+  },
+  {
+    "id": 241,
+    "author": "Enric Baltasar",
+    "date": "2016-11-10 09:42:30",
+    "content": "Saludos, Sergio.\nEn el último párrafo del artículo de PMEG sobre BO- encontrarás una buena respuesta:\n\"BO povas aperi kune kun la prefiksoj GE kaj PRA. La reciproka ordo de tiuj prefiksoj ne gravas por la signifo, sed kutime GE aperas laste: bogepatroj, bogefratoj, prageavoj, bopragekuzoj k.s.\"\nhttp://bertilow.com/pmeg/vortfarado/afiksoj/prefiksoj/bo.html",
+    "parent": 240
+  }
+]

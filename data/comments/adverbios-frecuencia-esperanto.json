@@ -1,0 +1,16 @@
+[
+  {
+    "id": 399,
+    "author": "Sebastian Aldave",
+    "date": "2016-10-10 01:30:18",
+    "content": "Hola.\n¿Por qué en los últimos ejemplos utilizas el acusativo?",
+    "parent": 0
+  },
+  {
+    "id": 400,
+    "author": "Enric Baltasar",
+    "date": "2016-10-10 13:00:18",
+    "content": "¡Hola, Sebastian!\nLa parte final es un extra al vocabulario aportado al principio, y el uso del acusativo se debe a que este también puede indicar cantidad y tiempo: http://enricbaltasar.com/acusativo-esperanto-ix/",
+    "parent": 399
+  }
+]

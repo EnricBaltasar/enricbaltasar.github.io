@@ -1,0 +1,30 @@
+[
+  {
+    "id": 78,
+    "author": "Johano",
+    "date": "2017-08-18 09:08:26",
+    "content": "Dankon! Me acabas de resolver una duda que tenía sobre el acusativo. Sin embargo, si el nombre está en esperanto, ¿no se usaría el acusativo?\n\n¿Sería: \"Sxi amas Johanon\" o \"Sxi amas Johano\"?\n\nOtro caso relacionado: ¿Se omitiría el acusativo también cuando hablamos de obras artísticas, aunque su título esté en esperanto?\n\nPor ejemplo:\nMi legas \"Gerda malaperis!\"\nMi spektas \"Pasporto al la Tuto Mondo\".\n\nSupongo que sí, porque aplicar el acusativo, así, a bulto (¡en el caso de \"Gerda malaperis! a un verbo conjugado!) me suena rarísimo.",
+    "parent": 0
+  },
+  {
+    "id": 79,
+    "author": "Enric Baltasar",
+    "date": "2017-08-26 10:04:00",
+    "content": "Hola, Johano.\n\nAunque se trata solo de mi opinión, yo no usaría el acusativo con nombre de personas, y luego para otros nombres propios quizá puede depender un poco del caso.\n\nCoincido en tus conclusiones. Sobre nombres que acaben en vocal existe una tendencia a usar el acusativo por mayor facilidad, por eso es mucho más frecuente leer \"Maria(-)n\" que \"Jack-n\". Personalmente me parece una complicación innecesaria y una desvinculación de lo natural entre cuando hablamos y escribimos (nunca he oído a nadie decir \"Jack-n\", aunque sí a veces a mí \"Enrikon\"... lo cual no me agrada).",
+    "parent": 78
+  },
+  {
+    "id": 749,
+    "author": "Gustavo",
+    "date": "2022-09-13 22:26:28",
+    "content": "Hola\n\nPuedo decir:\nLi amas Marian.\nO también:\nLi amas al María.\nPero como el orden de las palabras en esperanto no está determinado, estoy habilitado para decir:\nMaria amas al li.\nTeniendo un significado totalmente distinto.\n\n¿Como lo resuelvo?",
+    "parent": 0
+  },
+  {
+    "id": 750,
+    "author": "Enric Baltasar",
+    "date": "2022-09-14 03:32:15",
+    "content": "Hola, Gustavo,\n\n\"Maria amas al li\" es incorrecto. Se dice \"Maria amas lin\".",
+    "parent": 749
+  }
+]

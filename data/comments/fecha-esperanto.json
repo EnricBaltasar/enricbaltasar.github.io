@@ -1,0 +1,30 @@
+[
+  {
+    "id": 349,
+    "author": "Carlos Torre Blanca",
+    "date": "2017-08-04 14:08:02",
+    "content": "Hola! Muy buenos días. Felicidades por tú Web. y por ser una persona como dices ser. En este block si me hubiera gustado que fueras un poco más explícito en los ejemplos como lo fuiste en el de las horas pues creo que les falto para que quedaran más claras pues en la última yo si no le entendí nada. Muchas gracias por compartir tus conocimientos, sigue así. Bye.",
+    "parent": 0
+  },
+  {
+    "id": 350,
+    "author": "Enric Baltasar",
+    "date": "2017-08-26 10:08:09",
+    "content": "Hola, Carlos,\n\nGracias por tu comentario. Me lo anoto para mejorar la lección :)",
+    "parent": 349
+  },
+  {
+    "id": 679,
+    "author": "Nelson Zuluaica",
+    "date": "2020-02-24 00:44:06",
+    "content": "Hola Enric, cordial saludo.  ¿Es correcto decir: La patro acxetis por du guldenoj kapreton?.   Tengo dudas sobre el uso aquí de la preposición POR.",
+    "parent": 0
+  },
+  {
+    "id": 680,
+    "author": "Enric Baltasar",
+    "date": "2020-02-24 21:40:52",
+    "content": "Hola, Nelson,\n\nCuando se trata de precios, se usa la preposición \"kontraŭ\": mi aĉetis libron kontraŭ 17 eŭroj.",
+    "parent": 679
+  }
+]

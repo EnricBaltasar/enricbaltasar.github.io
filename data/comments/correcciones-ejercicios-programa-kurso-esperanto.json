@@ -1,0 +1,37 @@
+[
+  {
+    "id": 2,
+    "author": "Rafael Sanz Moncayo",
+    "date": "2014-07-18 15:53:36",
+    "content": "Ĉi tiu kurso ŝajnas bonega!",
+    "parent": 0
+  },
+  {
+    "id": 3,
+    "author": "Miguel Bautista",
+    "date": "2014-12-14 00:00:14",
+    "content": "Muchas gracias por los ejercicios corregidos, me son de gran utilidad. En mi blog voy poniendo mi progreso en el esperanto por si a alguien le interesa. Ĝis.",
+    "parent": 0
+  },
+  {
+    "id": 4,
+    "author": "Nataniel Lullaby",
+    "date": "2015-11-02 01:39:03",
+    "content": "Multe Dankon! Realmente he tenido este problema de no saber a quien enviar los ejercicios, y por ello me he quedado estancado en mis estudios (además de ser un pésimo autodidacta). Saludos desde México y gracias nuevamente.",
+    "parent": 0
+  },
+  {
+    "id": 5,
+    "author": "victor",
+    "date": "2016-05-11 06:18:52",
+    "content": "Muchas gracias !! Es una lastima que el programa mismo no pueda corregir los ejercicios, porque uno que esta aprendiendo se pregunta siempre...¿Será correcta mi respuesta? Todos los que intentamos aprender esperanto de forma autodidacta con este programa estamos agradecidos con este aporte. Gracias!!",
+    "parent": 0
+  },
+  {
+    "id": 6,
+    "author": "Eliette",
+    "date": "2016-09-19 20:42:15",
+    "content": "Gracias. De la primera lección la pregunta 3 en tu respuesta usaste la palabra patriĉo pero en el vocabulario aun no se usa esa palabra sino patro, igual con la frase 7 Las tortas eran buenas, en la lección se usa Kuko: Torta y solo el adjetivo bona.",
+    "parent": 0
+  }
+]

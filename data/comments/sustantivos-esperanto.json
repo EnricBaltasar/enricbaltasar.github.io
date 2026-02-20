@@ -1,0 +1,30 @@
+[
+  {
+    "id": 363,
+    "author": "sergio",
+    "date": "2016-03-04 08:04:34",
+    "content": "¿pueden ir dos sustantivos juntos? como por ejemplo mamá gallina.",
+    "parent": 0
+  },
+  {
+    "id": 364,
+    "author": "Enric Baltasar",
+    "date": "2016-03-08 13:57:08",
+    "content": "Se puede decir \"la rivero Júcar\" (el río Júcar) [sustantivo común + sustantivo propio].\n\n\"Mamá gallina\" se diría \"patrino-kokino\". El guion indica que son las dos cosas a la vez.",
+    "parent": 363
+  },
+  {
+    "id": 365,
+    "author": "sergio",
+    "date": "2016-11-03 00:40:39",
+    "content": "hola Enric\ncuando se relacionan dos sustantivos como por ejemplo, el día de muertos ó el libro de la vida. normalmente se pueden decir como la tago de la mortintoj, o bien, la libro de la vivo. Pero ¿es posible hacer la inversión como adjetivos sin que se pierda el sentido, o es mejor dejarlos así? por ejemplo:\nla mortinta tago no creo que sea lo mismo que la tago de la mortinoj, o bien, la viva libro no puede ser lo mismo que la libro de la vivo. \n¿existe alguna regla para esto para no caer en un error de sentido?",
+    "parent": 0
+  },
+  {
+    "id": 366,
+    "author": "Enric Baltasar",
+    "date": "2016-11-03 22:38:28",
+    "content": "Buena pregunta. Se puede adjetivizar un sustantivo* sin problemas, exista o no correspondencia en castellano. Ej.: komputila neceso = necesidad de ordenador.\n\n* Cuando aquí digo sustantivo me estoy refiriendo a una raíz sustantiva (para entendernos,  son de raíz sustantiva aquellas palabras que en la mayoría de ocasiones se usan como sustantivos, como piano, hejmo, telefono, etc. Es por ello que tus ejemplos no significarían lo mismo como adjetivos: viva = vivo/a; mortinta = muerto/a.",
+    "parent": 365
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 524,
+    "author": "Victoria",
+    "date": "2017-03-19 00:46:41",
+    "content": "Amika kaj inteligenta pedagogio vi havas, Enric Baltasar.\n\nDankon!",
+    "parent": 0
+  },
+  {
+    "id": 525,
+    "author": "Enric Baltasar",
+    "date": "2017-03-19 10:17:12",
+    "content": "Koran dankon, Victoria ^^\nMi ĝojas povi helpi lerni Esperanton al aliaj homoj",
+    "parent": 524
+  },
+  {
+    "id": 526,
+    "author": "Genaro",
+    "date": "2018-05-24 16:16:43",
+    "content": "Kiel oni povas scii kiam verbo estas transitiva aux ne?",
+    "parent": 0
+  },
+  {
+    "id": 527,
+    "author": "Enric Baltasar",
+    "date": "2018-05-24 17:14:42",
+    "content": "Hola, Genaro,\n\nMás allá de los verbos copulativos, aquellos a cuyo verbo no puedas preguntarle \"qué\" o \"a quién\" son intransitivos, por lo que además no pueden llevar marca del acusativo. Puedes echarle un vistazo a esto que te comento en http://enricbaltasar.com/acusativo-verbos-esperanto/\n\nEjemplos de los normales: \"COMER\" y \"CAMINAR\"\n- Comeré arroz = Mi manĝos rizon [transitiva]\n- Caminará por la ciudad = Li promenos tra la urbo [intransitiva]\n\nEjemplo de los complicados: \"CAMBIAR\"\n- Cambiaré mi camiseta = Mi ŝanĝos mian T-ĉemizon\n- Las personas nunca cambian = Homoj neniam ŝanĝiĝas\n\nEn general los verbos en castellano y esperanto coinciden en cuanto a su (in)transitividad, aunque existen algunas diferencias. Si recuerdo algún ejemplo de cambio, o bien una misma palabra que se puede usar como transitiva e intransitiva te lo pondré aquí.\n\nDe todas maneras, si tienes dudas acerca de una palabra en concreto, puedes buscar en el diccionario Reta Vortaro (http://www.reta-vortaro.de/revo/), y al lado del verbo te aparecen tres posibles marcas entre paréntesis, además de oraciones de ejemplo abajo:\n- (tr) es transitivo\n- (ntr) es intransitivo\n- (x) es que puede ser ambos",
+    "parent": 526
+  }
+]

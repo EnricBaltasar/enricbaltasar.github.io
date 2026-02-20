@@ -1,0 +1,16 @@
+[
+  {
+    "id": 666,
+    "author": "LeoH",
+    "date": "2019-12-02 05:47:52",
+    "content": "Se puede saber la etimología de esto? Me interesa mucho saber de donde viene que -J marque el plural, no pude encontrar información al respecto",
+    "parent": 0
+  },
+  {
+    "id": 676,
+    "author": "Miquel Alejandro Vicens Dalmau",
+    "date": "2020-01-31 15:02:46",
+    "content": "Por lo visto, viene del griego, latín y ruso: \"-j Gre. -οι; Lat. -i; Rus. -и\" (http://www.romaniczo.com/esperanto/vortaroj/etimologio.html).",
+    "parent": 666
+  }
+]

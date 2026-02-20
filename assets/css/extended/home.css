@@ -1,0 +1,10 @@
+.home-page .post-content ul {
+  list-style: none;
+  padding-left: 1em;
+}
+
+.home-page .post-content ul li {
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+  margin-bottom: 0.4em;
+}

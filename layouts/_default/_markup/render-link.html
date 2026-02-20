@@ -1,0 +1,14 @@
+{{- $url := .Destination -}}
+{{- $isExternal := or (hasPrefix $url "http://") (hasPrefix $url "https://") -}}
+{{- $isFriendly := false -}}
+{{- if $isExternal -}}
+  {{- $isFriendly = findRE "nakora\\.ai" $url -}}
+{{- end -}}
+<a href="{{ $url | safeURL }}"
+  {{- if $isExternal }} target="_blank"
+    {{- if not $isFriendly }} rel="noopener noreferrer"{{ end }}
+  {{- end }}
+  {{- with .Title }} title="{{ . }}"{{ end }}>
+  {{- .Text | safeHTML -}}
+</a>
+{{- /* Friendly domains (target="_blank" without noopener noreferrer): nakora.ai */ -}}
