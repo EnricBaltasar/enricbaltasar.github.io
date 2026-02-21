@@ -51,7 +51,7 @@
   }
 </style>
 
-{{- /* Google Analytics GA4 */ -}}
+{{- /* Google Analytics GA4 + JSON-LD structured data */ -}}
 {{- if eq .Site.Params.env "production" }}
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YH9F0TF53Z"></script>
 <script>
@@ -60,4 +60,5 @@
   gtag('js', new Date());
   gtag('config', 'G-YH9F0TF53Z');
 </script>
+{{- partial "templates/schema_json.html" . }}
 {{- end }}

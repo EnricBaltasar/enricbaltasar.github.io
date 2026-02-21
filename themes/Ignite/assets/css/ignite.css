@@ -60,7 +60,10 @@ a {
 a:link {
   color: var(--ignite-gold);
 }
-a:visited, a:hover, a:active {
+a:visited {
+  color: var(--ignite-gold);
+}
+a:hover, a:active {
   color: var(--ignite-gold-dark);
 }
 
@@ -530,6 +533,7 @@ a img {
   margin: 1.5em auto;
   padding: 1.5em 8% 2.25em;
   border-radius: var(--radius);
+  overflow: hidden;
 }
 
 /* ===== Featured Image ===== */
@@ -1479,6 +1483,12 @@ a img {
   line-height: 1.5;
 }
 
+.updated-badge {
+  font-size: 0.7em;
+  font-weight: 600;
+  color: var(--ignite-gold-dark);
+}
+
 .archive-meta {
   font-size: 14px;
   color: var(--ignite-gray);
@@ -1740,25 +1750,44 @@ body.dark .search-input {
 /* Filter buttons (archives) */
 body.dark .filter-btn {
   background: #2a2b2f;
-  color: #c9cdd1;
-  border-color: #3a3b3f;
 }
-body.dark .filter-btn:hover {
+body.dark .lang-filter-btn {
+  color: #7ab3e8;
+  border-color: #3d6a96;
+}
+body.dark .lang-filter-btn:hover {
+  border-color: #7ab3e8;
+  color: #7ab3e8;
   background: #3a3b3f;
 }
-body.dark .filter-btn.active {
-  background: var(--ignite-gold);
-  color: white;
-  border-color: var(--ignite-gold);
+body.dark .lang-filter-btn.active {
+  background: #4a90d9;
+  color: #fff;
+  border-color: #4a90d9;
+}
+body.dark .topic-filter-btn {
+  color: #e0a060;
+  border-color: #7a5530;
+}
+body.dark .topic-filter-btn:hover {
+  border-color: #e0a060;
+  color: #e0a060;
+  background: #3a3b3f;
+}
+body.dark .topic-filter-btn.active {
+  background: #e67e22;
+  color: #fff;
+  border-color: #e67e22;
 }
 
 /* Badges */
 body.dark .lang-badge {
-  opacity: 0.85;
+  background: rgba(106, 159, 216, 0.2);
+  color: #7ab3e8;
 }
 body.dark .topic-badge {
-  background: #2a2b2f;
-  color: #9a9b9d;
+  background: rgba(192, 120, 48, 0.2);
+  color: #e0a060;
 }
 
 /* Archive entry hover */

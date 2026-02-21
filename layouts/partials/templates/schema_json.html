@@ -63,7 +63,7 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "BlogPosting",
+  "@type": "{{- if eq .Section "posts" }}BlogPosting{{- else if .Parent.IsHome }}WebPage{{- else }}Article{{- end -}}",
   "headline": {{ .Title | plainify}},
   "name": "{{ .Title | plainify }}",
   "description": {{ with .Description | plainify }}{{ . }}{{ else }}{{ .Summary | plainify  }}{{ end -}},
@@ -85,9 +85,10 @@
     {{ (path.Join .RelPermalink .Params.cover.image ) | absURL }},
     {{- end}}
   {{- else }}
-    {{- $images := partial "templates/_funcs/get-page-images" . -}}
-    {{- with index $images 0 -}}
+    {{- with .Resources.ByType "image" -}}
+      {{- with index . 0 -}}
   "image": {{ .Permalink }},
+      {{- end }}
     {{- end }}
   {{- end -}}
   "datePublished": {{ .PublishDate }},
