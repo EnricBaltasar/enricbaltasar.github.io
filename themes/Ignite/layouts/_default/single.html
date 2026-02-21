@@ -24,6 +24,15 @@
                 {{- if not .Date.IsZero }}{{ .Date | time.Format "January 2, 2006" }}{{ end }}
                 {{- if (.Param "ShowReadingTime") }} &middot; {{ .ReadingTime }} min read{{ end }}
             </span>
+            <div class="meta-social">
+                <span class="meta-social-label">Follow:</span>
+                {{- with site.Params.social.linkedin }}
+                <a href="{{ . }}" target="_blank" rel="noopener" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+                {{- end }}
+                {{- with site.Params.social.twitter }}
+                <a href="{{ . }}" target="_blank" rel="noopener" aria-label="X (Twitter)"><i class="fa-brands fa-x-twitter"></i></a>
+                {{- end }}
+            </div>
         </div>
         {{- else }}
         <span class="meta-details">

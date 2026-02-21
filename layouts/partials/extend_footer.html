@@ -1,3 +1,36 @@
+<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+<script>
+(function() {
+  var content = document.querySelector('.entry-content');
+  if (content) {
+    content.querySelectorAll('img').forEach(function(img) {
+      var src = img.getAttribute('src');
+      if (!src) return;
+
+      var parent = img.parentElement;
+      if (parent && parent.tagName === 'A') {
+        parent.className = 'glightbox';
+        parent.setAttribute('data-glightbox', 'type: image');
+        if (!parent.getAttribute('href') || parent.getAttribute('href') === '#') {
+          parent.setAttribute('href', src);
+        }
+      } else {
+        var a = document.createElement('a');
+        a.href = src;
+        a.className = 'glightbox';
+        a.setAttribute('data-glightbox', 'type: image');
+        img.parentNode.insertBefore(a, img);
+        a.appendChild(img);
+      }
+
+      img.classList.add('zoomable-img');
+    });
+
+    GLightbox({ selector: '.glightbox' });
+  }
+})();
+</script>
+
 <script>
 (function() {
   // Friendly domains: target="_blank" WITHOUT noopener noreferrer

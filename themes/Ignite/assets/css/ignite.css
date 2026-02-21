@@ -71,6 +71,9 @@ h1, h2, h3, h4, h5, h6 {
   padding: 0;
   font-weight: 400;
 }
+h2, h3, h4, h5, h6 {
+  font-weight: 600;
+}
 
 h1 {
   font-size: 2.625em;
@@ -211,6 +214,11 @@ img,
 .size-thumbnail {
   max-width: 100%;
   height: auto;
+}
+
+/* ===== Zoomable images (lightbox) ===== */
+.zoomable-img {
+  cursor: zoom-in;
 }
 
 /* ===== Forms ===== */
@@ -566,9 +574,9 @@ a img {
 /* Article meta with avatar */
 .entry-meta-top {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 0.75em;
-  margin-top: 0.5em;
+  margin-top: 1em;
 }
 .author-avatar {
   width: 40px;
@@ -576,6 +584,7 @@ a img {
   border-radius: 50%;
   object-fit: cover;
   flex-shrink: 0;
+  margin-top: 0.15em;
 }
 .author-info {
   display: flex;
@@ -590,6 +599,25 @@ a img {
   font-size: 0.85em;
   color: var(--ignite-gray);
 }
+.meta-social {
+  display: flex;
+  align-items: center;
+  gap: 0.75em;
+  margin-top: 0.2em;
+}
+.meta-social-label {
+  font-size: 0.75em;
+  color: var(--ignite-gray);
+}
+.meta-social a {
+  color: var(--ignite-gray);
+  font-size: 1em;
+  transition: color 0.2s ease;
+}
+.meta-social a:hover {
+  color: var(--ignite-gold);
+}
+
 .excerpt-meta-top a, .entry-meta-top a {
   text-decoration: none;
   color: var(--ignite-dark);
@@ -758,7 +786,7 @@ a img {
 /* 900px - Full width (no sidebar) */
 @media all and (min-width: 56.25em) {
   .main {
-    max-width: 85.186%;
+    max-width: 750px;
     padding: 1.5em 0;
     margin: 0 auto;
   }
@@ -815,6 +843,18 @@ a img {
 /* ===== Single Post Content ===== */
 .entry-content {
   margin-top: 1.5em;
+}
+.entry-content h2 {
+  margin-top: 1.25em;
+  margin-bottom: 0.4em;
+}
+.entry-content h3 {
+  margin-top: 1em;
+  margin-bottom: 0.3em;
+}
+.entry-content h4, .entry-content h5, .entry-content h6 {
+  margin-top: 0.75em;
+  margin-bottom: 0.25em;
 }
 .entry-content iframe {
   max-width: 100%;
@@ -1389,6 +1429,7 @@ a img {
 }
 
 .archive-year-header {
+  font-size: 1.25em;
   font-weight: 700;
   margin-bottom: 0;
 }
@@ -1403,6 +1444,7 @@ a img {
 }
 
 .archive-month-header {
+  font-size: 0.95em;
   margin: 25px 0;
   width: 200px;
   flex-shrink: 0;
@@ -1427,6 +1469,7 @@ a img {
 }
 
 .archive-entry-title {
+  font-size: 1.1em;
   margin: 5px 0;
   font-weight: 400;
   line-height: 1.5;

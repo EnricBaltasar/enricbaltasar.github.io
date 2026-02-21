@@ -44,7 +44,10 @@ paginate = 10
   comments = true
   hideAuthor = true
   [params.social]
-    twitter = "EnricBaltasar"
+    linkedin = "https://www.linkedin.com/in/enricbaltasar/"
+    twitter = "https://x.com/EnricBaltasar"
+    youtube = "https://www.youtube.com/EnricBaltasar"
+    github = "https://github.com/enricbaltasar"
   [params.schema]
     publisherType = "Person"
     sameAs = [
