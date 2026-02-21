@@ -45,11 +45,6 @@ The material for learning Python on the Internet is just overwhelming, mainly in
     <li><a href="/python-summary/truth-tables/">Truth tables</a></li>
 </ul>
 </li>
-    <li><strong>Functions:</strong>
-<ul>
-    <li><a href="/python-summary/variable-scoops/">Variable scoops</a></li>
-</ul>
-</li>
 </ul>
 
  

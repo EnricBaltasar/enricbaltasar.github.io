@@ -47,7 +47,3 @@ And the possible characters for a variable name are:
 
 <hr />
 
-<strong>More information:</strong>
-<ul>
-	<li><a href="/python-summary/variable-scoops/">Variable scoops</a></li>
-</ul>

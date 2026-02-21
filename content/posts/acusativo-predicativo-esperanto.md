@@ -23,4 +23,4 @@ Ahora vamos a ordenarlo de una manera algo más complicada para ti:
 
  
 
-<span style="color: #999999;"><em>En la lección que nos queda veremos que puede haber </em></span><strong><span style="color: #999999;"><em><a style="color: #999999;" href="/acusativo-kiel-esperanto/">kiel con </a></em></span><em style="color: #999999;"><a style="color: #999999;" href="/acusativo-esperanto-xii/">‒</a></em></strong><em style="color: #999999;"><strong><a style="color: #999999;" href="/acusativo-eliptico-esperanto/">n después</a></strong>, también dentro de la serie <a style="color: #999999;" href="/acusativo-esperanto/">Acusativo en esperanto</a>.</em>
+<span style="color: #999999;"><em>En la lección que nos queda veremos que puede haber </em></span><strong><span style="color: #999999;"><em><a style="color: #999999;" href="/acusativo-kiel-esperanto/">kiel con </a></em></span><em style="color: #999999;">‒</em></strong><em style="color: #999999;"><strong><a style="color: #999999;" href="/acusativo-eliptico-esperanto/">n después</a></strong>, también dentro de la serie <a style="color: #999999;" href="/acusativo-esperanto/">Acusativo en esperanto</a>.</em>

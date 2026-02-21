@@ -458,4 +458,4 @@ Lo que yo haré a continuación será poner en una lista los morfemas resultante
 
  
 
-Si te has quedado con ganas de más, consulta las <a href="/frases-comunes-esperanto/">frases en esperanto</a> más frecuentes.
+Si te has quedado con ganas de más, consulta las <a href="/frases-esperanto/">frases en esperanto</a> más frecuentes.

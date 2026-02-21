@@ -1,6 +1,6 @@
 ---
 title: "Vicent Andrés Estellés en esperanto"
-date: 2023-06-17T07:34:20+00:00
+date: 2015-01-29T15:00:15+00:00
 lastmod: 2023-06-17T08:01:37+00:00
 draft: false
 topics: ["Esperanto Language & Culture", "Poetry"]
@@ -8,10 +8,78 @@ slug: "vicent-andres-estelles-esperanto"
 lang: es
 ---
 
+En esta entrada reúno las traducciones al esperanto de poemas de Vicent Andrés Estellés, uno de los poetas valencianos más destacados del siglo XX, que realicé para dos recitales en su memoria:
+
+- [El gran foc dels garbons (2015)](#el-gran-foc-dels-garbons)
+- [Assumiràs la veu d'un poble / Flor de taronger (2023)](#assumiras-la-veu-d-un-poble)
+
+---
+
+## El gran foc dels garbons
+
+Fa dos anys, ens va arribar un correu proposant-nos participar a una festa de poesia anomenada Estellés Universal, organitzada per <a href="http://carevolta.org/" target="_blank" rel="noopener noreferrer">Ca Revolta</a> a València, recitant poemes en esperanto de Vicent Andrés Estellés (un dels poetes valencians més destacats del segle XX).
+
+<table>
+<tbody>
+<tr>
+<td>{{< img src="vaesestelles.jpg" alt="vaesestelles" >}}</td>
+<td>{{< img src="cartell-estelles-universal.jpg" alt="cartell-estelles-universal" >}}</td>
+</tr>
+</tbody>
+</table>
+La idea em va entusiasmar, d'una banda perquè era una proposta fantàstica i una oportunitat única; d'altra, perquè era una nova experiència. Tanmateix, hi havia un inconvenient, un inconvenient molt greu, i que em va sorprende: no vaig poder trobar res en esperanto d'este autor tan brillant que, dit de pas, desafia els límits del meu català. Per tant, vaig decidir transformar el problema en una oportunitat, i em vaig posar a internacionalitzar encara més les seues obres. Finalment, vam acudir una colla de parlants a l'esdeveniment i vam recitar alguns poemes.
+
+Més endavant tornarem a aquell moment, però ara us ensenye el poema que vaig recitar l'any següent, corresponent a l'obra <em>El gran foc dels garbons</em>:
+<table>
+<tbody>
+<tr>
+<td>Pretigo de la ret', tiajn matenojn
+de forta vento. Elporte sinistraj,
+manĝis, atendis ili en silento,
+dum ruktis kaj drinkis la ruĝan vinon,
+
+jen har-abunda tribo el Biblio,
+la buŝon puriganta per tutbrak'.
+Samokaze en lerto kaj kuraĝo,
+la ŝnuron ili tiris. Vi memoras
+
+l' unuaniman teruron pepantan
+de la birdoj, kaptitaj en la ret',
+kolektiv', atavisma sendefendo,
+
+mortige, per du fingroj ĉe la kol',
+aŭ disrompo de la kap', per ter-frapo,
+kiel, fest-matene, paf-roketar'.</td>
+<td>Paraven l'enfilat, aquells matins
+de tant de fred. Passablement sinistres,
+menjaven, esperaven en silenci,
+rotaven i bevien el vi negre,
+
+una peluda tribu de la Bíblia,
+que es torcaven la boca amb tot el braç.
+Astutament i coratjosament
+tiraven de la corda. Tu recordes
+
+el piulador terror unànim dels
+ocells, empresonats a l'enfilat,
+un col·lectiu, inerme espant atàvic,
+
+mentre els mataven, amb dos dits al coll,
+o els desfeien el cap, d'un bac en terra,
+com, en matins de gesta, els trons de bac.</td>
+</tr>
+</tbody>
+</table>
+Ací trobareu una <a href="http://demiratgesialtresatzucacs.blogspot.com/2008/05/laltre-dia-revisant-la-meua-desordenada.html" target="_blank" rel="noopener noreferrer">traducció al castellà</a>.
+
+---
+
+## Assumiràs la veu d'un poble / Flor de taronger
+
 En 2013, aproveché un recital de poesía en memoria al aniversario de Vicent Andrés Estellés para traducirlo al esperanto e ir varios esperantohablantes a recitar algunos de sus poemas.
 
 {{< img src="enric-baltasar-recitar.jpeg" >}}
-<h2 id="assumiras-la-veu-d-un-poble"><strong>Assumiràs la veu d'un poble</strong></h2>
+<h3 id="assumiras-la-veu-d-un-poble"><strong>Assumiràs la veu d'un poble</strong></h3>
 <table border="1" cellspacing="1" cellpadding="1">
 <tbody>
 <tr>
@@ -124,8 +192,8 @@ vi paŝas per decid'.</td>
 </table>
 {{< img src="enric-baltasar-estelles.jpeg" >}}
 
- 
-<h2 id="flor-de-taronger"><strong>Flor de taronger</strong></h2>
+
+<h3 id="flor-de-taronger"><strong>Flor de taronger</strong></h3>
 <table border="1" cellspacing="1" cellpadding="1">
 <tbody>
 <tr>
@@ -187,7 +255,3 @@ gaja kaj ŝerca kiel palmo</td>
 Recitado:
 
 https://www.youtube.com/watch?v=yI6nAbMYH64
-
- 
-
- 

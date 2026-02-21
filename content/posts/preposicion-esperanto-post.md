@@ -24,4 +24,4 @@ La preposición <strong>POST</strong> en esperanto tiene un sentido temporal.
 
  
 
-Post también tiene indica <span style="color: #ff6600;"><strong>lugar</strong></span>, y significa lo mismo que la preposición <a href="/preposiciones-esperanto-antau-malantau/">malantaŭ</a> (detrás de).
+Post también tiene indica <span style="color: #ff6600;"><strong>lugar</strong></span>, y significa lo mismo que la preposición malantaŭ (detrás de).

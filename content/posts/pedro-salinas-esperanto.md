@@ -3,7 +3,7 @@ title: "Pedro Salinas en esperanto"
 date: 2015-01-25T10:20:51+00:00
 lastmod: 2023-06-17T07:59:21+00:00
 draft: false
-topic_guide: true
+topics: ["Esperanto Language & Culture", "Poetry"]
 description: "Encontrarás aquí poemas de Pedro Salinas traducidos al esperanto pertenecientes la obra La voz a ti debida (1933) y Largo lamento 1938)."
 slug: "pedro-salinas-esperanto"
 lang: es

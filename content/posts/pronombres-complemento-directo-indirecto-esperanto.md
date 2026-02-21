@@ -123,7 +123,7 @@ Y un último ejemplo:
 
  
 
-Una tercera posibilidad, y ligada a la anterior es que aporten <span style="color: #ff6600;"><strong>información de complemento indirecto</strong></span> (normalmente si el verbo es intransitivo [verbos que no pueden llevar -n, como caminar, correr...], o cuando ya hay un acusativo puesto... aunque sea <a href="/acusativo-esperanto-vi/">elíptico</a>):
+Una tercera posibilidad, y ligada a la anterior es que aporten <span style="color: #ff6600;"><strong>información de complemento indirecto</strong></span> (normalmente si el verbo es intransitivo [verbos que no pueden llevar -n, como caminar, correr...], o cuando ya hay un acusativo puesto... aunque sea <a href="/acusativo-eliptico-esperanto/">elíptico</a>):
 
 <pre><strong><span style="text-decoration: underline;">Te</span> hablo</strong> → "Hablo <span style="text-decoration: underline;">a ti</span>" = <strong>Mi parolas <span style="text-decoration: underline;">al vi
 </span></strong></pre>

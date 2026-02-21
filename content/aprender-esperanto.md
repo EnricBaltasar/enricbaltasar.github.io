@@ -205,7 +205,6 @@ Gracias a lo aprendido a través de mi experiencia enseñando, difundiendo y usa
  	<li><a href="/tatuajes-esperanto/">Tatuajes</a></li>
  	<li><a href="/evolucion-esperanto/">Evolución</a></li>
  	<li><a href="/variaciones-esperanto/">Variaciones actuales de uso</a></li>
- 	<li><a href="/excepciones-esperanto/">Excepciones</a> | <span style="color: #999999;"><em>Próximamente</em></span></li>
  	<li><a href="/spam-esperanto/">SPAM</a></li>
  	<li><a href="/redacciones-esperanto-hablar-uno-mismo/">Redacción: hablar de uno mismo</a></li>
  	<li><a href="/radios-esperanto/">Radios</a></li>
@@ -227,4 +226,3 @@ Gracias a lo aprendido a través de mi experiencia enseñando, difundiendo y usa
  	<li><a href="/esperanto-cv/">¿Debería poner el esperanto en el CV?</a></li>
  	<li><a href="/como-hacer-que-te-pregunten-por-el-esperanto/">Cómo hacer que te pregunten por el esperanto</a></li>
 </ul>
-<em><a href="/accion-esperantista/">Leer más artículos</a></em>

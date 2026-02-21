@@ -132,7 +132,7 @@ El uso verbal de raíces adjetivas ha pasado de un uso minoritario a uno más co
 
  
 <h2 id="semantica"><strong><span style="color: #ff6600;">SEMÁNTICA</span></strong></h2>
-Lee acerca de la neutralización de raíces en el artículo <a href="/excepciones-esperanto/">Excepciones en esperanto</a>.
+Lee acerca de la neutralización de raíces en el artículo Excepciones en esperanto.
 
  
 
