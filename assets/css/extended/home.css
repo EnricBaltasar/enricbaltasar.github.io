@@ -1,3 +1,11 @@
+.pseudo-h3 {
+  font-family: var(--ignite-font);
+  font-size: 1.625em;
+  font-weight: 600;
+  line-height: 1.85;
+  margin-bottom: 0;
+}
+
 .home-page .post-content ul {
   list-style: none;
   padding-left: 1em;
