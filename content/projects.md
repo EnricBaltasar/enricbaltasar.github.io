@@ -69,7 +69,7 @@ projects:
     categories: "languages education"
     url: "/how-created-popular-online-course-duolingo/"
     image: "/images/projects/duolingo-esperanto-spanish-course.png"
-    description: 'Co-created "Esperanto for Spanish speakers" on Duolingo. Grew to 367k+ signups in 14 months, without paid ads.'
+    description: 'Co-created "Esperanto for Spanish speakers" on Duolingo. Grew to 367k+ signups in 14 months, without paid ads. We got 1M in total across languages.'
     start: "2016-04"
     finish: "2017-09"
 
