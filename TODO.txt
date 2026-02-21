@@ -3,14 +3,10 @@
 
 
 
-JS:
->>>> GOOGLE ANALYTICS
-
-
 DNS/CDN:
 >>> cloudflare: trailing slashes
 >>> rewrite urls --> choose strategy, then redirect with CF
-
+>>> https over http and rewrite 
 
 
 
