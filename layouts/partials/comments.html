@@ -1,19 +1,21 @@
 {{- $slug := .File.ContentBaseName -}}
 {{- $comments := index site.Data.comments $slug -}}
-{{- if $comments }}
-<div class="post-comments">
-  <h2>Comments</h2>
-  <p class="comments-note">These are archived comments from the original WordPress site.</p>
+<section id="comments" class="post-comments">
+  <p class="comments-heading">Comments</p>
+  <p class="comments-cta">Have any questions or got anything to share?<br>Message me on
+    {{- with site.Params.social.linkedin }} <a href="{{ . }}" target="_blank" rel="noopener"><i class="fa-brands fa-linkedin"></i></a>{{- end }}
+    or
+    {{- with site.Params.social.twitter }} <a href="{{ . }}" target="_blank" rel="noopener"><i class="fa-brands fa-x-twitter"></i></a>{{- end }}
+  </p>
   {{- range $comments }}
   <div class="comment{{ if .parent }} comment-reply{{ end }}" id="comment-{{ .id }}">
     <div class="comment-meta">
       <strong class="comment-author">{{ .author }}</strong>
-      <time class="comment-date">{{ .date }}</time>
+      <time class="comment-date">{{ time.Format "2 Jan 2006" (time.AsTime .date) }}</time>
     </div>
     <div class="comment-content">
       {{ .content | safeHTML }}
     </div>
   </div>
   {{- end }}
-</div>
-{{- end }}
+</section>

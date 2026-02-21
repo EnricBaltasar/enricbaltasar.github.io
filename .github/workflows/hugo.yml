@@ -82,4 +82,5 @@ jobs:
           curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
             -d chat_id="${{ secrets.TELEGRAM_CHAT_ID }}" \
             -d parse_mode="Markdown" \
+            -d disable_web_page_preview="true" \
             -d text="${EMOJI} *${STATUS}*%0ASite: enricbaltasar.com%0ARepo: ${{ github.server_url }}/${{ github.repository }}%0ADetails: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"

@@ -1,8 +1,22 @@
 {{- /* Avatar size */ -}}
 <style>
   .home-page .entry-content .avatar { width: 120px; height: 120px; object-fit: cover; }
+  .home-page .entry-content { margin-top: 0; }
+  .home-page { padding: 1.5em 8% 2.25em; max-width: none; margin: 1.5em auto; }
+  @media all and (min-width: 50em) { .home-page { padding: 2.25em 14.333%; } }
+  @media all and (min-width: 56.25em) { .home-page { padding: 2.25em 13.333%; } }
+  @media all and (min-width: 62.5em) { .home-page { padding-top: 3em; } }
+  @media all and (min-width: 68.75em) { .home-page { margin: 3em 0; padding: 3em 12.5% 2.25em; } }
   .footer-title { font-size: 1.625em; line-height: 1.85; margin: 0; font-weight: 500; }
   .site-title { font-weight: 500; }
+  .entry #comments.post-comments { background: none; margin: 0; padding: 0; max-width: none; }
+  .author-box { display: flex; gap: 1.25em; align-items: flex-start; margin-top: 2em; }
+  .author-box-avatar { width: 72px; height: 72px; border-radius: 50%; object-fit: cover; flex-shrink: 0; }
+  .author-box-info { flex: 1; }
+.author-box-name { display: block; font-size: 1.05em; font-weight: 600; }
+  .author-box-bio { margin: 0.3em 0 0; font-size: 0.9em; opacity: 0.8; }
+  .author-box-social { margin-top: 0.3em; }
+  .post-comments .comments-heading { border-top: solid 2px var(--ignite-border); padding-top: 1.375em; font-size: 1.625em; line-height: 1.85; margin-top: 2em; margin-bottom: 0; font-weight: 600; }
 </style>
 
 {{- /* Google Analytics GA4 */ -}}

@@ -64,11 +64,15 @@
         </article>
     </div>
 
-</div>
+    {{- /* Author box (posts only) */ -}}
+    {{- if in (site.Params.mainSections | default (slice "posts")) .Section }}
+    {{- partial "author-box.html" . }}
+    {{- end }}
 
-{{- /* Comments */ -}}
-{{- if (.Param "comments") }}
-{{- partial "comments.html" . }}
-{{- end }}
+    {{- /* Comments */ -}}
+    {{- partial "comments.html" . }}
+
+
+</div>
 
 {{- end }}

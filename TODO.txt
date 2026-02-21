@@ -3,17 +3,15 @@
 
 
 
-DNS/CDN:
->>> cloudflare: trailing slashes
+Cloudflare:
+
+>>> cloudflare: trailing slashes of all urls
+
 >>> rewrite urls --> choose strategy, then redirect with CF
->>> https over http and rewrite 
-
-
-
-
 
 
 ---
 
-enricbaltasar-com/static/CNAME
-enricbaltasar.com
+SECTIONS:
+
+>>> projects

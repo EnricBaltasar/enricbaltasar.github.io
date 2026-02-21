@@ -1,0 +1,20 @@
+{{- $avatarResource := resources.Get site.Params.avatar -}}
+{{- $avatarResized := $avatarResource.Fit "160x160" -}}
+<div class="author-box">
+  <img class="author-box-avatar" src="{{ $avatarResized.RelPermalink }}" alt="{{ site.Params.author }}" width="{{ $avatarResized.Width }}" height="{{ $avatarResized.Height }}">
+  <div class="author-box-info">
+    <strong class="author-box-name">{{ site.Params.author }}</strong>
+    {{- with site.Params.bio }}
+    <p class="author-box-bio">{{ . }}</p>
+    {{- end }}
+    <div class="author-box-social meta-social">
+      <span class="meta-social-label">Follow:</span>
+      {{- with site.Params.social.linkedin }}
+      <a href="{{ . }}" target="_blank" rel="noopener" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+      {{- end }}
+      {{- with site.Params.social.twitter }}
+      <a href="{{ . }}" target="_blank" rel="noopener" aria-label="X (Twitter)"><i class="fa-brands fa-x-twitter"></i></a>
+      {{- end }}
+    </div>
+  </div>
+</div>

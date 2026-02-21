@@ -12,6 +12,18 @@
 
 <script>
 (function() {
+  // Auto-link bare https:// URLs in comment content
+  document.querySelectorAll('.comment-content').forEach(function(el) {
+    el.innerHTML = el.innerHTML.replace(
+      /(https?:\/\/[^\s<"]+)/g,
+      '<a href="$1">$1</a>'
+    );
+  });
+})();
+</script>
+
+<script>
+(function() {
   // Friendly domains: target="_blank" WITHOUT noopener noreferrer
   var friendly = ['nakora.ai'];
 

@@ -3,7 +3,7 @@ title: "El Fundamento de Esperanto es un mito"
 date: 2015-03-04T14:00:00+00:00
 lastmod: 2024-10-11T03:38:20+00:00
 draft: false
-topics: ["Esperanto Language & Culture"]
+topics: ["Esperanto Language & Culture", "Essays"]
 slug: "fundamento-esperanto-es-mito"
 lang: es
 ---
