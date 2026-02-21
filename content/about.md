@@ -221,50 +221,6 @@ lang: en
 <!-- /wp:list -->
 
 <!-- wp:heading -->
-<h2 id="don-t-hire-me-if" class="wp-block-heading"><strong>Don't hire me if...</strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><strong>Wrong stage:</strong> You’re pre-PMF.</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Optimizing for comfort:</strong> You’re not aiming to build a unicorn-scale company.</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Micromanagement culture:</strong> You prefer control over trust and ownership.</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Sync-first culture:</strong> You default to meetings instead of building async clarity and velocity.</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Short-term mindset:</strong> You want a one-off collaboration instead of a real growth partner.</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Working in silos:</strong> You expect me to solve growth in isolation, without influence over product and teams.</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Slow acquisition cycles:</strong> Closing new customers takes months, making rapid iteration and compounding loops impossible.</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:heading -->
-<h2 id="recent-articles" class="wp-block-heading">Recent articles</h2>
-<!-- /wp:heading -->
-
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li><a href="https://nakora.ai/blog/github-seo" target="_blank" rel="noreferrer noopener">GitHub SEO</a>: Guide on how to rank your repository on Google and LLMs to get visibility for your devtool.</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:heading -->
 <h2 id="let-s-connect" class="wp-block-heading"><strong>Let's connect</strong></h2>
 <!-- /wp:heading -->
 

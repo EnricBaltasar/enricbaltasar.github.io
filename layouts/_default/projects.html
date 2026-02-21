@@ -1,0 +1,130 @@
+{{- define "main" }}
+
+<div class="projects-container">
+
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- with .Description }}
+  <div class="post-description">{{ . }}</div>
+  {{- end }}
+</header>
+
+{{- $raw := .Params.projects }}
+{{- /* Build sortable list: use finish for sort key, "present" → "9999", pad YYYY to YYYY-00 */ -}}
+{{- $sortable := slice }}
+{{- range $raw }}
+  {{- $f := .finish | default "0000" }}
+  {{- $sortKey := $f }}
+  {{- if eq $f "present" }}{{ $sortKey = "9999-99" }}{{ end }}
+  {{- if not (findRE `-` $sortKey) }}{{ $sortKey = printf "%s-00" $sortKey }}{{ end }}
+  {{- $sortable = $sortable | append (dict "project" . "sortKey" $sortKey) }}
+{{- end }}
+{{- $sorted := sort $sortable "sortKey" "desc" }}
+{{- $projects := slice }}
+{{- range $sorted }}
+  {{- $projects = $projects | append .project }}
+{{- end }}
+
+{{- /* Count projects per category */ -}}
+{{- $scratch := newScratch }}
+{{- $catSet := slice }}
+{{- range $projects }}
+  {{- $cats := split .categories " " }}
+  {{- range $cats }}
+    {{- if ne . "" }}
+      {{- $scratch.Add (printf "cat_%s" .) 1 }}
+      {{- if not (in $catSet .) }}
+        {{- $catSet = $catSet | append . }}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+{{- $catNames := dict
+  "tools" "Tools"
+  "startups" "Startups"
+  "nonprofits" "Nonprofits"
+  "languages" "Languages"
+  "education" "Education"
+  "writing" "Writing"
+}}
+
+{{- /* Sort tabs by count desc, then alphabetically */ -}}
+{{- $tabItems := slice }}
+{{- range $catSet }}
+  {{- $count := $scratch.Get (printf "cat_%s" .) }}
+  {{- if $count }}
+    {{- $tabItems = $tabItems | append (dict "cat" . "count" $count "sortKey" (printf "%04d_%s" (sub 9999 $count) .)) }}
+  {{- end }}
+{{- end }}
+{{- $tabItems = sort $tabItems "sortKey" }}
+
+<div class="project-filter">
+  <button class="filter-btn project-filter-btn active" data-category="all">All <span class="filter-count">{{ len $projects }}</span></button>
+  {{- range $tabItems }}
+    <button class="filter-btn project-filter-btn" data-category="{{ .cat }}">{{ index $catNames .cat }} <span class="filter-count">{{ .count }}</span></button>
+  {{- end }}
+</div>
+
+<div class="project-grid">
+  {{- range $projects }}
+  {{- $hasURL := and .url (ne .url "") (ne .url "#") }}
+  {{- $isExternal := and $hasURL (hasPrefix .url "http") }}
+  {{- $hasImage := and .image (ne .image "") }}
+  {{- if $hasURL }}<a href="{{ .url }}"{{ if $isExternal }} target="_blank" rel="noopener noreferrer"{{ end }} class="project-card" data-categories="{{ .categories }}">{{ else }}<div class="project-card" data-categories="{{ .categories }}">{{ end }}
+    <h3 class="project-title">{{ .title }}</h3>
+    {{- if $hasImage }}
+    <div class="project-image">
+      <img src="{{ .image }}" alt="" loading="lazy">
+    </div>
+    {{- end }}
+    <div class="project-body">
+      {{- with .stat }}
+      <div class="project-stat">{{ . }}</div>
+      {{- end }}
+      <p class="project-description">{{ .description }}</p>
+      <div class="project-footer">
+        <span class="project-categories">{{- range $cat := split .categories " " }}{{- if ne $cat "" }}<span class="project-cat-badge">{{ index $catNames $cat }}</span>{{ end }}{{- end }}</span>
+        <span class="project-year">{{- if .start }}{{ .start | replaceRE `-\d{2}$` "" }}–{{ .finish | replaceRE `-\d{2}$` "" }}{{ else }}{{ .finish | replaceRE `-\d{2}$` "" }}{{ end -}}</span>
+      </div>
+    </div>
+  {{- if $hasURL }}</a>{{ else }}</div>{{ end }}
+  {{- end }}
+</div>
+
+<div class="project-empty" style="display:none;">
+  No projects found in this category.
+</div>
+
+</div>{{/* end .projects-container */}}
+
+<script>
+(function() {
+  var activeCategory = 'all';
+  var buttons = document.querySelectorAll('.project-filter-btn');
+  var cards = document.querySelectorAll('.project-card');
+  var empty = document.querySelector('.project-empty');
+
+  function applyFilter() {
+    var visibleCount = 0;
+    cards.forEach(function(card) {
+      var cats = ' ' + card.getAttribute('data-categories') + ' ';
+      var match = activeCategory === 'all' || cats.indexOf(' ' + activeCategory + ' ') !== -1;
+      card.style.display = match ? '' : 'none';
+      if (match) visibleCount++;
+    });
+    empty.style.display = visibleCount === 0 ? '' : 'none';
+  }
+
+  buttons.forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      buttons.forEach(function(b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      activeCategory = btn.getAttribute('data-category');
+      applyFilter();
+    });
+  });
+})();
+</script>
+
+{{- end }}

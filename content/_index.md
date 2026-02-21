@@ -38,6 +38,5 @@ Technology turned out to be the fastest.
 I’m not loyal to industries.<br>
 I’m loyal to what works.
 
-Now, I run [Nakora](https://nakora.ai) and build tools for developer companies.
-
-If you’re building, [connect on LinkedIn](https://www.linkedin.com/in/enricbaltasar/).
+Now, I run [Nakora](https://nakora.ai).<br>
+[Connect on LinkedIn](https://www.linkedin.com/in/enricbaltasar/).
