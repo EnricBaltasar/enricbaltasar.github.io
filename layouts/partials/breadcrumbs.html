@@ -1,0 +1,51 @@
+{{- if not .IsHome -}}
+{{- /* Build breadcrumb trail using .Ancestors */ -}}
+{{- $ancestors := slice -}}
+{{- range .Ancestors.Reverse -}}
+  {{- if not .IsHome -}}
+    {{- $ancestors = $ancestors | append . -}}
+  {{- end -}}
+{{- end -}}
+
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  <a href="{{ .Site.BaseURL }}">Home</a>
+  {{- range $ancestors }}
+  <span class="separator"> › </span>
+  <a href="{{ .Permalink }}">{{ .Title }}</a>
+  {{- end }}
+  <span class="separator"> › </span>
+  <span aria-current="page">{{ .Title }}</span>
+</nav>
+
+{{- /* JSON-LD BreadcrumbList structured data */ -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "{{ .Site.BaseURL }}"
+    }
+    {{- $pos := 1 -}}
+    {{- range $ancestors -}}
+    {{- $pos = add $pos 1 }},
+    {
+      "@type": "ListItem",
+      "position": {{ $pos }},
+      "name": "{{ .Title }}",
+      "item": "{{ .Permalink }}"
+    }
+    {{- end -}}
+    {{- $pos = add $pos 1 }},
+    {
+      "@type": "ListItem",
+      "position": {{ $pos }},
+      "name": "{{ .Title }}"
+    }
+  ]
+}
+</script>
+{{- end -}}

@@ -39,6 +39,12 @@
     .site-header.toggled .menu-primary { display: block; }
     .main, .breadcrumbs { transform: none !important; }
   }
+  /* Breadcrumbs: match .main content width, tight spacing */
+  .breadcrumbs { max-width: 750px; margin: 0 auto; padding: 1.5em 3.703% 0; }
+  .overflow-container .breadcrumbs ~ .main { padding-top: 0.25em; }
+  @media all and (min-width: 37.5em) { .breadcrumbs { padding: 1.5em 7.407% 0; } }
+  @media all and (min-width: 50em) { .breadcrumbs { padding: 1.5em 11.11% 0; } }
+  @media all and (min-width: 56.25em) { .breadcrumbs { max-width: 750px; padding: 1.5em 0 0; } .overflow-container .breadcrumbs ~ .main { padding-top: 0.25em; } }
   .header-social { display: none; }
   .menu-social { display: flex; gap: 1em; padding: 0 5% 1.5em; justify-content: center; align-items: center; }
   .menu-primary p.menu-social-label { color: rgba(255,255,255,0.4); font-size: 0.7em; text-transform: uppercase; letter-spacing: 0.1em; text-align: center; padding: 0; padding-top: 1.25em; margin: 0.5em auto 0; border: none; display: block; width: 65%; border-top: solid 1px rgba(255,255,255,0.1); }
