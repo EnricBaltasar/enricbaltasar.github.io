@@ -3,7 +3,8 @@ title: "Python summary: variables"
 date: 2015-04-02T14:00:09+00:00
 draft: false
 topics: ["Python"]
-slug: "python-summary-variables"
+slug: "variables"
+aliases: ["/python-summary-variables/"]
 lang: en
 ---
 
@@ -48,5 +49,5 @@ And the possible characters for a variable name are:
 
 <strong>More information:</strong>
 <ul>
-	<li><a href="/python-summary-variable-scoops/">Variable scoops</a></li>
+	<li><a href="/python-summary/variable-scoops/">Variable scoops</a></li>
 </ul>

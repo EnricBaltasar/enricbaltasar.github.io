@@ -3,7 +3,8 @@ title: "Python summary: printing"
 date: 2015-04-29T14:00:13+00:00
 draft: false
 topics: ["Python"]
-slug: "python-summary-printing"
+slug: "printing"
+aliases: ["/python-summary-printing/"]
 lang: en
 ---
 

@@ -3,7 +3,8 @@ title: "Python summary: versions"
 date: 2015-01-23T14:00:13+00:00
 draft: false
 topics: ["Python"]
-slug: "python-summary-versions"
+slug: "versions"
+aliases: ["/python-summary-versions/"]
 lang: en
 ---
 

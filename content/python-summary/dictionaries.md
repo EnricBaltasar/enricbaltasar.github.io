@@ -3,7 +3,8 @@ title: "Python summary: dictionaries"
 date: 2015-05-11T14:00:52+00:00
 draft: false
 topics: ["Python"]
-slug: "python-summary-dictionaries"
+slug: "dictionaries"
+aliases: ["/python-summary-dictionaries/"]
 lang: en
 ---
 
@@ -30,7 +31,7 @@ The items can contain different built-in data types:
 
 <pre>{<span style="color: #008000;">'name'</span>: 'Enric Baltasar', 'age': <span style="color: #008000;">20</span>}</pre>
 
-However, about <a href="/python-summary-mutable-immutable-types/">mutable and immutable types</a>, combinations such as <em>tuple-list</em> (in form <em>key-value</em>) do not possible:
+However, about <a href="/python-summary/mutable-immutable-types/">mutable and immutable types</a>, combinations such as <em>tuple-list</em> (in form <em>key-value</em>) do not possible:
 
 <table>
 <tbody>

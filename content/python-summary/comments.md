@@ -3,7 +3,8 @@ title: "Python summary: comments"
 date: 2015-01-20T14:00:05+00:00
 draft: false
 topics: ["Python"]
-slug: "python-summary-comments"
+slug: "comments"
+aliases: ["/python-summary-comments/"]
 lang: en
 ---
 

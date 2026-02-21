@@ -8,6 +8,7 @@ paginate = 10
 [permalinks]
   [permalinks.page]
     posts = "/:contentbasename/"
+    python-summary = "/python-summary/:contentbasename/"
 
 # Allow raw HTML in markdown (needed for converted WordPress content)
 [markup]
@@ -27,6 +28,7 @@ paginate = 10
 
 # PaperMod theme parameters
 [params]
+  mainSections = ["posts"]
   env = "production"
   description = "Growth Engineer"
   author = "Enric Baltasar"

@@ -3,11 +3,12 @@ title: "Python summary: truth tables"
 date: 2015-03-05T10:00:19+00:00
 draft: false
 topics: ["Python"]
-slug: "python-summary-truth-tables"
+slug: "truth-tables"
+aliases: ["/python-summary-truth-tables/"]
 lang: en
 ---
 
-<!--more-->For <strong>determining if something is <em>True</em> or <em>False</em></strong>, we can use the next <a href="/python-summary-operators/">operators</a>:
+<!--more-->For <strong>determining if something is <em>True</em> or <em>False</em></strong>, we can use the next <a href="/python-summary/operators/">operators</a>:
 <ul>
 	<li><strong>Comparison:</strong> <span style="color: #008000;">==</span>, <span style="color: #008000;">!=</span>, <span style="color: #008000;"><</span>, <span style="color: #008000;">=<</span>, <span style="color: #008000;">></span>, <span style="color: #008000;">=></span>, <span style="color: #008000;"><></span></li>
 	<li><strong>Logical:</strong> <span style="color: #008000;">and</span>, <span style="color: #008000;">or</span>, <span style="color: #008000;">not</span>, <span style="color: #008000;">not and</span>, <span style="color: #008000;">not or</span>, <span style="color: #008000;">xor</span> (or exclusive, represented by a caret character [^])</li>

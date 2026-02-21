@@ -3,7 +3,8 @@ title: "Python summary: environments"
 date: 2015-05-06T14:00:16+00:00
 draft: false
 topics: ["Python"]
-slug: "python-summary-environments"
+slug: "environments"
+aliases: ["/python-summary-environments/"]
 lang: en
 ---
 

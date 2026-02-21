@@ -69,8 +69,10 @@
     {{- partial "author-box.html" . }}
     {{- end }}
 
-    {{- /* Comments */ -}}
+    {{- /* Comments (posts only) */ -}}
+    {{- if in (site.Params.mainSections | default (slice "posts")) .Section }}
     {{- partial "comments.html" . }}
+    {{- end }}
 
 
 </div>

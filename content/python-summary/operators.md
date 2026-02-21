@@ -3,7 +3,8 @@ title: "Python summary: operators"
 date: 2015-05-08T14:00:36+00:00
 draft: false
 topics: ["Python"]
-slug: "python-summary-operators"
+slug: "operators"
+aliases: ["/python-summary-operators/"]
 lang: en
 ---
 
@@ -52,5 +53,5 @@ Finally, you must know <strong>operator functions</strong> exist (you will find 
 <ul>
 	<li><a href="https://docs.python.org/3/library/operator.html" target="_blank" rel="noopener noreferrer">https://docs.python.org/3/library/operator.html</a></li>
 	<li><a href="http://codigoprogramacion.com/cursos/tutoriales-python/operadores-basicos-de-python.html" target="_blank" rel="noopener noreferrer">http://codigoprogramacion.com/cursos/tutoriales-python/operadores-basicos-de-python.html</a> [es]</li>
-	<li><a href="/python-summary-truth-tables/">Truth tables</a></li>
+	<li><a href="/python-summary/truth-tables/">Truth tables</a></li>
 </ul>

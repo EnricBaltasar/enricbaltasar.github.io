@@ -3,7 +3,8 @@ title: "Python summary: spacing"
 date: 2015-05-04T14:00:19+00:00
 draft: false
 topics: ["Python"]
-slug: "python-summary-spacing"
+slug: "spacing"
+aliases: ["/python-summary-spacing/"]
 lang: en
 ---
 
@@ -46,6 +47,6 @@ And we can use a several backslashes.
 
 <strong>More information:</strong>
 <ul>
-	<li><a href="/python-summary-printing/">The print() function and default spacing</a></li>
+	<li><a href="/python-summary/printing/">The print() function and default spacing</a></li>
 	<li><a href="http://www.secnetix.de/olli/Python/block_indentation.hawk" target="_blank" rel="noopener noreferrer">http://www.secnetix.de/olli/Python/block_indentation.hawk</a></li>
 </ul>

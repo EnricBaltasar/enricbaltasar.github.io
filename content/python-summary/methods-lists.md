@@ -3,7 +3,8 @@ title: "Python summary: methods for lists"
 date: 2015-04-28T14:00:28+00:00
 draft: false
 topics: ["Python"]
-slug: "python-summary-methods-lists"
+slug: "methods-lists"
+aliases: ["/python-summary-methods-lists/"]
 lang: en
 ---
 

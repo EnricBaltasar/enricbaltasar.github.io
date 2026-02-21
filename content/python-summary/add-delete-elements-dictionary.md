@@ -3,7 +3,8 @@ title: "Python summary: to add and delete elements in a dictionary"
 date: 2015-03-03T14:00:37+00:00
 draft: false
 topics: ["Python"]
-slug: "python-summary-add-delete-elements-dictionary"
+slug: "add-delete-elements-dictionary"
+aliases: ["/python-summary-add-delete-elements-dictionary/"]
 lang: en
 ---
 
