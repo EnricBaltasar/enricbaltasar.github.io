@@ -23,8 +23,6 @@ paginate = 10
   home = ["HTML", "RSS", "JSON"]
 
 [taxonomies]
-  tag = "tags"
-  topic = "topics"
 
 # PaperMod theme parameters
 [params]

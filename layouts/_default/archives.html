@@ -1,0 +1,171 @@
+{{- define "main" }}
+
+<div class="archives-container">
+
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <div class="post-description">
+    {{ .Description }}
+  </div>
+  {{- end }}
+</header>
+
+{{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+
+{{- if site.Params.ShowAllPagesInArchive }}
+{{- $pages = site.RegularPages }}
+{{- end }}
+
+{{- /* Collect topic guide pages */}}
+{{- $guides := where (where site.Pages "Params.topic_guide" true) "Draft" false }}
+
+{{- with $guides }}
+<div class="topic-guides-nav">
+  <span class="filter-label">Guides:</span>
+  {{- range $i, $g := . }}
+  {{- if $i }} &middot; {{ end }}
+  <a class="topic-guide-link" href="{{ $g.RelPermalink }}">{{ $g.Title }}</a>
+  {{- end }}
+</div>
+{{- end }}
+
+{{- $langNames := dict "en" "English" "es" "Spanish" "eo" "Esperanto" "it" "Italian" "ca" "Catalan" }}
+{{- $countAll := len $pages }}
+{{- $scratch := newScratch }}
+{{- $topicSet := slice }}
+{{- range $pages }}
+  {{- $lang := .Params.lang | default "es" }}
+  {{- $scratch.Add (printf "lang_%s" $lang) 1 }}
+  {{- range .Params.topics }}
+    {{- $key := . | urlize }}
+    {{- $scratch.Add (printf "topic_%s" $key) 1 }}
+    {{- if not (in $topicSet $key) }}
+      {{- $topicSet = $topicSet | append $key }}
+      {{- $scratch.SetInMap "topicNames" $key (. | title) }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+<div class="lang-filter">
+  <span class="filter-label">Language:</span>
+  <button class="filter-btn lang-filter-btn active" data-lang="all">All</button>
+  {{- $langEntries := slice }}
+  {{- range $code, $name := $langNames }}
+    {{- $count := $scratch.Get (printf "lang_%s" $code) }}
+    {{- if $count }}
+      {{- $langEntries = $langEntries | append (dict "code" $code "name" $name "count" $count) }}
+    {{- end }}
+  {{- end }}
+  {{- range sort $langEntries "count" "desc" }}
+  <button class="filter-btn lang-filter-btn" data-lang="{{ .code }}">{{ .name }} <span class="lang-filter-count">{{ .count }}</span></button>
+  {{- end }}
+</div>
+
+<div class="topic-filter">
+  <span class="filter-label">Topic:</span>
+  <button class="filter-btn topic-filter-btn active" data-topic="all">All</button>
+  {{- $topicEntries := slice }}
+  {{- range $key, $name := $scratch.Get "topicNames" }}
+    {{- $count := $scratch.Get (printf "topic_%s" $key) }}
+    {{- $topicEntries = $topicEntries | append (dict "key" $key "name" $name "count" $count) }}
+  {{- end }}
+  {{- range sort $topicEntries "count" "desc" }}
+  <button class="filter-btn topic-filter-btn" data-topic="{{ .key }}">{{ .name }} <span class="lang-filter-count">{{ .count }}</span></button>
+  {{- end }}
+</div>
+
+{{- range $pages.GroupByLastmod "2006" }}
+{{- if ne .Key "0001" }}
+<div class="archive-year">
+  <h2 class="archive-year-header">{{ .Key }}</h2>
+  {{- range .Pages.GroupByLastmod "January" }}
+  <div class="archive-month">
+    <h3 class="archive-month-header">{{ .Key }}</h3>
+    <div class="archive-posts">
+      {{- range .Pages }}
+      {{- if eq .Kind "page" }}
+      {{- $effectiveDate := .Lastmod | default .Date }}
+      {{- $isUpdated := and .Lastmod (ne .Lastmod .Date) }}
+      <div class="archive-entry" data-lang="{{ .Params.lang | default "es" }}" data-topics="{{ range .Params.topics }}{{ . | urlize }} {{ end }}">
+        <h3 class="archive-entry-title entry-hint-parent">
+          {{- .Title | markdownify }}
+          {{- if $isUpdated }} <span class="updated-badge">(Updated)</span>{{ end }}
+          {{- if .Draft }}
+          <span class="entry-hint" title="Draft">
+            <svg xmlns="http://www.w3.org/2000/svg" height="15" viewBox="0 -960 960 960" fill="currentColor">
+              <path
+                d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+            </svg>
+          </span>
+          {{- end }}
+        </h3>
+        <div class="archive-tags">
+          {{- with .Params.lang }}
+          <span class="lang-badge lang-{{ . }}">{{ index $langNames . }}</span>
+          {{- end }}
+          {{- range .Params.topics }}
+          <span class="topic-badge">{{ . | title }}</span>
+          {{- end }}
+        </div>
+        <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .RelPermalink }}"></a>
+      </div>
+      {{- end }}
+      {{- end }}
+    </div>
+  </div>
+  {{- end }}
+</div>
+{{- end }}
+{{- end }}
+
+</div>{{/* end .archives-container */}}
+
+<script>
+(function() {
+  var activeLang = 'all';
+  var activeTopic = 'all';
+
+  function applyFilters() {
+    document.querySelectorAll('.archive-entry').forEach(function(e) {
+      var langMatch = activeLang === 'all' || e.getAttribute('data-lang') === activeLang;
+      var topicMatch = activeTopic === 'all' || (' ' + e.getAttribute('data-topics')).indexOf(' ' + activeTopic + ' ') !== -1;
+      e.style.display = (langMatch && topicMatch) ? '' : 'none';
+    });
+    document.querySelectorAll('.archive-month').forEach(function(m) {
+      var hasVisible = false;
+      m.querySelectorAll('.archive-entry').forEach(function(e) {
+        if (e.style.display !== 'none') hasVisible = true;
+      });
+      m.style.display = hasVisible ? '' : 'none';
+    });
+    document.querySelectorAll('.archive-year').forEach(function(y) {
+      var hasVisible = false;
+      y.querySelectorAll('.archive-month').forEach(function(m) {
+        if (m.style.display !== 'none') hasVisible = true;
+      });
+      y.style.display = hasVisible ? '' : 'none';
+    });
+  }
+
+  document.querySelectorAll('.lang-filter-btn').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      document.querySelectorAll('.lang-filter-btn').forEach(function(b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      activeLang = btn.getAttribute('data-lang');
+      applyFilters();
+    });
+  });
+
+  document.querySelectorAll('.topic-filter-btn').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      document.querySelectorAll('.topic-filter-btn').forEach(function(b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      activeTopic = btn.getAttribute('data-topic');
+      applyFilters();
+    });
+  });
+})();
+</script>
+
+{{- end }}

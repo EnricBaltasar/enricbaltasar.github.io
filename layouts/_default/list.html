@@ -1,0 +1,67 @@
+{{- define "main" }}
+
+{{- if not .IsHome | and .Title }}
+<header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{- with .Description }}
+    <div class="post-description">{{ . }}</div>
+    {{- end }}
+</header>
+{{- end }}
+
+{{- if .Content }}
+<div class="entry-content page-content">
+    {{ .Content }}
+</div>
+{{- end }}
+
+{{- $pages := union .RegularPages .Sections }}
+{{- if .IsHome }}
+{{- $pages = where site.RegularPages "Type" "in" (site.Params.mainSections | default (slice "posts")) }}
+{{- end }}
+
+{{- $paginator := .Paginate $pages }}
+
+{{- range $paginator.Pages }}
+<div class="excerpt post">
+    {{- /* Featured image */ -}}
+    {{- with .Params.cover }}{{ with .image }}
+    <div class="featured-image">
+        <a href="{{ $.Permalink }}"><img src="{{ . }}" alt="{{ $.Title }}"></a>
+    </div>
+    {{- end }}{{ end }}
+
+    {{- /* Meta top */ -}}
+    <div class="excerpt-meta-top">
+        {{- if not .Date.IsZero }}Published {{ if and .Lastmod (ne .Lastmod .Date) }}{{ .Lastmod | time.Format "January 2, 2006" }} (Updated){{ else }}{{ .Date | time.Format "January 2, 2006" }}{{ end }}{{ end }}
+    </div>
+
+    {{- /* Excerpt title */ -}}
+    <div class="excerpt-header">
+        <h2 class="excerpt-title">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </h2>
+    </div>
+
+    {{- /* Excerpt content */ -}}
+    <div class="excerpt-content">
+        <article>
+            <p>{{ .Summary | plainify | htmlUnescape | truncate 200 }}</p>
+        </article>
+    </div>
+
+    {{- /* Topics */ -}}
+    {{- with .Params.topics }}
+    <div class="excerpt-categories">
+        <p><i class="fas fa-folder-open"></i>
+        {{- range $i, $t := . }}{{ if $i }} {{ end }}<span>{{ $t | title }}</span>{{ end }}
+        </p>
+    </div>
+    {{- end }}
+</div>
+{{- end }}
+
+{{- /* Pagination */ -}}
+{{- partial "pagination.html" . }}
+
+{{- end }}
