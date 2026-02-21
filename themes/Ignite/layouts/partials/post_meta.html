@@ -2,7 +2,11 @@
 
 {{- if not .Date.IsZero -}}
 {{- if eq .Type "posts" -}}
+{{- if and .Lastmod (ne .Lastmod .Date) }}
+{{- $scratch.Add "meta" (slice (printf "<span title='%s'>%s (Updated)</span>" (.Lastmod) (.Lastmod | time.Format (default ":date_long" site.Params.DateFormat)))) }}
+{{- else }}
 {{- $scratch.Add "meta" (slice (printf "<span title='%s'>%s</span>" (.Date) (.Date | time.Format (default ":date_long" site.Params.DateFormat)))) }}
+{{- end }}
 {{- end }}
 {{- end }}
 

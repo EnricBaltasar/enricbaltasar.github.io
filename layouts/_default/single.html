@@ -25,7 +25,10 @@
         <div class="author-info">
             <span class="author-name">{{ .Site.Params.author }}</span>
             <span class="meta-details">
-                {{- if not .Date.IsZero }}{{ .Date | time.Format "January 2, 2006" }}{{ end }}
+                {{- if not .Date.IsZero }}
+                {{- if and .Lastmod (ne .Lastmod .Date) }}{{ .Lastmod | time.Format "January 2, 2006" }} (Updated)
+                {{- else }}{{ .Date | time.Format "January 2, 2006" }}{{ end }}
+                {{- end }}
                 {{- if (.Param "ShowReadingTime") }} &middot; {{ .ReadingTime }} min read{{ end }}
             </span>
             <div class="meta-social">
@@ -40,7 +43,10 @@
         </div>
         {{- else }}
         <span class="meta-details">
-            {{- if not .Date.IsZero }}{{ .Date | time.Format "January 2, 2006" }}{{ end }}
+            {{- if not .Date.IsZero }}
+            {{- if and .Lastmod (ne .Lastmod .Date) }}{{ .Lastmod | time.Format "January 2, 2006" }} (Updated)
+            {{- else }}{{ .Date | time.Format "January 2, 2006" }}{{ end }}
+            {{- end }}
             {{- if (.Param "ShowReadingTime") }} &middot; {{ .ReadingTime }} min read{{ end }}
         </span>
         {{- end }}

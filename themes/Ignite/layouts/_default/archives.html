@@ -64,20 +64,22 @@
   {{- end }}
 </div>
 
-{{- range $pages.GroupByPublishDate "2006" }}
+{{- range $pages.GroupByLastmod "2006" }}
 {{- if ne .Key "0001" }}
 <div class="archive-year">
-  {{- $year := replace .Key "0001" "" }}
-  <h2 class="archive-year-header">{{ $year }}</h2>
-  {{- range .Pages.GroupByDate "January" }}
+  <h2 class="archive-year-header">{{ .Key }}</h2>
+  {{- range .Pages.GroupByLastmod "January" }}
   <div class="archive-month">
     <h3 class="archive-month-header">{{ .Key }}</h3>
     <div class="archive-posts">
       {{- range .Pages }}
       {{- if eq .Kind "page" }}
+      {{- $effectiveDate := .Lastmod | default .Date }}
+      {{- $isUpdated := and .Lastmod (ne .Lastmod .Date) }}
       <div class="archive-entry" data-lang="{{ .Params.lang | default "es" }}" data-topics="{{ range .Params.topics }}{{ . | urlize }} {{ end }}">
         <h3 class="archive-entry-title entry-hint-parent">
           {{- .Title | markdownify }}
+          {{- if $isUpdated }} <span class="updated-badge">(Updated)</span>{{ end }}
           {{- if .Draft }}
           <span class="entry-hint" title="Draft">
             <svg xmlns="http://www.w3.org/2000/svg" height="15" viewBox="0 -960 960 960" fill="currentColor">

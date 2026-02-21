@@ -33,7 +33,7 @@
 
     {{- /* Meta top */ -}}
     <div class="excerpt-meta-top">
-        {{- if not .Date.IsZero }}Published {{ .Date | time.Format "January 2, 2006" }}{{ end }}
+        {{- if not .Date.IsZero }}Published {{ if and .Lastmod (ne .Lastmod .Date) }}{{ .Lastmod | time.Format "January 2, 2006" }} (Updated){{ else }}{{ .Date | time.Format "January 2, 2006" }}{{ end }}{{ end }}
     </div>
 
     {{- /* Excerpt title */ -}}
