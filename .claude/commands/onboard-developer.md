@@ -59,7 +59,10 @@ This is a Hugo static site migrated from WordPress, deployed to GitHub Pages via
 - `content/posts/` — Blog posts (218 total, markdown with embedded HTML)
 - `content/*.md` — Static pages and special pages (archives, search)
 - `data/comments/` — Archived WordPress comments as JSON files (keyed by post slug)
-- `static/wp-content/uploads/` — Media files (353 original images, PDFs, audio — ~125MB)
+- `assets/images/` — Post images used via `{{< img >}}` shortcode
+- `static/images/` — Static images (served as-is)
+- `static/pdf/` — PDF documents and presentations
+- `static/audio/` — Audio files (OGG)
 - `layouts/partials/comments.html` — Read-only comment display template
 - `assets/css/extended/comments.css` — Comment styling (PaperMod CSS extension point)
 - `.github/workflows/hugo.yml` — GitHub Actions deployment workflow

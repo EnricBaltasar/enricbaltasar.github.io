@@ -6,6 +6,8 @@ Tooling:
 - GitHub Pages
 - Cloudflare
 - Squarespace
+- GA4
+- GSC
 
 Consideration:
 - Cloudflare Pages would solve the issue of trailing slashes for all URLs, meanwhile this presents limitations with GitHub Pages
