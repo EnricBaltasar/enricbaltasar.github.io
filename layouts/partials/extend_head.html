@@ -17,6 +17,17 @@
   .author-box-bio { margin: 0.3em 0 0; font-size: 0.9em; opacity: 0.8; }
   .author-box-social { margin-top: 0.3em; }
   .post-comments .comments-heading { border-top: solid 2px var(--ignite-border); padding-top: 1.375em; font-size: 1.625em; line-height: 1.85; margin-top: 2em; margin-bottom: 0; font-weight: 600; }
+  @media all and (min-width: 50em) { .menu-primary-items a { font-weight: 500; } }
+  .header-social { display: none; }
+  .menu-social { display: flex; gap: 1.25em; padding: 1.5em 5%; }
+  .menu-social a { color: rgba(255,255,255,0.6); font-size: 1.25em; text-decoration: none; transition: color 0.2s ease; }
+  .menu-social a:hover { color: var(--ignite-gold); }
+  @media all and (min-width: 50em) {
+    .menu-social { display: none; }
+    .header-social { display: flex; align-items: center; gap: 0.75em; flex-shrink: 0; margin-left: 0.5em; }
+    .header-social a { color: var(--ignite-dark); font-size: 1.1em; text-decoration: none; opacity: 0.6; transition: opacity 0.2s ease, color 0.2s ease; }
+    .header-social a:hover { opacity: 1; color: var(--ignite-gold); }
+  }
 </style>
 
 {{- /* Google Analytics GA4 */ -}}

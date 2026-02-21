@@ -17,9 +17,31 @@
         <ul class="menu-primary-items" id="menu-primary-items">
             {{- range .Site.Menus.main }}
             <li class="menu-item{{ if $.IsMenuCurrent "main" . }} current-menu-item{{ end }}{{ if $.HasMenuCurrent "main" . }} current-menu-item{{ end }}">
-                <a href="{{ .URL }}">{{ .Name }}</a>
+                <a href="{{ .URL }}">{{ .Name | safeHTML }}</a>
             </li>
             {{- end }}
         </ul>
+        <div class="menu-social">
+            {{- with site.Params.social.linkedin }}
+            <a href="{{ . }}" target="_blank" rel="noopener" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+            {{- end }}
+            {{- with site.Params.social.twitter }}
+            <a href="{{ . }}" target="_blank" rel="noopener" aria-label="X (Twitter)"><i class="fa-brands fa-x-twitter"></i></a>
+            {{- end }}
+            {{- with site.Params.social.youtube }}
+            <a href="{{ . }}" target="_blank" rel="noopener" aria-label="YouTube"><i class="fa-brands fa-youtube"></i></a>
+            {{- end }}
+        </div>
     </nav>
+    <div class="header-social">
+        {{- with site.Params.social.linkedin }}
+        <a href="{{ . }}" target="_blank" rel="noopener" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+        {{- end }}
+        {{- with site.Params.social.twitter }}
+        <a href="{{ . }}" target="_blank" rel="noopener" aria-label="X (Twitter)"><i class="fa-brands fa-x-twitter"></i></a>
+        {{- end }}
+        {{- with site.Params.social.youtube }}
+        <a href="{{ . }}" target="_blank" rel="noopener" aria-label="YouTube"><i class="fa-brands fa-youtube"></i></a>
+        {{- end }}
+    </div>
 </header>

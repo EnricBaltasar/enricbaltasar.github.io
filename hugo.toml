@@ -62,13 +62,14 @@ paginate = 10
     ]
 
 # Main navigation menu
+
 [[menus.main]]
-  name = "💬 Articles"
+  name = "Articles"
   url = "/articles/"
   weight = 10
 
 [[menus.main]]
-  name = "👋 About"
+  name = "About"
   url = "/about/"
   weight = 20
 
