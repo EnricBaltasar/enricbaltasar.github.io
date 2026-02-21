@@ -4,7 +4,7 @@ draft: false
 description: "Life is a series of experiments"
 ---
 
-<img src="/images/avatar.jpg" alt="Enric Baltasar" style="width: 120px; border-radius: 50%;">
+{{< img src="enric-baltasar.png" alt="Enric Baltasar" class="avatar" >}}
 
 *Check out [Nakora](https://nakora.ai).*
 

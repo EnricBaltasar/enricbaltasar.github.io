@@ -1,0 +1,25 @@
+<header class="site-header" id="site-header" role="banner">
+    <button id="toggle-navigation" class="toggle-navigation" aria-label="Toggle navigation">
+        <i class="fas fa-bars"></i>
+    </button>
+    <div id="title-info" class="title-info">
+        {{- if .IsHome }}
+        <h1 class="site-title">
+            <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+        </h1>
+        {{- else }}
+        <div class="site-title">
+            <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+        </div>
+        {{- end }}
+    </div>
+    <nav class="menu-primary" id="menu-primary" role="navigation">
+        <ul class="menu-primary-items" id="menu-primary-items">
+            {{- range .Site.Menus.main }}
+            <li class="menu-item{{ if $.IsMenuCurrent "main" . }} current-menu-item{{ end }}{{ if $.HasMenuCurrent "main" . }} current-menu-item{{ end }}">
+                <a href="{{ .URL }}">{{ .Name }}</a>
+            </li>
+            {{- end }}
+        </ul>
+    </nav>
+</header>
