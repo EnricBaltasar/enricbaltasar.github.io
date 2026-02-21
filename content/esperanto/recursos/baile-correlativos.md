@@ -3,7 +3,8 @@ title: "El baile de los correlativos en esperanto"
 date: 2015-03-17T14:00:42+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "baile-correlativos-esperanto"
+slug: "baile-correlativos"
+aliases: ["/baile-correlativos-esperanto/"]
 lang: es
 ---
 

@@ -3,7 +3,8 @@ title: "Festividades en esperanto"
 date: 2016-12-10T13:00:07+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "festividades-esperanto"
+slug: "festividades"
+aliases: ["/festividades-esperanto/"]
 lang: es
 ---
 

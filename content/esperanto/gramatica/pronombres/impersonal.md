@@ -3,7 +3,8 @@ title: "Pronombre impersonal en esperanto"
 date: 2015-06-08T14:00:22+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "pronombre-impersonal-esperanto"
+slug: "impersonal"
+aliases: ["/pronombre-impersonal-esperanto/"]
 lang: es
 ---
 

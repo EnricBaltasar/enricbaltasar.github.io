@@ -3,7 +3,8 @@ title: "Afijos no oficiales en esperanto"
 date: 2016-09-24T15:00:43+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "afijos-no-oficiales-esperanto"
+slug: "no-oficiales"
+aliases: ["/afijos-no-oficiales-esperanto/"]
 lang: es
 ---
 

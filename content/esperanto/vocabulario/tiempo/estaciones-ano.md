@@ -3,7 +3,8 @@ title: "Las estaciones del año en esperanto"
 date: 2015-05-14T14:00:05+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "estaciones-ano-esperanto"
+slug: "estaciones-ano"
+aliases: ["/estaciones-ano-esperanto/"]
 lang: es
 ---
 

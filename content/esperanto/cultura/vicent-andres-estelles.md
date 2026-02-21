@@ -4,7 +4,8 @@ date: 2015-01-29T15:00:15+00:00
 lastmod: 2023-06-17T08:01:37+00:00
 draft: false
 topics: ["Esperanto Language & Culture", "Poetry"]
-slug: "vicent-andres-estelles-esperanto"
+slug: "vicent-andres-estelles"
+aliases: ["/vicent-andres-estelles-esperanto/", "/estelles-esperanto-i/"]
 lang: es
 ---
 

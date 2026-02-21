@@ -3,7 +3,8 @@ title: "Acusativo de cantidad y tiempo en esperanto"
 date: 2015-02-24T14:00:05+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "acusativo-cantidad-tiempo-esperanto"
+slug: "cantidad-tiempo"
+aliases: ["/acusativo-cantidad-tiempo-esperanto/"]
 lang: es
 ---
 
@@ -87,4 +88,4 @@ Una duda ‒y falta‒ habitual entre los que empiezan a aprender el acusativo d
 
  
 
-<span style="color: #999999;"><em>En la siguiente lección nos fijaremos en un caso de </em></span><span style="color: #999999;"><em><strong><a style="color: #999999;" href="/acusativo-predicativo-esperanto/">acusativo y predicativo</a></strong>, en de la serie <a style="color: #999999;" href="/acusativo-esperanto/">Acusativo en esperanto</a>.</em></span>
+<span style="color: #999999;"><em>En la siguiente lección nos fijaremos en un caso de </em></span><span style="color: #999999;"><em><strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/predicativo/">acusativo y predicativo</a></strong>, en de la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo/">Acusativo en esperanto</a>.</em></span>

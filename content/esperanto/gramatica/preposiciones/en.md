@@ -3,7 +3,8 @@ title: "Preposición en esperanto \"en\""
 date: 2015-03-25T14:00:12+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "preposicion-esperanto-en"
+slug: "en"
+aliases: ["/preposicion-esperanto-en/"]
 lang: es
 ---
 

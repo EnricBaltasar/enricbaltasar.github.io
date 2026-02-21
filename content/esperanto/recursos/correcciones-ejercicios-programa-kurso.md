@@ -3,7 +3,8 @@ title: "Correcciones de los ejercicios del programa Kurso de Esperanto"
 date: 2014-04-18T15:46:18+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "correcciones-ejercicios-programa-kurso-esperanto"
+slug: "correcciones-ejercicios-programa-kurso"
+aliases: ["/correcciones-ejercicios-programa-kurso-esperanto/"]
 lang: es
 ---
 

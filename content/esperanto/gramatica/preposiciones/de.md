@@ -3,7 +3,8 @@ title: "Preposición en esperanto \"de\""
 date: 2015-03-26T14:00:14+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "preposicion-esperanto-de"
+slug: "de"
+aliases: ["/preposicion-esperanto-de/"]
 lang: es
 ---
 

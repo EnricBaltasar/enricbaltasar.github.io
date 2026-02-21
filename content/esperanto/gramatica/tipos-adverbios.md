@@ -3,11 +3,12 @@ title: "Tipos de adverbios en esperanto y cómo traducirlos"
 date: 2016-01-23T13:00:38+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "tipos-adverbios-esperanto"
+slug: "tipos-adverbios"
+aliases: ["/tipos-adverbios-esperanto/"]
 lang: es
 ---
 
-Existen dos tipos de <a href="/adverbios-esperanto/">adverbios en esperanto</a> atendiendo a cómo están formados:
+Existen dos tipos de <a href="/esperanto/gramatica/terminaciones/adverbios/">adverbios en esperanto</a> atendiendo a cómo están formados:
 
  
 
@@ -53,7 +54,7 @@ Tan solo existen unos pocos adverbios de este tipo, cuya <a href="https://es.wik
 <strong>Almenaŭ</strong> <span style="color: #808080;">(al menos)</span>
 <strong>Apenaŭ</strong> <span style="color: #808080;">(apenas)</span>
 <strong>Baldaŭ</strong> <span style="color: #808080;">(pronto)</span>
-<strong><a href="/particula-ci-esperanto/">Ĉi</a></strong><span style="color: #999999;">*</span> <span style="color: #808080;">(partícula aproximativa)</span>
+<strong><a href="/esperanto/gramatica/particula-ci/">Ĉi</a></strong><span style="color: #999999;">*</span> <span style="color: #808080;">(partícula aproximativa)</span>
 <strong>Eĉ</strong> <span style="color: #808080;">(incluso, aun, hasta)</span>
 <strong>For</strong> <span style="color: #808080;">(lejos)</span>
 <strong>Hieraŭ</strong> <span style="color: #808080;">(ayer)</span>
@@ -65,9 +66,9 @@ Tan solo existen unos pocos adverbios de este tipo, cuya <a href="https://es.wik
 <strong>Morgaŭ</strong> <span style="color: #808080;">(mañana)</span>
 <strong>Ne</strong> <span style="color: #808080;">(no)</span>
 <strong>Nun</strong> <span style="color: #808080;">(ahora)</span>
-<strong><a href="/errores-habituales-esperanto/#solo">Nur</a></strong> <span style="color: #808080;">(solo)</span>
+<strong><a href="/esperanto/errores/mas-comunes/#solo">Nur</a></strong> <span style="color: #808080;">(solo)</span>
 <strong>Pli</strong> <span style="color: #808080;">(más)</span>
-<strong><a href="/errores-habituales-esperanto/#mas-temporal">Plu</a></strong><span style="color: #999999;">*</span> <span style="color: #808080;">(más <em>[tiempo]</em>)</span>
+<strong><a href="/esperanto/errores/mas-comunes/#mas-temporal">Plu</a></strong><span style="color: #999999;">*</span> <span style="color: #808080;">(más <em>[tiempo]</em>)</span>
 <strong>Preskaŭ</strong> <span style="color: #808080;">(casi)</span>
 <strong>Tre</strong> <span style="color: #808080;">(muy, mucho)</span>
 <strong>Tro</strong> <span style="color: #808080;">(demasiado)</span>
@@ -94,5 +95,5 @@ Apenaŭ → Apenaŭe
 
  
 
-<span style="color: #999999;"><strong>Nota:</strong> <a style="color: #999999;" href="/errores-habituales-esperanto/#mas-manzanas">error frecuente pli / pliaj homoj
+<span style="color: #999999;"><strong>Nota:</strong> <a style="color: #999999;" href="/esperanto/errores/mas-comunes/#mas-manzanas">error frecuente pli / pliaj homoj
 </a>Lo mismo pasa, aunque se ve más, con <em>tro</em> (demasiado), <em>troaj homoj</em> (demasiadas personas). El adverbio es invariable.</span>

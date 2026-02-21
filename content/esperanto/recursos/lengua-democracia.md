@@ -4,6 +4,7 @@ date: 2016-09-17T13:00:12+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
 slug: "lengua-democracia"
+aliases: ["/lengua-democracia/"]
 lang: es
 ---
 

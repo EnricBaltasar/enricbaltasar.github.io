@@ -4,7 +4,8 @@ date: 2015-06-01T14:00:27+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
 description: "¿Hay música en esperanto? ¿Cómo suena? ¿Cómo encontrarla?"
-slug: "musica-esperanto"
+slug: "musica"
+aliases: ["/musica-esperanto/"]
 lang: es
 ---
 
@@ -48,4 +49,4 @@ Es menos sencillo que encontrar canciones en castellano, porque no se oyen en l
 
 ¿Qué canción te ha gustado más de las que has escuchado?
 
-También te puede interesar saber cómo encontrar <a href="/letras-canciones-esperanto/">letras de canciones en esperanto</a>.
+También te puede interesar saber cómo encontrar <a href="/esperanto/cultura/letras-canciones/">letras de canciones en esperanto</a>.

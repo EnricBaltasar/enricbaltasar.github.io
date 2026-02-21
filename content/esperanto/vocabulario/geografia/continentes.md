@@ -3,7 +3,8 @@ title: "Los continentes en esperanto"
 date: 2015-05-05T14:00:14+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "continentes-esperanto"
+slug: "continentes"
+aliases: ["/continentes-esperanto/"]
 lang: es
 ---
 

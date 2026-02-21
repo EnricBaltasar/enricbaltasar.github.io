@@ -3,7 +3,8 @@ title: "El alfabeto y cómo pronunciar la letras en esperanto"
 date: 2015-02-03T14:00:03+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "alfabeto-pronunciacion-esperanto"
+slug: "alfabeto-pronunciacion"
+aliases: ["/alfabeto-pronunciacion-esperanto/"]
 lang: es
 ---
 

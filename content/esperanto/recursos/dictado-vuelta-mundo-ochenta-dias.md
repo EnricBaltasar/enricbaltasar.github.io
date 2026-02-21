@@ -3,7 +3,8 @@ title: "Dictado en esperanto de un párrafo del libro La vuelta al mundo en oche
 date: 2015-05-27T14:00:45+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "dictado-esperanto-parrafo-libro-vuelta-mundo-ochenta-dias"
+slug: "dictado-vuelta-mundo-ochenta-dias"
+aliases: ["/dictado-esperanto-parrafo-libro-vuelta-mundo-ochenta-dias/"]
 lang: es
 ---
 

@@ -4,7 +4,8 @@ date: 2018-04-11T14:00:36+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
 description: "Aprenderemos a expresar las emociones, sentimientos y estados de ánimo en esperanto a través de listas de vocabulario y un poco de gramática."
-slug: "emociones-sentimientos-esperanto"
+slug: "emociones-sentimientos"
+aliases: ["/emociones-sentimientos-esperanto/"]
 lang: es
 ---
 
@@ -73,7 +74,7 @@ De paso, aquí tienes algunas preguntas más que se usan frecuentemente:
     <li>Feliĉa – Feliz</li>
     <li>Gaja – Alegre</li>
     <li>Ĝoja – Contento, alegre
-<span style="color: #999999;"><em>[<a style="color: #999999;" href="/errores-habituales-esperanto/#alegre">Ver diferencia con gaja</a>]</em></span></li>
+<span style="color: #999999;"><em>[<a style="color: #999999;" href="/esperanto/errores/mas-comunes/#alegre">Ver diferencia con gaja</a>]</em></span></li>
     <li>Fiera – Orgulloso/a</li>
     <li>Pova – Poderoso/a</li>
     <li>Optimisma – Optimista
@@ -157,7 +158,7 @@ De paso, aquí tienes algunas preguntas más que se usan frecuentemente:
 
 <h2 id="multiplicando-vocabulario-con-mal"><span style="color: #ff6600;"><strong>Multiplicando vocabulario con MAL–</strong></span></h2>
 
-El <a href="/afijos-vocabulario-esperanto-mal-il-ar-ej/">sufijo mal–</a> crea antónimos absolutos. En el caso de las emociones y sentimientos en esperanto podríamos crear por ejemplo las siguientes:
+El <a href="/esperanto/gramatica/afijos/vocabulario-mal-il-ar-ej/">sufijo mal–</a> crea antónimos absolutos. En el caso de las emociones y sentimientos en esperanto podríamos crear por ejemplo las siguientes:
 
 <table>
 <tbody>

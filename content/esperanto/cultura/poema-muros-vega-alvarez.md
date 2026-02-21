@@ -3,7 +3,8 @@ title: "Poema \"Muros\", de C. Vega Álvarez, en esperanto"
 date: 2015-02-05T15:00:13+00:00
 draft: false
 topics: ["Poetry", "Esperanto Language & Culture"]
-slug: "poema-muros-vega-alvarez-esperanto"
+slug: "poema-muros-vega-alvarez"
+aliases: ["/poema-muros-vega-alvarez-esperanto/"]
 lang: es
 ---
 

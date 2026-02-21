@@ -3,11 +3,12 @@ title: "Tabla básica de preposiciones en esperanto"
 date: 2015-03-24T14:00:30+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "tabla-basica-preposiciones-esperanto"
+slug: "tabla-basica"
+aliases: ["/tabla-basica-preposiciones-esperanto/"]
 lang: es
 ---
 
-Como ya comentamos, <a href="/introduccion-preposiciones-esperanto/">no existe una correspondencia exacta de preposiciones esperanto-castellano</a>. Pero a continuación vamos a ver una tabla orientativa de cuándo usar cada una:
+Como ya comentamos, <a href="/esperanto/gramatica/preposiciones/introduccion/">no existe una correspondencia exacta de preposiciones esperanto-castellano</a>. Pero a continuación vamos a ver una tabla orientativa de cuándo usar cada una:
 
 <table>
 <thead>
@@ -210,7 +211,7 @@ Como ya comentamos, <a href="/introduccion-preposiciones-esperanto/">no existe u
 
 Como puedes ver, <strong><em>pri</em></strong> no significa solo <span style="text-decoration: underline;"><em>de</em></span>, sino <span style="text-decoration: underline;"><em>en cuanto a</em></span>. Esto es porque en castellano lo segundo se llama locución prepositiva, y esto no existe en esperanto.
 
-Otra cosa que debes saber es que existe la <a href="/comodines-esperanto-je-um-bleki/">preposición <em><strong>je</strong></em></a>, que es como un comodín.
+Otra cosa que debes saber es que existe la <a href="/esperanto/vocabulario/comodines-je-um-bleki/">preposición <em><strong>je</strong></em></a>, que es como un comodín.
 
 Ahora que hemos visto la tabla, te voy a poner un ejemplo de por qué digo que es solamente orientativa para empezar:
 

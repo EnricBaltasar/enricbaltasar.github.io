@@ -3,7 +3,8 @@ title: "Radios en esperanto"
 date: 2015-10-03T13:00:33+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "radios-esperanto"
+slug: "radios"
+aliases: ["/radios-esperanto/"]
 lang: es
 ---
 

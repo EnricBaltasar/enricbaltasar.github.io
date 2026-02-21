@@ -3,7 +3,8 @@ title: "Estilos de música en esperanto"
 date: 2015-03-09T14:00:38+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "estilos-musica-esperanto"
+slug: "estilos-musica"
+aliases: ["/estilos-musica-esperanto/"]
 lang: es
 ---
 

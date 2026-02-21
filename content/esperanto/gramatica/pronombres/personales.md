@@ -3,7 +3,8 @@ title: "Pronombres personales en esperanto"
 date: 2015-06-05T14:00:46+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "pronombres-personales-esperanto"
+slug: "personales"
+aliases: ["/pronombres-personales-esperanto/"]
 lang: es
 ---
 

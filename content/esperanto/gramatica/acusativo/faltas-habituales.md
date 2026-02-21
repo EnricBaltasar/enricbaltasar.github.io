@@ -3,7 +3,8 @@ title: "Faltas habituales con el acusativo en esperanto"
 date: 2015-02-18T14:00:40+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "faltas-habituales-acusativo-esperanto"
+slug: "faltas-habituales"
+aliases: ["/faltas-habituales-acusativo-esperanto/"]
 lang: es
 ---
 
@@ -124,4 +125,4 @@ A Peter le gusta eso. A Peter le gusta bailar.
 
  
 
-<span style="color: #999999;"><em>En la siguiente lección veremos el <strong><a style="color: #999999;" href="/acusativo-eliptico-esperanto/">acusativo elíptico</a></strong>, dentro de la serie <a style="color: #999999;" href="/acusativo-esperanto/">Acusativo en esperanto</a>.</em></span>
+<span style="color: #999999;"><em>En la siguiente lección veremos el <strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/eliptico/">acusativo elíptico</a></strong>, dentro de la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo/">Acusativo en esperanto</a>.</em></span>

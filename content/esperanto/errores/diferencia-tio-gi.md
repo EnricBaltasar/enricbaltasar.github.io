@@ -4,6 +4,7 @@ date: 2015-03-02T14:00:47+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
 slug: "diferencia-tio-gi"
+aliases: ["/diferencia-tio-gi/"]
 lang: es
 ---
 

@@ -4,6 +4,7 @@ date: 2016-05-26T13:00:20+00:00
 draft: false
 topics: ["Esperanto Language & Culture", "Republished"]
 slug: "estos-terricolas-son-unos-autenticos-masocas"
+aliases: ["/estos-terricolas-son-unos-autenticos-masocas/"]
 lang: es
 ---
 

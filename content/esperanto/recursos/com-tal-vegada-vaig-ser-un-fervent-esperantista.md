@@ -3,7 +3,8 @@ title: "Com tal vegada vaig ser un fervent esperantista sense parlar en absolut 
 date: 2016-06-04T13:00:50+00:00
 draft: false
 topics: ["Esperanto Language & Culture", "Republished"]
-slug: "com-tal-vegada-vaig-ser-un-fervent-esperantista-sense-parlar-en-absolut-esperanto"
+slug: "com-tal-vegada-vaig-ser-un-fervent-esperantista"
+aliases: ["/com-tal-vegada-vaig-ser-un-fervent-esperantista-sense-parlar-en-absolut-esperanto/"]
 lang: ca
 ---
 

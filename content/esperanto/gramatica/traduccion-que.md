@@ -3,7 +3,8 @@ title: "Cómo se traduce \"que\" al esperanto"
 date: 2016-04-16T13:00:45+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "traduccion-que-esperanto"
+slug: "traduccion-que"
+aliases: ["/traduccion-que-esperanto/"]
 lang: es
 ---
 

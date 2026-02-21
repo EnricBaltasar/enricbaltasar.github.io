@@ -3,7 +3,8 @@ title: "Colores en esperanto"
 date: 2015-04-26T14:00:58+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "colores-esperanto"
+slug: "colores"
+aliases: ["/colores-esperanto/"]
 lang: es
 ---
 

@@ -3,7 +3,8 @@ title: "Pronombres posesivos en esperanto"
 date: 2015-06-10T14:00:09+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "pronombres-posesivos-esperanto"
+slug: "posesivos"
+aliases: ["/pronombres-posesivos-esperanto/"]
 lang: es
 ---
 

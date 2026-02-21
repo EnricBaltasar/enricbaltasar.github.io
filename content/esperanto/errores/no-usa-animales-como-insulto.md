@@ -3,7 +3,8 @@ title: "Corrección: no se usa a los animales como insulto en esperanto"
 date: 2015-05-18T14:00:29+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "correccion-no-usa-animales-como-insulto-esperanto"
+slug: "no-usa-animales-como-insulto"
+aliases: ["/correccion-no-usa-animales-como-insulto-esperanto/"]
 lang: es
 ---
 

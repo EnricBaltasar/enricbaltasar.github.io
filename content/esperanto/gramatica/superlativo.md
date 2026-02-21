@@ -3,11 +3,12 @@ title: "Superlativo en esperanto"
 date: 2015-05-24T14:00:21+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "superlativo-esperanto"
+slug: "superlativo"
+aliases: ["/superlativo-esperanto/"]
 lang: es
 ---
 
-Ya hemos visto el <a href="/comparativo-esperanto/">comparativo en esperanto</a>:
+Ya hemos visto el <a href="/esperanto/gramatica/comparativo/">comparativo en esperanto</a>:
 <pre>‒ De superiodiad: <strong>pli... ol...</strong> <span style="color: #808080;">(más... que...)</span>
 ‒ De igualdad: <strong>tiel... kiel...</strong> <span style="color: #808080;">(tan... como...)</span>
 ‒ De inferioridad: <strong>malpli... ol...</strong> <span style="color: #808080;">(menos... que...)</span></pre>

@@ -3,7 +3,8 @@ title: "SPAM en esperanto"
 date: 2016-11-12T13:00:06+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "spam-esperanto"
+slug: "spam"
+aliases: ["/spam-esperanto/"]
 lang: es
 ---
 

@@ -4,7 +4,8 @@ date: 2017-11-29T13:00:29+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
 description: "¿Buscando un nombre original para una marca? Encuentra aquí una ayuda"
-slug: "nombres-marcas-esperanto"
+slug: "nombres-marcas"
+aliases: ["/nombres-marcas-esperanto/"]
 lang: es
 ---
 
@@ -100,7 +101,7 @@ Fue un poco chocante para mí cuando hará unos tres años un amigo que estaba v
 
 Por comentar un caso que se da con la internacionalización de marcas, una vez  en Holanda vi un anuncio de Dutch Rabobank, lo que me resultó divertido por el hecho de que <em>rabo</em> en esperanto significa <em>robo</em>: ¡el banco holandés que roba!
 
-Para buscar palabras puedes <a href="/diccionarios-esperanto/">consultar diccionarios digitales</a> y hacer uso de listados de palabras en Internet. Una recomendación que te hago es que, para elegir el nombre, contactes con un esperantista (yo mismo puedo ayudarte) para que pueda orientarte o resolverte alguna duda.
+Para buscar palabras puedes <a href="/esperanto/aprender/diccionarios/">consultar diccionarios digitales</a> y hacer uso de listados de palabras en Internet. Una recomendación que te hago es que, para elegir el nombre, contactes con un esperantista (yo mismo puedo ayudarte) para que pueda orientarte o resolverte alguna duda.
 
 Acabo con un bonus:
 

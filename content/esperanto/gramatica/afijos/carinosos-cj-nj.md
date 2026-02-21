@@ -3,7 +3,8 @@ title: "Afijos cariñosos en esperanto: -ĉj-, -nj-"
 date: 2015-04-12T14:00:12+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "afijos-carinosos-esperanto-cj-nj"
+slug: "carinosos-cj-nj"
+aliases: ["/afijos-carinosos-esperanto-cj-nj/"]
 lang: es
 ---
 

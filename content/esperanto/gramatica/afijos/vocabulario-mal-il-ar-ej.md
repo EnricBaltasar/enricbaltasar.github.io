@@ -3,7 +3,8 @@ title: "Afijos de vocabulario en esperanto: mal-, -il-, -ar-, -ej-"
 date: 2015-04-14T14:00:46+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "afijos-vocabulario-esperanto-mal-il-ar-ej"
+slug: "vocabulario-mal-il-ar-ej"
+aliases: ["/afijos-vocabulario-esperanto-mal-il-ar-ej/"]
 lang: es
 ---
 

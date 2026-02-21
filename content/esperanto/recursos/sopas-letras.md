@@ -3,7 +3,8 @@ title: "Sopas de letras en esperanto"
 date: 2016-04-09T13:00:55+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "sopas-letras-esperanto"
+slug: "sopas-letras"
+aliases: ["/sopas-letras-esperanto/"]
 lang: es
 ---
 

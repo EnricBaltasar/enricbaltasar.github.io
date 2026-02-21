@@ -5,7 +5,8 @@ lastmod: 2023-06-17T07:59:21+00:00
 draft: false
 topics: ["Esperanto Language & Culture", "Poetry"]
 description: "Encontrarás aquí poemas de Pedro Salinas traducidos al esperanto pertenecientes la obra La voz a ti debida (1933) y Largo lamento 1938)."
-slug: "pedro-salinas-esperanto"
+slug: "pedro-salinas"
+aliases: ["/pedro-salinas-esperanto/"]
 lang: es
 ---
 

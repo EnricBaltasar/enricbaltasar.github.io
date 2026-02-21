@@ -3,7 +3,8 @@ title: "Useful documentation for the Esperanto movement"
 date: 2016-06-11T13:00:53+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "useful-documentation-esperanto-movement"
+slug: "useful-documentation-movement"
+aliases: ["/useful-documentation-esperanto-movement/"]
 lang: en
 ---
 

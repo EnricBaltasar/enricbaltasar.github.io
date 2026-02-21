@@ -3,7 +3,8 @@ title: "Comparativo en esperanto"
 date: 2015-05-22T14:00:42+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "comparativo-esperanto"
+slug: "comparativo"
+aliases: ["/comparativo-esperanto/"]
 lang: es
 ---
 

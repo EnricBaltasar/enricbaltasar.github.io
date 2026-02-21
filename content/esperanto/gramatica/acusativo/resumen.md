@@ -3,7 +3,8 @@ title: "Resumen final del acusativo en esperanto"
 date: 2015-03-01T14:00:57+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "resumen-acusativo-esperanto"
+slug: "resumen"
+aliases: ["/resumen-acusativo-esperanto/"]
 lang: es
 ---
 
@@ -52,7 +53,7 @@ Aquí tienes un <strong>resumen final del acusativo en esperanto</strong>:
 </li>
 </ul>
 
-Para revisar las lecciones puedes ir a la página <em><a href="/acusativo-esperanto/">Acusativo en esperanto</a></em>.
+Para revisar las lecciones puedes ir a la página <em><a href="/esperanto/gramatica/acusativo/">Acusativo en esperanto</a></em>.
 
  
 

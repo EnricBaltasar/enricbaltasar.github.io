@@ -4,7 +4,8 @@ date: 2017-04-22T13:00:58+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
 description: "Aprende el nombre de los puntos cardinales, con algunas oraciones de ejemplo, en la lengua internacional esperanto."
-slug: "puntos-cardinales-esperanto"
+slug: "puntos-cardinales"
+aliases: ["/puntos-cardinales-esperanto/"]
 lang: es
 ---
 

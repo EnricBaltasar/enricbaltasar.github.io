@@ -3,7 +3,8 @@ title: "Signos de puntuación en esperanto"
 date: 2015-04-27T14:00:11+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "signos-puntuacion-esperanto"
+slug: "signos-puntuacion"
+aliases: ["/signos-puntuacion-esperanto/"]
 lang: es
 ---
 

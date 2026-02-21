@@ -3,7 +3,8 @@ title: "Los números en esperanto (con audio)"
 date: 2015-01-27T14:00:48+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "numeros-esperanto"
+slug: "numeros"
+aliases: ["/numeros-esperanto/"]
 lang: es
 ---
 

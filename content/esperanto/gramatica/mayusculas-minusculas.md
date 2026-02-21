@@ -3,11 +3,12 @@ title: "Mayúsculas y minúsculas en esperanto"
 date: 2015-10-24T13:00:53+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "mayusculas-minusculas-esperanto"
+slug: "mayusculas-minusculas"
+aliases: ["/mayusculas-minusculas-esperanto/"]
 lang: es
 ---
 
-<!--more-->Antes de empezar, me gustaría insistir en que la palabra <a href="/correccion-esperanto-minusculas-castellano/"><em>esperanto</em> va en minúsculas en castellano</a>. Y, dicho esto, empecemos a ver cuándo debemos hacer uso de mayúsculas y minúsculas en esperanto, aunque el uso es igual o prácticamente idéntico al del castellano:
+<!--more-->Antes de empezar, me gustaría insistir en que la palabra <a href="/esperanto/errores/minusculas-castellano/"><em>esperanto</em> va en minúsculas en castellano</a>. Y, dicho esto, empecemos a ver cuándo debemos hacer uso de mayúsculas y minúsculas en esperanto, aunque el uso es igual o prácticamente idéntico al del castellano:
 
  
 

@@ -3,7 +3,8 @@ title: "Polyglot Gathering 2015"
 date: 2015-04-25T14:00:06+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "polyglot-gathering-2015-2"
+slug: "polyglot-gathering-2015"
+aliases: ["/polyglot-gathering-2015-2/"]
 lang: es
 ---
 

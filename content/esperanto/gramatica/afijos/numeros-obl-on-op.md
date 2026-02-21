@@ -3,11 +3,12 @@ title: "Sufijos para los números en esperanto: -obl-, -on-, -op-"
 date: 2015-04-10T14:00:49+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "afijos-numeros-esperanto-obl-on-op"
+slug: "numeros-obl-on-op"
+aliases: ["/afijos-numeros-esperanto-obl-on-op/"]
 lang: es
 ---
 
-Hay tres sufijos del esperanto que se utilizan con los <a href="/numeros-esperanto/">números</a>. Si te los aprendes ahora, te ahorrarás en el futuro dolores de cabeza:
+Hay tres sufijos del esperanto que se utilizan con los <a href="/esperanto/vocabulario/numeros/">números</a>. Si te los aprendes ahora, te ahorrarás en el futuro dolores de cabeza:
 <table>
 <thead>
 <tr>

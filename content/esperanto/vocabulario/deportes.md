@@ -3,7 +3,8 @@ title: "Los deportes en esperanto"
 date: 2015-05-03T14:00:10+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "deportes-esperanto"
+slug: "deportes"
+aliases: ["/deportes-esperanto/"]
 lang: es
 ---
 

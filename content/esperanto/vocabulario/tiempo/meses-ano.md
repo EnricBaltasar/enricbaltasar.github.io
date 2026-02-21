@@ -3,7 +3,8 @@ title: "Los meses del año en esperanto"
 date: 2015-05-07T14:00:59+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "meses-ano-esperanto"
+slug: "meses-ano"
+aliases: ["/meses-ano-esperanto/"]
 lang: es
 ---
 

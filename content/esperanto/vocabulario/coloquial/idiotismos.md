@@ -3,7 +3,8 @@ title: "Idiotismos en esperanto"
 date: 2015-08-15T13:00:54+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "idiotismos-esperanto"
+slug: "idiotismos"
+aliases: ["/idiotismos-esperanto/"]
 lang: es
 ---
 

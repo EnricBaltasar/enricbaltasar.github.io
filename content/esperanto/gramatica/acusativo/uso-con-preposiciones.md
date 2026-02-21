@@ -3,7 +3,8 @@ title: "Preposiciones con acusativo en esperanto"
 date: 2015-02-20T14:00:17+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "preposiciones-acusativo-esperanto"
+slug: "uso-con-preposiciones"
+aliases: ["/preposiciones-acusativo-esperanto/"]
 lang: es
 ---
 
@@ -100,4 +101,4 @@ Por otro lado, una cosa importantísima que debemos tener en cuenta es que <stro
 
  
 
-<span style="color: #999999;"><em>A continuación veremos el <strong><a style="color: #999999;" href="/acusativo-direccion-esperanto/">acusativo de dirección</a></strong>, íntimamente ligado a esta lección y en la serie <a style="color: #999999;" href="/acusativo-esperanto/">Acusativo en esperanto</a>.</em></span>
+<span style="color: #999999;"><em>A continuación veremos el <strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/direccion/">acusativo de dirección</a></strong>, íntimamente ligado a esta lección y en la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo/">Acusativo en esperanto</a>.</em></span>

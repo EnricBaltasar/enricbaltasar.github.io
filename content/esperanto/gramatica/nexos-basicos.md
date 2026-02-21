@@ -3,7 +3,8 @@ title: "Nexos básicos en esperanto"
 date: 2015-05-28T14:00:30+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "nexos-basicos-esperanto"
+slug: "nexos-basicos"
+aliases: ["/nexos-basicos-esperanto/"]
 lang: es
 ---
 

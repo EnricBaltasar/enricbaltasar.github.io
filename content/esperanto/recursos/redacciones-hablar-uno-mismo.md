@@ -3,7 +3,8 @@ title: "Redacciones en esperanto: hablar de uno mismo"
 date: 2015-03-30T14:00:38+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "redacciones-esperanto-hablar-uno-mismo"
+slug: "redacciones-hablar-uno-mismo"
+aliases: ["/redacciones-esperanto-hablar-uno-mismo/"]
 lang: es
 ---
 

@@ -3,7 +3,8 @@ title: "Las frutas en esperanto"
 date: 2015-03-11T14:00:59+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "frutas-esperanto"
+slug: "frutas"
+aliases: ["/frutas-esperanto/"]
 lang: es
 ---
 

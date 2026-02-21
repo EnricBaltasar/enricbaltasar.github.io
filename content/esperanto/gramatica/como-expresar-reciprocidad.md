@@ -3,13 +3,14 @@ title: "Cómo expresar reciprocidad en esperanto"
 date: 2016-01-16T13:00:51+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "como-expresar-reciprocidad-esperanto"
+slug: "como-expresar-reciprocidad"
+aliases: ["/como-expresar-reciprocidad-esperanto/"]
 lang: es
 ---
 
 Para expresar reciprocidad en esperanto contamos con diferentes posibilidades, a elegir según la preferencia y conveniencia:
 
-<span style="color: #ff6600;"><strong>A)</strong></span> Con el <a href="/pronombre-reflexivo-esperanto/">pronombre reflexivo</a>:
+<span style="color: #ff6600;"><strong>A)</strong></span> Con el <a href="/esperanto/gramatica/pronombres/reflexivo/">pronombre reflexivo</a>:
 
 <pre><strong>Ili konis sin hieraŭ</strong> <span style="color: #808080;">(se conocieron ayer)</span></pre>
 

@@ -3,11 +3,12 @@ title: "El afijo de familia en esperanto bo-"
 date: 2015-04-17T14:00:19+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "afijo-familia-esperanto-bo"
+slug: "familia-bo"
+aliases: ["/afijo-familia-esperanto-bo/"]
 lang: es
 ---
 
-<!--more--><span style="color: #999999;"><em>((Primero debes aprenderte el <a style="color: #999999;" href="/familia-esperanto/">vocabulario de familia</a>))</em></span>
+<!--more--><span style="color: #999999;"><em>((Primero debes aprenderte el <a style="color: #999999;" href="/esperanto/vocabulario/familia/">vocabulario de familia</a>))</em></span>
 
 ¡Tendrás a tu suegra hasta en la sopa con lo fácil que será mencionarla! El prefijo <span style="color: #ff6600;"><strong>bo-</strong></span> sirve para indicar parentesco familiar:
 

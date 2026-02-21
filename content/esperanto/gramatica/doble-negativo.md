@@ -3,7 +3,8 @@ title: "Doble negativo en esperanto"
 date: 2015-08-22T13:00:05+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "doble-negativo-esperanto"
+slug: "doble-negativo"
+aliases: ["/doble-negativo-esperanto/"]
 lang: es
 ---
 

@@ -3,11 +3,12 @@ title: "Letras de canciones en esperanto"
 date: 2015-05-31T14:00:22+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "letras-canciones-esperanto"
+slug: "letras-canciones"
+aliases: ["/letras-canciones-esperanto/"]
 lang: es
 ---
 
-<span style="color: #999999;"><em>[También te puede interesar: <a style="color: #999999;" href="/musica-esperanto/">canciones en esperanto</a>]</em></span>
+<span style="color: #999999;"><em>[También te puede interesar: <a style="color: #999999;" href="/esperanto/cultura/musica/">canciones en esperanto</a>]</em></span>
 
 Hay canciones en esperanto, ¿pero se pueden encontrar las letras de las canciones? Sí, también, porque esto es útil:
 

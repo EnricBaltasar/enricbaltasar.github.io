@@ -3,7 +3,8 @@ title: "Corrección de la traducción \"a, de, en + infinitivo\" al esperanto"
 date: 2015-02-12T14:00:55+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "correccion-traduccion-a-de-en-infinitivo-esperanto"
+slug: "traduccion-a-de-en-infinitivo"
+aliases: ["/correccion-traduccion-a-de-en-infinitivo-esperanto/"]
 lang: es
 ---
 

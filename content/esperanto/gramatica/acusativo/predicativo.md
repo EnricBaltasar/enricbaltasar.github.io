@@ -3,7 +3,8 @@ title: "Acusativo y predicativo en esperanto"
 date: 2015-02-26T14:00:50+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "acusativo-predicativo-esperanto"
+slug: "predicativo"
+aliases: ["/acusativo-predicativo-esperanto/"]
 lang: es
 ---
 
@@ -23,4 +24,4 @@ Ahora vamos a ordenarlo de una manera algo más complicada para ti:
 
  
 
-<span style="color: #999999;"><em>En la lección que nos queda veremos que puede haber </em></span><strong><span style="color: #999999;"><em><a style="color: #999999;" href="/acusativo-kiel-esperanto/">kiel con </a></em></span><em style="color: #999999;">‒</em></strong><em style="color: #999999;"><strong><a style="color: #999999;" href="/acusativo-eliptico-esperanto/">n después</a></strong>, también dentro de la serie <a style="color: #999999;" href="/acusativo-esperanto/">Acusativo en esperanto</a>.</em>
+<span style="color: #999999;"><em>En la lección que nos queda veremos que puede haber </em></span><strong><span style="color: #999999;"><em><a style="color: #999999;" href="/esperanto/gramatica/acusativo/kiel/">kiel con </a></em></span><em style="color: #999999;">‒</em></strong><em style="color: #999999;"><strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/eliptico/">n después</a></strong>, también dentro de la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo/">Acusativo en esperanto</a>.</em>

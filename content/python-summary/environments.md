@@ -36,7 +36,7 @@ For running the program, we must be in whose folder and later enter the console.
 
 <strong>Note 2:</strong> an important word is <strong>prompt</strong>, which is the triple greather-than symbol (>>>).
 
-<strong>Note 3:</strong> similar consoles tho he Python console exist, such as <a href="/bpython-mejor-consola-python/">bpython</a> and <a href="http://ipython.org/" target="_blank" rel="noopener noreferrer">IPython</a>.
+<strong>Note 3:</strong> similar consoles tho he Python console exist, such as <a href="/python-summary/bpython-mejor-consola-python/">bpython</a> and <a href="http://ipython.org/" target="_blank" rel="noopener noreferrer">IPython</a>.
 
 <strong>Note 4:</strong> try the next utilities in a console:
 <ul>

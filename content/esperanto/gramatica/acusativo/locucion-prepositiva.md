@@ -3,11 +3,12 @@ title: "Acusativo de locución prepositiva en esperanto"
 date: 2015-12-22T13:00:17+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "acusativo-locucion-prepositiva-esperanto"
+slug: "locucion-prepositiva"
+aliases: ["/acusativo-locucion-prepositiva-esperanto/"]
 lang: es
 ---
 
-Probablemente habrás visto <strong><em>rilate al tio</em></strong>, pero también <strong><em>rilate tion</em></strong>. Ambas formas son correctas y significan lo mismo. Se trata del acusativo de <a href="/locuciones-prepositivas-esperanto/">locución prepositiva en esperanto</a>, un caso raro pero que se da con relativa frecuencia.
+Probablemente habrás visto <strong><em>rilate al tio</em></strong>, pero también <strong><em>rilate tion</em></strong>. Ambas formas son correctas y significan lo mismo. Se trata del acusativo de <a href="/esperanto/gramatica/preposiciones/locuciones-prepositivas/">locución prepositiva en esperanto</a>, un caso raro pero que se da con relativa frecuencia.
 
 Otro ejemplo de este caso:
 

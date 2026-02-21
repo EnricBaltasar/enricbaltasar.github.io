@@ -3,7 +3,8 @@ title: "Sustantivos seguidos en esperanto"
 date: 2015-10-31T13:00:46+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "sustantivos-seguidos-esperanto"
+slug: "sustantivos-seguidos"
+aliases: ["/sustantivos-seguidos-esperanto/"]
 lang: es
 ---
 
@@ -27,7 +28,7 @@ Bien, una vez acabada la introducción, pongámonos con lo que venía a enseñar
 → <span style="text-decoration: underline;">La lingvo</span> <strong>Esperanto</strong> (el idioma esperanto)
 → Mi parolas <span style="text-decoration: underline;">la lingvon</span> <strong>Esperanto</strong> (hablo el idioma esperanto)</pre>
 
-Lo que hemos hecho en estas oraciones ha sido nombrar algo con la estructura <em><span style="text-decoration: underline;">Sustantivo Común</span> (cualquier cosa) + <strong>Sustantivo Propio</strong> (un nombre)</em>. <a href="/sustantivos-esperanto/">+Info: tipos de sustantivos</a>.
+Lo que hemos hecho en estas oraciones ha sido nombrar algo con la estructura <em><span style="text-decoration: underline;">Sustantivo Común</span> (cualquier cosa) + <strong>Sustantivo Propio</strong> (un nombre)</em>. <a href="/esperanto/gramatica/terminaciones/sustantivos/">+Info: tipos de sustantivos</a>.
 
 Esto lo hacemos exactamente igual que en castellano, pero hay veces en las que en castellano añadimos la preposición <em>de</em>. Esto en esperanto no se hace, porque igualmente nombramos:
 

@@ -3,7 +3,8 @@ title: "Preposición en esperanto \"al\""
 date: 2015-03-27T14:00:25+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "preposicion-esperanto-al"
+slug: "al"
+aliases: ["/preposicion-esperanto-al/"]
 lang: es
 ---
 

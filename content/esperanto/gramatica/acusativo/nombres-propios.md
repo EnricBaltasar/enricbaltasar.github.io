@@ -3,7 +3,8 @@ title: "Acusativo en esperanto con nombres propios"
 date: 2015-02-17T14:00:59+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "acusativo-esperanto-nombres-propios"
+slug: "nombres-propios"
+aliases: ["/acusativo-esperanto-nombres-propios/"]
 lang: es
 ---
 
@@ -33,4 +34,4 @@ Se trata de un nombre propio, así que dejémoslo estar. Además, ¿te imaginas 
 
  
 
-<span style="color: #999999;"><em>En la siguiente lección nos volveremos conscientes de algunas <strong><a style="color: #999999;" href="/faltas-habituales-acusativo-esperanto/">faltas habituales entre nuevos aprendices</a></strong>, también dentro de la serie <a style="color: #999999;" href="/acusativo-esperanto/">Acusativo en esperanto</a>.</em></span>
+<span style="color: #999999;"><em>En la siguiente lección nos volveremos conscientes de algunas <strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/faltas-habituales/">faltas habituales entre nuevos aprendices</a></strong>, también dentro de la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo/">Acusativo en esperanto</a>.</em></span>

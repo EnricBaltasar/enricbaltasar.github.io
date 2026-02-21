@@ -4,7 +4,8 @@ date: 2015-10-17T13:00:12+00:00
 lastmod: 2019-04-28T10:59:29+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "evolucion-esperanto"
+slug: "evolucion"
+aliases: ["/evolucion-esperanto/"]
 lang: es
 ---
 

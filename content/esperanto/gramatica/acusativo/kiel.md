@@ -3,7 +3,8 @@ title: "Acusativo con \"kiel\" en esperanto"
 date: 2015-02-27T14:00:08+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "acusativo-kiel-esperanto"
+slug: "kiel"
+aliases: ["/acusativo-kiel-esperanto/"]
 lang: es
 ---
 
@@ -41,4 +42,4 @@ Esto es de lo más avanzado, y quizá lo que más tardarás en interiorizar. Per
 
 <h2 id="y-ya-por-fin-no-queda-nada-del-acusativo-que-explicar" style="text-align: center;"><strong><span style="color: #800080;">¡Y YA, POR FIN, NO QUEDA NADA DEL ACUSATIVO QUE EXPLICAR!</span></strong></h2>
 
-<span style="color: #999999;"><em>Ya no quedan más lecciones de la serie <a style="color: #999999;" href="/acusativo-esperanto/">Acusativo en esperanto</a>, pero te he hecho un <strong><a style="color: #999999;" href="/resumen-acusativo-esperanto/">resumen final del acusativo</a></strong> porque creo que puede serte útil.</em></span>
+<span style="color: #999999;"><em>Ya no quedan más lecciones de la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo/">Acusativo en esperanto</a>, pero te he hecho un <strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/resumen/">resumen final del acusativo</a></strong> porque creo que puede serte útil.</em></span>

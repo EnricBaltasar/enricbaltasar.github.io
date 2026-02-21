@@ -3,7 +3,8 @@ title: "Tatuajes en esperanto"
 date: 2017-07-31T13:00:23+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "tatuajes-esperanto"
+slug: "tatuajes"
+aliases: ["/tatuajes-esperanto/"]
 lang: es
 ---
 

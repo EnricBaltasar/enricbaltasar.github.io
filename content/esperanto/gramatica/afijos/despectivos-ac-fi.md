@@ -3,7 +3,8 @@ title: "Afijos despectivos en esperanto: -aĉ-, fi-"
 date: 2015-04-13T14:00:22+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "afijos-despectivos-esperanto-ac-fi"
+slug: "despectivos-ac-fi"
+aliases: ["/afijos-despectivos-esperanto-ac-fi/"]
 lang: es
 ---
 

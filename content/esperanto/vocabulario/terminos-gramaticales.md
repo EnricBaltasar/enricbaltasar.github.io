@@ -3,7 +3,8 @@ title: "Términos gramaticales en esperanto"
 date: 2015-06-02T14:00:16+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "terminos-gramaticales-esperanto"
+slug: "terminos-gramaticales"
+aliases: ["/terminos-gramaticales-esperanto/"]
 lang: es
 ---
 

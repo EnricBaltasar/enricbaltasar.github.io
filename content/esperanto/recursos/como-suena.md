@@ -3,7 +3,8 @@ title: "¿Cómo suena el esperanto?"
 date: 2016-06-28T09:03:56+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "como-suena-esperanto"
+slug: "como-suena"
+aliases: ["/como-suena-esperanto/"]
 lang: es
 ---
 

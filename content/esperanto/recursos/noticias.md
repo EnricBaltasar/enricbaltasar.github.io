@@ -4,7 +4,8 @@ date: 2017-12-13T14:00:17+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
 description: "¿Quieres leer las noticias del mundo en esperanto? Aquí tienes algunos portales para ello."
-slug: "noticias-esperanto"
+slug: "noticias"
+aliases: ["/noticias-esperanto/"]
 lang: es
 ---
 

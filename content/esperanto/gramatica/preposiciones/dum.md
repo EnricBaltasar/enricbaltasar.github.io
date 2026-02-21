@@ -3,7 +3,8 @@ title: "Preposición en esperanto \"dum\""
 date: 2015-07-02T14:00:51+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "preposicion-esperanto-dum"
+slug: "dum"
+aliases: ["/preposicion-esperanto-dum/"]
 lang: es
 ---
 

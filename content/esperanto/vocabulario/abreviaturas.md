@@ -3,7 +3,8 @@ title: "Abreviaturas en esperanto"
 date: 2015-04-08T14:00:17+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "abreviaturas-esperanto"
+slug: "abreviaturas"
+aliases: ["/abreviaturas-esperanto/"]
 lang: es
 ---
 

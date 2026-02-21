@@ -3,7 +3,8 @@ title: "Correlativos en esperanto"
 date: 2015-03-29T14:00:33+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "correlativos-esperanto"
+slug: "correlativos"
+aliases: ["/correlativos-esperanto/"]
 lang: es
 ---
 
@@ -26,7 +27,7 @@ Para ver de un vistazo y de manera ordenada los significados de cada parte y de 
 
 {{< img src="tabla-correlativos-esperanto-wikipedia.png" alt="tabla-correlativos-esperanto-wikipedia" >}}
 
-Para empezar a aprendértelas, puedes echar un vistazo a mi listado de <a href="/frases-esperanto/">frases básicas en esperanto</a>, en las que aparecen algunas de las partículas que estamos viendo. Y más adelante quizá quieras <a href="http://www.daypo.com/correlativos-esperanto.html" target="_blank" rel="noopener noreferrer">hacer algún test</a>.
+Para empezar a aprendértelas, puedes echar un vistazo a mi listado de <a href="/esperanto/vocabulario/frases/frecuentes/">frases básicas en esperanto</a>, en las que aparecen algunas de las partículas que estamos viendo. Y más adelante quizá quieras <a href="http://www.daypo.com/correlativos-esperanto.html" target="_blank" rel="noopener noreferrer">hacer algún test</a>.
 
  
 
@@ -223,7 +224,7 @@ Y para facilitarte aun más el aprendizaje, aquí tienes también el significado
 
 <h2 id="preguntas-con-correlativos"><strong><span style="color: #ff6600;">Preguntas con correlativos</span></strong></h2>
 
-Cuando usamos las <a href="/particulas-interrogativas-esperanto/">partículas interrogativas</a> (qué, cuándo, cómo...), en las preguntas en esperanto incluimos con qué categoría gramatical vamos a responder:
+Cuando usamos las <a href="/esperanto/gramatica/particulas-interrogativas/">partículas interrogativas</a> (qué, cuándo, cómo...), en las preguntas en esperanto incluimos con qué categoría gramatical vamos a responder:
 
 <ul>
     <li>KIO estas tio? Tio estas FLORO.</li>
@@ -370,7 +371,7 @@ Kia<span style="color: #ff6600;">j</span> domoj
 Kia<span style="color: #ff6600;">n</span> domon
 Kia<span style="color: #ff6600;">jn</span> domojn</strong></pre>
 
-<em><span style="color: #999999;"><strong>Nota</strong>: la ‒n es la marca del <a style="color: #999999;" href="/acusativo-esperanto/">acusativo</a>.</span></em>
+<em><span style="color: #999999;"><strong>Nota</strong>: la ‒n es la marca del <a style="color: #999999;" href="/esperanto/gramatica/acusativo/">acusativo</a>.</span></em>
 
 Vamos a ver cuáles son y las que permiten:
 
@@ -456,7 +457,7 @@ Es decir, que:
 <ul>
     <li>‒U y ‒A admiten tanto ‒j como ‒n</li>
     <li>‒O admite solamente ‒n</li>
-    <li>‒E admite ‒n como <a href="/acusativo-direccion-esperanto/">acusativo de dirección</a></li>
+    <li>‒E admite ‒n como <a href="/esperanto/gramatica/acusativo/direccion/">acusativo de dirección</a></li>
 </ul>
 
  

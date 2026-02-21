@@ -3,7 +3,8 @@ title: "Los días de la semana en esperanto"
 date: 2015-03-12T14:00:56+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "dias-semana-esperanto"
+slug: "dias-semana"
+aliases: ["/dias-semana-esperanto/"]
 lang: es
 ---
 

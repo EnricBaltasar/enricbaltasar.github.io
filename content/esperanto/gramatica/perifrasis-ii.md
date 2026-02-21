@@ -3,11 +3,12 @@ title: "Perífrasis en esperanto (II): cómo traducirlas todas"
 date: 2015-02-09T14:08:18+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "perifrasis-esperanto-ii"
+slug: "perifrasis-ii"
+aliases: ["/perifrasis-esperanto-ii/"]
 lang: es
 ---
 
-<span style="color: #808080;"><em>((No leas esto si antes no has aprendido <a style="color: #808080;" href="/perifrasis-esperanto-i">qué son las perífrasis y cuáles las más comunes en esperanto</a>))</em></span>
+<span style="color: #808080;"><em>((No leas esto si antes no has aprendido <a style="color: #808080;" href="/esperanto/gramatica/perifrasis-i/">qué son las perífrasis y cuáles las más comunes en esperanto</a>))</em></span>
 
 En esta segunda parte vamos a <strong>aprender a traducir todas las perífrasis del castellano al esperanto</strong>. No están todas listadas (si bien casi todas), pero la idea es que aprendas las recursos necesarios para aprender a traducirlas todas: identificación, recursos prácticos y esquematización.
 
@@ -375,4 +376,4 @@ Créeme cuando te digo que cuando interiorices esto olvidarás qué es una perí
 
 <em>Por cierto, si tienes alguna idea para hacer más consumible este artículo, te agradecería me lo comentaras.</em>
 
-<span style="color: #808080;"><em>Cuando haya pasado un tiempo después de haber leído este artículo, estarás preparado para <a style="color: #808080;" href="/perifrasis-esperanto-iii/">traducir al esperanto casos avanzados</a>.</em></span>
+<span style="color: #808080;"><em>Cuando haya pasado un tiempo después de haber leído este artículo, estarás preparado para <a style="color: #808080;" href="/esperanto/gramatica/perifrasis-iii/">traducir al esperanto casos avanzados</a>.</em></span>

@@ -3,7 +3,8 @@ title: "Audiolibros en esperanto"
 date: 2015-04-19T14:00:22+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "audiolibros-esperanto"
+slug: "audiolibros"
+aliases: ["/audiolibros-esperanto/"]
 lang: es
 ---
 

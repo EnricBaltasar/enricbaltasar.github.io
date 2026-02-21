@@ -4,7 +4,8 @@ date: 2018-12-17T14:00:34+00:00
 lastmod: 2019-04-05T13:15:05+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "silabas-esperanto"
+slug: "silabas"
+aliases: ["/silabas-esperanto/"]
 lang: es
 ---
 

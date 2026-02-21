@@ -3,7 +3,8 @@ title: "Interjecciones básicas en esperanto"
 date: 2015-05-20T14:00:51+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "interjecciones-basicas-esperanto"
+slug: "basicas"
+aliases: ["/interjecciones-basicas-esperanto/"]
 lang: es
 ---
 
@@ -101,7 +102,7 @@ Vamos a ver <strong>las más básicas</strong>, teniendo en cuenta que las sigui
 
  
 
-<span style="color: #ff6600;"><strong>Haha</strong></span> (= jajaja): indica risa <span style="color: #999999;"><em>[esta es una <a style="color: #999999;" href="/comodines-esperanto-je-um-bleki/">onomatopeya</a>, no una interjección]</em></span>
+<span style="color: #ff6600;"><strong>Haha</strong></span> (= jajaja): indica risa <span style="color: #999999;"><em>[esta es una <a style="color: #999999;" href="/esperanto/vocabulario/comodines-je-um-bleki/">onomatopeya</a>, no una interjección]</em></span>
 
 <pre> <strong> Hahaha, kiel bona ŝerco!</strong> <span style="color: #808080;">(jajaja, ¡Qué chiste más bueno!)</span></pre>
 
@@ -123,4 +124,4 @@ Vamos a ver <strong>las más básicas</strong>, teniendo en cuenta que las sigui
 
  
 
-<em>También he creado una <a href="/lista-interjecciones-esperanto/">lista de interjecciones en esperanto</a>.</em>
+<em>También he creado una <a href="/esperanto/vocabulario/interjecciones/lista/">lista de interjecciones en esperanto</a>.</em>

@@ -3,7 +3,8 @@ title: "Preposición en esperanto \"por\""
 date: 2015-04-09T14:00:15+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "preposicion-esperanto-por"
+slug: "por"
+aliases: ["/preposicion-esperanto-por/"]
 lang: es
 ---
 

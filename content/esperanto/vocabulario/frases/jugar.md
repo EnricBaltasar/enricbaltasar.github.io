@@ -3,7 +3,8 @@ title: "Frases para jugar en esperanto"
 date: 2015-03-22T14:00:04+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "frases-jugar-esperanto"
+slug: "jugar"
+aliases: ["/frases-jugar-esperanto/"]
 lang: es
 ---
 
@@ -83,7 +84,7 @@ Ejemplo basado en juegos de cartas:
 </tr>
 <tr>
 <td>Mi gajnis la partion!
-<span style="color: #808080;"><em>[<a style="color: #808080;" href="/errores-habituales-esperanto/#ganar">Si es un juego de azar,
+<span style="color: #808080;"><em>[<a style="color: #808080;" href="/esperanto/errores/mas-comunes/#ganar">Si es un juego de azar,
 gajni; si no lo es, venki</a>]</em></span></td>
 <td>¡He ganado la partida!</td>
 </tr>

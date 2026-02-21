@@ -146,7 +146,7 @@ lang: en
 
 <span style="font-weight: 400;">Some teachers emerged on</span><a href="https://www.italki.com/en/teachers/esperanto"> <span style="font-weight: 400;">platforms like Italki</span></a><span style="font-weight: 400;"> to help Duolingo learners reach conversational levels, providing additional support. I personally cashed in some dollars with a two-people class.</span>
 
-<span style="font-weight: 400;">I also promoted my</span><a href="/aprender-esperanto/"> <span style="font-weight: 400;">free online resources to learn Esperanto</span></a><span style="font-weight: 400;">, and got some extra cash via ads through Google AdSense.</span>
+<span style="font-weight: 400;">I also promoted my</span><a href="/esperanto/aprender/"> <span style="font-weight: 400;">free online resources to learn Esperanto</span></a><span style="font-weight: 400;">, and got some extra cash via ads through Google AdSense.</span>
 
 <b>Duolingo paid the rent</b><span style="font-weight: 400;"> both directly and indirectly.</span>
 <h2 id="conclusion"><b>Conclusion</b></h2>

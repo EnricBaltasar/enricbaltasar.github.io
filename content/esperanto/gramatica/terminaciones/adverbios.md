@@ -4,7 +4,8 @@ date: 2015-09-19T13:00:08+00:00
 lastmod: 2019-09-02T08:17:26+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "adverbios-esperanto"
+slug: "adverbios"
+aliases: ["/adverbios-esperanto/"]
 lang: es
 ---
 
@@ -84,7 +85,7 @@ Y bien, aquí mi primer intento de explicar de pe a pa este tema que -sin necesi
 
 <em>Pido críticas para ir mejorando el artículo.</em>
 
-<em>Ahora te puede interesar también la lección <a href="/orden-adverbios-esperanto/">Orden de los adverbios en esperanto</a>.</em>
+<em>Ahora te puede interesar también la lección <a href="/esperanto/gramatica/orden-adverbios/">Orden de los adverbios en esperanto</a>.</em>
 
  
 <h3 id="enlaces-de-interes">ENLACES DE INTERÉS</h3>

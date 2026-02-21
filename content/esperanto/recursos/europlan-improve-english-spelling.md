@@ -5,6 +5,7 @@ draft: false
 topics: ["Esperanto Language & Culture", "Republished"]
 description: "The European Commission have just announced an agreement whereby English will be the official language of the EU rather than German, which was the other..."
 slug: "europlan-improve-english-spelling"
+aliases: ["/europlan-improve-english-spelling/"]
 lang: en
 ---
 

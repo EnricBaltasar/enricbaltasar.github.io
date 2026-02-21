@@ -3,11 +3,12 @@ title: "El curso de esperanto que utiliza las palabras básicas"
 date: 2016-05-07T13:00:23+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "curso-esperanto-palabras-basicas"
+slug: "curso-palabras-basicas"
+aliases: ["/curso-esperanto-palabras-basicas/"]
 lang: es
 ---
 
-¿Os acordáis de la lista de vocabulario que publiqué de las <a href="/vocabulario-500-palabras-basicas-esperanto/">palabras básicas en esperanto</a>? En este artículo contaba que a finales de los años setenta se comprobó que el 95% de una conversación normal en esperanto se basa en menos de 500 morfemas.
+¿Os acordáis de la lista de vocabulario que publiqué de las <a href="/esperanto/vocabulario/500-palabras-basicas/">palabras básicas en esperanto</a>? En este artículo contaba que a finales de los años setenta se comprobó que el 95% de una conversación normal en esperanto se basa en menos de 500 morfemas.
 
 Lo que quizá no sabías era que se creó un curso llamado <em>zagreba metod</em>o, que apostaba por métodos creados para el esperanto por conseguir resultados más satisfactorios que con cursos creados para otros idiomados y adaptados al esperanto. Por suerte, disponemos de una <a href="http://esperantofre.com/zagreb/zagrebh.htm" target="_blank" rel="noopener noreferrer">versión de este curso para hispanohablantes</a>, además digitalizada gracias a Enrique Ellenber.
 

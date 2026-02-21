@@ -3,7 +3,8 @@ title: "Participios sustantivos en esperanto"
 date: 2017-03-11T13:00:00+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "participios-sustantivos-esperanto"
+slug: "participios-sustantivos"
+aliases: ["/participios-sustantivos-esperanto/"]
 lang: es
 ---
 
@@ -51,4 +52,4 @@ En la práctica hay varias maneras de expresar que alguien hace algo, y ello mer
 
  
 
-<span style="color: #999999;"><em>En la siguiente lección veremos las <a style="color: #999999;" href="/participios-esperanto-verbos-intransitivos/">participios en esperanto con verbos intransitivos</a>, que también forman parte de la serie <a style="color: #999999;" href="/gerundios-participios-esperanto/">Gerundios y participios en esperanto</a>.</em></span>
+<span style="color: #999999;"><em>En la siguiente lección veremos las <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios/verbos-intransitivos/">participios en esperanto con verbos intransitivos</a>, que también forman parte de la serie <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios/">Gerundios y participios en esperanto</a>.</em></span>

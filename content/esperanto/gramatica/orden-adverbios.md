@@ -3,7 +3,8 @@ title: "Orden de los adverbios en esperanto"
 date: 2015-08-29T13:00:43+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "orden-adverbios-esperanto"
+slug: "orden-adverbios"
+aliases: ["/orden-adverbios-esperanto/"]
 lang: es
 ---
 

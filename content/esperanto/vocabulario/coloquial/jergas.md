@@ -3,11 +3,12 @@ title: "Jergas en esperanto"
 date: 2015-07-04T13:00:13+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "jergas-esperanto"
+slug: "jergas"
+aliases: ["/jergas-esperanto/"]
 lang: es
 ---
 
-<!--more-->Una cuestión muy importante que se suele pasar por alto para naturalizar el esperanto en la mente de la gente es que esta sienta que puede expresar todo aquello que -de algún modo- le toca, ya sea que lo diga uno o esté en su entorno, por ejemplo <a href="/insultos-esperanto/">palabrotas</a> y <a href="/palabras-tabu-eufemismos-esperanto/">tabú</a>.
+<!--more-->Una cuestión muy importante que se suele pasar por alto para naturalizar el esperanto en la mente de la gente es que esta sienta que puede expresar todo aquello que -de algún modo- le toca, ya sea que lo diga uno o esté en su entorno, por ejemplo <a href="/esperanto/vocabulario/coloquial/insultos/">palabrotas</a> y <a href="/esperanto/vocabulario/coloquial/palabras-tabu-eufemismos/">tabú</a>.
 
 Ahora vamos a ver <strong>cómo traducir jergas del castellano al esperanto</strong> (por supuesto, como siempre, de una manera no dialectal).
 

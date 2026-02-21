@@ -3,7 +3,8 @@ title: "Traductor de esperanto"
 date: 2017-04-15T13:00:31+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "traductor-esperanto"
+slug: "traductor"
+aliases: ["/traductor-esperanto/"]
 lang: es
 ---
 

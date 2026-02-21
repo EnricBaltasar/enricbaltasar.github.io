@@ -3,7 +3,8 @@ title: "¿Dónde está toda la cultura del esperanto?"
 date: 2016-07-09T13:00:22+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "donde-esta-toda-cultura-esperanto"
+slug: "donde-esta-toda-cultura"
+aliases: ["/donde-esta-toda-cultura-esperanto/"]
 lang: es
 ---
 

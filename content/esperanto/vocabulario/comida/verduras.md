@@ -3,7 +3,8 @@ title: "Las verduras en esperanto"
 date: 2015-03-13T14:00:22+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "verduras-esperanto"
+slug: "verduras"
+aliases: ["/verduras-esperanto/"]
 lang: es
 ---
 

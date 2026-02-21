@@ -3,7 +3,8 @@ title: "Afijos de tamaño en esperanto: -et-, -eg-"
 date: 2015-04-15T14:00:46+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "afijos-tamano-esperanto-et-eg"
+slug: "tamano-et-eg"
+aliases: ["/afijos-tamano-esperanto-et-eg/"]
 lang: es
 ---
 

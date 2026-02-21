@@ -3,7 +3,8 @@ title: "Preposición en esperanto \"post\""
 date: 2015-07-01T14:00:57+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "preposicion-esperanto-post"
+slug: "post"
+aliases: ["/preposicion-esperanto-post/"]
 lang: es
 ---
 

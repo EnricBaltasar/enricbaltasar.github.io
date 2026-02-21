@@ -3,7 +3,8 @@ title: "Acusativo elíptico en esperanto"
 date: 2015-02-19T14:00:59+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "acusativo-eliptico-esperanto"
+slug: "eliptico"
+aliases: ["/acusativo-eliptico-esperanto/"]
 lang: es
 ---
 
@@ -36,4 +37,4 @@ Es bastante curioso... y sencillo.
 
  
 
-<span style="color: #999999;"><em>En la siguiente lección veremos el uso del <strong><a style="color: #999999;" href="/libertad-sintactica-acusativo-esperanto/">acusativo con algunas preposiciones</a></strong> para expresar movimiento, incluido en la serie <a style="color: #999999;" href="/acusativo-esperanto/">Acusativo en esperanto</a>.</em></span>
+<span style="color: #999999;"><em>En la siguiente lección veremos el uso del <strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/libertad-sintactica/">acusativo con algunas preposiciones</a></strong> para expresar movimiento, incluido en la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo/">Acusativo en esperanto</a>.</em></span>

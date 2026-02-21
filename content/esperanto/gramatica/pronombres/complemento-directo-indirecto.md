@@ -3,11 +3,12 @@ title: "Pronombres de complemento directo e indirecto en esperanto"
 date: 2015-06-11T14:00:21+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "pronombres-complemento-directo-indirecto-esperanto"
+slug: "complemento-directo-indirecto"
+aliases: ["/pronombres-complemento-directo-indirecto-esperanto/"]
 lang: es
 ---
 
-Como dijimos en la primera <a href="/acusativo-complemento-directo-esperanto/">lección del acusativo</a>, el castellano no marca el complemento directo, sino que lo disfraza. Lo hace de dos maneras:
+Como dijimos en la primera <a href="/esperanto/gramatica/acusativo/complemento-directo/">lección del acusativo</a>, el castellano no marca el complemento directo, sino que lo disfraza. Lo hace de dos maneras:
 
 <ul>
     <li>Con el <strong>orden de la oración</strong>: hay elementos fijos o que solo podemos poner en cierto orden.</li>
@@ -123,7 +124,7 @@ Y un último ejemplo:
 
  
 
-Una tercera posibilidad, y ligada a la anterior es que aporten <span style="color: #ff6600;"><strong>información de complemento indirecto</strong></span> (normalmente si el verbo es intransitivo [verbos que no pueden llevar -n, como caminar, correr...], o cuando ya hay un acusativo puesto... aunque sea <a href="/acusativo-eliptico-esperanto/">elíptico</a>):
+Una tercera posibilidad, y ligada a la anterior es que aporten <span style="color: #ff6600;"><strong>información de complemento indirecto</strong></span> (normalmente si el verbo es intransitivo [verbos que no pueden llevar -n, como caminar, correr...], o cuando ya hay un acusativo puesto... aunque sea <a href="/esperanto/gramatica/acusativo/eliptico/">elíptico</a>):
 
 <pre><strong><span style="text-decoration: underline;">Te</span> hablo</strong> → "Hablo <span style="text-decoration: underline;">a ti</span>" = <strong>Mi parolas <span style="text-decoration: underline;">al vi
 </span></strong></pre>
@@ -208,4 +209,4 @@ Por último, y antes de tener que escribir tu lápida yo mismo, <span style="col
 
 <pre>¿<span style="text-decoration: underline;">Se</span> sabe ya el resultado? = Ĉu <span style="text-decoration: underline;">oni</span> jam scias la rezulton?</pre>
 
-Sí, se trata del <a href="/pronombre-impersonal-esperanto/">pronombre impersonal</a> que ya hemos aprendido.
+Sí, se trata del <a href="/esperanto/gramatica/pronombres/impersonal/">pronombre impersonal</a> que ya hemos aprendido.

@@ -3,7 +3,8 @@ title: "Pronombre reflexivo en esperanto"
 date: 2015-06-09T14:00:35+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "pronombre-reflexivo-esperanto"
+slug: "reflexivo"
+aliases: ["/pronombre-reflexivo-esperanto/"]
 lang: es
 ---
 

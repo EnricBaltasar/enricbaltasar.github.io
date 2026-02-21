@@ -3,7 +3,8 @@ title: "Los comodines del esperanto: je, -um-, bleki"
 date: 2015-02-23T14:00:29+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "comodines-esperanto-je-um-bleki"
+slug: "comodines-je-um-bleki"
+aliases: ["/comodines-esperanto-je-um-bleki/"]
 lang: es
 ---
 

@@ -3,11 +3,12 @@ title: "Adjetivos en esperanto"
 date: 2015-09-12T13:00:39+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "adjetivos-esperanto"
+slug: "adjetivos"
+aliases: ["/adjetivos-esperanto/"]
 lang: es
 ---
 
-Los adjetivos son un tipo de palabras que nos dicen cómo es un <a href="/sustantivos-esperanto/">sustantivo</a>:
+Los adjetivos son un tipo de palabras que nos dicen cómo es un <a href="/esperanto/gramatica/terminaciones/sustantivos/">sustantivo</a>:
 
 <pre>Bonito, grande, alto, nuevo...</pre>
 

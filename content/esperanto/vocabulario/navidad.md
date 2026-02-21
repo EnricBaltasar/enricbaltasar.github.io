@@ -3,7 +3,8 @@ title: "Vocabulario de navidad en esperanto"
 date: 2015-12-26T13:00:54+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "vocabulario-navidad-esperanto"
+slug: "navidad"
+aliases: ["/vocabulario-navidad-esperanto/"]
 lang: es
 ---
 

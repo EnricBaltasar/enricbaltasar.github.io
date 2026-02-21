@@ -3,7 +3,8 @@ title: "¿Debería poner el esperanto en el CV?"
 date: 2016-08-10T13:00:39+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "esperanto-cv"
+slug: "cv"
+aliases: ["/esperanto-cv/"]
 lang: es
 ---
 

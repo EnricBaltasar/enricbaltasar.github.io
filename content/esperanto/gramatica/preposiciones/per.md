@@ -3,7 +3,8 @@ title: "Preposición en esperanto \"per\""
 date: 2015-05-13T14:00:30+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "preposicion-esperanto-per"
+slug: "per"
+aliases: ["/preposicion-esperanto-per/"]
 lang: es
 ---
 

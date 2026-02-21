@@ -3,7 +3,8 @@ title: "Iĝu lingva mentoro por Esperanto"
 date: 2016-08-20T13:00:15+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "lingva-mentoro-esperanto"
+slug: "lingva-mentoro"
+aliases: ["/lingva-mentoro-esperanto/"]
 lang: eo
 ---
 

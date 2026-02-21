@@ -3,11 +3,12 @@ title: "Pronombre personal neutro en esperanto"
 date: 2015-06-07T14:00:53+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "pronombre-personal-neutro-esperanto"
+slug: "personal-neutro"
+aliases: ["/pronombre-personal-neutro-esperanto/"]
 lang: es
 ---
 
-Como ya vimos en la tabla de <a href="/pronombres-personales-esperanto/">pronombres personales</a>:
+Como ya vimos en la tabla de <a href="/esperanto/gramatica/pronombres/personales/">pronombres personales</a>:
 
 <ul>
     <li><span style="color: #ff6600;"><strong>Li</strong> </span><span style="color: #808080;">(él)</span></li>
@@ -33,7 +34,7 @@ Algunos ejemplos:
 </span>» <strong>Redaktisto: ĝi povas aprobi artikolojn de aliaj</strong><span style="color: #808080;"> (redactor: puede aprobar artículo de otros)
 </span></pre>
 
-Como puedes apreciar, en las traducciones ni siquiera he puesto la traducción de <em>ĝi</em> en castellano; eso es porque resulta muy raro decirlo en castellano. Por otro lado, en algunas ocasiones se traduce por <em>él</em> o <em>ella</em>, como veremos cuando aprendamos el <a href="/pronombre-reflexivo-esperanto/">pronombre reflexivo</a>.
+Como puedes apreciar, en las traducciones ni siquiera he puesto la traducción de <em>ĝi</em> en castellano; eso es porque resulta muy raro decirlo en castellano. Por otro lado, en algunas ocasiones se traduce por <em>él</em> o <em>ella</em>, como veremos cuando aprendamos el <a href="/esperanto/gramatica/pronombres/reflexivo/">pronombre reflexivo</a>.
 
  
 

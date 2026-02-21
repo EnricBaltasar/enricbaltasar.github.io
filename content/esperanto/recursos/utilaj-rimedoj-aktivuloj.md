@@ -3,7 +3,8 @@ title: "Utilaj rimedoj por Esperanto-aktivuloj"
 date: 2015-11-21T13:00:45+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "utilaj-rimedoj-esperanto-aktivuloj"
+slug: "utilaj-rimedoj-aktivuloj"
+aliases: ["/utilaj-rimedoj-esperanto-aktivuloj/"]
 lang: eo
 ---
 

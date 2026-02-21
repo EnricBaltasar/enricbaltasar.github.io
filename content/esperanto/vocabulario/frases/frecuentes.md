@@ -4,13 +4,14 @@ date: 2017-12-20T14:00:09+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
 description: "Echa un vistazo a las frases más frecuentes en esperanto y prueba a hablar en el idioma internacional justo."
-slug: "frases-esperanto"
+slug: "frecuentes"
+aliases: ["/frases-esperanto/"]
 lang: es
 ---
 
 Aquí te traigo algunas de las <strong>frases más frecuentes en esperanto</strong>, que te serán útiles para empezar a hablar. Te animo a lanzarte a ello; yo empecé repitiendo frases simples y me ha ido muy bien.
 
-Junto con este artículo te puede ser de utilidad mi lección sobre <a href="/alfabeto-pronunciacion-esperanto/">pronunciación en esperanto</a>.
+Junto con este artículo te puede ser de utilidad mi lección sobre <a href="/esperanto/aprender/alfabeto-pronunciacion/">pronunciación en esperanto</a>.
 
 <h2 id="frases-cordiales"><strong><span style="color: #ff6600;">Frases cordiales</span></strong></h2>
 
@@ -44,13 +45,13 @@ Junto con este artículo te puede ser de utilidad mi lección sobre <a href="/al
 </span>» <strong>Kie vi loĝas?</strong> <span style="color: #808080;">(¿Dónde vives?)</span>
 <span style="color: #808080;">  / <strong>El kie vi estas?</strong> (¿De dónde eres?)
   / <strong>De kie vi venas?</strong> (¿De dónde vienes?)</span>
-» <strong>Mi loĝas en Katalunio</strong> <span style="color: #808080;">(Vivo en Cataluña)</span> | <em><a href="/nombre-paises-habitantes-esperanto/">+Nombre de países
+» <strong>Mi loĝas en Katalunio</strong> <span style="color: #808080;">(Vivo en Cataluña)</span> | <em><a href="/esperanto/vocabulario/geografia/nombre-paises-habitantes/">+Nombre de países
 </a></em><span style="color: #808080;">  / <strong>Mi estas el Katalunio</strong> (Soy de Cataluña)
   / <strong>Mi venas de Katalunio</strong> (Vengo de Cataluña)
   / <strong>Mi estas kataluno</strong> (Soy catalán)</span>
-» <strong>Kiom vi aĝas?</strong> <span style="color: #808080;">(¿Qué edad tienes?)</span> | <a href="/numeros-esperanto/">+Números</a>
+» <strong>Kiom vi aĝas?</strong> <span style="color: #808080;">(¿Qué edad tienes?)</span> | <a href="/esperanto/vocabulario/numeros/">+Números</a>
 » <strong>Mi aĝas 22</strong> <span style="color: #808080;">(Tengo 22 años)</span>
-» <strong>Ĉu vi parolas la anglan?</strong> <span style="color: #808080;">(¿Hablas inglés?)</span> | <a href="/nombre-lenguas-esperanto/"><em>+Nombre idiomas</em></a>
+» <strong>Ĉu vi parolas la anglan?</strong> <span style="color: #808080;">(¿Hablas inglés?)</span> | <a href="/esperanto/vocabulario/nombre-lenguas/"><em>+Nombre idiomas</em></a>
 <span style="color: #808080;"> / <strong>Ĉu vi parolas Esperanton?</strong> (¿Hablas el esperanto?)
 </span>» <strong>Jes</strong> <span style="color: #808080;">(Sí)
 </span>» <strong>Ne</strong> <span style="color: #808080;">(No)</span>
@@ -82,7 +83,7 @@ Junto con este artículo te puede ser de utilidad mi lección sobre <a href="/al
 <h2 id="felicitar-y-deseos"><strong><span style="color: #ff6600;">Felicitar y deseos</span></strong></h2>
 
 <pre>» <strong>Feliĉan naskiĝtagon!</strong> <span style="color: #808080;">(¡Feliz cumpleaños!)
-</span>» <strong>Bonan ŝancon!</strong> <span style="color: #808080;">(¡Buena suerte!)</span> | <em><a href="/errores-habituales-esperanto/#suerte">+Palabra "suerte</a>"
+</span>» <strong>Bonan ŝancon!</strong> <span style="color: #808080;">(¡Buena suerte!)</span> | <em><a href="/esperanto/errores/mas-comunes/#suerte">+Palabra "suerte</a>"
 </em>» <strong>Gratulon</strong> <span style="color: #808080;">(Enhorabuena)</span>
 » <strong>Gratulojn</strong> <span style="color: #808080;">(Felicidades)</span>
 » <strong>Feliĉan novjaron</strong> <span style="color: #808080;">(Feliz año nuevo)</span>
@@ -112,6 +113,6 @@ Junto con este artículo te puede ser de utilidad mi lección sobre <a href="/al
 
  
 
-También te pueden servir otros dos de mis artículos: <a href="/actividades-diarias-esperanto/">actividades diarias en esperanto</a> y <a href="/vocabulario-500-palabras-basicas-esperanto/">vocabulario básico en esperanto</a>. Y para chatear, puedes visitar por ejemplo <a href="http://telegramo.org" target="_blank" rel="noopener noreferrer">telegramo.org</a>.
+También te pueden servir otros dos de mis artículos: <a href="/esperanto/vocabulario/actividades-diarias/">actividades diarias en esperanto</a> y <a href="/esperanto/vocabulario/500-palabras-basicas/">vocabulario básico en esperanto</a>. Y para chatear, puedes visitar por ejemplo <a href="http://telegramo.org" target="_blank" rel="noopener noreferrer">telegramo.org</a>.
 
 <strong>¿Te has quedado con ganas de alguna frase?</strong> Dímelo en los comentarios y la añado.

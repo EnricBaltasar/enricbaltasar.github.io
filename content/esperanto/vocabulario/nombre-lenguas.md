@@ -3,7 +3,8 @@ title: "Nombre de las lenguas en esperanto"
 date: 2015-04-20T14:00:14+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "nombre-lenguas-esperanto"
+slug: "nombre-lenguas"
+aliases: ["/nombre-lenguas-esperanto/"]
 lang: es
 ---
 

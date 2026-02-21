@@ -3,7 +3,8 @@ title: "Ampliación de los participios en esperanto"
 date: 2017-03-25T13:00:26+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "ampliacion-participios-esperanto"
+slug: "ampliacion-participios"
+aliases: ["/ampliacion-participios-esperanto/"]
 lang: es
 ---
 
@@ -57,4 +58,4 @@ Eso es todo. No voy a acabar como hacen en muchos cursos elogiando lo expresivo
 
  
 
-<span style="color: #999999;"><em>Para volver a ver el resto de lecciones de la serie, puedes ir a la página <a style="color: #999999;" href="/gerundios-participios-esperanto/">Gerundios y participios en esperanto</a>.</em></span>
+<span style="color: #999999;"><em>Para volver a ver el resto de lecciones de la serie, puedes ir a la página <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios/">Gerundios y participios en esperanto</a>.</em></span>

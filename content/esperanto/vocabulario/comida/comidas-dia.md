@@ -3,7 +3,8 @@ title: "Las comidas del día en esperanto"
 date: 2015-04-01T14:00:58+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "comidas-dia-esperanto"
+slug: "comidas-dia"
+aliases: ["/comidas-dia-esperanto/"]
 lang: es
 ---
 

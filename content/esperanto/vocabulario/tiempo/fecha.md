@@ -3,7 +3,8 @@ title: "Cómo decir la fecha en esperanto"
 date: 2015-06-26T14:00:15+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "fecha-esperanto"
+slug: "fecha"
+aliases: ["/fecha-esperanto/"]
 lang: es
 ---
 

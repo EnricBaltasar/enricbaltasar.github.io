@@ -3,7 +3,8 @@ title: "Preguntas afirmativas y negativas en esperanto"
 date: 2015-04-30T14:00:08+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "preguntas-afirmativas-negativas-esperanto"
+slug: "preguntas-afirmativas-negativas"
+aliases: ["/preguntas-afirmativas-negativas-esperanto/"]
 lang: es
 ---
 
@@ -30,4 +31,4 @@ Aparte, a veces encontrarás preguntas de este tipo anidadas:
 
  
 
-Eso es todo. Pronto veremos el <a href="/particulas-interrogativas-esperanto/">otro tipo de preguntas</a> que se pueden hacer en esperanto.
+Eso es todo. Pronto veremos el <a href="/esperanto/gramatica/particulas-interrogativas/">otro tipo de preguntas</a> que se pueden hacer en esperanto.

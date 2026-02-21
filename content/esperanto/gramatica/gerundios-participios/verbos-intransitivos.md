@@ -3,7 +3,8 @@ title: "Participios en esperanto con verbos intransitivos"
 date: 2017-03-18T13:00:54+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "participios-esperanto-verbos-intransitivos"
+slug: "verbos-intransitivos"
+aliases: ["/participios-esperanto-verbos-intransitivos/"]
 lang: es
 ---
 
@@ -38,4 +39,4 @@ Riĉ<span style="color: #008000;">iĝ</span>into</strong> <span style="color: #9
 
  
 
-<span style="color: #999999;"><em>Ya solo nos queda por ver la <a style="color: #999999;" href="/ampliacion-participios-esperanto/">ampliación de participios en esperanto</a>, que también forma parte de la serie <a style="color: #999999;" href="/gerundios-participios-esperanto/">Gerundios y participios en esperanto</a>.</em></span>
+<span style="color: #999999;"><em>Ya solo nos queda por ver la <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios/ampliacion-participios/">ampliación de participios en esperanto</a>, que también forma parte de la serie <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios/">Gerundios y participios en esperanto</a>.</em></span>

@@ -3,7 +3,8 @@ title: "Acusativo de dirección en esperanto"
 date: 2015-02-22T14:00:12+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "acusativo-direccion-esperanto"
+slug: "direccion"
+aliases: ["/acusativo-direccion-esperanto/"]
 lang: es
 ---
 
@@ -98,4 +99,4 @@ Y recuerda que es mucho más común decir <em>Mi vojaĝas al Francio</em>.
 
  
 
-<span style="color: #999999;"><em>Lo que aprenderemos a continuación es el <strong><a style="color: #999999;" href="/acusativo-cantidad-tiempo-esperanto/">acusativo de cantidad y tiempo</a></strong>, en de la serie <a style="color: #999999;" href="/acusativo-esperanto/">Acusativo en esperanto</a>.</em></span>
+<span style="color: #999999;"><em>Lo que aprenderemos a continuación es el <strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/cantidad-tiempo/">acusativo de cantidad y tiempo</a></strong>, en de la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo/">Acusativo en esperanto</a>.</em></span>

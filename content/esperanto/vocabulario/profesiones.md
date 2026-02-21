@@ -3,7 +3,8 @@ title: "Las profesiones en esperanto"
 date: 2015-03-06T14:00:58+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "profesiones-esperanto"
+slug: "profesiones"
+aliases: ["/profesiones-esperanto/"]
 lang: es
 ---
 

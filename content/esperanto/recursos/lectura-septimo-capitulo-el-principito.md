@@ -3,7 +3,8 @@ title: "Lectura en esperanto del séptimo capítulo de El Principito"
 date: 2015-03-10T14:00:40+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "lectura-esperanto-septimo-capitulo-el-principito"
+slug: "lectura-septimo-capitulo-el-principito"
+aliases: ["/lectura-esperanto-septimo-capitulo-el-principito/"]
 lang: es
 ---
 

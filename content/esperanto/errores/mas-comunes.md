@@ -4,7 +4,8 @@ date: 2015-03-23T14:00:43+00:00
 lastmod: 2020-11-28T09:54:23+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "errores-habituales-esperanto"
+slug: "mas-comunes"
+aliases: ["/errores-habituales-esperanto/"]
 lang: es
 ---
 
@@ -743,7 +744,7 @@ Así pues, <strong><em>telero</em> es el recipiente y <em>plado</em> lo que este
 
 <a name="alegre"></a>
 <h2 id="alegre"><span style="color: #ff6600;">ALEGRE</span></h2>
-Como con <a href="/errores-habituales-esperanto/#necesitar">bezoni y necesi</a>, descubriremos la diferencia usando la terminación más común para cada palabra:
+Como con <a href="/esperanto/errores/mas-comunes/#necesitar">bezoni y necesi</a>, descubriremos la diferencia usando la terminación más común para cada palabra:
 <pre><strong>Gaja</strong> = alegre
 <strong>Ĝoj<span style="color: #ff6600;">i</span></strong> = alegrarse</pre>
 ¿Más claro ahora? Te voy a poner un ejemplo que explicaré con la diferencia ser/estar del castellano:
@@ -855,7 +856,7 @@ Aunque entiendas esto, al principio estas palabras pueden llegar a marearte algu
 </tr>
 </tbody>
 </table>
-<span style="color: #999999;"><em>Además, como puedes ver en la tabla de <a style="color: #999999;" href="/perifrasis-esperanto-ii/">perífrasis frecuentativas</a>, también se pueden utilizar (sobre todo kutime) para decir por ejemplo "<strong>suelo</strong> acostarme pronto".</em></span>
+<span style="color: #999999;"><em>Además, como puedes ver en la tabla de <a style="color: #999999;" href="/esperanto/gramatica/perifrasis-ii/">perífrasis frecuentativas</a>, también se pueden utilizar (sobre todo kutime) para decir por ejemplo "<strong>suelo</strong> acostarme pronto".</em></span>
 
 Por último, decirte que <em>acostumbrarse</em> se dice <strong><em>alkutimiĝi</em></strong>.
 
@@ -1547,7 +1548,7 @@ Muy acertado. Pero simplificando:
 <a name="lo"></a>
 <h2 id="lo"><span style="color: #ff6600;">LO
 </span></h2>
-Ver <a href="/diferencia-tio-gi/">diferencia entre tio y ĝi</a>.
+Ver <a href="/esperanto/errores/diferencia-tio-gi/">diferencia entre tio y ĝi</a>.
 
  
 
@@ -1739,11 +1740,11 @@ Por alguna razón, hay gente que traduce <em>dar de comer</em> como <em>manĝigi
 ¿Quién no empezó diciendo...?
 <pre><span style="color: #ff0000;"><strong>Multa dankon</strong></span>
 <span style="color: #ff0000;"><strong>Multan dankon</strong></span></pre>
-Pero esa estructura es incorrecta en esperanto (véase la <a href="/preposicion-esperanto-da/">preposición <em>da</em></a>) y constituye una traducción literal. Por lo tanto, las maneras de decir <em>muchas gracias</em> son:
+Pero esa estructura es incorrecta en esperanto (véase la <a href="/esperanto/gramatica/preposiciones/da/">preposición <em>da</em></a>) y constituye una traducción literal. Por lo tanto, las maneras de decir <em>muchas gracias</em> son:
 <ul>
  	<li><span style="color: #008000;"><strong>Koran dankon</strong></span> (literalmente, "gracias de corazón"; lo que más se dice)<span style="color: #008000;"><strong>
 </strong></span></li>
- 	<li><span style="color: #008000;"><strong>Dankegon</strong></span> (el <a href="/afijos-tamano-esperanto-et-eg/">sufijo ‒eg‒ es aumentativo</a>)</li>
+ 	<li><span style="color: #008000;"><strong>Dankegon</strong></span> (el <a href="/esperanto/gramatica/afijos/tamano-et-eg/">sufijo ‒eg‒ es aumentativo</a>)</li>
 </ul>
  
 
@@ -2011,7 +2012,7 @@ En castellano, hay algunas palabras que usamos hasta la saciedad, como la partí
 </tr>
 </tbody>
 </table>
-Algunos son adjetivos hechos verbos, como en el caso de <em><a href="/errores-habituales-esperanto/#necesitar">(tio) necesas = (tio) estas necesa</a></em>. Yo te he puesto las formas menos básicas porque por ejemplo nadie dice <em>Mi estas malsata</em>; la gente dice <em>Mi malsatas</em>.
+Algunos son adjetivos hechos verbos, como en el caso de <em><a href="/esperanto/errores/mas-comunes/#necesitar">(tio) necesas = (tio) estas necesa</a></em>. Yo te he puesto las formas menos básicas porque por ejemplo nadie dice <em>Mi estas malsata</em>; la gente dice <em>Mi malsatas</em>.
 
 A veces hay varias formas de decirlo, por ejemplo <em>tengo sueño</em> se podría decir también <em>mi sentiĝas dormema</em> (literalmente, <em>me siento dormilón</em>, que estaría quizá incluso mejor) o <em>mi nun dormemas</em> (literalmente, <em>ahora estoy dormilón</em>)
 
@@ -2280,7 +2281,7 @@ En castellano decimos "un millón", pero en esperanto por un lado no existe el a
 
  
 
-<span style="color: #808080;"><em>Aprende más sobre los <a style="color: #808080;" href="/numeros-esperanto/">números en esperanto</a>.</em></span>
+<span style="color: #808080;"><em>Aprende más sobre los <a style="color: #808080;" href="/esperanto/vocabulario/numeros/">números en esperanto</a>.</em></span>
 
  
 
@@ -2300,7 +2301,7 @@ Mi ludas kun Felipe per mia pilko (juego con Felipe con mi pelota).
 
  
 
-<span style="color: #808080;">Más sobre la <a style="color: #808080;" href="/preposicion-esperanto-per/">preposición <em>per</em></a> y la <a style="color: #808080;" href="/preposiciones-esperanto-kun-sen/">preposición <em>co</em>n</a>.</span>
+<span style="color: #808080;">Más sobre la <a style="color: #808080;" href="/esperanto/gramatica/preposiciones/per/">preposición <em>per</em></a> y la <a style="color: #808080;" href="/esperanto/gramatica/preposiciones/kun-sen/">preposición <em>co</em>n</a>.</span>
 
  
 
@@ -2372,7 +2373,7 @@ La aŭto estas <strong>lia</strong> = El coche es <em>suyo</em> / El coche es <e
 <a name="esperanto"></a>
 <h2 id="esperanto"><span style="color: #ff6600;">ESPERANTO
 </span></h2>
-La franca, la itala, la portugala... pero no es "esperanta lingvo", sino "Esperanto Language & Culture". <a href="/nombre-lenguas-esperanto/">[Lección]</a>.
+La franca, la itala, la portugala... pero no es "esperanta lingvo", sino "Esperanto Language & Culture". <a href="/esperanto/vocabulario/nombre-lenguas/">[Lección]</a>.
 
 Por otro lado, se debe emplear mayúscula inicial en los siguientes casos: Esperant/o, Esperant/a, Esperant/e. Eso es para no generar ambigüedad con el gerundio del verbo "esper/i". El resto, como "esperant/ist/o" no generan ambigüedad, así que se escriben en minúsculas.
 
@@ -2464,8 +2465,8 @@ No se trata de un término muy usual, pero su error de traducción es generaliza
 
 Te propongo los siguientes dos artículos:
 <ul>
- 	<li><a href="/preposicion-esperanto-de/">Preposición DE</a></li>
- 	<li><a href="/preposicion-esperanto-el/">Preposición EL</a></li>
+ 	<li><a href="/esperanto/gramatica/preposiciones/de/">Preposición DE</a></li>
+ 	<li><a href="/esperanto/gramatica/preposiciones/el/">Preposición EL</a></li>
 </ul>
 Un comentario importante es que la castellana "de" tiene varias traducciones en esperanto (de, pri, el, da...). Cuando no sepas cuál usar, usa "de".
 
@@ -2488,8 +2489,8 @@ Es un error frecuente entre principiantes decir "anglo" para referirse al idioma
 
 Y aquí tienes lecciones sobre el tema:
 <ul>
- 	<li><a href="/nombre-paises-habitantes-esperanto/">Nombre de los países y sus habitantes en esperanto</a></li>
- 	<li><a href="/nombre-lenguas-esperanto/">Nombre de las lenguas en esperanto</a></li>
+ 	<li><a href="/esperanto/vocabulario/geografia/nombre-paises-habitantes/">Nombre de los países y sus habitantes en esperanto</a></li>
+ 	<li><a href="/esperanto/vocabulario/nombre-lenguas/">Nombre de las lenguas en esperanto</a></li>
 </ul>
  
 
@@ -2534,7 +2535,7 @@ Aparte, que sepas que si con "todo el mundo" nos queremos referir a "todos", en 
 </span></h2>
 Decir <span style="color: #ff0000;">ĉi-tiu</span> o <span style="color: #ff0000;">tiu-ĉi</span> es un error; no se debe poner guion.
 
-Lee acerca de la <a href="/particula-ci-esperanto/">partícula ĉi en esperanto</a>.
+Lee acerca de la <a href="/esperanto/gramatica/particula-ci/">partícula ĉi en esperanto</a>.
 
  
 

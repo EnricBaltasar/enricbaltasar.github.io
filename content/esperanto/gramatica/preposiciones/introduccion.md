@@ -3,7 +3,8 @@ title: "Introducción a las preposiciones en esperanto"
 date: 2015-03-19T14:00:00+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "introduccion-preposiciones-esperanto"
+slug: "introduccion"
+aliases: ["/introduccion-preposiciones-esperanto/"]
 lang: es
 ---
 

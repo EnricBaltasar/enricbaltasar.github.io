@@ -3,7 +3,8 @@ title: "Preposición \"pri\" en esperanto"
 date: 2015-04-24T14:00:03+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "preposicion-esperanto-pri"
+slug: "pri"
+aliases: ["/preposicion-esperanto-pri/"]
 lang: es
 ---
 

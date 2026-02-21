@@ -3,11 +3,12 @@ title: "Variaciones del esperanto en el mundo actual"
 date: 2016-04-23T13:00:12+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "variaciones-esperanto"
+slug: "variaciones"
+aliases: ["/variaciones-esperanto/"]
 lang: es
 ---
 
-En mi artículo sobre la <a href="/evolucion-esperanto/">evolución del esperanto</a> abordé las variaciones a nivel cronológico. En este otro, presentaré las diferencias destacables de uso que podemos encontrar en los hablantes de hoy en día.
+En mi artículo sobre la <a href="/esperanto/recursos/evolucion/">evolución del esperanto</a> abordé las variaciones a nivel cronológico. En este otro, presentaré las diferencias destacables de uso que podemos encontrar en los hablantes de hoy en día.
 
  
 
@@ -17,7 +18,7 @@ En mi artículo sobre la <a href="/evolucion-esperanto/">evolución del esperant
 <tbody>
 <tr>
 <td style="background-color: #e3e3e3;"><strong>Caso</strong></td>
-<td>Algunos hablantes emplean el artículo en <a href="/sustantivos-seguidos-esperanto/">aposiciones especificativas</a>, como "el rey Juan" (= Juan), y otros no.</td>
+<td>Algunos hablantes emplean el artículo en <a href="/esperanto/gramatica/sustantivos-seguidos/">aposiciones especificativas</a>, como "el rey Juan" (= Juan), y otros no.</td>
 </tr>
 <tr>
 <td style="background-color: #e3e3e3;"><strong>Ejemplos</strong></td>
@@ -101,7 +102,7 @@ Mi casa se parece a <span style="text-decoration: underline;">la tuya</span> = M
 <tbody>
 <tr>
 <td style="background-color: #e3e3e3;"><strong>Caso</strong></td>
-<td>Algunas categorías de palabras (ej.: días de la semana) o palabras específicas (ej.: Internet) empiezan con inicial mayúscula en unos idiomas y en otros no. Hay quienes trasladan esto al esperanto como la manera correcta. [Ver: <a href="/mayusculas-minusculas-esperanto/">mayúsculas y minúsculas en esperanto</a>].</td>
+<td>Algunas categorías de palabras (ej.: días de la semana) o palabras específicas (ej.: Internet) empiezan con inicial mayúscula en unos idiomas y en otros no. Hay quienes trasladan esto al esperanto como la manera correcta. [Ver: <a href="/esperanto/gramatica/mayusculas-minusculas/">mayúsculas y minúsculas en esperanto</a>].</td>
 </tr>
 <tr>
 <td style="background-color: #e3e3e3;"><strong>Ejemplos</strong></td>
@@ -127,7 +128,7 @@ vendredo = Vendredo</td>
 <tbody>
 <tr>
 <td style="background-color: #e3e3e3;"><strong>Caso</strong></td>
-<td>Se utilizan todas los signos para citar que uno se pueda imaginar: las alemanas, las españolas, etc. [Ver: <a href="/signos-puntuacion-esperanto/">signos de puntuación en esperanto</a>, también los comentarios].</td>
+<td>Se utilizan todas los signos para citar que uno se pueda imaginar: las alemanas, las españolas, etc. [Ver: <a href="/esperanto/gramatica/signos-puntuacion/">signos de puntuación en esperanto</a>, también los comentarios].</td>
 </tr>
 <tr>
 <td style="background-color: #e3e3e3;"><strong>Ejemplos</strong></td>

@@ -3,7 +3,8 @@ title: "Las direcciones en esperanto"
 date: 2017-02-11T13:00:49+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "direcciones-esperanto"
+slug: "direcciones"
+aliases: ["/direcciones-esperanto/"]
 lang: es
 ---
 

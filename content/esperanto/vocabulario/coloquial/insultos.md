@@ -3,7 +3,8 @@ title: "Insultos en esperanto"
 date: 2015-06-04T14:00:01+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "insultos-esperanto"
+slug: "insultos"
+aliases: ["/insultos-esperanto/"]
 lang: es
 ---
 
@@ -75,4 +76,4 @@ Por otra parte, los insultos <strong>se suelen relajar en esperanto</strong>. Po
 </strong><span style="color: #808080;"><em>[damne = maldita sea, maldición]</em></span></li>
 </ul>
 
-Así que ahora ya sabes cómo insultar a alguien en esperanto, pero no hagas maldades ;) Y si te has quedado con ganas de más, te invito a leer un diccionario de <a href="http://i-espero.info/files/elibroj/eo%20-%20alos%20&%20velkov%20-%20tabuaj%20vortoj%20en%20esperanto.pdf" target="_blank" rel="noopener noreferrer">palabras tabú en esperanto</a> y un artículo que escribí sobre el <a href="/palabras-tabu-eufemismos-esperanto/">tema de los eufemismos</a>.
+Así que ahora ya sabes cómo insultar a alguien en esperanto, pero no hagas maldades ;) Y si te has quedado con ganas de más, te invito a leer un diccionario de <a href="http://i-espero.info/files/elibroj/eo%20-%20alos%20&%20velkov%20-%20tabuaj%20vortoj%20en%20esperanto.pdf" target="_blank" rel="noopener noreferrer">palabras tabú en esperanto</a> y un artículo que escribí sobre el <a href="/esperanto/vocabulario/coloquial/palabras-tabu-eufemismos/">tema de los eufemismos</a>.

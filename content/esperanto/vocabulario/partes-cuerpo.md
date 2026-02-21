@@ -3,7 +3,8 @@ title: "Partes del cuerpo en esperanto"
 date: 2015-03-20T14:00:23+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "partes-cuerpo-esperanto"
+slug: "partes-cuerpo"
+aliases: ["/partes-cuerpo-esperanto/"]
 lang: es
 ---
 

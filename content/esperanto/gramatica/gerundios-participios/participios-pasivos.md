@@ -4,7 +4,8 @@ date: 2017-02-25T13:00:47+00:00
 lastmod: 2019-09-10T06:51:41+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "participios-pasivos-esperanto"
+slug: "participios-pasivos"
+aliases: ["/participios-pasivos-esperanto/"]
 lang: es
 ---
 
@@ -101,4 +102,4 @@ Recuerda que a las formas con ‒it‒, ‒at‒ y ‒ot‒ las llamamos <stron
 
 <span style="color: #999999;"><em><strong>Nota</strong>: las imágenes de la lección las he sacado del curso Universala Esperanto-Metodo. </em></span>
 
-<span style="color: #999999;"><em>En la siguiente lección veremos los <a style="color: #999999;" href="/participios-esperanto-modos-verbales/">participios en esperanto con modos verbales</a>, que también forman parte de la serie <a style="color: #999999;" href="/gerundios-participios-esperanto/">Gerundios y participios en esperanto</a>.</em></span>
+<span style="color: #999999;"><em>En la siguiente lección veremos los <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios/modos-verbales/">participios en esperanto con modos verbales</a>, que también forman parte de la serie <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios/">Gerundios y participios en esperanto</a>.</em></span>

@@ -4,6 +4,7 @@ date: 2015-10-07T13:00:23+00:00
 draft: false
 topics: ["Esperanto Language & Culture", "Republished"]
 slug: "castillos-ecuaciones"
+aliases: ["/castillos-ecuaciones/"]
 lang: es
 ---
 

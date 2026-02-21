@@ -3,7 +3,8 @@ title: "Ferreira Gullar en Esperanto: \"Não há vagas\""
 date: 2016-10-15T13:00:34+00:00
 draft: false
 topics: ["Poetry", "Esperanto Language & Culture", "Republished"]
-slug: "ferreira-gullar-esperanto-nao-ha-vagas"
+slug: "ferreira-gullar-nao-ha-vagas"
+aliases: ["/ferreira-gullar-esperanto-nao-ha-vagas/"]
 lang: eo
 ---
 

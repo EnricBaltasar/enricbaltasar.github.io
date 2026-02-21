@@ -3,7 +3,8 @@ title: "La familia en esperanto"
 date: 2015-04-16T14:00:07+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "familia-esperanto"
+slug: "familia"
+aliases: ["/familia-esperanto/"]
 lang: es
 ---
 
@@ -92,6 +93,6 @@ Para que no haya problemas de compatibilidad entre sistemas, usa las palabras de
     <li><strong>Más gráfico:</strong> hace tiempo hice dos PowerPoint para explicar por el método directo los <a href="/pdf/familio-anoj.pptx">miembros de la familia</a> y <a href="/pdf/familio-rilatoj.pptx">las relaciones entre ellos</a>.</li>
     <li><strong>Más vocabulario:</strong> <em>duonpatro</em> (padrastro/madrastra), <em>duonfilo</em> (hijastro/a), <em>sola filo</em> (hijo/a único/a), <em>adoptito</em> (adoptado), <em>edziĝi</em> (casarse), <em>edzeco</em> (matrimonio), <em>pli aĝa frato</em> (hermano mayor - si sois dos hermanos), <em>plej aĝa frato</em> (si sois más de dos; el más mayor de todos).</li>
     <li><strong>Corrección:</strong> cuando vayas a decir <em>casarse con</em>, deberías saber que <em>ediziĝi <strong>kun</strong> Marina</em> significa que Marina estaba presente, al lado o algo así. Y que lo que querías decir era <em>edziĝi <strong>al</strong> Marina</em>.</li>
-    <li><strong>Ampliación:</strong> para aprender a decir el resto de palabras, como <em>suegro</em>, debes aprender el <a href="/afijo-familia-esperanto-bo/">prefijo bo-</a>.</li>
+    <li><strong>Ampliación:</strong> para aprender a decir el resto de palabras, como <em>suegro</em>, debes aprender el <a href="/esperanto/gramatica/afijos/familia-bo/">prefijo bo-</a>.</li>
     <li><strong>Ampliación:</strong> para aprender a decir palabras como <em>tataranieto</em> y <em>bisabuelo</em>, aprende el prefijo pra-.</li>
 </ul>

@@ -3,7 +3,8 @@ title: "Acusativo para el complemento directo en esperanto"
 date: 2015-02-11T14:00:32+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "acusativo-complemento-directo-esperanto"
+slug: "complemento-directo"
+aliases: ["/acusativo-complemento-directo-esperanto/"]
 lang: es
 ---
 
@@ -31,4 +32,4 @@ Sin embargo, a los hispanohablantes les puede costar un poco acostumbrarse al pr
 
  
 
-<em><span style="color: #999999;">En la siguiente lección aprenderemos sobre la existencia de <strong><a style="color: #999999;" href="/acusativo-verbos-esperanto/">verbos que no permiten ‒n</a></strong>, incluidos en la serie <a style="color: #999999;" href="/acusativo-esperanto/">Acusativo en esperanto</a>.</span></em>
+<em><span style="color: #999999;">En la siguiente lección aprenderemos sobre la existencia de <strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/verbos/">verbos que no permiten ‒n</a></strong>, incluidos en la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo/">Acusativo en esperanto</a>.</span></em>

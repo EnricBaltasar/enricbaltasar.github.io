@@ -3,7 +3,8 @@ title: "Preposición en esperanto \"da\""
 date: 2015-05-14T14:00:32+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "preposicion-esperanto-da"
+slug: "da"
+aliases: ["/preposicion-esperanto-da/"]
 lang: es
 ---
 
@@ -24,7 +25,7 @@ Cuando se dé el caso "ADJEJTIVO + SUSTANTIVO" (ej.: mucho pan) y el adjetivo se
 </strong>» <strong><span style="text-decoration: underline; color: #ff6600;">Muchísima</span> agua => <span style="text-decoration: underline;"><span style="color: #ff6600; text-decoration: underline;">Multege da</span></span> akvo</strong>
 » <strong>Quiero <span style="text-decoration: underline; color: #ff6600;">más</span> pan => Mi volas <span style="text-decoration: underline; color: #ff6600;">pli da</span> pano</strong>
 » <strong>Hay <span style="text-decoration: underline; color: #ff6600;">demasiado</span> pan = Estas <span style="text-decoration: underline;"><span style="color: #ff6600; text-decoration: underline;">tro da</span></span> pano</strong></pre>
-Es posible que te estés preguntando "¿Pero por ejemplo 'pli' no era un adverbio'"? Sí, así es, lo que pasa es que en castellano adverbios como "mucho" y "más" funcionan tanto como adverbios como adjetivos. <a href="/errores-habituales-esperanto/#mas-manzanas">[Más información]</a>.
+Es posible que te estés preguntando "¿Pero por ejemplo 'pli' no era un adverbio'"? Sí, así es, lo que pasa es que en castellano adverbios como "mucho" y "más" funcionan tanto como adverbios como adjetivos. <a href="/esperanto/errores/mas-comunes/#mas-manzanas">[Más información]</a>.
 
 Otra cosa importante es que cuando el adjetivo de cantidad es contable, se tiende y prefiere adoptar la forma como adjetivo:
 <pre>» <strong><span style="text-decoration: underline;"><span style="color: #ff6600; text-decoration: underline;">Muchos</span></span> amigos => <span style="text-decoration: underline;"><span style="color: #ff6600; text-decoration: underline;">Multaj</span></span> amikoj</strong>

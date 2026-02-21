@@ -3,15 +3,16 @@ title: "Orden de los sustantivos y adjetivos en esperanto"
 date: 2015-08-19T13:00:37+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "orden-sustantivos-adjetivos-esperanto"
+slug: "orden-sustantivos-adjetivos"
+aliases: ["/orden-sustantivos-adjetivos-esperanto/"]
 lang: es
 ---
 
 Como ya hemos visto,
 
 <ul>
-    <li>Los <a href="/sustantivos-esperanto/">sustantivos</a> (‒O) nombran a algo: tabl<span style="text-decoration: underline;">o</span> (mesa), kat<span style="text-decoration: underline;">o</span> (gato)...</li>
-    <li>Los <a href="/adjetivos-esperanto/">adjetivos</a> (‒A) dicen cómo es ese sustantivo: grand<span style="text-decoration: underline;">a</span> (grande), bel<span style="text-decoration: underline;">a</span> (bonito)...</li>
+    <li>Los <a href="/esperanto/gramatica/terminaciones/sustantivos/">sustantivos</a> (‒O) nombran a algo: tabl<span style="text-decoration: underline;">o</span> (mesa), kat<span style="text-decoration: underline;">o</span> (gato)...</li>
+    <li>Los <a href="/esperanto/gramatica/terminaciones/adjetivos/">adjetivos</a> (‒A) dicen cómo es ese sustantivo: grand<span style="text-decoration: underline;">a</span> (grande), bel<span style="text-decoration: underline;">a</span> (bonito)...</li>
 </ul>
 
 ¿Pero se dice "bela kato" o "kato bela"? Cualquiera de las dos formas es correcta, pero el hábito ha hecho que se ponga primero el adjetivo:

@@ -3,7 +3,8 @@ title: "Preposiciones en esperanto \"kun\" y \"sen\""
 date: 2015-04-23T14:00:31+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "preposiciones-esperanto-kun-sen"
+slug: "kun-sen"
+aliases: ["/preposiciones-esperanto-kun-sen/"]
 lang: es
 ---
 

@@ -3,11 +3,12 @@ title: "Corrección: las partículas interrogativas van sin \"ĉu\""
 date: 2015-02-06T14:00:10+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "correccion-particulas-interrogativas-sin-cu"
+slug: "particulas-interrogativas-sin-cu"
+aliases: ["/correccion-particulas-interrogativas-sin-cu/"]
 lang: es
 ---
 
-Algo que probablemente muchos de nosotros hemos hecho en algún momento al empezar a aprender esperanto después de aprender la <a href="/preguntas-afirmativas-negativas-esperanto/">partícula ĉu</a> y las <a href="/particulas-interrogativas-esperanto/">partículas interrogativas</a> es plantearnos: ¿Y cuando pregunto algo con <em>ki-</em> y  la respuesta puede ser afirmativa o negativa? Casos, por supuesto, tan extraños como este:
+Algo que probablemente muchos de nosotros hemos hecho en algún momento al empezar a aprender esperanto después de aprender la <a href="/esperanto/gramatica/preguntas-afirmativas-negativas/">partícula ĉu</a> y las <a href="/esperanto/gramatica/particulas-interrogativas/">partículas interrogativas</a> es plantearnos: ¿Y cuando pregunto algo con <em>ki-</em> y  la respuesta puede ser afirmativa o negativa? Casos, por supuesto, tan extraños como este:
 <pre>‒ ¿Como lo dices? :O
 ‒ Sí, así</pre>
 De este modo:

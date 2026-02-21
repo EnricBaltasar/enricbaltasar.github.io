@@ -3,7 +3,8 @@ title: "Nexos coordinados en esperanto"
 date: 2015-05-29T14:00:20+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "nexos-coordinados-esperanto"
+slug: "nexos-coordinados"
+aliases: ["/nexos-coordinados-esperanto/"]
 lang: es
 ---
 

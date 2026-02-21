@@ -3,7 +3,8 @@ title: "Revistas en esperanto"
 date: 2015-11-07T13:00:50+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "revistas-esperanto"
+slug: "revistas"
+aliases: ["/revistas-esperanto/"]
 lang: es
 ---
 

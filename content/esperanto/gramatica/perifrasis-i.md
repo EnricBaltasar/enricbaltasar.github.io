@@ -3,7 +3,8 @@ title: "Perífrasis en esperanto (I): qué son y las más comunes"
 date: 2015-02-08T14:00:00+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "perifrasis-esperanto-i"
+slug: "perifrasis-i"
+aliases: ["/perifrasis-esperanto-i/"]
 lang: es
 ---
 
@@ -150,4 +151,4 @@ Este es un tema bastante pesado, así que <strong>no estés tan loco como para p
 
 Por cierto, como quizá te hayas dado cuenta, <strong>las perífrasis no existen en esperanto</strong>, pues todas se traducen con adverbios (probable, kutime...), afijos (ek-, -ad-...) o simplemente verbos (devi...). La complicación está únicamente en castellano y, como de costumbre, en esperanto tenemos que entender el significado para poder simplificar la manera en la que decimos las cosas.
 
-<span style="color: #808080;"><em>Cuando hayas interiorizado esto, estarás preparado para afrontar la <a style="color: #808080;" href="/perifrasis-esperanto-ii/">traducción de todas las perífrasis del castellano al esperanto</a>.</em></span>
+<span style="color: #808080;"><em>Cuando hayas interiorizado esto, estarás preparado para afrontar la <a style="color: #808080;" href="/esperanto/gramatica/perifrasis-ii/">traducción de todas las perífrasis del castellano al esperanto</a>.</em></span>

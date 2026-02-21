@@ -4,7 +4,8 @@ date: 2015-01-28T14:00:17+00:00
 lastmod: 2019-12-16T17:32:18+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "cursos-esperanto"
+slug: "cursos"
+aliases: ["/cursos-esperanto/"]
 lang: es
 ---
 
@@ -38,7 +39,7 @@ Si no te han convendido los anteriores, aquí tienes algunas opciones más.
 
 {{< img src="programa-kurso-esperanto.png" >}}
 
-Para corregirte los <a href="/correcciones-ejercicios-programa-kurso-esperanto/">ejercicios de traducción de oraciones</a>, puedes servirte de mis correcciones.
+Para corregirte los <a href="/esperanto/recursos/correcciones-ejercicios-programa-kurso/">ejercicios de traducción de oraciones</a>, puedes servirte de mis correcciones.
 <h3 id="kurso-jubilo-web-pdf"><span style="color: #ff9900;"><strong>Kurso Jubilo [Web] [PDF]</strong></span></h3>
 Todo un clásico. Era de las mejores en su momento, con la mayor parte de la gramática bien explicada, con ejemplos, ejercicios (que se pueden autocorregir), listas de vocabulario y un cuento final.
 

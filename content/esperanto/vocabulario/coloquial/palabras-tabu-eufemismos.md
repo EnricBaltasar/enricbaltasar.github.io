@@ -3,7 +3,8 @@ title: "Palabras tabú y eufemismos en esperanto"
 date: 2015-05-17T14:00:40+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "palabras-tabu-eufemismos-esperanto"
+slug: "palabras-tabu-eufemismos"
+aliases: ["/palabras-tabu-eufemismos-esperanto/"]
 lang: es
 ---
 

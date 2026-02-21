@@ -3,7 +3,8 @@ title: "Esperanto kvazaŭ imperiisma lingvo: la esperantismaj imperiistoj"
 date: 2013-09-10T15:57:47+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "esperanto-kvazau-imperiisma-lingvo-esperantismaj-imperiistoj"
+slug: "esperanto-kvazau-imperiisma-lingvo"
+aliases: ["/esperanto-kvazau-imperiisma-lingvo-esperantismaj-imperiistoj/"]
 lang: eo
 ---
 

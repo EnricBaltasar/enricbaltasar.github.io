@@ -3,7 +3,8 @@ title: "Partes de la casa en esperanto"
 date: 2015-03-18T14:00:24+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "partes-casa-esperanto"
+slug: "partes-casa"
+aliases: ["/partes-casa-esperanto/"]
 lang: es
 ---
 

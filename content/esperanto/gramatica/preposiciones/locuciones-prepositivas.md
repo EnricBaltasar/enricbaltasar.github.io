@@ -3,7 +3,8 @@ title: "Locuciones prepositivas en esperanto"
 date: 2016-01-02T13:00:24+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "locuciones-prepositivas-esperanto"
+slug: "locuciones-prepositivas"
+aliases: ["/locuciones-prepositivas-esperanto/"]
 lang: es
 ---
 

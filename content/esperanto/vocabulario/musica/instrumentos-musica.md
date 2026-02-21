@@ -3,7 +3,8 @@ title: "Instrumentos de música en esperanto"
 date: 2015-05-10T14:00:59+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "instrumentos-musica-esperanto"
+slug: "instrumentos-musica"
+aliases: ["/instrumentos-musica-esperanto/"]
 lang: es
 ---
 

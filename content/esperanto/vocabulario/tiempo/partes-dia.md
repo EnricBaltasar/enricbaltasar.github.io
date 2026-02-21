@@ -3,7 +3,8 @@ title: "Partes del día en esperanto"
 date: 2015-01-30T14:00:00+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "partes-dia-esperanto"
+slug: "partes-dia"
+aliases: ["/partes-dia-esperanto/"]
 lang: es
 ---
 

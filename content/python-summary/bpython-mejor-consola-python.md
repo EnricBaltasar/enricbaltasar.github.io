@@ -4,6 +4,7 @@ date: 2015-01-15T15:00:17+00:00
 draft: false
 topics: ["Python"]
 slug: "bpython-mejor-consola-python"
+aliases: ["/bpython-mejor-consola-python/"]
 lang: es
 ---
 

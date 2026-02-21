@@ -4,7 +4,8 @@ date: 2015-05-19T14:00:38+00:00
 lastmod: 2019-12-16T16:48:46+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "diccionarios-esperanto"
+slug: "diccionarios"
+aliases: ["/diccionarios-esperanto/"]
 lang: es
 ---
 

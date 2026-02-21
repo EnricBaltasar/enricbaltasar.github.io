@@ -3,7 +3,8 @@ title: "Los animales en esperanto"
 date: 2015-03-16T14:00:21+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "animales-esperanto"
+slug: "animales"
+aliases: ["/animales-esperanto/"]
 lang: es
 ---
 

@@ -3,7 +3,8 @@ title: "Falsos amigos en esperanto"
 date: 2015-04-06T14:00:58+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "falsos-amigos-esperanto"
+slug: "falsos-amigos"
+aliases: ["/falsos-amigos-esperanto/"]
 lang: es
 ---
 

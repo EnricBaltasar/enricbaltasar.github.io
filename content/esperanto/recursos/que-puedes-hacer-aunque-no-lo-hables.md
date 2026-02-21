@@ -3,7 +3,8 @@ title: "Qué puedes hacer por el esperanto aunque no lo hables"
 date: 2016-05-04T13:00:37+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "que-puedes-hacer-por-el-esperanto-aunque-no-lo-hables"
+slug: "que-puedes-hacer-aunque-no-lo-hables"
+aliases: ["/que-puedes-hacer-por-el-esperanto-aunque-no-lo-hables/"]
 lang: es
 ---
 

@@ -3,11 +3,12 @@ title: "Cómo hacer que te pregunten por el esperanto"
 date: 2016-05-28T13:00:31+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "como-hacer-que-te-pregunten-por-el-esperanto"
+slug: "como-hacer-que-te-pregunten"
+aliases: ["/como-hacer-que-te-pregunten-por-el-esperanto/"]
 lang: es
 ---
 
-A principios de mes hablaba de iniciar una serie de artículos sobre <a href="/que-puedes-hacer-por-el-esperanto-aunque-no-lo-hables/">qué puede hacer por el esperanto alguien que no lo hable</a>. Sin embargo, no tenía claro cómo iba a estructurar las ideas, porque... <strong>¿te has parado a pensar en lo mucho que pueden variar nuestras oportunidades individuales?</strong> Te pongo algunos ejemplos de qué considerar:
+A principios de mes hablaba de iniciar una serie de artículos sobre <a href="/esperanto/recursos/que-puedes-hacer-aunque-no-lo-hables/">qué puede hacer por el esperanto alguien que no lo hable</a>. Sin embargo, no tenía claro cómo iba a estructurar las ideas, porque... <strong>¿te has parado a pensar en lo mucho que pueden variar nuestras oportunidades individuales?</strong> Te pongo algunos ejemplos de qué considerar:
 
 <ul>
     <li>Material disponible: ¿Acceso a folletos?</li>
@@ -42,7 +43,7 @@ Si te suena lógico, ahora te estarás preguntando <em>¿Pero cómo aplico eso 
     <li><strong>Ĝis</strong> (adiós) <span style="color: #808080;"><em>[Ĝ se pronuncia como la G de Genius en inglés]</em></span></li>
 </ul>
 
-Yo a veces llamo <em>patrino</em> o <em>panjo</em> (léase pá_nyo) a mi madre, y una vez me dijo que le enviara una lista con vocabulario básico de este tipo para usarlo conmigo. Te invito a hacer lo mismo y, en caso de no conocer alguna palabra, tienes a tu disposición una cantidad importante de <a href="/diccionarios-esperanto/">diccionarios de esperanto</a>. ¿Alguna frase importante que creas que debería añadir? Por cierto, noté que la palabra <em>Fek</em> (¡Mierda!, ¡Joder!) no funciona.
+Yo a veces llamo <em>patrino</em> o <em>panjo</em> (léase pá_nyo) a mi madre, y una vez me dijo que le enviara una lista con vocabulario básico de este tipo para usarlo conmigo. Te invito a hacer lo mismo y, en caso de no conocer alguna palabra, tienes a tu disposición una cantidad importante de <a href="/esperanto/aprender/diccionarios/">diccionarios de esperanto</a>. ¿Alguna frase importante que creas que debería añadir? Por cierto, noté que la palabra <em>Fek</em> (¡Mierda!, ¡Joder!) no funciona.
 
 <span style="color: #ff6600;"><strong>2) Pon una frase en un lugar visible:</strong></span>
 

@@ -3,7 +3,8 @@ title: "Partícula \"ĉi\" en esperanto"
 date: 2015-06-28T14:00:47+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "particula-ci-esperanto"
+slug: "particula-ci"
+aliases: ["/particula-ci-esperanto/"]
 lang: es
 ---
 

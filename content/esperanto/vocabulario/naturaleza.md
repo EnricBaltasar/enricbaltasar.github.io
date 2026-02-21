@@ -4,7 +4,8 @@ date: 2017-06-10T13:00:43+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
 description: "Vocabulario sobre la naturaleza en la lengua internacional esperanto."
-slug: "naturaleza-esperanto"
+slug: "naturaleza"
+aliases: ["/naturaleza-esperanto/"]
 lang: es
 ---
 

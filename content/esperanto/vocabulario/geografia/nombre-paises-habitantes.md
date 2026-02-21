@@ -4,7 +4,8 @@ date: 2015-04-21T14:00:52+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
 description: "Vocabulario del nombre de los países y sus habitantes en esperanto. Además, la lección cuenta con algunas oraciones de uso común."
-slug: "nombre-paises-habitantes-esperanto"
+slug: "nombre-paises-habitantes"
+aliases: ["/nombre-paises-habitantes-esperanto/"]
 lang: es
 ---
 
@@ -49,4 +50,4 @@ Aquí tienes algunas oraciones básicas que te pueden ser útiles:
 
 <h2 id="mas-a-fondo"><strong><span style="color: #ff6600;">Más a fondo</span></strong></h2>
 
-Puedes encontrar una <a href="http://es.wikibooks.org/wiki/Esperanto/Vocabulario/Lugares_y_países" target="_blank" rel="nofollow noopener noreferrer">lista de algunos países</a>. Y debo mencionar que la regla del Nuevo Mundo no se aplica en el 100% los casos: fíjate en <em>Barat/o</em> (India). Una excepción (tercera forma posible) a la norma son algunos países contados como <strong>Pollando</strong> (Polonia), cuyo gentilicio es <strong>polo</strong> (polaco). O <strong>Finnlando</strong> (Finlandia), gentilicio del cual es <strong>finno</strong> (finés, <em>finlandés<a href="http://www.biginfinland.com/fines-o-finlandes/" target="_blank" rel="noopener noreferrer">*</a></em>). Aunque realmente es una excepción de uso, porque por <em>Pol/i/o</em> y <em>Finn/i/o</em> son correctos, solo que la gente no usa estas palabras. Aunque se dice Nederland/o y nederland/an/o. Ah, también que sepas que, además de <strong>‒i‒</strong> (Hispanio), hay gente que usa <strong>‒uj‒</strong> (Hispanujo). Significan lo mismo, pero cada vez se usa más el primero. Si tienes curiosidad por esto, puedes leer sobre la <a href="/evolucion-esperanto/">evolución del esperanto</a>.
+Puedes encontrar una <a href="http://es.wikibooks.org/wiki/Esperanto/Vocabulario/Lugares_y_países" target="_blank" rel="nofollow noopener noreferrer">lista de algunos países</a>. Y debo mencionar que la regla del Nuevo Mundo no se aplica en el 100% los casos: fíjate en <em>Barat/o</em> (India). Una excepción (tercera forma posible) a la norma son algunos países contados como <strong>Pollando</strong> (Polonia), cuyo gentilicio es <strong>polo</strong> (polaco). O <strong>Finnlando</strong> (Finlandia), gentilicio del cual es <strong>finno</strong> (finés, <em>finlandés<a href="http://www.biginfinland.com/fines-o-finlandes/" target="_blank" rel="noopener noreferrer">*</a></em>). Aunque realmente es una excepción de uso, porque por <em>Pol/i/o</em> y <em>Finn/i/o</em> son correctos, solo que la gente no usa estas palabras. Aunque se dice Nederland/o y nederland/an/o. Ah, también que sepas que, además de <strong>‒i‒</strong> (Hispanio), hay gente que usa <strong>‒uj‒</strong> (Hispanujo). Significan lo mismo, pero cada vez se usa más el primero. Si tienes curiosidad por esto, puedes leer sobre la <a href="/esperanto/recursos/evolucion/">evolución del esperanto</a>.

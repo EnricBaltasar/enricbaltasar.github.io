@@ -5,7 +5,8 @@ draft: false
 topics: ["Esperanto Language & Culture"]
 cover:
   image: "/images/juego-ahorcado.jpg"
-slug: "ahorcado-esperanto"
+slug: "ahorcado"
+aliases: ["/ahorcado-esperanto/"]
 lang: es
 ---
 

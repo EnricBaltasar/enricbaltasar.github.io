@@ -3,7 +3,8 @@ title: "Adverbios de frecuencia en esperanto"
 date: 2015-10-10T13:00:31+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "adverbios-frecuencia-esperanto"
+slug: "adverbios-frecuencia"
+aliases: ["/adverbios-frecuencia-esperanto/"]
 lang: es
 ---
 
@@ -25,9 +26,9 @@ De más frecuente a menos:
     <li><strong>Neniam</strong> (nunca)</li>
 </ul>
 
-<span style="color: #808080;"><strong>Nota:</strong> <em>kutime</em> y <em>ofte</em> también se utilizan para decir <em>suelo</em>, en oraciones como <em>Suelo ir por las tardes</em>. +Info: <a style="color: #808080;" href="/perifrasis-esperanto-ii/">perífrasis frecuentativas</a>.</span>
+<span style="color: #808080;"><strong>Nota:</strong> <em>kutime</em> y <em>ofte</em> también se utilizan para decir <em>suelo</em>, en oraciones como <em>Suelo ir por las tardes</em>. +Info: <a style="color: #808080;" href="/esperanto/gramatica/perifrasis-ii/">perífrasis frecuentativas</a>.</span>
 
-<span style="color: #808080;"><strong>Nota:</strong> además de <em>iufoje</em>, también se puede deicr <em><a href="/errores-habituales-esperanto/#alguna-vez">iafoje</a></em>, aunque es un poco más avanzado.</span>
+<span style="color: #808080;"><strong>Nota:</strong> además de <em>iufoje</em>, también se puede deicr <em><a href="/esperanto/errores/mas-comunes/#alguna-vez">iafoje</a></em>, aunque es un poco más avanzado.</span>
 
  
 

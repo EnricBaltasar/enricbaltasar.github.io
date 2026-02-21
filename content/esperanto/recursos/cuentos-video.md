@@ -3,7 +3,8 @@ title: "Cuentos en vídeo en esperanto"
 date: 2015-04-03T14:00:21+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "cuentos-video-esperanto"
+slug: "cuentos-video"
+aliases: ["/cuentos-video-esperanto/"]
 lang: es
 ---
 

@@ -3,7 +3,8 @@ title: "Verbos compuestos en esperanto"
 date: 2017-02-18T13:00:18+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "verbos-compuestos-esperanto"
+slug: "verbos-compuestos"
+aliases: ["/verbos-compuestos-esperanto/"]
 lang: es
 ---
 
@@ -19,7 +20,7 @@ Esto se debe a que los gerundios (cant<span style="text-decoration: underline;">
 
 <pre>Caminaba ~ Estaba caminando</pre>
 
-<em>¿Pero esto significa que en esperanto no existen verbos compuestos?</em> No exactamente; los hay. Solo que, por una cuestión de economía, normalmente preferimos usar formas menos pesadas cuando es posible (teniendo además en cuenta que en esperanto el sistema tiene más matices) o, si lo viésemos conveniente, hacer uso de otros elementos lingüísticos (adverbios o prefijos, <em>véase <a href="/perifrasis-esperanto-i/">perífrasis en esperanto</a></em>) para expresar esos matices.
+<em>¿Pero esto significa que en esperanto no existen verbos compuestos?</em> No exactamente; los hay. Solo que, por una cuestión de economía, normalmente preferimos usar formas menos pesadas cuando es posible (teniendo además en cuenta que en esperanto el sistema tiene más matices) o, si lo viésemos conveniente, hacer uso de otros elementos lingüísticos (adverbios o prefijos, <em>véase <a href="/esperanto/gramatica/perifrasis-i/">perífrasis en esperanto</a></em>) para expresar esos matices.
 
 Y créeme, si en una conversación tu interlocutor no para de usar verbos compuestos en esperanto, resulta extraño y hasta puede ser desagradable. Cuando a mí me pasa eso, suelo pensar o que es un pedante o que ha hablado con muy pocos esperantistas.
 
@@ -29,4 +30,4 @@ A modo de nota, hasta que aprendas los participios activos y pasivos, e incluso 
 
  
 
-<span style="color: #999999;"><em>Entrando en materia, a continuación veremos los <a style="color: #999999;" href="/participios-activos-esperanto/">participios activos en esperanto</a>, que también forman parte de la serie <a style="color: #999999;" href="/gerundios-participios-esperanto/">Gerundios y participios en esperanto</a>.</em></span>
+<span style="color: #999999;"><em>Entrando en materia, a continuación veremos los <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios/participios-activos/">participios activos en esperanto</a>, que también forman parte de la serie <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios/">Gerundios y participios en esperanto</a>.</em></span>

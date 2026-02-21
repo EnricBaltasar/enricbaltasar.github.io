@@ -3,7 +3,8 @@ title: "Contables e incontables en esperanto"
 date: 2015-02-02T14:00:44+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "contables-incontables-esperanto"
+slug: "contables-incontables"
+aliases: ["/contables-incontables-esperanto/"]
 lang: es
 ---
 

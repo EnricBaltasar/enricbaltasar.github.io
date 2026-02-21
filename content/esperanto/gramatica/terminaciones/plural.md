@@ -3,7 +3,8 @@ title: "Plural en esperanto"
 date: 2015-09-26T13:00:27+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "plural-esperanto"
+slug: "plural"
+aliases: ["/plural-esperanto/"]
 lang: es
 ---
 

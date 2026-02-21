@@ -11,7 +11,7 @@ lang: es
 
 A principios del 2013 compré el nombre del sitio (dícese <em>dominio</em>), y publiqué una carta de presentación muy breve sobre algunos proyectos que había hecho, motivado entre otros por subir a Internet una prueba que materializaba lo que había estado aprendido de diseño web. Más adelante, <strong>decidí que podría ser interesante publicar algunas ideas</strong>, y coincidió con que me llegó una promoción muy buena para extender la duración del dominio hasta el 2016, así que la aproveché y monté un blog.
 
-Para empezar, publiqué un artículo en esperanto en el que identificaba cierto <a href="/esperanto-kvazau-imperiisma-lingvo-esperantismaj-imperiistoj/">caso de disonancia cognitiva en algunos esperantohablantes</a>. Y solo unos días más tarde, me llegó un correo de Herman Deceuninck, un nuevo lector de Bélgica (el blog es internacional desde el primer momento), que dice así:
+Para empezar, publiqué un artículo en esperanto en el que identificaba cierto <a href="/esperanto/recursos/esperanto-kvazau-imperiisma-lingvo/">caso de disonancia cognitiva en algunos esperantohablantes</a>. Y solo unos días más tarde, me llegó un correo de Herman Deceuninck, un nuevo lector de Bélgica (el blog es internacional desde el primer momento), que dice así:
 
 <blockquote>Mi legis vian retejon kaj trovas ke vi havas ion interesan por diri al la Esperanto-publiko [...]
 Donu via bankkonton [...] kaj vi ricevos surprizon.</blockquote>
@@ -25,7 +25,7 @@ Tan inesperado como estupendo, ¿verdad? Y nada, que con lo que me ingresó acab
 
 Por una cuestión personal, durante más de un año apenas puse nada por aquí, y sobre temas que no tenían nada que ver con el primer artículo. Además, en cuanto a mis ideas, resultó que publiqué (y sigo publicando) más en otros sitios que en mi blog... pero el punto siempre fue el contenido.
 
-<strong>Retomé de veras el tema esperantista cuando, en diciembre de 2014</strong>, comencé a publicar por partes de manera periódica una obra que había traducido de <a href="/pedro-salinas-esperanto/">Pedro Salinas</a>, revisando y mejorando cada poema que mostraba.
+<strong>Retomé de veras el tema esperantista cuando, en diciembre de 2014</strong>, comencé a publicar por partes de manera periódica una obra que había traducido de <a href="/esperanto/cultura/pedro-salinas/">Pedro Salinas</a>, revisando y mejorando cada poema que mostraba.
 <center>
 
 <blockquote class="twitter-tweet" lang="it" data-cards="hidden">

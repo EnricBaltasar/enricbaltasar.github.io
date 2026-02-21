@@ -3,7 +3,8 @@ title: "Medidas del tiempo en esperanto"
 date: 2015-02-01T14:00:25+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "medidas-tiempo-esperanto"
+slug: "medidas-tiempo"
+aliases: ["/medidas-tiempo-esperanto/"]
 lang: es
 ---
 

@@ -3,7 +3,8 @@ title: "Perífrasis en esperanto (III): casos avanzados"
 date: 2015-02-10T14:00:55+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "perifrasis-esperanto-iii"
+slug: "perifrasis-iii"
+aliases: ["/perifrasis-esperanto-iii/"]
 lang: es
 ---
 

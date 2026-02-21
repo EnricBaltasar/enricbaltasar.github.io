@@ -3,7 +3,8 @@ title: "Asociaciones de esperanto"
 date: 2015-11-14T13:00:52+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "asociaciones-esperanto"
+slug: "asociaciones"
+aliases: ["/asociaciones-esperanto/"]
 lang: es
 ---
 

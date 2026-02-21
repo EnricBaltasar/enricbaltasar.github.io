@@ -3,7 +3,8 @@ title: "Corrección: \"esperanto\" va en minúsculas en castellano"
 date: 2015-02-04T14:00:05+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "correccion-esperanto-minusculas-castellano"
+slug: "minusculas-castellano"
+aliases: ["/correccion-esperanto-minusculas-castellano/"]
 lang: es
 ---
 

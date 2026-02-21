@@ -3,7 +3,8 @@ title: "Trabalenguas en esperanto"
 date: 2016-08-03T13:00:44+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "trabalenguas-esperanto"
+slug: "trabalenguas"
+aliases: ["/trabalenguas-esperanto/"]
 lang: es
 ---
 

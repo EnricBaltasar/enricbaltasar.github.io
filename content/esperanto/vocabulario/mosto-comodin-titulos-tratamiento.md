@@ -3,7 +3,8 @@ title: "\"Moŝto\", el comodín en esperanto para títulos de tratamiento"
 date: 2016-01-09T13:00:56+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "mosto-comodin-esperanto-titulos-tratamiento"
+slug: "mosto-comodin-titulos-tratamiento"
+aliases: ["/mosto-comodin-esperanto-titulos-tratamiento/"]
 lang: es
 ---
 

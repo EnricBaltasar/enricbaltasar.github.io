@@ -3,7 +3,8 @@ title: "Las asignaturas en esperanto"
 date: 2015-03-15T14:00:50+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "asignaturas-esperanto"
+slug: "asignaturas"
+aliases: ["/asignaturas-esperanto/"]
 lang: es
 ---
 

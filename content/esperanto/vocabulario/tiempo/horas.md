@@ -3,11 +3,12 @@ title: "Cómo decir las horas en esperanto"
 date: 2015-06-25T14:00:48+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
-slug: "horas-esperanto"
+slug: "horas"
+aliases: ["/horas-esperanto/"]
 lang: es
 ---
 
-Una vez ya nos sabemos los <a href="/numeros-esperanto/">números en esperanto</a>, podemos empezar a decir la hora. Sin embargo, todo empieza con una pregunta:
+Una vez ya nos sabemos los <a href="/esperanto/vocabulario/numeros/">números en esperanto</a>, podemos empezar a decir la hora. Sin embargo, todo empieza con una pregunta:
 
 <pre><strong>Kioma horo estas?</strong> <span style="color: #808080;">(¿Qué hora es?)</span></pre>
 
