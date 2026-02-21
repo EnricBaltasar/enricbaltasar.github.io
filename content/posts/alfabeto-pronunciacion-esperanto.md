@@ -10,7 +10,7 @@ lang: es
 Escucha el alfabeto en esperanto:
 <pre>A B C Ĉ D E F G Ĝ H Ĥ I J Ĵ K L M N O P R S Ŝ T U Ŭ V Z</pre>
 <audio controls>
-  <source src="/wp-content/uploads/2015/02/alfabeto-esperanto.ogg" type="audio/ogg">
+  <source src="/audio/alfabeto-esperanto.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio>
 
@@ -228,7 +228,7 @@ Serás un alumno estrella si vuelves arriba, escuchas de nuevo el abecedario e i
 Luego, te reto a pronunciar una oración que contiene todas y cada una de las letras del esperanto:
 <pre>Laŭ Ludoviko Zamenhof, bongustas freŝa ĉeĥa manĝaĵo kun spicoj</pre>
 <audio controls>
-  <source src="/wp-content/uploads/2015/02/frazo-cxiujn-literojn.ogg" type="audio/ogg">
+  <source src="/audio/frazo-cxiujn-literojn.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio>
 

@@ -9,7 +9,7 @@ lang: es
 
 ¿Cuál es la mejor forma de transmitir que un idioma está vivo? Una chica me dijo hace no mucho que estaba impresionada con lo vivo que está el esperanto y, cuando le pregunté qué había pasado para que pensara así, me dijo que porque hay memes, muchos, que hay muchas tonterías, y cuando un idioma se usa para cosas insignificantes, especialmente si están de moda, eso significa que hay mucho más detrás. En otras palabras, <strong>quizá sean los memes la punta del iceberg que debamos mostrar</strong>, en vez de decir que hay mucha literatura y seguir en la línea de comunicar ideas no tangibles.
 
-<img class="aligncenter wp-image-5054" src="/wp-content/uploads/2016/11/spam.jpg" alt="spam" width="600" height="450" />
+{{< img src="spam.jpg" alt="spam" >}}
 
 Hoy os traigo SPAM en esperanto. Sí, como lo oís, SPAM, porque el esperanto, en mayor o menor medida, se usa para <em>prácticamente</em> todo:
 

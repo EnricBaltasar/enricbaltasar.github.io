@@ -9,7 +9,7 @@ lang: es
 
 Escuchar la radio en esperanto es una muy buena manera de aprender a hablar, porque se aprende vocabulario, estructuras, uno se acostumbra a los diversos acentos y al ritmo fluido de habla.
 
-<figure><img src="/wp-content/uploads/2015/10/reklamilo-programo-radio-vatikana-esperanto.jpg" alt="reklamilo-programo-radio-vatikana-esperanto"><figcaption></a> La radio del Vaticano emite regularmente en esperanto.</figcaption></figure>
+<figure>{{< img src="reklamilo-programo-radio-vatikana-esperanto.jpg" alt="reklamilo-programo-radio-vatikana-esperanto" >}}<figcaption></a> La radio del Vaticano emite regularmente en esperanto.</figcaption></figure>
 
  
 

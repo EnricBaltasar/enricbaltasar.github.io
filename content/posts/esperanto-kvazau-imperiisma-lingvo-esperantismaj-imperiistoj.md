@@ -15,7 +15,7 @@ lang: eo
 <blockquote>Ĉiu kun sia lingvo kaj unu lingvo por ĉiuj.
 ― Zamenhof.</blockquote>
 <p style="text-align: justify;">Tio signifas ke oni volas Esperanton kiel duan lingvon, por ke estu lingva pluro (kaj kio estas sub ĝi), ne ke ĉiuj lingvoj malaperu kaj nur ekzistu la internacia. Tamen, fojfoje troviĝas esperantistoj kiuj diras ke apogas tiun Zamenhof-an frazon sed ili vere estas fervoraj batalantoj kontraŭ la kaŭzo kiun ili kredas apogi: ili estas <strong>esperantismaj imperiistoj. Kion ili celas?</strong></p>
-<p style="text-align: center;"><a href="/wp-content/uploads/2014/07/imperiismo.jpg"><img class="alignnone wp-image-22 size-medium" src="/wp-content/uploads/2014/07/imperiismo.jpg" alt="US Flag Around the Earth" width="300" height="185" /></a></p>
+<p style="text-align: center;">{{< img src="imperiismo.jpg" alt="US Flag Around the Earth" >}}</p>
 <p style="text-align: justify;"><!--more--></p>
 
 <ul>

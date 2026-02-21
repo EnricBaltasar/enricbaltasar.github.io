@@ -17,7 +17,7 @@ A principios de mes hablaba de iniciar una serie de artículos sobre <a href=
     <li>Dinero: ¿<del>Gastarías</del> Invertirías unos cuantos euros en publicidad?</li>
 </ul>
 
-<img class="aligncenter wp-image-4723 size-full" src="/wp-content/uploads/2016/05/esperanto.png" alt="esperanto" width="494" height="166" />
+{{< img src="esperanto.png" alt="esperanto" >}}
 
 Y mientras estaba ordenando mis ideas me he dado cuenta de que (1) lo que tenía pensado publicar sirve también para los hablantes, y (2) debería <strong>centrarme en acciones más individualizadas y esporádicas</strong>. Por lo que, sin perder de vista la variable lingüística, he decidido ampliar el público objetivo y la gama de estos artículos y hacerlo para <em>motivados en general</em>, pasando a denominarse la serie<em> Qué puedes hacer tú por el esperanto</em>.
 

@@ -10,7 +10,7 @@ lang: es
 
 ¿Quieres leer las noticias del mundo en esperanto? Puedes ver qué tal la experiencia por ejemplo con un artículo sobre el lanzamiento de un <a href="http://esperanto.cri.cn/2521/2016/12/22/172s190569.htm" target="_blank" rel="noopener noreferrer">satélite artificial chino para monitorizar la emisión global de dióxido de carbono</a> (entre otros).
 
-<img class="aligncenter size-full wp-image-5897" src="/wp-content/uploads/2017/12/sport-novajxoj.jpeg" alt="sport-novajxoj" width="918" height="248" />
+{{< img src="sport-novajxoj.jpeg" alt="sport-novajxoj" >}}
 
 Aquí tienes una lista de sitios donde puedes enterarte de lo que ocurre en el mundo:
 

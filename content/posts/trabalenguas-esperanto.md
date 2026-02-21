@@ -7,7 +7,7 @@ slug: "trabalenguas-esperanto"
 lang: es
 ---
 
-<a href="/wp-content/uploads/2016/08/trabalenguas.jpg"><img class="alignright wp-image-4806" src="/wp-content/uploads/2016/08/trabalenguas.jpg" alt="trabalenguas" width="200" height="200" /></a>Los trabalenguas son breves oraciones o textos con sentido pero que fónicamente son complicadas, creando un juego de sonidos.
+{{< img src="trabalenguas.jpg" alt="trabalenguas" >}}Los trabalenguas son breves oraciones o textos con sentido pero que fónicamente son complicadas, creando un juego de sonidos.
 
 <blockquote><em><span style="color: #808080;">El cielo está enladrillado</span></em>
 <em><span style="color: #808080;"> ¿Quién lo desenladrillará?</span></em>

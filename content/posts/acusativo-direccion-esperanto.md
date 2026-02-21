@@ -94,7 +94,7 @@ De paso, aprovecharé para hacerte una comparación que te ahorrará dudas en el
 
 Y recuerda que es mucho más común decir <em>Mi vojaĝas al Francio</em>.
 
-<a href="http://eo.wikipedia.org/wiki/Akuzativo#mediaviewer/File:IriSuomien.png" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-2102 size-full" src="/wp-content/uploads/2015/06/IriSuomien.png" alt="IriSuomien" width="465" height="316" /></a>
+<a href="http://eo.wikipedia.org/wiki/Akuzativo#mediaviewer/File:IriSuomien.png" target="_blank" rel="noopener noreferrer">{{< img src="IriSuomien.png" alt="IriSuomien" >}}</a>
 
  
 

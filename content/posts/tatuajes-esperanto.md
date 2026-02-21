@@ -23,39 +23,39 @@ No considero que sea importante saber hablar el idioma para usarlo como un sím
 
 <h2 id="ejemplos-reales"><strong><span style="color: #ff6600;">Ejemplos reales</span></strong></h2>
 
-<figure><img src="/wp-content/uploads/2017/07/tatuaje-esperanto-estu-felicxa.jpg" alt="tatuaje-esperanto-estu-felicxa"><figcaption></a> Estu feliĉa (sé feliz)</figcaption></figure>
+<figure>{{< img src="tatuaje-esperanto-estu-felicxa.jpg" alt="tatuaje-esperanto-estu-felicxa" >}}<figcaption></a> Estu feliĉa (sé feliz)</figcaption></figure>
 
  
 
-<figure><img src="/wp-content/uploads/2017/07/tatuaje-esperanto-liberigu-la-teron.jpg" alt="tatuaje-esperanto-liberigu-la-teron"><figcaption></a> Liberigu la Teron (libera a la Tierra)</figcaption></figure>
+<figure>{{< img src="tatuaje-esperanto-liberigu-la-teron.jpg" alt="tatuaje-esperanto-liberigu-la-teron" >}}<figcaption></a> Liberigu la Teron (libera a la Tierra)</figcaption></figure>
 
  
 
-<figure><img src="/wp-content/uploads/2017/07/tatuaje-esperanto-libereco-amo-elekto.jpg" alt="tatuaje-esperanto-libereco-amo-elekto"><figcaption></a> Libereco, amo, elekto (libertad, amor, elección)</figcaption></figure>
+<figure>{{< img src="tatuaje-esperanto-libereco-amo-elekto.jpg" alt="tatuaje-esperanto-libereco-amo-elekto" >}}<figcaption></a> Libereco, amo, elekto (libertad, amor, elección)</figcaption></figure>
 
  
 
-<figure><img src="/wp-content/uploads/2017/07/tatuaje-esperanto-ne-forgesu-min.jpg" alt="tatuaje-esperanto-ne-forgesu-min"><figcaption></a> Ne forgesu min (no me olvides) - Vista 1</figcaption></figure>
+<figure>{{< img src="tatuaje-esperanto-ne-forgesu-min.jpg" alt="tatuaje-esperanto-ne-forgesu-min" >}}<figcaption></a> Ne forgesu min (no me olvides) - Vista 1</figcaption></figure>
 
  
 
-<figure><img src="/wp-content/uploads/2017/07/tatuaje-esperanto-ne-forgesu-min-2.jpg" alt="tatuaje-esperanto-ne-forgesu-min-2"><figcaption></a> Ne forgesu min (no me olvides) - Vista 2</figcaption></figure>
+<figure>{{< img src="tatuaje-esperanto-ne-forgesu-min-2.jpg" alt="tatuaje-esperanto-ne-forgesu-min-2" >}}<figcaption></a> Ne forgesu min (no me olvides) - Vista 2</figcaption></figure>
 
  
 
-<figure><img src="/wp-content/uploads/2017/07/tatuaje-esperanto-elementoj.jpg" alt="tatuaje-esperanto-elementoj"><figcaption></a> Fajro, tero, akvo, aero (fuego, tierra, agua, aire)</figcaption></figure>
+<figure>{{< img src="tatuaje-esperanto-elementoj.jpg" alt="tatuaje-esperanto-elementoj" >}}<figcaption></a> Fajro, tero, akvo, aero (fuego, tierra, agua, aire)</figcaption></figure>
 
  
 
-<figure><img src="/wp-content/uploads/2017/07/tatuaje-esperanto-nombre.jpg" alt="tatuaje-esperanto-nombre"><figcaption></a> Plabra "esperanto"</figcaption></figure>
+<figure>{{< img src="tatuaje-esperanto-nombre.jpg" alt="tatuaje-esperanto-nombre" >}}<figcaption></a> Plabra "esperanto"</figcaption></figure>
 
  
 
-<figure><img src="/wp-content/uploads/2017/07/tatuaje-esperanto-bandera.jpg" alt="tatuaje-esperanto-bandera"><figcaption></a> Bandera del esperanto</figcaption></figure>
+<figure>{{< img src="tatuaje-esperanto-bandera.jpg" alt="tatuaje-esperanto-bandera" >}}<figcaption></a> Bandera del esperanto</figcaption></figure>
 
  
 
-<figure><img src="/wp-content/uploads/2017/07/tatuaje-esperanto-estrella.jpg" alt="tatuaje-esperanto-estrella"><figcaption></a> Estrella verde, de Alejandro Mejía (México)</figcaption></figure>
+<figure>{{< img src="tatuaje-esperanto-estrella.jpg" alt="tatuaje-esperanto-estrella" >}}<figcaption></a> Estrella verde, de Alejandro Mejía (México)</figcaption></figure>
 
  
 

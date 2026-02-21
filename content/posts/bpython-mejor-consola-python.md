@@ -19,9 +19,9 @@ Por supuesto, es <strong>multiplataforma</strong>: GNU/Linux, Windows, OS X y BS
 
 En cuanto a la licencia, es MIT.
 
-<a href="/wp-content/uploads/2015/01/bpython-1.png"><img class="aligncenter wp-image-419 size-full" src="/wp-content/uploads/2015/01/bpython-1.png" alt="bpython-1" width="620" height="436" /></a>
+{{< img src="bpython-1.png" alt="bpython-1" >}}
 
-<a href="/wp-content/uploads/2015/01/bpython-2.png"><img class=" wp-image-420 size-full aligncenter" src="/wp-content/uploads/2015/01/bpython-2.png" alt="bpython-2" width="620" height="436" /></a>
+{{< img src="bpython-2.png" alt="bpython-2" >}}
 
 Todas las <a href="http://www.bpython-interpreter.org/" target="_blank" rel="noopener noreferrer">características de Bpython</a> las encontrarás en el sitio web oficial.
 

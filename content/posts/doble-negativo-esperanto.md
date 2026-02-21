@@ -7,7 +7,7 @@ slug: "doble-negativo-esperanto"
 lang: es
 ---
 
-<!--more--><img class="alignright wp-image-3940 size-medium" src="/wp-content/uploads/2015/08/doble-negacion-meme.png" alt="doble-negacion-meme" width="300" height="273" />En castellano es correcto negar dos veces en una misma frase. Por ejemplo:
+<!--more-->{{< img src="doble-negacion-meme.png" alt="doble-negacion-meme" >}}En castellano es correcto negar dos veces en una misma frase. Por ejemplo:
 
 <pre><strong><span style="text-decoration: underline;">No</span> quiero <span style="text-decoration: underline;">nada</span></strong></pre>
 

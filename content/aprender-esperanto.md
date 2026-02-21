@@ -5,7 +5,7 @@ lastmod: 2019-05-14T11:31:46+00:00
 draft: false
 description: "¿Quieres aprender o mejorar tu esperanto? Tras enseñar, difundir y usar el idioma en más de una decena de países, pongo a tu disposición diversos materiales que te ayudarán en esta aventura."
 cover:
-  image: "/wp-content/uploads/2018/03/encuentro-juvenil-esperanto-alemania.jpg"
+  image: "/images/encuentro-juvenil-esperanto-alemania.jpg"
 slug: "aprender-esperanto"
 lang: es
 topic_guide: true

@@ -9,7 +9,7 @@ lang: it
 
 Poche settimane fa ho conosciuto durante una festa Ilaria, una ragazza italiana, e parlando della questione dei rifugiati dalla Siria mi ha detto di aver letto un articolo molto bello che persino l'ha fatta piangere. Le ho chiesto di iniziare a leggerlo ad alta voce; dopo, anche di inviarmelo. Ecco l'articolo, che penso che può piacervi:
 
-<a href="/wp-content/uploads/2015/10/foto-bambino-turchia.jpg"><img class="wp-image-4195 aligncenter" src="/wp-content/uploads/2015/10/foto-bambino-turchia.jpg" alt="A paramilitary police officer carries the lifeless body of a migrant child after a number of migrants died and a smaller number were reported missing after boats carrying them to the Greek island of Kos capsized, near the Turkish resort of Bodrum early Wednesday, Sept. 2, 2015. (AP Photo/DHA) TURKEY OUT" width="600" height="360" /></a>
+{{< img src="foto-bambino-turchia.jpg" alt="A paramilitary police officer carries the lifeless body of a migrant child after a number of migrants died and a smaller number were reported missing after boats carrying them to the Greek island of Kos capsized, near the Turkish resort of Bodrum early Wednesday, Sept. 2, 2015. (AP Photo/DHA) TURKEY OUT" >}}
 
 <blockquote><strong>CIAO</strong>
 

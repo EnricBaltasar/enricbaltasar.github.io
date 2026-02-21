@@ -28,7 +28,7 @@ Quizá no lo sepas, pero tu <strong>mano izquierda</strong> tiene un poder mági
 Cada vez que veas un número, quiero que lo pronuncies en voz alta. Repasemos los que acabamos de ver:
 
 <audio controls>
-  <source src="/wp-content/uploads/2015/06/numeroj-1-gxis-9.ogg" type="audio/ogg">
+  <source src="/audio/numeroj-1-gxis-9.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio>
 
@@ -48,7 +48,7 @@ Pero, para poder usar tu poder, primero tienes que conocer los números que ocul
 Sigamos pronunciándolos:
 
 <audio controls>
-  <source src="/wp-content/uploads/2015/06/numeroj-10-100.ogg" type="audio/ogg">
+  <source src="/audio/numeroj-10-100.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio>
 
@@ -158,7 +158,7 @@ Más que aprender a decir los números en esperanto, lo que te va a costar un pe
 </table>
 
 <audio controls>
-  <source src="/wp-content/uploads/2015/06/numeroj-repaso.ogg" type="audio/ogg">
+  <source src="/audio/numeroj-repaso.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio>
 
@@ -175,7 +175,7 @@ Más que aprender a decir los números en esperanto, lo que te va a costar un pe
 <ul>
     <li><strong>Ejercicio:</strong> dime qué edad tienes (te animo a ponerlo en un comentario en este artículo, así sabré que te ha gustado/servido mi método). Por ejemplo, <em>mi aĝas dudek</em> (tengo veinte años). <span style="color: #999999;">Con este verbo, decir <em>jarojn</em> (años) es innecesario.</span>
 <audio controls>
-  <source src="/wp-content/uploads/2015/06/mi-agxas-dudek.ogg" type="audio/ogg">
+  <source src="/audio/mi-agxas-dudek.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio></li>
     <li><strong>Ejercicio:</strong> Cuenta del 1 al 100. Lo sé, lo sé, estoy loco, pero no tanto; te aseguro que esto te va a servir y mucho.</li>

@@ -11,7 +11,7 @@ Sí, también existen revistas en esperanto. <em>Cómo no iban a existir</em>, s
 
 La primera vez que supe de su existencia fue cuando un amigo superó la prueba de nivel básico de Lernu y le ofrecían una revista gratuitamente (edición y envío) a elegir entre dos: <em>Revuo Esperanto</em> y <em>Kontakto</em>. ¿Cuál era mejor? ¿De qué iba cada una? No teníamos ni idea, y tampoco se nos ocurrió buscar ejemplares. Más adelante, al comparar ambas, llegamos a una misma conclusión: Kontakto, siempre, sin dudarlo.
 
-<a href="/wp-content/uploads/2015/11/revuo-kontakto-mangajo.jpg"><img class="aligncenter wp-image-4305" src="/wp-content/uploads/2015/11/revuo-kontakto-mangajo.jpg" alt="revuo-kontakto-mangajo" width="492" height="687" /></a>
+{{< img src="revuo-kontakto-mangajo.jpg" alt="revuo-kontakto-mangajo" >}}
 
 Las revistas en esperanto han ido apareciendo, desapareciendo y cambiando a lo largo del tiempo. Existen regionales o nacionales, escritas por organizaciones con este ámbito territorial, que normalmente tratan sobre el movimiento esperantista, a veces incluyen otros temas, y algunas tratan sobre cuestiones etno-lingüísticas. También existen internacionales. A continuación mencionaremos algunas importantes a nivel internacional, con edición en papel:
 

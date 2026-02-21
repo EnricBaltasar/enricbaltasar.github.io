@@ -4,7 +4,7 @@ date: 2015-06-29T14:00:05+00:00
 draft: false
 topics: ["Esperanto Language & Culture"]
 cover:
-  image: "/wp-content/uploads/2015/06/juego-ahorcado.jpg"
+  image: "/images/juego-ahorcado.jpg"
 slug: "ahorcado-esperanto"
 lang: es
 ---
@@ -27,4 +27,4 @@ Para jugar por Internet he encontrado esto:
 
 Curiosidad: en base a la frecuencia de aparición de las letras hay más probabilidades de ganar. Más información en el artículo de la Wikipedia <a href="https://eo.wikipedia.org/wiki/Literofteco" target="_blank" rel="noopener noreferrer">Literofteco</a>.
 
-<a href="/wp-content/uploads/2015/06/frecuencia-letras-esperanto.png"><img class="aligncenter size-full wp-image-5607" src="/wp-content/uploads/2015/06/frecuencia-letras-esperanto.png" alt="frecuencia-letras-esperanto" width="609" height="306" /></a>
+{{< img src="frecuencia-letras-esperanto.png" alt="frecuencia-letras-esperanto" >}}

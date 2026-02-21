@@ -55,8 +55,8 @@ Compara estas dos oraciones:
 <table>
 <tbody>
 <tr>
-<td><a href="http://esperantulo.com/blogo/2013/04/02/kiam-akuzativo-gravas/" target="_blank" rel="noopener noreferrer"><img src="/wp-content/uploads/2015/02/viro-mangas-bananon.jpg" alt="viro-mangas-bananon" width="244" height="291" /></a></td>
-<td><a href="http://esperantulo.com/blogo/2013/04/02/kiam-akuzativo-gravas/" target="_blank" rel="noopener noreferrer"><img class="" src="/wp-content/uploads/2015/02/banano-mangas-viron.jpg" alt="banano-mangas-viron" width="220" height="292" /></a></td>
+<td><a href="http://esperantulo.com/blogo/2013/04/02/kiam-akuzativo-gravas/" target="_blank" rel="noopener noreferrer">{{< img src="viro-mangas-bananon.jpg" alt="viro-mangas-bananon" >}}</a></td>
+<td><a href="http://esperantulo.com/blogo/2013/04/02/kiam-akuzativo-gravas/" target="_blank" rel="noopener noreferrer">{{< img src="banano-mangas-viron.jpg" alt="banano-mangas-viron" >}}</a></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Viro manĝas banano<span style="color: #ff6600;">n

@@ -17,7 +17,7 @@ Hablar o leer un idioma que estamos aprendiendo requiere esfuerzo, y para alivia
     <li><strong><a href="http://epo.wikitrans.net/" target="_blank" rel="noopener noreferrer">WikiTrans</a></strong>: uno bastante particular, que traduce artículos de la Wikipedia del inglés a un relativamente buen esperanto. Wikipedia ya lo ha incluido como herramienta en diferentes versiones de idiomas para crear artículos más rápidamente tomando una base.</li>
 </ul>
 
-<img class="aligncenter wp-image-5454" src="/wp-content/uploads/2017/04/traductor-google.jpg" alt="traductor-google" width="600" height="314" />
+{{< img src="traductor-google.jpg" alt="traductor-google" >}}
 
 Luego podemos encontrar empresas que te cobran por traducciones profesionales al/del esperanto, como <a href="https://www.tomedes.com/esperanto-translation.php" target="_blank" rel="noopener noreferrer">Tomedes</a>. Esto puede pasar porque por ejemplo uno de los traductores habla el idioma y le propone a su jefe añadirlo. Otro caso es un amigo que lo pone en su currículum y que en alguna ocasión se ha ganado algún dinerillo traduciendo gracias al esperanto, ya sea gracias al texto o gracias a los contactos.
 

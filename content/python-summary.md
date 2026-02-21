@@ -10,7 +10,7 @@ description: "A set of articles for creating an own mindmap about Python and for
 
 The material for learning Python on the Internet is just overwhelming, mainly in English. So, what is the reason I am posting a set of articles called <em>Python summary</em>? Because I think they are useful for creating an own mindmap about Python and for brushing up quickly. Moreover, thereby I improve my English, and the articles should be useful to me if I gave lessons of this programming language.
 
-<a href="/wp-content/uploads/2015/01/python-snake-e1421786312692.jpg"><img class="aligncenter wp-image-723 size-full" src="/wp-content/uploads/2015/01/python-snake-e1421786312692.jpg" alt="python-snake" width="400" height="200" /></a>
+{{< img src="python-snake-e1421786312692.jpg" alt="python-snake" >}}
 
  
 

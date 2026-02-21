@@ -217,6 +217,10 @@ img,
 }
 
 /* ===== Zoomable images (lightbox) ===== */
+a.glightbox {
+  cursor: zoom-in;
+}
+
 .zoomable-img {
   cursor: zoom-in;
 }

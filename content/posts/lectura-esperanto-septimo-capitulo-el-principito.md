@@ -12,7 +12,7 @@ Voy a leerte el séptimo capítulo del libro <a href="http://katalogo.uea.org/ka
 Tu objetivo será rellenar los espacios en blanco
 
 <audio controls>
-  <source src="/wp-content/uploads/2015/01/legado-eta-princo-sepa-cxapitro.ogg" type="audio/ogg">
+  <source src="/audio/legado-eta-princo-sepa-cxapitro.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio>
 La sekvanta <input type="text" />[1] estis loĝata de <input type="text" />[2]. Tiu vizito estis tre mallonga, sed ege <input type="text" />[3] la etan princon.

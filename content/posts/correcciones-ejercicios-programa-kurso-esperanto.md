@@ -11,7 +11,7 @@ lang: es
 
 <p style="text-align: center;"><!--more--></p>
 
-<p style="text-align: center;"><a href="/wp-content/uploads/2014/07/programa-kurso-esperanto.png"><img class="alignnone wp-image-18 size-full" src="/wp-content/uploads/2014/07/programa-kurso-esperanto.png" alt="programa-kurso-esperanto" width="640" height="402" /></a></p>
+<p style="text-align: center;">{{< img src="programa-kurso-esperanto.png" alt="programa-kurso-esperanto" >}}</p>
 
 <hr />
 

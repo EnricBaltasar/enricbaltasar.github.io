@@ -11,7 +11,7 @@ lang: es
 
 ¿Estás pensando en ir de oyente a la universidad? ¿Quieres saber si se puede, y cómo hacerlo? Te cuento los secretos de esta peculiar actividad tras años asistiendo a clases sin estar matriculado en la educación pública en España.
 
-<figure><img src="/wp-content/uploads/2018/12/clase-universidad.jpg" alt=""><figcaption><span style="color: #999999;"><em>Fuente: fuenlabradanoticias.com</em></span></figcaption></figure>
+<figure>{{< img src="clase-universidad.jpg" >}}<figcaption><span style="color: #999999;"><em>Fuente: fuenlabradanoticias.com</em></span></figcaption></figure>
 
  
 <h2 id="quienes-hacen-esto"><strong><span style="color: #ff6600;">Quiénes hacen esto</span></strong></h2>
@@ -42,7 +42,7 @@ En general veía que había buena percepción, aunque algunos se crispaban porqu
 <h2 id="pero-es-legal"><strong><span style="color: #ff6600;">Pero... ¿Es legal?</span></strong></h2>
 Ya tenemos sobre la mesa la famosa pregunta. Para responderla, considero necesario aclarar dos conceptos, uno relacionado con la legalidad y otro con la viabilidad actual.
 
-<img class="aligncenter wp-image-6187" src="/wp-content/uploads/2018/02/libro-gafas.jpg" alt="" width="500" height="273" />
+{{< img src="libro-gafas.jpg" >}}
 
 Empecemos por el plato fuerte: tengo entendido que <strong>se trata de una activ</strong><strong>idad alegal mientras no se explicite su prohibición o permiso</strong>. Así que no, no es ilegal ir de oyente a la universidad mientras no exista un reglamento interno que condene esta práctica. Y suena más correcto aun si quien lleva la asignatura te da su consentimiento. Por lo demás, no descarto que pueda estar explícitamente permitido en algunos lugares; de hecho, conozco un caso.
 

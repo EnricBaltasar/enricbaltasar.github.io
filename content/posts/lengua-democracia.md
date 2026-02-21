@@ -9,7 +9,7 @@ lang: es
 
 En verano leí un artículo que estudia, a propósito de la democracia, las perspectivas ideológicas A) de aquellos que promueven primero las lenguas minoritarias y B) de los que fomentan en primer lugar las mayoritarias, pero ambas estando a favor de la enseñanza de la lengua minoritaria de la comunidad. Se trata de <a href="http://psx.sagepub.com/content/53/3/537.short" target="_blank" rel="noopener noreferrer">The Language of Democracy: Vernacular or Esperanto? A Comparison between the Multiculturalist and Cosmopolitan Perspectives</a> (Daniele Archibugi, 2005). Me resultó interesante la contribución del autor a la democracia lingüística y decidí extraer para mis lectores las ideas clave del texto, que siguen a continuación.
 
-<img class="aligncenter wp-image-4945 " src="/wp-content/uploads/2016/10/democracia-manos.jpg" alt="democracia-manos" width="340" height="307" />
+{{< img src="democracia-manos.jpg" alt="democracia-manos" >}}
 
  
 

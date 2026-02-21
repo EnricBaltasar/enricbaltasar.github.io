@@ -9,7 +9,7 @@ lang: es
 
 Cuando tenía nivel medio de esperanto, leí un libro buenísimo llamado <a href="http://katalogo.uea.org/katalogo.php?inf=6587" target="_blank" rel="noopener noreferrer"><em>Nuevo método de esperanto para clases y autodidactas</em></a>, de Fernando de Diego que, si quieres, te puedo ayudar a conseguir. Y en este libro encontré la siguiente explicación para diferenciar <em>tio</em> y <em>ĝi</em> (realmente ya sabía la diferencia, pero de manera superficial en comparación a lo que aprendí):
 
-<a href="/wp-content/uploads/2015/01/gxi-tio-nuevo-metodo-esperanto-fernando-diego.png"><img class="aligncenter wp-image-1499 size-full" src="/wp-content/uploads/2015/01/gxi-tio-nuevo-metodo-esperanto-fernando-diego.png" alt="gxi-tio-nuevo-metodo-esperanto-fernando-diego" width="620" height="179" /></a>
+{{< img src="gxi-tio-nuevo-metodo-esperanto-fernando-diego.png" alt="gxi-tio-nuevo-metodo-esperanto-fernando-diego" >}}
 
  
 

@@ -30,7 +30,7 @@ lang: en
 
 <span style="font-weight: 400;">That means it's easier to convince people to start a course there, and primarily that more people will finish it.</span>
 
-<img class="wp-image-10683 aligncenter" src="/wp-content/uploads/2024/10/duolingo-esperanto-spanish-course.png" alt="" width="700" height="350" />
+{{< img src="duolingo-esperanto-spanish-course.png" >}}
 
 <b>Completion rate is the most important metric in an online course</b><span style="font-weight: 400;"> because it represents people are being successful, as I learned from a Platzi's co-founder. If you have a learning platform, you should consider setting a KPI (≈ target metric) for it.</span>
 
@@ -52,11 +52,11 @@ lang: en
 
 <span style="font-weight: 400;">We also practiced </span><i><span style="font-weight: 400;">cxeestismo</span></i><span style="font-weight: 400;"> (be where your audience is) because we learned that polyglots are particularly receptive to our product for several reasons.</span>
 
-<figure><img src="/wp-content/uploads/2024/10/meme-polyglots-esperanto.jpg" alt=""><figcaption>Meme: "Me on Duolingo: Russian, Swedish, Japanese, Hungarian... Esperanto."</figcaption></figure>
+<figure>{{< img src="meme-polyglots-esperanto.jpg" >}}<figcaption>Meme: "Me on Duolingo: Russian, Swedish, Japanese, Hungarian... Esperanto."</figcaption></figure>
 
 <span style="font-weight: 400;">Meanwhile, a team of </span><b>paid specialists worked on giving it more visibility</b><span style="font-weight: 400;">. For example, its SEO team outreached many website owners to get backlinks (i.e., links to the course) to rank higher on Google.</span>
 
-<img class="wp-image-10686 aligncenter" src="/wp-content/uploads/2024/10/esperanto-duolingo-title.png" alt="" width="700" height="177" />
+{{< img src="esperanto-duolingo-title.png" >}}
 
 <span style="font-weight: 400;">As a community advocate, I learned that trials are of one the best-performing actions we could optimise for, and Duolingo made that easy and was helping us get 100,000s of them. That was a double-win multiplier: Many get hooked if they first try the language, while many more finish the course using Duolingo.</span>
 
@@ -72,7 +72,7 @@ lang: en
 
 <span style="font-weight: 400;">It contained social proof, a best-in-category identification (most popular planned language) and highlighted benefits.</span>
 
-<img class="alignnone size-full wp-image-10674" src="/wp-content/uploads/2024/10/esperanto-spanish-speakers.jpg" alt="" width="800" height="541" />
+{{< img src="esperanto-spanish-speakers.jpg" >}}
 
 <span style="font-weight: 400;">This helped a lot to build more trust and authority because prior to Duolingo, it was hard to answer the </span><b>question of how many people speak</b><span style="font-weight: 400;"> it without relying on outdated and not very reliable sources.</span>
 
@@ -88,9 +88,9 @@ lang: en
 
 <span style="font-weight: 400;">Some people kicked off their own initiatives, helped by the flow of new learners and speakers. For example, monthly events with only people who were learning the language on Duolingo, the</span><a href="https://www.universoparalello.org/"> <span style="font-weight: 400;">Universa Paralelo</span></a><span style="font-weight: 400;"> day event happening in many cities at the same time, social media movement marketing campaign when covid hit, and the</span><a href="https://www.youtube.com/watch?v=lQ-UOKyHO70"> <span style="font-weight: 400;">Duolingo Generation</span></a><span style="font-weight: 400;"> video to show the faces of real people</span>
 
-<img class="wp-image-10728 aligncenter" src="/wp-content/uploads/2024/10/argentina-esperanto-duolingo.jpeg" alt="" width="700" height="394" />
+{{< img src="argentina-esperanto-duolingo.jpeg" >}}
 
-<span style="font-weight: 400;">Another component of Product-Led Growth (PLG) was the success screens that encouraged learners to celebrate their accomplishments on the internet.</span><img class="wp-image-10713 aligncenter" src="/wp-content/uploads/2024/10/finished-esperanto-course-duolingo.jpg" alt="" width="700" height="410" />
+<span style="font-weight: 400;">Another component of Product-Led Growth (PLG) was the success screens that encouraged learners to celebrate their accomplishments on the internet.</span>{{< img src="finished-esperanto-course-duolingo.jpg" >}}
 
 <span style="font-weight: 400;">Overall, existing Duolingo users accessing the gallery of available courses (or in the incubator, too) was the main growth lever for the course to gain enrollees.</span>
 <h2 id="foster-community-engagement"><b>Foster community engagement</b></h2>
@@ -140,7 +140,7 @@ lang: en
 
 <span style="font-weight: 400;">Course creators initially did volunteering work, but the company compensated us a few years later when it dropped its integral scheme by switching to a centralised model, and paid authors – together with a home-delivered trophy.</span>
 
-<img class="aligncenter wp-image-10731" src="/wp-content/uploads/2024/10/duolingo-trophey-res.png" alt="" width="400" height="533" />
+{{< img src="duolingo-trophey-res.png" >}}
 
 <span style="font-weight: 400;">I believe it was around $1,000 per each percentage authors contributed to. So if you were a course creator with 20% of the contributions, then you got $20,000, and tax-free because it was considered a donation.</span>
 

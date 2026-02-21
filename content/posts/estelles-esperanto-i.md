@@ -11,8 +11,8 @@ Fa dos anys, ens va arribar un correu proposant-nos participar a una festa de po
 <table>
 <tbody>
 <tr>
-<td><a href="/wp-content/uploads/2015/01/vaesestelles.jpg"><img class="  wp-image-480 alignnone" src="/wp-content/uploads/2015/01/vaesestelles.jpg" alt="vaesestelles" width="220" height="177" /></a></td>
-<td><a href="/wp-content/uploads/2015/02/cartell-estelles-universal.jpg"><img class=" wp-image-471  alignnone" src="/wp-content/uploads/2015/02/cartell-estelles-universal.jpg" alt="cartell-estelles-universal" width="240" height="339" /></a></td>
+<td>{{< img src="vaesestelles.jpg" alt="vaesestelles" >}}</td>
+<td>{{< img src="cartell-estelles-universal.jpg" alt="cartell-estelles-universal" >}}</td>
 </tr>
 </tbody>
 </table>

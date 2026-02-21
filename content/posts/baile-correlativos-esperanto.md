@@ -9,14 +9,14 @@ lang: es
 
 <!--more--><em><span style="color: #999999;">((Nota: solo leas esto si más o menos ya dominas los correlativos))</span></em>
 
-<img class="aligncenter wp-image-1354 size-full" src="/wp-content/uploads/2015/02/manos-colores-dibujo.jpg" alt="manos-colores-dibujo" width="460" height="210" />
+{{< img src="manos-colores-dibujo.jpg" alt="manos-colores-dibujo" >}}
 
 Hace tiempo, me encontré con un método directo que enseñaba los correlativos haciendo protagonistas a los gestos, llamado <em>Baile de los correlativos</em> (aunque de baile tiene solo el nombre):
 <ul>
 	<li><a href="https://www.youtube.com/watch?v=mh0PzN1bSJM" target="_blank" rel="noopener noreferrer">Primera parte: método</a></li>
 	<li><a href="https://www.youtube.com/watch?v=l-F5emhzLDI" target="_blank" rel="noopener noreferrer">Segunda parte: ejercicios</a></li>
 </ul>
-Decidí mejorarlo, y creé un <a href="/wp-content/uploads/2015/03/baile-correlativos-esperanto.pdf">documento para profesores</a>. Luego lo probé con unos cuantos adolescentes, y la verdad es que funciona genial y resulta divertido.
+Decidí mejorarlo, y creé un <a href="/pdf/baile-correlativos-esperanto.pdf">documento para profesores</a>. Luego lo probé con unos cuantos adolescentes, y la verdad es que funciona genial y resulta divertido.
 
 Los resultados a la larga me indicaron lo siguiente:
 <ul>

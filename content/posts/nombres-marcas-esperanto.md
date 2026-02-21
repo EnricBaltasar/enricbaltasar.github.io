@@ -14,7 +14,7 @@ Seguramente habrás oído decir que «el nombre lo es todo». Claramente hay vid
 
 <span style="color: #008000;"><strong>LA SOLUCIÓN</strong></span>: así como con las técnicas de creatividad, si queremos un resultado diferente, debemos pensar de manera diferente y considerar nuevas opciones.
 
-<img class="aligncenter wp-image-5728" src="/wp-content/uploads/2017/11/marcas-alimentacion.jpg" alt="marcas-alimentacion" width="600" height="300" />
+{{< img src="marcas-alimentacion.jpg" alt="marcas-alimentacion" >}}
 
 Por ello, la solución que propongo en este artículo es la que han empleado ya muchas empresas de todo el mundo, grandes y pequeñas: ampliar las miras al uso de palabras en el <a href="https://es.wikipedia.org/wiki/Esperanto" target="_blank" rel="noopener noreferrer">idioma esperanto</a>. Y ocurre que, además de buscar nombres disponibles, existe una serie de razones posibles para usar esta lengua como elemento diferenciador o identitario:
 
@@ -32,15 +32,15 @@ Aparte, si se trata de una empresa digital, un nombre en esperanto combinado con
 
 <h2 id="ejemplos-de-casos-reales"><strong><span style="color: #ff6600;">Ejemplos de casos reales</span></strong></h2>
 
-<a href="/wp-content/uploads/2017/11/logo-norda-stelo.png"><img class="alignleft size-full wp-image-5735" src="/wp-content/uploads/2017/11/logo-norda-stelo.png" alt="logo-norda-stelo" width="199" height="72" /></a>
+{{< img src="logo-norda-stelo.png" alt="logo-norda-stelo" >}}
 
 La empresa canadiense Roche Ltd. Consulting Group, que se dedica a la consultoría en ingeniería y construcción, cambió su nombre por <a href="https://en.wikipedia.org/wiki/Norda_Stelo" target="_blank" rel="noopener noreferrer">Norda Stelo Inc.</a><em> </em>(estrella del norte) en 2016, teniendo más de 1.800 empleados y operando en más de 50 países.
 
-<a href="/wp-content/uploads/2017/11/logo-pentrilo.png"><img class="alignleft size-medium wp-image-5742 alignright" src="/wp-content/uploads/2017/11/logo-pentrilo.png" alt="logo-pentrilo" width="300" height="120" /></a><a href="http://www.pentrilo.com" target="_blank" rel="noopener noreferrer">Pentrilo</a> (pincel) es una empresa catalana de productos de pintura que exporta a 48 países.
+{{< img src="logo-pentrilo.png" alt="logo-pentrilo" >}}<a href="http://www.pentrilo.com" target="_blank" rel="noopener noreferrer">Pentrilo</a> (pincel) es una empresa catalana de productos de pintura que exporta a 48 países.
 
  
 
-<a href="/wp-content/uploads/2017/11/botella-bebida-mirinda.jpg"><img class="alignleft size-thumbnail wp-image-5736" src="/wp-content/uploads/2017/11/botella-bebida-mirinda.jpg" alt="botella-bebida-mirinda" width="150" height="150" /></a>El refresco con gas <a href="https://en.wikipedia.org/wiki/Mirinda" target="_blank" rel="noopener noreferrer">Mirinda</a> (maravilloso/a), similar a la Fanta, es un producto de Pepsico, cuya marca compró en los años ochenta. En España (donde nació) ya no se comercializa, pero se vende en países de todos los continentes; yo mismo la he probado en la cadena de comida rápida KFC en Polonia el año pasado por el verano. A continuación os muestro una foto de su máquina autoservicio de refrescos:<a href="/wp-content/uploads/2017/11/mirinda-autoservicio-kfc-polonia.jpg"><img class="aligncenter wp-image-5776" src="/wp-content/uploads/2017/11/mirinda-autoservicio-kfc-polonia.jpg" alt="mirinda-autoservicio-kfc-polonia" width="650" height="366" /></a>
+{{< img src="botella-bebida-mirinda.jpg" alt="botella-bebida-mirinda" >}}El refresco con gas <a href="https://en.wikipedia.org/wiki/Mirinda" target="_blank" rel="noopener noreferrer">Mirinda</a> (maravilloso/a), similar a la Fanta, es un producto de Pepsico, cuya marca compró en los años ochenta. En España (donde nació) ya no se comercializa, pero se vende en países de todos los continentes; yo mismo la he probado en la cadena de comida rápida KFC en Polonia el año pasado por el verano. A continuación os muestro una foto de su máquina autoservicio de refrescos:{{< img src="mirinda-autoservicio-kfc-polonia.jpg" alt="mirinda-autoservicio-kfc-polonia" >}}
 
  
 
@@ -80,7 +80,7 @@ La mayoría de marcas son del segundo tipo, y la manera más habitual de compro
 
 Al igual que puedes encontrar Bar Pepe o Muebles Fernández, algunos hacen lo mismo usando un nombre en esperanto y otro en la lengua de su público (integrante o de referencia), como es el caso de la consultoría política <a href="http://kialo.eu/" target="_blank" rel="noopener noreferrer">Kialo Consulting</a> de mi amigo Carlos.
 
-<a href="/wp-content/uploads/2017/11/logo-kialo-consulting.jpg"><img class="aligncenter size-full wp-image-5783" src="/wp-content/uploads/2017/11/logo-kialo-consulting.jpg" alt="logo-kialo-consulting" width="240" height="112" /></a>
+{{< img src="logo-kialo-consulting.jpg" alt="logo-kialo-consulting" >}}
 
  
 
@@ -92,7 +92,7 @@ Un inconveniente lo encontramos, al menos en el caso del público hispanohablan
 
 Fue un poco chocante para mí cuando hará unos tres años un amigo que estaba viviendo en Barcelona se encontró en un centro comercial la tienda de zapatos Ŝuo (zapato), con el acento intacto. No sé dónde tendré la fotografía que hizo, pero aquí tienes otra que he encontrado. ¡Estaría genial encontrar a su propietario!
 
-<a href="/wp-content/uploads/2017/11/sxuo-tienda-zapatos-barcelona.jpg"><img class="aligncenter wp-image-5771 size-full" src="/wp-content/uploads/2017/11/sxuo-tienda-zapatos-barcelona.jpg" alt="sxuo-tienda-zapatos-barcelona" width="320" height="427" /></a>
+{{< img src="sxuo-tienda-zapatos-barcelona.jpg" alt="sxuo-tienda-zapatos-barcelona" >}}
 
  
 

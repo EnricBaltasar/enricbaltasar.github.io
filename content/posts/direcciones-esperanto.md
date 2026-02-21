@@ -9,7 +9,7 @@ lang: es
 
 ¿Qué me estás contando, que nunca te ha parado un esperantista por la calle que andaba perdido para pedirte que le dijeras cómo llegar a un sitio? Yo me he encontrado por casualidad con esperantohablantes en diversos países,  pero esas anécdotas las dejaremos para otro día. Lo importante ahora es que las direcciones son parte del vocabulario básico y que, aunque con el esperanto la mayor utilidad se la darás durante eventos, aprender un poco sobre esto nos puede ser útil en algún momento.
 
-<a href="http://armenlu.com/first/vocabulary/directions1/directions1_13.htm" target="_blank" rel="noopener noreferrer"><img class="aligncenter wp-image-5159" src="/wp-content/uploads/2017/02/dar-direcciones.gif" alt="dar-direcciones" width="500" height="301" /></a>
+<a href="http://armenlu.com/first/vocabulary/directions1/directions1_13.htm" target="_blank" rel="noopener noreferrer">{{< img src="dar-direcciones.gif" alt="dar-direcciones" >}}</a>
 
  
 

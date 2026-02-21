@@ -9,7 +9,7 @@ slug: "pedro-salinas-esperanto"
 lang: es
 ---
 
-Encontrarás aquí algunos poemas de Pedro Salinas, el llamado <em>poeta del amor</em>, que fui traduciendo al esperanto como aficionado pertenecientes a la obra <em>La voz a ti debida</em> (1933) y <em>Largo lamento</em> (1938).<a href="/wp-content/uploads/2016/12/pedro-salinas.jpg"><img class="aligncenter wp-image-246 size-full" src="/wp-content/uploads/2016/12/pedro-salinas.jpg" alt="pedro-salinas" width="470" height="330" /></a>
+Encontrarás aquí algunos poemas de Pedro Salinas, el llamado <em>poeta del amor</em>, que fui traduciendo al esperanto como aficionado pertenecientes a la obra <em>La voz a ti debida</em> (1933) y <em>Largo lamento</em> (1938).{{< img src="pedro-salinas.jpg" alt="pedro-salinas" >}}
 
 <em>Siempre he creído que el odio debe externalizarse de la forma más bella que uno pueda, exactamente al revés de como lo hace la gente.</em>
 

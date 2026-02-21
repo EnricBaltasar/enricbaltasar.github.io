@@ -9,7 +9,7 @@ lang: es
 
 Los correlativos en esperanto son una serie de palabras muy comunes en cualquier idioma (por ejemplo: <em>cuándo, entonces, quién, un poco, nadie...</em>) que se han organizado de manera que sean más lógicas y más fáciles de aprender:
 
-<a href="/wp-content/uploads/2015/01/tabla-correlativos-esperanto.pdf"><img class="wp-image-1165 size-full" src="/wp-content/uploads/2015/01/tabla-correlativos-esperanto.png" alt="tabla-correlativos-esperanto" width="750" height="372" /></a>
+{{< img src="tabla-correlativos-esperanto.png" alt="tabla-correlativos-esperanto" >}}
 
 ¡No te asustes, que ya te veo pálido! Sé que parecen muchas palabras, pero <strong>ni se te ocurra empezar intentando memorizar cada una de las 45 palabras</strong>. Eso, además de no recomendado, no te va a servir, porque la tabla de correlativos es una manera lógica de representar las palabras, pero no la manera de natural de aprenderlas. Por eso, realmente las irás aprendiendo poco a poco hablando, por partes (por ejemplo: <em>Kie estas la kato? La kato estas tie = ¿Dónde está el gato? El gato está ahí</em>) y tu cabeza irá ordenando los correlativos como en la tabla de arriba acordándose por <strong>cómo funcionan</strong>: son palabras formadas por un <em>inicio</em> y un <em>final</em>, cada una de los cuales aporta una información:
 
@@ -24,7 +24,7 @@ Los correlativos en esperanto son una serie de palabras muy comunes en cualquier
 
 Para ver de un vistazo y de manera ordenada los significados de cada parte y de las palabras en sí, te pongo la siguiente tabla:
 
-<a href="/wp-content/uploads/2015/03/tabla-correlativos-esperanto-wikipedia.png"><img class="aligncenter wp-image-1189 " src="/wp-content/uploads/2015/03/tabla-correlativos-esperanto-wikipedia.png" alt="tabla-correlativos-esperanto-wikipedia" width="713" height="234" /></a>
+{{< img src="tabla-correlativos-esperanto-wikipedia.png" alt="tabla-correlativos-esperanto-wikipedia" >}}
 
 Para empezar a aprendértelas, puedes echar un vistazo a mi listado de <a href="/frases-esperanto/">frases básicas en esperanto</a>, en las que aparecen algunas de las partículas que estamos viendo. Y más adelante quizá quieras <a href="http://www.daypo.com/correlativos-esperanto.html" target="_blank" rel="noopener noreferrer">hacer algún test</a>.
 
@@ -32,7 +32,7 @@ Para empezar a aprendértelas, puedes echar un vistazo a mi listado de <a href="
 
 <h2 id="ahorrando-correlativos"><strong><span style="color: #ff6600;">Ahorrando correlativos</span></strong></h2>
 
-Voy a hacer que te vuelva el color: fíjate a continuación en que, según un <a href="/wp-content/uploads/2017/12/la-ofteco-de-la-esperantaj-korelativoj-simpson.pdf">análisis de David G. Simpson</a>, hay correlativos mucho más frecuentes que otros:
+Voy a hacer que te vuelva el color: fíjate a continuación en que, según un <a href="/pdf/la-ofteco-de-la-esperantaj-korelativoj-simpson.pdf">análisis de David G. Simpson</a>, hay correlativos mucho más frecuentes que otros:
 
 <pre><strong>Kiu</strong> <span style="color: #808080;">17'72%</span>        <strong>Iu</strong> <span style="color: #808080;">1'98%</span>
 <strong>Tiu</strong> <span style="color: #808080;">11'36%</span>        <strong>Kie</strong> <span style="color: #808080;">1'97%</span>

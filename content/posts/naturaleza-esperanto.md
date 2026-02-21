@@ -10,7 +10,7 @@ lang: es
 
 Hoy vamos a ver un poco de vocabulario sobre la naturaleza (<em>naturo</em>) en esperanto:
 
-<img class="aligncenter size-full wp-image-5183" src="/wp-content/uploads/2017/02/bosque.jpg" alt="bosque" width="640" height="360" />
+{{< img src="bosque.jpg" alt="bosque" >}}
 
 <table align="center">
 <thead>

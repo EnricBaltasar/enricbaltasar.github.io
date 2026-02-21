@@ -9,7 +9,7 @@ lang: eo
 
 En ĉi tiu paĝo vi trovos ligilaron al utilaj paĝoj kiuj nepre helpos vin kiel Esperanto-aktivulo.
 
-<a href="/wp-content/uploads/2015/11/activism.jpg"><img class="aligncenter wp-image-4360 size-full" src="/wp-content/uploads/2015/11/activism.jpg" alt="activism" width="538" height="354" /></a>
+{{< img src="activism.jpg" alt="activism" >}}
 
  
 

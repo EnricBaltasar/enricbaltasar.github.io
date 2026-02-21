@@ -7,13 +7,13 @@ slug: "sopas-letras-esperanto"
 lang: es
 ---
 
-<a href="/wp-content/uploads/2016/04/vortenigmoj-2.jpg"><img class="aligncenter wp-image-4489" src="/wp-content/uploads/2016/04/vortenigmoj-2.jpg" alt="vortenigmoj-2" width="560" height="438" /></a>
+{{< img src="vortenigmoj-2.jpg" alt="vortenigmoj-2" >}}
 
 Si eres de los que les gustan las sopas de letras, estás de suerte, porque ahora podrás hacerlas también en esperanto gracias al libro "Vortenigmoj: bazvortprovizo", de Makis Diras (Estados Unidos). No se trata del primero, pero sí de uno de los más recomendables.
 
 A través de 90 sopas de letras se introducen 2.300 raíces únicas sobre temas muy diversos, así que podrás aprender mucho vocabulario. Y así es como por ejemplo luce la primera:
 
-<a href="/wp-content/uploads/2016/04/sopa-letras-esperanto.jpg"><img class="aligncenter wp-image-4488" src="/wp-content/uploads/2016/04/sopa-letras-esperanto.jpg" alt="sopa-letras-esperanto" width="368" height="664" /></a>
+{{< img src="sopa-letras-esperanto.jpg" alt="sopa-letras-esperanto" >}}
 
 Como podrás notar, las raíces no llevan terminación; esto se debe a que, con ellas, sería demasiado fácil hacer las sopas de letras en esperanto. En este libro, el apóstrofo indica que falta una terminación, y el asterisco que se trata de la palabra en sí (principalmente preposiciones).
 

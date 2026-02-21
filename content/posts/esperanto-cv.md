@@ -53,7 +53,7 @@ Algunos proponen <strong>trasladar el esperanto de la sección <em>Idiomas</em> 
 
 En mi opinión, <strong>la mejor manera de luchar contra este prejuicio es mostrarlo como algo serio (y útil)</strong>, por ejemplo sacándote un diploma oficial, o poniendo que has participado en un proyecto europeo para aprender algo útil organizado por una asociación esperantista. Como nota personal, el primer evento internacional al que fui fue porque estaba subvencionado para aprender sobre organización de eventos.
 
-<figure><img src="/wp-content/uploads/2016/08/examen-esperanto.jpg" alt="examen-esperanto"><figcaption></a> Diploma de esperanto que un tal Rafael recibió hace unos días y que certifica que tiene nivel alto en el idioma. <em>[<a href="https://www.facebook.com/photo.php?fbid=10157267369650188&set=a.10150637936760188.697900.630170187&type=3&theater" target="_blank" rel="nofollow noopener noreferrer">Fuente</a>]</em>.</figcaption></figure> 
+<figure>{{< img src="examen-esperanto.jpg" alt="examen-esperanto" >}}<figcaption></a> Diploma de esperanto que un tal Rafael recibió hace unos días y que certifica que tiene nivel alto en el idioma. <em>[<a href="https://www.facebook.com/photo.php?fbid=10157267369650188&set=a.10150637936760188.697900.630170187&type=3&theater" target="_blank" rel="nofollow noopener noreferrer">Fuente</a>]</em>.</figcaption></figure> 
 
 <h3 id="a-nivel-escolar"><strong><span style="color: #ff6600;">A nivel escolar</span></strong></h3>
 
@@ -84,9 +84,9 @@ A inicios de este año pagué a una persona para que me ayudara a mejorar nue
 Para demostrar que hay quienes indican conocimiento del esperanto y motivar a otros, te invito a enviarme tu CV para que lo ponga aquí:
 
 <ul>
-    <li><a href="/wp-content/uploads/2016/08/gonzalo-jose-carracedo-carballal.pdf">Gonzalo José Carracedo Carballal</a> (Galicia, España), ingeniero informático y matemático</li>
-    <li><a href="/wp-content/uploads/2016/12/curriculum-leandro-silvestre-de-macedo.pdf">Leandro Silvestre de Macedo</a> (Rio de Janeiro, Brasil), administrativo</li>
-    <li><a href="/wp-content/uploads/2016/12/curriculum-arturo-crespo.pdf">Arturo Crespo</a> (Bogotá, Colombia), filosofía y comunicación</li>
+    <li><a href="/pdf/gonzalo-jose-carracedo-carballal.pdf">Gonzalo José Carracedo Carballal</a> (Galicia, España), ingeniero informático y matemático</li>
+    <li><a href="/pdf/curriculum-leandro-silvestre-de-macedo.pdf">Leandro Silvestre de Macedo</a> (Rio de Janeiro, Brasil), administrativo</li>
+    <li><a href="/pdf/curriculum-arturo-crespo.pdf">Arturo Crespo</a> (Bogotá, Colombia), filosofía y comunicación</li>
 </ul>
 
  

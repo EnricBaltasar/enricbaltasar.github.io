@@ -5,7 +5,7 @@ lastmod: 2023-04-25T02:35:00+00:00
 draft: false
 description: "Descubre un poco sobre mí."
 cover:
-  image: "/wp-content/uploads/2018/01/presentacion-ecy-eslovaquia.jpg"
+  image: "/images/presentacion-ecy-eslovaquia.jpg"
 slug: "sobre-mi"
 lang: es
 ---

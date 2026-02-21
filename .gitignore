@@ -16,9 +16,10 @@ hugo_stats.json
 .DS_Store
 Thumbs.db
 
+# Empty/unused directories
+i18n/
+
 # Conversion scripts and temp files
-convert_wp.py
-cleanup_content.py
 __pycache__/
 *.pyc
 

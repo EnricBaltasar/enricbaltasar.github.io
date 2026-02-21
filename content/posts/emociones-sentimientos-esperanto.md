@@ -10,7 +10,7 @@ lang: es
 
 Aprenderemos a expresar las emociones, sentimientos y estados de ánimo en esperanto a través de las siguientes listas de vocabulario y un poco de gramática. ¡Empecemos!
 
-<img class="aligncenter wp-image-6511" src="/wp-content/uploads/2018/04/caras-emociones.png" alt="" width="600" height="447" />
+{{< img src="caras-emociones.png" >}}
 
  
 

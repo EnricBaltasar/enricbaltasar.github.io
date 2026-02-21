@@ -7,7 +7,7 @@ slug: "castillos-ecuaciones"
 lang: es
 ---
 
-Os comparto un microrrelato de Nacho Artacho, titulado <em>La costumbre</em>, que le ha hecho ganar un premio de seis mil euros:<a href="/wp-content/uploads/2015/10/nacho-artacho.jpg"><img class="aligncenter wp-image-4187 size-medium" src="/wp-content/uploads/2015/10/nacho-artacho.jpg" alt="nacho-artacho" width="224" height="300" /></a>
+Os comparto un microrrelato de Nacho Artacho, titulado <em>La costumbre</em>, que le ha hecho ganar un premio de seis mil euros:{{< img src="nacho-artacho.jpg" alt="nacho-artacho" >}}
 
 <blockquote><strong>LA COSTUMBRE</strong>
 

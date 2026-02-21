@@ -11,7 +11,7 @@ lang: en
 <span style="color: #ff6600;"><strong>European Union's official language</strong></span>
 <span style="color: #ff6600;"><em><strong>New EC regulations</strong></em></span>
 
-<a href="/wp-content/uploads/2016/06/european-union-people.jpg"><img class="alignright size-medium wp-image-4745" src="/wp-content/uploads/2016/06/european-union-people.jpg" alt="european-union-people" width="300" height="200" /></a>The European Commission have just announced an agreement whereby English will be the official language of the EU rather than German, which was the other possibility. As part of the negotiations, Her Majesty's Government conceded that English spelling had some room for improvement and has accepted a 5 year phase-in plan that would be known as "EuroEnglish":
+{{< img src="european-union-people.jpg" alt="european-union-people" >}}The European Commission have just announced an agreement whereby English will be the official language of the EU rather than German, which was the other possibility. As part of the negotiations, Her Majesty's Government conceded that English spelling had some room for improvement and has accepted a 5 year phase-in plan that would be known as "EuroEnglish":
 
 In the first year, "s" will replace the soft "c" -- Sertainly, this will make the sivil sevants jump with joy. The hard "c" will be dropped in favor of the "k". This should klear up konfusion and keyboards kan have 1 less letter.
 

@@ -12,7 +12,7 @@ Voy a ponerte un dictado de la traducción al esperanto del libro La vuelta al m
 Este es el audio, y debajo de este tienes una zona para escribir:
 
 <audio controls>
-  <source src="/wp-content/uploads/2015/01/diktajxo-cxirkaux-mondo-okdek-tagoj.ogg" type="audio/ogg">
+  <source src="/audio/diktajxo-cxirkaux-mondo-okdek-tagoj.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio>
 
@@ -29,7 +29,7 @@ La vizaĝo de Trapasul' malheliĝis kiel la ĉielo, kaj dum du tagoj la brava kn
 Por último, te invito a repasar con otro audio, esta vez leído más rápido:
 
 <audio controls>
-  <source src="/wp-content/uploads/2015/03/diktajxo-rapidete-cxirkaux-mondo-okdek-tagoj.ogg" type="audio/ogg">
+  <source src="/audio/diktajxo-rapidete-cxirkaux-mondo-okdek-tagoj.ogg" type="audio/ogg">
   Your browser does not support the audio element.
 </audio>
 

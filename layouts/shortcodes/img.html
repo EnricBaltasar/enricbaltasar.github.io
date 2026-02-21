@@ -1,0 +1,26 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $class := .Get "class" | default "" -}}
+{{- $link := .Get "link" | default "" -}}
+{{- $isGif := strings.HasSuffix (strings.ToLower $src) ".gif" -}}
+{{- $imgResource := resources.Get (printf "images/%s" $src) -}}
+{{- if $imgResource -}}
+  {{- if $isGif -}}
+    <a href="{{ $imgResource.RelPermalink }}" class="glightbox" data-glightbox="type: image">
+      <img src="{{ $imgResource.RelPermalink }}" alt="{{ $alt }}"{{- with $class }} class="{{ . }}"{{ end }}>
+    </a>
+  {{- else -}}
+    {{- $resized := $imgResource.Fit "1024x1024" -}}
+    {{- if $link -}}
+      <a href="{{ $link }}" target="_blank" rel="noopener noreferrer">
+        <img src="{{ $resized.RelPermalink }}" alt="{{ $alt }}" width="{{ $resized.Width }}" height="{{ $resized.Height }}"{{- with $class }} class="{{ . }}"{{ end }}>
+      </a>
+    {{- else -}}
+      <a href="{{ $imgResource.RelPermalink }}" class="glightbox" data-glightbox="type: image">
+        <img src="{{ $resized.RelPermalink }}" alt="{{ $alt }}" width="{{ $resized.Width }}" height="{{ $resized.Height }}"{{- with $class }} class="{{ . }}"{{ end }}>
+      </a>
+    {{- end -}}
+  {{- end -}}
+{{- else -}}
+  <img src="/images/{{ $src }}" alt="{{ $alt }}"{{- with $class }} class="{{ . }}"{{ end }}>
+{{- end -}}

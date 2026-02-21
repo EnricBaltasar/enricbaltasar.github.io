@@ -45,7 +45,7 @@ Existen tres diccionarios importantes <strong>de papel</strong>:
 </table>
 Recomiendo ampliamente el diccionario <a href="https://amzn.to/2EnVt5i" target="_blank" rel="noopener noreferrer">Amika Vortaro</a>. Es un complemento genial para los diccionarios web, porque presenta la información bien ordenada para gente que está empezando o tiene nivel medio. Además, literalmente cabe en el bolsillo.
 
-<a href="https://amzn.to/2EnVt5i" target="_blank" rel="noopener noreferrer"><img class="aligncenter size-full wp-image-7559" src="/wp-content/uploads/2015/05/diccionario-amika-vortaro.jpg" alt="" width="322" height="500" /></a>
+<a href="https://amzn.to/2EnVt5i" target="_blank" rel="noopener noreferrer">{{< img src="diccionario-amika-vortaro.jpg" >}}</a>
 
  
 <h2 id="diccionarios-web"><span style="color: #ff6600;"><strong>Diccionarios web</strong></span></h2>

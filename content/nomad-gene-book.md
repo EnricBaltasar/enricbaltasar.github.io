@@ -7,7 +7,7 @@ slug: "nomad-gene-book"
 lang: en
 ---
 
-<a href="https://www.amazon.com/-/es/Enric-Baltasar/dp/B0BQ99L8WW/r" target="_blank" rel="noopener"><img class="wp-image-10522 aligncenter" style="border: 1px solid black;" src="/wp-content/uploads/2023/04/nomad-gene-book-cover.jpg" alt="" width="400" height="600" /></a>
+<a href="https://www.amazon.com/-/es/Enric-Baltasar/dp/B0BQ99L8WW/r" target="_blank" rel="noopener">{{< img src="nomad-gene-book-cover.jpg" >}}</a>
 
 In a world where the real you is being kidnapped, to live is urgent. This is the story of an anonymous citizen who decided to leave everything behind and fill a void.
 
@@ -21,8 +21,8 @@ Here you'll find a path to reimagine the world by crossing all borders and creat
 
 These are some people who already got the book:
 
-<figure><img src="/wp-content/uploads/2023/04/nomad-gene-anna-scaled.jpeg" alt=""></figure>
-<figure><img src="/wp-content/uploads/2023/04/nomad-gene-pablo.jpg" alt=""></figure>
-<figure><img src="/wp-content/uploads/2023/04/nomad-gene-samson.jpg" alt=""></figure>
+<figure>{{< img src="nomad-gene-anna-scaled.jpeg" >}}</figure>
+<figure>{{< img src="nomad-gene-pablo.jpg" >}}</figure>
+<figure>{{< img src="nomad-gene-samson.jpg" >}}</figure>
 
  

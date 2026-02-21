@@ -8,10 +8,9 @@ slug: "actividades-diarias-esperanto"
 lang: es
 ---
 
-Vocabulario de actividades diarias en esperanto:<a href="/wp-content/uploads/2017/06/actividades-diarias.jpg">
-</a>
+Vocabulario de actividades diarias en esperanto:
 
-<a href="/wp-content/uploads/2017/06/actividades-diarias.jpg"><img class="aligncenter size-large wp-image-5471" src="/wp-content/uploads/2017/06/actividades-diarias.jpg" alt="actividades-diarias" width="512" height="379" /></a>
+{{< img src="actividades-diarias.jpg" alt="actividades-diarias" >}}
 
 <table align="center">
 <thead>

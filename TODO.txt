@@ -1,18 +1,6 @@
 
 
-DESIGN:
->>> TRY TO REPLICATE THEME (create new theme) based on files we have of WP of enricbaltasar.com
 
-
-IMAGES:
->> https://enricbaltasar.com/vicent-andres-estelles-esperanto/ images are small (we used the same size as in the blog). Can we save also the biggest version and link to it? I think for many images we have bigger sizes in the WordPress backup (and probably needs to be target blank, although better to show modal or something instead of opening new page), just like discoveryfund.com
-// -min
-// public_html/wp-content/uploads/
->> all images in a single folder, not by year
-
-
-MEDIA:
-split by type (e.g., pdf), not date
 
 
 JS:

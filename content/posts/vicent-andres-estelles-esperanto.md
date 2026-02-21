@@ -10,7 +10,7 @@ lang: es
 
 En 2013, aproveché un recital de poesía en memoria al aniversario de Vicent Andrés Estellés para traducirlo al esperanto e ir varios esperantohablantes a recitar algunos de sus poemas.
 
-<img class="aligncenter wp-image-10595" src="/wp-content/uploads/2023/06/enric-baltasar-recitar.jpeg" alt="" width="350" height="477" />
+{{< img src="enric-baltasar-recitar.jpeg" >}}
 <h2 id="assumiras-la-veu-d-un-poble"><strong>Assumiràs la veu d'un poble</strong></h2>
 <table border="1" cellspacing="1" cellpadding="1">
 <tbody>
@@ -122,7 +122,7 @@ vi paŝas per decid'.</td>
 </tr>
 </tbody>
 </table>
-<img class="aligncenter wp-image-10607" src="/wp-content/uploads/2023/06/enric-baltasar-estelles.jpeg" alt="" width="350" height="502" />
+{{< img src="enric-baltasar-estelles.jpeg" >}}
 
  
 <h2 id="flor-de-taronger"><strong>Flor de taronger</strong></h2>

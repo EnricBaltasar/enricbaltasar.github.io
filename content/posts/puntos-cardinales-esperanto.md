@@ -10,7 +10,7 @@ lang: es
 
 Los puntos cardinales (<em>kompasdirektoj</em>) en esperanto:
 
-<img class="aligncenter wp-image-5169 size-full" src="/wp-content/uploads/2017/02/kompasdirektoj.png" alt="kompasdirektoj" width="476" height="271" />
+{{< img src="kompasdirektoj.png" alt="kompasdirektoj" >}}
 
 Aquí tienes algunas oraciones de ejemplo donde se usan los nombres de los puntos cardinales mencionados arriba:
 

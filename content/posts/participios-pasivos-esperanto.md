@@ -42,32 +42,32 @@ Vamos a ver algunos ejemplos comparando la voz pasiva y activa:
 <table>
 <tbody>
 <tr>
-<td><img class="aligncenter wp-image-5251" src="/wp-content/uploads/2017/04/dibujo-chico-caballo.gif" alt="dibujo-chico-caballo" width="350" height="188" /></td>
+<td>{{< img src="dibujo-chico-caballo.gif" alt="dibujo-chico-caballo" >}}</td>
 <td>La viro estas konduk<strong><span style="color: #008000;">ant</span></strong>a la ĉevalon.
 La ĉevalo estas konduk<span style="color: #008000;"><strong>at</strong></span>a de la viro.</td>
 </tr>
 <tr>
-<td><img class="aligncenter wp-image-5254" src="/wp-content/uploads/2017/04/dibujo-chico-pajaro.gif" alt="dibujo-chico-pajaro" width="350" height="188" /></td>
+<td>{{< img src="dibujo-chico-pajaro.gif" alt="dibujo-chico-pajaro" >}}</td>
 <td>La knabo estas paf<span style="color: #008000;"><strong>ant</strong></span>a la birdon.
 La birdo estas paf<strong><span style="color: #008000;">at</span></strong>a de la knabo.</td>
 </tr>
 <tr>
-<td><img class="aligncenter wp-image-5255" src="/wp-content/uploads/2017/04/dibujo-gato-raton.gif" alt="dibujo-gato-raton" width="350" height="192" /></td>
+<td>{{< img src="dibujo-gato-raton.gif" alt="dibujo-gato-raton" >}}</td>
 <td>La kato estas kapt<span style="color: #008000;"><strong>ant</strong></span>a la muson.
 La muso estas kapt<span style="color: #008000;"><strong>at</strong></span>a de la kato.</td>
 </tr>
 <tr>
-<td><img class="aligncenter wp-image-5256" src="/wp-content/uploads/2017/04/dibujo-luz-tierra.gif" alt="dibujo-luz-tierra" width="350" height="193" /></td>
+<td>{{< img src="dibujo-luz-tierra.gif" alt="dibujo-luz-tierra" >}}</td>
 <td>La suno estas lumig<span style="color: #008000;"><strong>ant</strong></span>a la teron.
 La tero estas lumig<span style="color: #008000;"><strong>at</strong></span>a de la suno.</td>
 </tr>
 <tr>
-<td><img class="aligncenter wp-image-5253" src="/wp-content/uploads/2017/04/dibujo-chico-cristales.gif" alt="dibujo-chico-cristales" width="350" height="189" /></td>
+<td>{{< img src="dibujo-chico-cristales.gif" alt="dibujo-chico-cristales" >}}</td>
 <td>La knabo estas romp<strong><span style="color: #008000;">ant</span></strong>a la vitrojn.
 La vitroj estas romp<span style="color: #008000;"><strong>at</strong></span>aj de la knabo.</td>
 </tr>
 <tr>
-<td><img class="aligncenter wp-image-5252" src="/wp-content/uploads/2017/04/dibujo-chico-carta.gif" alt="dibujo-chico-carta" width="350" height="185" /></td>
+<td>{{< img src="dibujo-chico-carta.gif" alt="dibujo-chico-carta" >}}</td>
 <td>La viro estas brulig<strong><span style="color: #008000;">ant</span></strong>a la leteron (per la fajro).
 La letero estas brulig<span style="color: #008000;"><strong>at</strong></span>a de la viro (de la fajro).</td>
 </tr>

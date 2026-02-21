@@ -11,7 +11,7 @@ He visto a mucha gente caérsele la baba hablando de cuánta cultura tiene el es
 
 Sí, invisible: nuestra cultura rebosa por el mundo, pero no se puede tocar, no se puede apreciar, a menos que vayas a algún <a href="https://museuesperanto.org/" target="_blank" rel="noopener noreferrer">museo de esperanto</a> y te encuentres delante de cientos, de miles, de decenas de miles de artículos de todo tipo. Mi primera ‒y desgraciadamente última‒ vez fue hace unos pocos años cuando, aprovechando la programación de Barcelona del Día del Esperanto, fui con un amigo al <a href="https://museuesperanto.org/" target="_blank" rel="noopener noreferrer">Museo de Subirats</a> y, mientras estaba allí, alguien me dijo <em>Sembla que t'estigues correguent</em> (parece que te estés corriendo). ¡Y lo estaba, solo que de un modo distinto! Fue una de esas experiencias arrolladoras que, de algún modo, te cambian. Era como tocar un argumento, como tocar una razón viva y colosal.
 
-<figure><img src="/wp-content/uploads/2016/07/cultura-esperanto.jpg" alt="cultura-esperanto"><figcaption>Venta de libros en un encuentro internacional</figcaption></figure>
+<figure>{{< img src="cultura-esperanto.jpg" alt="cultura-esperanto" >}}<figcaption>Venta de libros en un encuentro internacional</figcaption></figure>
 
 Bajando de la nube, o de la nostalgia, a lo que voy es a que no somos creíbles, porque lo que contamos y la experiencia personal que se pueda experimentar suelen ser contradictorios. Por ejemplo, si buscas en Internet <em>poesía en esperanto</em>, lo máximo que encontrarás serán uno o dos poemas malos o páginas muy viejas que apabullan. Así que tengo dos lecciones para nuestro movimiento:
 
