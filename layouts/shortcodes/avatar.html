@@ -1,0 +1,5 @@
+{{- $avatarResource := resources.Get site.Params.avatar -}}
+{{- if $avatarResource -}}
+{{- $resized := $avatarResource.Fit "240x240" -}}
+<img src="{{ $resized.RelPermalink }}" alt="{{ site.Params.author }}" width="{{ $resized.Width }}" height="{{ $resized.Height }}" class="avatar">
+{{- end -}}

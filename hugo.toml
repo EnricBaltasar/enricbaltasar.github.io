@@ -28,6 +28,7 @@ paginate = 10
   env = "production"
   description = "Growth Engineer"
   author = "Enric Baltasar"
+  avatar = "images/enric-baltasar.png"
   [params.assets]
     favicon = "/favicon.png"
     favicon16x16 = "/favicon.png"

@@ -1,0 +1,74 @@
+{{- define "main" }}
+
+<div class="entry post">
+    {{- /* Featured image */ -}}
+    {{- with .Params.cover }}{{ with .image }}
+    <div class="featured-image">
+        <img src="{{ . }}" alt="{{ $.Title }}">
+    </div>
+    {{- end }}{{ end }}
+
+    {{- /* Title */ -}}
+    <div class="entry-header">
+        <h1 class="entry-title">{{ .Title }}</h1>
+    </div>
+
+    {{- /* Entry meta top (posts only, not pages) */ -}}
+    {{- if and (not (.Param "hideMeta")) (in (site.Params.mainSections | default (slice "posts")) .Section) }}
+    <div class="entry-meta-top">
+        {{- if not (.Param "hideAuthor") }}
+        {{- $avatarResource := resources.Get site.Params.avatar }}
+        {{- if $avatarResource }}
+        {{- $avatarResized := $avatarResource.Fit "80x80" }}
+        <img class="author-avatar" src="{{ $avatarResized.RelPermalink }}" alt="{{ .Site.Params.author }}" width="{{ $avatarResized.Width }}" height="{{ $avatarResized.Height }}">
+        {{- end }}
+        <div class="author-info">
+            <span class="author-name">{{ .Site.Params.author }}</span>
+            <span class="meta-details">
+                {{- if not .Date.IsZero }}{{ .Date | time.Format "January 2, 2006" }}{{ end }}
+                {{- if (.Param "ShowReadingTime") }} &middot; {{ .ReadingTime }} min read{{ end }}
+            </span>
+            <div class="meta-social">
+                <span class="meta-social-label">Follow:</span>
+                {{- with site.Params.social.linkedin }}
+                <a href="{{ . }}" target="_blank" rel="noopener" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
+                {{- end }}
+                {{- with site.Params.social.twitter }}
+                <a href="{{ . }}" target="_blank" rel="noopener" aria-label="X (Twitter)"><i class="fa-brands fa-x-twitter"></i></a>
+                {{- end }}
+            </div>
+        </div>
+        {{- else }}
+        <span class="meta-details">
+            {{- if not .Date.IsZero }}{{ .Date | time.Format "January 2, 2006" }}{{ end }}
+            {{- if (.Param "ShowReadingTime") }} &middot; {{ .ReadingTime }} min read{{ end }}
+        </span>
+        {{- end }}
+    </div>
+    {{- end }}
+
+    {{- /* Description */ -}}
+    {{- with .Description }}
+    <p class="entry-description"><em>{{ . }}</em></p>
+    {{- end }}
+
+    {{- /* Table of Contents */ -}}
+    {{- if (.Param "ShowToc") }}
+    {{- partial "toc.html" . }}
+    {{- end }}
+
+    {{- /* Content */ -}}
+    <div class="entry-content">
+        <article>
+            {{ .Content }}
+        </article>
+    </div>
+
+</div>
+
+{{- /* Comments */ -}}
+{{- if (.Param "comments") }}
+{{- partial "comments.html" . }}
+{{- end }}
+
+{{- end }}
