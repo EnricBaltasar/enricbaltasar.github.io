@@ -30,6 +30,21 @@
 </div>
 {{- end }}
 
+<div class="popular-section">
+  <span class="filter-label">Most popular:</span>
+  <div class="popular-cards">
+    <a class="popular-card" href="/how-i-read-100-books-in-six-months/">
+      <span class="popular-card-title">How I Read 100 Books In Six Months</span>
+    </a>
+    <a class="popular-card" href="/ir-oyente-universidad/">
+      <span class="popular-card-title">Qué debes saber para ir de oyente a la universidad</span>
+    </a>
+    <a class="popular-card" href="/esperanto/vocabulario/500-palabras-basicas/">
+      <span class="popular-card-title">Vocabulario de las 500 palabras básicas del esperanto</span>
+    </a>
+  </div>
+</div>
+
 {{- $langNames := dict "en" "English" "es" "Spanish" "eo" "Esperanto" "it" "Italian" "ca" "Catalan" }}
 {{- $countAll := len $pages }}
 {{- $scratch := newScratch }}

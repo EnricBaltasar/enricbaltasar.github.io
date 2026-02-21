@@ -2,7 +2,6 @@
 title: "Acusativo en esperanto"
 date: 2017-07-28T15:14:04+00:00
 draft: false
-topic_guide: true
 lang: es
 aliases: ["/acusativo-esperanto/"]
 layout: single

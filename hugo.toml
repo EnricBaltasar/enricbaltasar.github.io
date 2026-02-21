@@ -26,7 +26,7 @@ paginate = 10
 
 # PaperMod theme parameters
 [params]
-  mainSections = ["posts"]
+  mainSections = ["posts", "esperanto", "python-summary"]
   env = "production"
   description = "Growth Engineer"
   author = "Enric Baltasar"
@@ -67,6 +67,11 @@ paginate = 10
   name = "Articles"
   url = "/articles/"
   weight = 10
+
+[[menus.main]]
+  name = "Projects"
+  url = "/projects/"
+  weight = 15
 
 [[menus.main]]
   name = "About"

@@ -50,6 +50,194 @@
     .header-social a { color: var(--ignite-dark); font-size: 1.1em; text-decoration: none; opacity: 0.6; transition: opacity 0.2s ease, color 0.2s ease; }
     .header-social a:hover { opacity: 1; color: var(--ignite-gold); }
   }
+  /* ===== Most Popular Cards (Articles page) ===== */
+  .popular-section {
+    padding-bottom: 16px;
+    margin-bottom: 16px;
+    border-bottom: 1px solid var(--ignite-border);
+  }
+  .popular-section .filter-label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  .popular-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  a.popular-card, a.popular-card:link, a.popular-card:visited {
+    flex: 1;
+    min-width: 180px;
+    padding: 10px 14px;
+    border: 1px solid var(--ignite-border);
+    border-radius: var(--radius);
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    background: var(--ignite-bg);
+    color: var(--ignite-dark);
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  }
+  a.popular-card:hover {
+    border-color: var(--ignite-gold);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  }
+  .popular-card-title {
+    color: var(--ignite-dark);
+    font-size: 0.85em;
+    font-weight: 600;
+    line-height: 1.35;
+  }
+  .popular-card .lang-badge { align-self: flex-start; }
+  body.dark a.popular-card, body.dark a.popular-card:link, body.dark a.popular-card:visited {
+    background: #2a2b2f; border-color: #3a3b3f; color: #c9cdd1;
+  }
+  body.dark a.popular-card:hover {
+    border-color: var(--ignite-gold); box-shadow: 0 2px 12px rgba(0, 0, 0, 0.25);
+  }
+  body.dark .popular-card-title { color: #c9cdd1; }
+  /* ===== Projects Page ===== */
+  .projects-container {
+    background: white;
+    margin: 1.5em auto;
+    padding: 1.5em 24px 2.25em;
+    max-width: 900px;
+    border-radius: var(--radius);
+  }
+  .project-filter {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 8px;
+    padding-bottom: 16px;
+    margin-bottom: 24px;
+    border-bottom: 1px solid var(--ignite-border);
+  }
+  .project-filter-btn {
+    color: var(--ignite-gold-dark);
+    border: 1px solid rgba(230, 161, 23, 0.35);
+  }
+  .project-filter-btn:hover {
+    border-color: var(--ignite-gold);
+    color: var(--ignite-gold);
+  }
+  .project-filter-btn.active {
+    background: var(--ignite-gold);
+    color: #fff;
+    border-color: var(--ignite-gold);
+  }
+  .filter-count {
+    font-size: 0.7rem;
+    margin-left: 3px;
+    padding: 1px 5px;
+    border-radius: 4px;
+    background: rgba(230, 161, 23, 0.15);
+  }
+  .project-filter-btn.active .filter-count {
+    background: rgba(255, 255, 255, 0.25);
+  }
+  .project-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  }
+  .project-card {
+    background: var(--ignite-bg);
+    border-radius: var(--radius);
+    padding: 1.25em;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: var(--ignite-dark);
+    transition: box-shadow 0.2s ease, transform 0.15s ease;
+    border: 1px solid transparent;
+    position: relative;
+  }
+  a.project-card:hover {
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+    transform: translateY(-2px);
+    border-color: var(--ignite-border);
+  }
+  a.project-card, a.project-card:link, a.project-card:visited {
+    color: var(--ignite-dark);
+    text-decoration: none;
+  }
+  .project-image {
+    margin: -1.25em -1.25em 1em -1.25em;
+    border-radius: var(--radius) var(--radius) 0 0;
+    overflow: hidden;
+  }
+  .project-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  .project-body {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+  }
+  .project-title {
+    font-size: 1.05em;
+    font-weight: 600;
+    line-height: 1.4;
+    margin: 0;
+    text-align: center;
+  }
+  .project-link-icon {
+    position: absolute;
+    top: 1em;
+    right: 1em;
+    color: var(--ignite-gray);
+    opacity: 0;
+    transition: opacity 0.2s ease;
+  }
+  a.project-card:hover .project-link-icon {
+    opacity: 1;
+    color: var(--ignite-gold);
+  }
+  .project-stat {
+    font-size: 0.9em;
+    font-weight: 600;
+    color: var(--ignite-gold);
+    margin-top: 0.4em;
+  }
+  .project-description {
+    font-size: 0.85em;
+    line-height: 1.55;
+    color: var(--ignite-gray);
+    margin: 0.5em 0;
+    flex: 1;
+  }
+  .project-year {
+    font-size: 0.75em;
+    color: var(--ignite-gray);
+    opacity: 0.7;
+    margin-top: auto;
+    padding-top: 0.5em;
+  }
+  .project-empty {
+    text-align: center;
+    padding: 3em 1em;
+    color: var(--ignite-gray);
+    font-size: 0.95em;
+  }
+  @media screen and (max-width: 640px) {
+    .project-grid { grid-template-columns: 1fr; }
+  }
+  /* Projects dark mode */
+  body.dark .projects-container { background: #25262a; }
+  body.dark .project-card { background: #2a2b2f; color: #c9cdd1; border-color: transparent; }
+  body.dark a.project-card, body.dark a.project-card:link, body.dark a.project-card:visited { color: #c9cdd1; }
+  body.dark a.project-card:hover { box-shadow: 0 2px 12px rgba(0, 0, 0, 0.25); border-color: #3a3b3f; }
+  body.dark .project-title { color: #c9cdd1; }
+  body.dark .project-description { color: #9a9b9d; }
+  body.dark .project-filter-btn { background: #2a2b2f; color: #e0a060; border-color: #7a5530; }
+  body.dark .project-filter-btn:hover { border-color: #e0a060; color: #e0a060; background: #3a3b3f; }
+  body.dark .project-filter-btn.active { background: var(--ignite-gold); color: #fff; border-color: var(--ignite-gold); }
+  body.dark .filter-count { background: rgba(255, 255, 255, 0.08); }
+  body.dark .project-filter-btn.active .filter-count { background: rgba(255, 255, 255, 0.25); }
 </style>
 
 {{- /* Google Analytics GA4 + JSON-LD structured data */ -}}
