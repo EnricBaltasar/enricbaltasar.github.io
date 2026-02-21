@@ -8,7 +8,6 @@ description: "Life is a series of experiments"
 
 <p class="pseudo-h3">I reverse-engineer everything.</p>
 Languages. Movements. Markets. People.<br>
-I can't help it and I'm not sorry.
 
 I once got 300,000 people to learn a language most called "dead". Not because I was persuasive, but because I understood the mechanism.
 
