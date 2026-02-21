@@ -18,9 +18,29 @@
   .author-box-social { margin-top: 0.3em; }
   .post-comments .comments-heading { border-top: solid 2px var(--ignite-border); padding-top: 1.375em; font-size: 1.625em; line-height: 1.85; margin-top: 2em; margin-bottom: 0; font-weight: 600; }
   @media all and (min-width: 50em) { .menu-primary-items a { font-weight: 500; } }
+  /* Mobile header: flexbox layout, title left, burger right */
+  @media all and (max-width: 49.999em) {
+    .site-header {
+      display: flex;
+      align-items: center;
+      padding: 0.75em 6%;
+      min-height: 0;
+    }
+    .site-header:after { display: none; }
+    .title-info { float: none; flex: 1; order: 1; }
+    .title-info:after { display: none; }
+    .toggle-navigation { order: 2; font-size: 1.25em; line-height: 1; }
+    .site-title { float: none; font-size: 1.125em; line-height: 1.4; }
+    .site-title a:only-child { margin-top: 0; }
+    .menu-primary { left: auto; right: 0; transform: none !important; display: none; transition: none; padding-top: 1em; }
+    .menu-primary-items a { margin: 0.75em 0; }
+    .site-header.toggled .menu-primary { display: block; }
+    .main, .breadcrumbs { transform: none !important; }
+  }
   .header-social { display: none; }
-  .menu-social { display: flex; gap: 1.25em; padding: 1.5em 5%; }
-  .menu-social a { color: rgba(255,255,255,0.6); font-size: 1.25em; text-decoration: none; transition: color 0.2s ease; }
+  .menu-social { display: flex; gap: 1em; padding: 0 5% 1.5em; justify-content: center; align-items: center; }
+  .menu-primary p.menu-social-label { color: rgba(255,255,255,0.4); font-size: 0.7em; text-transform: uppercase; letter-spacing: 0.1em; text-align: center; padding: 0; padding-top: 1.25em; margin: 0.5em auto 0; border: none; display: block; width: 65%; border-top: solid 1px rgba(255,255,255,0.1); }
+  .menu-social a { color: rgba(255,255,255,0.6); font-size: 1em; text-decoration: none; transition: color 0.2s ease; }
   .menu-social a:hover { color: var(--ignite-gold); }
   @media all and (min-width: 50em) {
     .menu-social { display: none; }
