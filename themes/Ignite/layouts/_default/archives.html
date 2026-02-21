@@ -87,9 +87,6 @@
           </span>
           {{- end }}
         </h3>
-        <div class="archive-meta">
-          {{- partial "post_meta.html" . -}}
-        </div>
         <div class="archive-tags">
           {{- with .Params.lang }}
           <span class="lang-badge lang-{{ . }}">{{ index $langNames . }}</span>

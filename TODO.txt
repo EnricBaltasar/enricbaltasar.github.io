@@ -1,6 +1,7 @@
 
 
-
+DESIGN:
+>>> TRY TO REPLICATE THEME (create new theme) based on files we have of WP of enricbaltasar.com
 
 
 IMAGES:
@@ -10,21 +11,17 @@ IMAGES:
 >> all images in a single folder, not by year
 
 
+MEDIA:
+split by type (e.g., pdf), not date
+
+
 JS:
 >>>> GOOGLE ANALYTICS
-
-
-DATA:
->> schema: sameAs
 
 
 DNS/CDN:
 >>> cloudflare: trailing slashes
 >>> rewrite urls --> choose strategy, then redirect with CF
-
-DESIGN:
->>> TRY TO REPLICATE THEME (create new theme) based on files we have of WP of enricbaltasar.com
-
 
 
 
