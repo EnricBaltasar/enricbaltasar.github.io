@@ -20,6 +20,12 @@
 - Do NOT add H1s inside page content or templates for the homepage — the header already provides it
 - Post/article pages get their H1 from the post title rendered by the single template
 
+## Hosting & DNS
+- Site is hosted on **GitHub Pages** (`enricbaltasar.github.io`)
+- Domain `enricbaltasar.com` is registered on **Squarespace** (nameservers pointed to Cloudflare)
+- DNS is managed via **Cloudflare** (proxied)
+- `baseURL` in `hugo.toml` must stay as `https://enricbaltasar.com/`
+
 ## Key layout files (overrides)
 - `layouts/partials/header.html` — site header with conditional H1
 - `layouts/partials/footer.html` — footer with `<p>` site title (not `<h1>`)
