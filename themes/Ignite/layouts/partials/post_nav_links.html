@@ -1,0 +1,24 @@
+<nav class="further-reading">
+    {{- with .PrevInSection }}
+    <p class="prev">
+        <span>Previous Post</span>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </p>
+    {{- else }}
+    <p class="prev">
+        <span>No Older Posts</span>
+        <a href="{{ site.BaseURL }}">Return to Blog</a>
+    </p>
+    {{- end }}
+    {{- with .NextInSection }}
+    <p class="next">
+        <span>Next Post</span>
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+    </p>
+    {{- else }}
+    <p class="next">
+        <span>No Newer Posts</span>
+        <a href="{{ site.BaseURL }}">Return to Blog</a>
+    </p>
+    {{- end }}
+</nav>

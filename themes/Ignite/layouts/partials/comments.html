@@ -1,0 +1,19 @@
+{{- $slug := .File.ContentBaseName -}}
+{{- $comments := index site.Data.comments $slug -}}
+{{- if $comments }}
+<div class="post-comments">
+  <h2>Comments</h2>
+  <p class="comments-note">These are archived comments from the original WordPress site.</p>
+  {{- range $comments }}
+  <div class="comment{{ if .parent }} comment-reply{{ end }}" id="comment-{{ .id }}">
+    <div class="comment-meta">
+      <strong class="comment-author">{{ .author }}</strong>
+      <time class="comment-date">{{ .date }}</time>
+    </div>
+    <div class="comment-content">
+      {{ .content | safeHTML }}
+    </div>
+  </div>
+  {{- end }}
+</div>
+{{- end }}

@@ -1,7 +1,7 @@
 baseURL = "https://enricbaltasar.github.io/"
 languageCode = "en-us"
 title = "Enric Baltasar"
-theme = "PaperMod"
+theme = "Ignite"
 paginate = 10
 
 # Keep WordPress-compatible URL structure
@@ -20,7 +20,6 @@ paginate = 10
   home = ["HTML", "RSS", "JSON"]
 
 [taxonomies]
-  topic = "topics"
   tag = "tags"
 
 # PaperMod theme parameters
@@ -43,16 +42,26 @@ paginate = 10
   TocOpen = false
   comments = true
   hideAuthor = true
+  [params.social]
+    twitter = "EnricBaltasar"
+  [params.schema]
+    publisherType = "Person"
+    sameAs = [
+      "https://www.linkedin.com/in/enricbaltasar/",
+      "https://x.com/EnricBaltasar",
+      "https://www.youtube.com/EnricBaltasar",
+      "https://github.com/enricbaltasar"
+    ]
 
 # Main navigation menu
 [[menus.main]]
-  name = "About"
-  url = "/about/"
+  name = "Articles"
+  url = "/articles/"
   weight = 10
 
 [[menus.main]]
-  name = "Articles"
-  url = "/articles/"
+  name = "About"
+  url = "/about/"
   weight = 20
 
 # [[menus.main]]
@@ -60,10 +69,10 @@ paginate = 10
 #   url = "/topics/"
 #   weight = 30
 
-[[menus.main]]
-  name = "Search"
-  url = "/search/"
-  weight = 40
+# [[menus.main]]
+#   name = "Search"
+#   url = "/search/"
+#   weight = 40
 
 # Minification for production
 [minify]

@@ -1,0 +1,11 @@
+{{- if (.Param "ShowToc") }}
+{{- $toc := .TableOfContents }}
+{{- if $toc }}
+<div class="toc">
+    <details {{ if (.Param "TocOpen") }}open{{ end }}>
+        <summary>Table of Contents</summary>
+        {{ $toc }}
+    </details>
+</div>
+{{- end }}
+{{- end }}

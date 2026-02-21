@@ -1,0 +1,37 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+{{- /* Title */ -}}
+<title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+
+{{- /* Meta */ -}}
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+<meta name="author" content="{{ .Site.Params.author }}">
+<link rel="canonical" href="{{ .Permalink }}">
+
+{{- /* Favicon */ -}}
+{{- with .Site.Params.assets }}
+{{- with .favicon }}<link rel="icon" href="{{ . }}">{{ end }}
+{{- with .apple_touch_icon }}<link rel="apple-touch-icon" href="{{ . }}">{{ end }}
+{{- end }}
+
+{{- /* RSS */ -}}
+{{- range .AlternativeOutputFormats }}
+<link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
+{{- end }}
+
+{{- /* Google Fonts - Inter */ -}}
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+{{- /* Font Awesome 6 */ -}}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+{{- /* Theme CSS via Hugo Pipes */ -}}
+{{- $css := resources.Get "css/ignite.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+
+{{- /* Extension point */ -}}
+{{- partial "extend_head.html" . }}

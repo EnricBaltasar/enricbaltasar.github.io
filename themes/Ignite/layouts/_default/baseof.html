@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang }}"{{ with .Params.lang }} data-page-lang="{{ . }}"{{ end }}>
+<head>
+    {{- partial "head.html" . }}
+</head>
+<body id="ignite">
+    <script>
+    (function(){var t=localStorage.getItem('theme');if(t==='dark'||(t!=='light'&&window.matchMedia&&window.matchMedia('(prefers-color-scheme:dark)').matches)){document.body.classList.add('dark')}})();
+    </script>
+    <a class="skip-content" href="#main">Skip to content</a>
+    {{- partial "header.html" . }}
+    <div id="overflow-container" class="overflow-container">
+        {{- partial "breadcrumbs.html" . }}
+        <div id="main" class="main" role="main">
+            {{- block "main" . }}{{ end }}
+        </div>
+    </div>
+    {{- partial "footer.html" . }}
+    {{- partial "scroll_to_top.html" . }}
+    <script src="{{ "js/ignite.js" | relURL }}"></script>
+    {{- partial "extend_footer.html" . }}
+</body>
+</html>

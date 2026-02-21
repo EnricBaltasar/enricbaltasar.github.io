@@ -1,0 +1,17 @@
+{{- if (.Param "ShowBreadCrumbs") }}
+{{- if not .IsHome }}
+<div class="breadcrumbs">
+    <a href="{{ .Site.BaseURL }}">Home</a>
+    <span class="separator"> &gt; </span>
+    {{- if .IsPage }}
+        {{- with .CurrentSection }}
+        {{- if not .IsHome }}
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+        <span class="separator"> &gt; </span>
+        {{- end }}
+        {{- end }}
+    {{- end }}
+    <span>{{ .Title }}</span>
+</div>
+{{- end }}
+{{- end }}

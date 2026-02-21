@@ -1,0 +1,14 @@
+name = "Ignite"
+license = "GPL-2.0-or-later"
+licenselink = "http://www.gnu.org/licenses/gpl-2.0.html"
+description = "A clean, serif Hugo theme inspired by the Ignite WordPress theme by Compete Themes"
+min_version = "0.146.0"
+tags = ["responsive", "clean", "blog", "serif"]
+
+[author]
+  name = "Enric Baltasar"
+
+[original]
+  name = "Ignite"
+  author = "Compete Themes"
+  homepage = "https://www.competethemes.com/ignite/"
