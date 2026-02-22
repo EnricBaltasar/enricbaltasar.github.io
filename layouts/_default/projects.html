@@ -41,13 +41,17 @@
 {{- end }}
 
 {{- $catNames := dict
-  "tools" "Tools"
   "startups" "Startups"
   "nonprofits" "Nonprofits"
   "languages" "Languages"
   "education" "Education"
   "writing" "Writing"
+  "adventures" "Life"
 }}
+
+{{- /* Count top projects */ -}}
+{{- $topCount := 0 }}
+{{- range $projects }}{{- if .top }}{{ $topCount = add $topCount 1 }}{{ end }}{{- end }}
 
 {{- /* Sort tabs by count desc, then alphabetically */ -}}
 {{- $tabItems := slice }}
@@ -60,9 +64,10 @@
 {{- $tabItems = sort $tabItems "sortKey" }}
 
 <div class="project-filter">
-  <button class="filter-btn project-filter-btn active" data-category="all">All <span class="filter-count">{{ len $projects }}</span></button>
+  <a href="#top" class="filter-btn project-filter-btn project-filter-top active" data-category="top">Top stories <span class="filter-count">{{ $topCount }}</span></a>
+  <a href="#all" class="filter-btn project-filter-btn project-filter-all" data-category="all">All projects <span class="filter-count">{{ len $projects }}</span></a>
   {{- range $tabItems }}
-    <button class="filter-btn project-filter-btn" data-category="{{ .cat }}">{{ index $catNames .cat }} <span class="filter-count">{{ .count }}</span></button>
+    <a href="#{{ .cat }}" class="filter-btn project-filter-btn" data-category="{{ .cat }}">{{ index $catNames .cat }} <span class="filter-count">{{ .count }}</span></a>
   {{- end }}
 </div>
 
@@ -71,8 +76,9 @@
   {{- $hasURL := and .url (ne .url "") (ne .url "#") }}
   {{- $isExternal := and $hasURL (hasPrefix .url "http") }}
   {{- $hasImage := and .image (ne .image "") }}
-  {{- if $hasURL }}<a href="{{ .url }}"{{ if $isExternal }} target="_blank" rel="noopener noreferrer"{{ end }} class="project-card" data-categories="{{ .categories }}">{{ else }}<div class="project-card" data-categories="{{ .categories }}">{{ end }}
-    <h3 class="project-title">{{ .title }}</h3>
+  {{- if $hasURL }}<a href="{{ .url }}"{{ if $isExternal }} target="_blank" rel="noopener noreferrer"{{ end }} class="project-card{{ if .top }} project-top{{ end }}" data-categories="{{ .categories }}"{{ if .top }} data-top="true"{{ end }}>{{ else }}<div class="project-card{{ if .top }} project-top{{ end }}" data-categories="{{ .categories }}"{{ if .top }} data-top="true"{{ end }}>{{ end }}
+    {{- if .top }}<span class="project-top-badge"><svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 24 24" fill="currentColor" stroke="none"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg> Top</span>{{ end }}
+    <h2 class="project-title">{{ .title }}</h2>
     {{- if $hasImage }}
     <div class="project-image">
       <img src="{{ .image }}" alt="" loading="lazy">
@@ -83,6 +89,10 @@
       <div class="project-stat">{{ . }}</div>
       {{- end }}
       <p class="project-description">{{ .description }}</p>
+      {{- with .ps }}
+      <hr class="project-ps-hr">
+      <p class="project-ps">{{ . }}</p>
+      {{- end }}
       <div class="project-footer">
         <span class="project-categories">{{- range $cat := split .categories " " }}{{- if ne $cat "" }}<span class="project-cat-badge">{{ index $catNames $cat }}</span>{{ end }}{{- end }}</span>
         <span class="project-year">{{- if .start }}{{ .start | replaceRE `-\d{2}$` "" }}–{{ .finish | replaceRE `-\d{2}$` "" }}{{ else }}{{ .finish | replaceRE `-\d{2}$` "" }}{{ end -}}</span>
@@ -100,30 +110,50 @@
 
 <script>
 (function() {
-  var activeCategory = 'all';
   var buttons = document.querySelectorAll('.project-filter-btn');
   var cards = document.querySelectorAll('.project-card');
   var empty = document.querySelector('.project-empty');
+  var grid = document.querySelector('.project-grid');
+
+  function getCategory() {
+    var hash = location.hash.replace('#', '');
+    return hash || 'top';
+  }
 
   function applyFilter() {
+    var activeCategory = getCategory();
     var visibleCount = 0;
     cards.forEach(function(card) {
-      var cats = ' ' + card.getAttribute('data-categories') + ' ';
-      var match = activeCategory === 'all' || cats.indexOf(' ' + activeCategory + ' ') !== -1;
+      var match;
+      if (activeCategory === 'all') {
+        match = true;
+      } else if (activeCategory === 'top') {
+        match = card.hasAttribute('data-top');
+      } else {
+        var cats = ' ' + card.getAttribute('data-categories') + ' ';
+        match = cats.indexOf(' ' + activeCategory + ' ') !== -1;
+      }
       card.style.display = match ? '' : 'none';
       if (match) visibleCount++;
     });
     empty.style.display = visibleCount === 0 ? '' : 'none';
+    grid.classList.toggle('filter-top-active', activeCategory === 'top');
+    buttons.forEach(function(b) {
+      b.classList.toggle('active', b.getAttribute('data-category') === activeCategory);
+    });
   }
 
+  applyFilter();
+
   buttons.forEach(function(btn) {
-    btn.addEventListener('click', function() {
-      buttons.forEach(function(b) { b.classList.remove('active'); });
-      btn.classList.add('active');
-      activeCategory = btn.getAttribute('data-category');
+    btn.addEventListener('click', function(e) {
+      e.preventDefault();
+      history.pushState(null, '', btn.getAttribute('href'));
       applyFilter();
     });
   });
+
+  window.addEventListener('popstate', applyFilter);
 })();
 </script>
 

@@ -20,16 +20,6 @@
 {{- /* Collect topic guide pages */}}
 {{- $guides := where (where site.Pages "Params.topic_guide" true) "Draft" false }}
 
-{{- with $guides }}
-<div class="topic-guides-nav">
-  <span class="filter-label">Guides:</span>
-  {{- range $i, $g := . }}
-  {{- if $i }} &middot; {{ end }}
-  <a class="topic-guide-link" href="{{ $g.RelPermalink }}">{{ $g.Title }}</a>
-  {{- end }}
-</div>
-{{- end }}
-
 <div class="popular-section">
   <span class="filter-label">Most popular:</span>
   <div class="popular-cards">
@@ -90,6 +80,16 @@
   {{- end }}
 </div>
 
+{{- with $guides }}
+<div class="topic-guides-nav">
+  <span class="filter-label">Guides:</span>
+  {{- range $i, $g := . }}
+  {{- if $i }} &middot; {{ end }}
+  <a class="topic-guide-link" href="{{ $g.RelPermalink }}">{{ $g.Title }}</a>
+  {{- end }}
+</div>
+{{- end }}
+
 {{- range $pages.GroupByLastmod "2006" }}
 {{- if ne .Key "0001" }}
 <div class="archive-year">
@@ -141,7 +141,13 @@
   var activeLang = 'all';
   var activeTopic = 'all';
 
+  var popularSection = document.querySelector('.popular-section');
+  var guidesSection = document.querySelector('.topic-guides-nav');
+
   function applyFilters() {
+    var isFiltered = activeLang !== 'all' || activeTopic !== 'all';
+    if (popularSection) popularSection.style.display = isFiltered ? 'none' : '';
+    if (guidesSection) guidesSection.style.display = isFiltered ? 'none' : '';
     document.querySelectorAll('.archive-entry').forEach(function(e) {
       var langMatch = activeLang === 'all' || e.getAttribute('data-lang') === activeLang;
       var topicMatch = activeTopic === 'all' || (' ' + e.getAttribute('data-topics')).indexOf(' ' + activeTopic + ' ') !== -1;
