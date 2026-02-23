@@ -167,6 +167,8 @@
 {{- end }}
 {{- end }}
 
+<div class="archive-no-results" style="display:none;">No content matches the selected filters.</div>
+
 </div>{{/* end .archives-container */}}
 
 <script>
@@ -177,16 +179,20 @@
 
   var popularSection = document.querySelector('.popular-section');
   var guidesSection = document.querySelector('.topic-guides-nav');
+  var noResults = document.querySelector('.archive-no-results');
 
   function applyFilters() {
     var isFiltered = activeLang !== 'all' || activeTopic !== 'all' || activeSource !== 'all';
     if (popularSection) popularSection.style.display = isFiltered ? 'none' : '';
     if (guidesSection) guidesSection.style.display = isFiltered ? 'none' : '';
+    var anyVisible = false;
     document.querySelectorAll('.archive-entry').forEach(function(e) {
       var langMatch = activeLang === 'all' || e.getAttribute('data-lang') === activeLang;
       var topicMatch = activeTopic === 'all' || (' ' + e.getAttribute('data-topics')).indexOf(' ' + activeTopic + ' ') !== -1;
       var sourceMatch = activeSource === 'all' || activeSource.split(',').indexOf(e.getAttribute('data-source')) !== -1;
-      e.style.display = (langMatch && topicMatch && sourceMatch) ? '' : 'none';
+      var visible = langMatch && topicMatch && sourceMatch;
+      e.style.display = visible ? '' : 'none';
+      if (visible) anyVisible = true;
     });
     document.querySelectorAll('.archive-month').forEach(function(m) {
       var hasVisible = false;
@@ -202,6 +208,7 @@
       });
       y.style.display = hasVisible ? '' : 'none';
     });
+    if (noResults) noResults.style.display = anyVisible ? 'none' : '';
   }
 
   document.querySelectorAll('.lang-filter-btn').forEach(function(btn) {

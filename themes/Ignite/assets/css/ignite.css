@@ -1438,6 +1438,14 @@ a img {
   background: rgba(255, 255, 255, 0.25);
 }
 
+/* No results message */
+.archive-no-results {
+  text-align: center;
+  padding: 48px 16px;
+  color: var(--secondary);
+  font-size: 0.95rem;
+}
+
 /* Language emoji flags */
 .lang-en::before,
 .lang-filter-btn[data-lang="en"]::before { content: "\1F1FA\1F1F8  "; }
