@@ -145,6 +145,43 @@ Process each source in order. After finishing all sources, update the "Last chec
 
 ---
 
+## Source 5: LinkedIn (MANUAL)
+
+> **This source cannot be scanned automatically.** LinkedIn requires browser authentication and blocks programmatic access. Follow the manual steps below to extract posts.
+
+1. **Run the extraction manually** using the `/extract-linkedin-posts` skill in a Claude Cowork (browser) session. That skill walks you through scrolling, extracting, and downloading posts as a ZIP with images and JSON.
+
+2. **Once you have the ZIP**, unpack it into `linkd/linkedin_export/`. The JSON goes to `linkd/linkedin_posts.json` and images to `linkd/linkedin_export/images/`.
+
+3. **Create content files** for each post in `content/posts/`:
+
+   - **Filename**: `linkedin-<slug-from-content>.md` (derive slug from first ~8 words of the post)
+   - **Title**: First sentence of the post content
+   - **Body**: Full post content (unlike other sources, LinkedIn posts store body text)
+   - **Images**: Copy post images to `static/images/linkedin/` and reference as `![](/images/linkedin/post_ACTIVITYID_img0.jpg)` at the end of the body
+   - **Front matter**:
+     ```yaml
+     ---
+     title: "First Sentence of Post"
+     date: 2025-06-15T00:00:00+00:00
+     lastmod: 2025-06-15T00:00:00+00:00
+     draft: false
+     topics: ["BestMatchingTopic"]
+     description: "Brief summary of the post"
+     slug: "linkedin-slug-from-content"
+     lang: en
+     external_url: "https://www.linkedin.com/feed/update/urn:li:activity:ACTIVITY_ID"
+     external_source: "linkedin"
+     build:
+       render: never
+       publishResources: false
+     ---
+     ```
+
+4. **Note**: LinkedIn dates in the JSON are relative ("3d", "1w", "2mo", "1yr"). Convert to absolute dates using the extraction date as the reference point.
+
+---
+
 ## Report
 
 After processing all sources, print a summary of what was created or confirm everything is up to date. Then update the "Last checked" date below by editing this file.
