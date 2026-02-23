@@ -1502,8 +1502,8 @@ a img {
 
 .archive-entry {
   position: relative;
-  padding: 5px;
-  margin: 10px 0;
+  padding: 12px 16px;
+  margin: 4px 0;
 }
 
 .archive-entry-title {
@@ -1835,6 +1835,10 @@ body.dark .topic-badge {
 }
 
 /* Archive entry hover */
+.archive-entry:hover {
+  background: #f0f1f3;
+  border-radius: 8px;
+}
 body.dark .archive-entry:hover {
   background: #2a2b2f;
 }
