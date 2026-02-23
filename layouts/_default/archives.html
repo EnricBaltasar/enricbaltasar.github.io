@@ -42,6 +42,8 @@
 {{- range $pages }}
   {{- $lang := .Params.lang | default "es" }}
   {{- $scratch.Add (printf "lang_%s" $lang) 1 }}
+  {{- $source := .Params.external_source | default "site" }}
+  {{- $scratch.Add (printf "source_%s" $source) 1 }}
   {{- range .Params.topics }}
     {{- $key := . | urlize }}
     {{- $scratch.Add (printf "topic_%s" $key) 1 }}
@@ -80,6 +82,27 @@
   {{- end }}
 </div>
 
+{{- $typeEntries := slice }}
+{{- $blogCount := add (add ($scratch.Get "source_site" | default 0) ($scratch.Get "source_medium" | default 0)) ($scratch.Get "source_nakora" | default 0) }}
+{{- if $blogCount }}
+  {{- $typeEntries = $typeEntries | append (dict "name" "Blog" "sources" "site,medium,nakora" "icons" "/favicon.png,/icons/medium.png,/icons/nakora.png" "count" $blogCount) }}
+{{- end }}
+{{- $newsletterCount := $scratch.Get "source_beehiiv" | default 0 }}
+{{- if $newsletterCount }}
+  {{- $typeEntries = $typeEntries | append (dict "name" "Newsletter" "sources" "beehiiv" "icons" "/icons/beehiiv.png" "count" $newsletterCount) }}
+{{- end }}
+{{- $videoCount := $scratch.Get "source_youtube" | default 0 }}
+{{- if $videoCount }}
+  {{- $typeEntries = $typeEntries | append (dict "name" "Video" "sources" "youtube" "icons" "/icons/youtube.png" "count" $videoCount) }}
+{{- end }}
+<div class="source-filter">
+  <span class="filter-label">Format:</span>
+  <button class="filter-btn source-filter-btn active" data-source="all">All</button>
+  {{- range sort (sort $typeEntries "name") "count" "desc" }}
+  <button class="filter-btn source-filter-btn" data-source="{{ .sources }}">{{- range split .icons "," }}<img class="external-source-icon" src="{{ . }}" alt="">{{ end }} {{ .name }} <span class="lang-filter-count">{{ .count }}</span></button>
+  {{- end }}
+</div>
+
 {{- with $guides }}
 <div class="topic-guides-nav">
   <span class="filter-label">Guides:</span>
@@ -102,7 +125,7 @@
       {{- if eq .Kind "page" }}
       {{- $effectiveDate := .Lastmod | default .Date }}
       {{- $isUpdated := and .Lastmod (ne .Lastmod .Date) }}
-      <div class="archive-entry" data-lang="{{ .Params.lang | default "es" }}" data-topics="{{ range .Params.topics }}{{ . | urlize }} {{ end }}">
+      <div class="archive-entry" data-lang="{{ .Params.lang | default "es" }}" data-topics="{{ range .Params.topics }}{{ . | urlize }} {{ end }}" data-source="{{ .Params.external_source | default "site" }}">
         <h3 class="archive-entry-title entry-hint-parent">
           {{- .Title | markdownify }}
           {{- if $isUpdated }} <span class="updated-badge">(Updated)</span>{{ end }}
@@ -150,18 +173,20 @@
 (function() {
   var activeLang = 'all';
   var activeTopic = 'all';
+  var activeSource = 'all';
 
   var popularSection = document.querySelector('.popular-section');
   var guidesSection = document.querySelector('.topic-guides-nav');
 
   function applyFilters() {
-    var isFiltered = activeLang !== 'all' || activeTopic !== 'all';
+    var isFiltered = activeLang !== 'all' || activeTopic !== 'all' || activeSource !== 'all';
     if (popularSection) popularSection.style.display = isFiltered ? 'none' : '';
     if (guidesSection) guidesSection.style.display = isFiltered ? 'none' : '';
     document.querySelectorAll('.archive-entry').forEach(function(e) {
       var langMatch = activeLang === 'all' || e.getAttribute('data-lang') === activeLang;
       var topicMatch = activeTopic === 'all' || (' ' + e.getAttribute('data-topics')).indexOf(' ' + activeTopic + ' ') !== -1;
-      e.style.display = (langMatch && topicMatch) ? '' : 'none';
+      var sourceMatch = activeSource === 'all' || activeSource.split(',').indexOf(e.getAttribute('data-source')) !== -1;
+      e.style.display = (langMatch && topicMatch && sourceMatch) ? '' : 'none';
     });
     document.querySelectorAll('.archive-month').forEach(function(m) {
       var hasVisible = false;
@@ -193,6 +218,15 @@
       document.querySelectorAll('.topic-filter-btn').forEach(function(b) { b.classList.remove('active'); });
       btn.classList.add('active');
       activeTopic = btn.getAttribute('data-topic');
+      applyFilters();
+    });
+  });
+
+  document.querySelectorAll('.source-filter-btn').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      document.querySelectorAll('.source-filter-btn').forEach(function(b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      activeSource = btn.getAttribute('data-source');
       applyFilters();
     });
   });

@@ -1,6 +1,7 @@
 ---
 title: "How AI Reveals Your Customer Motivations"
 date: 2024-07-14T14:14:59+00:00
+lastmod: 2024-07-14T14:14:59+00:00
 draft: false
 topics: ["Growth"]
 description: "How to use AI tools to uncover and understand your customers' real motivations."

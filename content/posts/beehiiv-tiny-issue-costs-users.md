@@ -1,6 +1,7 @@
 ---
 title: "This tiny issue costs you 1% of your users"
 date: 2025-04-30T00:00:00+00:00
+lastmod: 2025-04-30T00:00:00+00:00
 draft: false
 topics: ["Growth"]
 description: "They signed up, then disappeared. An email address problem causing user loss."

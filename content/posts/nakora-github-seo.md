@@ -1,6 +1,7 @@
 ---
 title: "GitHub SEO: Rank your repo and get adoption in 2026"
 date: 2026-01-01T00:00:00+00:00
+lastmod: 2026-01-01T00:00:00+00:00
 draft: false
 topics: ["Growth"]
 description: "How to optimize GitHub repositories to improve discoverability across GitHub, Google, and AI search tools."

@@ -1,6 +1,7 @@
 ---
 title: "How to use Crunchbase Rank to Accelerate Your Startup | Crunchbase SEO"
 date: 2024-07-27T10:43:24+00:00
+lastmod: 2024-07-27T10:43:24+00:00
 draft: false
 topics: ["Growth"]
 description: "Crunchbase Rank can help your startup get noticed. Use Crunchbase because it's like the Google of startups."

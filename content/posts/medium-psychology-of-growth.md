@@ -1,6 +1,7 @@
 ---
 title: "The Psychology of Growth"
 date: 2023-09-30T00:00:00+00:00
+lastmod: 2023-09-30T00:00:00+00:00
 draft: false
 topics: ["Growth"]
 description: "Seven lessons on business expansion including importance of small experiments, first-mover considerations, and understanding non-linear growth patterns."

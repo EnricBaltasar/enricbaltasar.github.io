@@ -1,6 +1,7 @@
 ---
 title: "Setting Clear Expectations: What Types of Remote Work Exist?"
 date: 2024-04-11T19:57:10+00:00
+lastmod: 2024-04-11T19:57:10+00:00
 draft: false
 topics: ["Growth"]
 description: "The different types of remote work, from fully remote to hybrid, and how to set clear expectations for each."

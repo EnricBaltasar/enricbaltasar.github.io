@@ -1,6 +1,7 @@
 ---
 title: "How to Ignite Community Engagement with Atomic Roles"
 date: 2024-08-15T00:00:00+00:00
+lastmod: 2024-08-15T00:00:00+00:00
 draft: false
 topics: ["Community"]
 description: "Framework for breaking down organizational activities into granular tasks and micro-roles with minimal requirements, lowering participation barriers."

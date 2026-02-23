@@ -53,7 +53,8 @@
 
 /* Filter rows */
 .lang-filter,
-.topic-filter {
+.topic-filter,
+.source-filter {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -63,7 +64,7 @@
   border-bottom: 1px solid var(--border);
 }
 
-.topic-filter {
+.source-filter {
   margin-bottom: 24px;
 }
 
@@ -118,6 +119,27 @@
   border-color: #e67e22;
 }
 
+.source-filter-btn {
+  color: #999;
+  border: 1px solid #ccc;
+}
+
+.source-filter-btn:hover {
+  border-color: #888;
+  color: #888;
+}
+
+.source-filter-btn.active {
+  background: #999;
+  color: #fff;
+  border-color: #999;
+}
+
+.source-filter-btn img.external-source-icon {
+  vertical-align: -1px;
+  margin-right: 2px;
+}
+
 .lang-filter-count {
   font-size: 0.7rem;
   margin-left: 3px;
@@ -131,6 +153,10 @@
 
 .topic-filter-btn .lang-filter-count {
   background: rgba(224, 180, 138, 0.3);
+}
+
+.source-filter-btn .lang-filter-count {
+  background: rgba(120, 120, 120, 0.15);
 }
 
 .filter-btn.active .lang-filter-count {

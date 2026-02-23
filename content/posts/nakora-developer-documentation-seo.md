@@ -1,6 +1,7 @@
 ---
 title: "Developer Documentation SEO: Examples of devtools using docs to grow"
 date: 2026-02-19T00:00:00+00:00
+lastmod: 2026-02-19T00:00:00+00:00
 draft: false
 topics: ["Growth"]
 description: "How Stripe, Supabase and other top developer tool companies use their technical docs as a growth channel, not just a support resource."

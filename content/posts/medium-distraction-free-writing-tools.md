@@ -1,6 +1,7 @@
 ---
 title: "Best Distraction-Free Writing Tools (And Why I Chose Medium)"
 date: 2025-05-15T00:00:00+00:00
+lastmod: 2025-05-15T00:00:00+00:00
 draft: false
 topics: ["Productivity"]
 description: "Analysis of writing software, arguing that most tools create friction rather than enabling focus, with Medium highlighted as respecting writers' need for uninterrupted creativity."
