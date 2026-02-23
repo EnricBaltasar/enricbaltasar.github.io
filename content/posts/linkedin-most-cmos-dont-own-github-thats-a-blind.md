@@ -1,5 +1,5 @@
 ---
-title: "Most CMOs don’t own GitHub"
+title: "Most CMOs don't own GitHub — that's a blind spot"
 date: 2026-01-23T00:00:00+00:00
 lastmod: 2026-01-23T00:00:00+00:00
 draft: false

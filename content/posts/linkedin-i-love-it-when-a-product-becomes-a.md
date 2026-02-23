@@ -1,5 +1,5 @@
 ---
-title: "I love it when a product becomes a community"
+title: "How products like HubSpot turn customers into local communities"
 date: 2025-02-23T00:00:00+00:00
 lastmod: 2025-02-23T00:00:00+00:00
 draft: false

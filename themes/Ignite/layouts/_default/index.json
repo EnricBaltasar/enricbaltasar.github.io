@@ -1,12 +1,14 @@
 {{- $index := slice -}}
 {{- range where .Site.RegularPages "Type" "in" (site.Params.mainSections | default (slice "posts")) -}}
-  {{- $entry := dict
-    "title" .Title
-    "permalink" .Permalink
-    "summary" (.Summary | plainify | htmlUnescape)
-    "content" (.Plain | htmlUnescape | truncate 500)
-    "date" (.Date | time.Format "January 2, 2006")
-  -}}
-  {{- $index = $index | append $entry -}}
+  {{- if not .Params.external_url -}}
+    {{- $entry := dict
+      "title" .Title
+      "permalink" .Permalink
+      "summary" (.Summary | plainify | htmlUnescape)
+      "content" (.Plain | htmlUnescape | truncate 500)
+      "date" (.Date | time.Format "January 2, 2006")
+    -}}
+    {{- $index = $index | append $entry -}}
+  {{- end -}}
 {{- end -}}
 {{- $index | jsonify -}}

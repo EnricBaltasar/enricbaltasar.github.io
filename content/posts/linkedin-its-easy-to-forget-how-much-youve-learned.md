@@ -1,10 +1,10 @@
 ---
-title: "It's easy to forget how much you've learned, and how much time and effort it took, even with..."
+title: "The curse of knowledge: you forget how hard things were to learn"
 date: 2025-04-23T00:00:00+00:00
 lastmod: 2025-04-23T00:00:00+00:00
 draft: false
 topics: ["Other"]
-description: "It's easy to forget how much you've learned, and how much time and effort it took, even with simpler matters."
+description: "The curse of knowledge: you forget how hard things were to learn"
 slug: "linkedin-its-easy-to-forget-how-much-youve-learned"
 lang: en
 external_url: "https://www.linkedin.com/feed/update/urn:li:activity:7315615374861889536"

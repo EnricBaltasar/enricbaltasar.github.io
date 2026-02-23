@@ -1,5 +1,5 @@
 ---
-title: "What happened when 150+ university students were asked about a product"
+title: "How editing a Wikipedia article reshaped product perception for 200K+ visitors"
 date: 2025-02-23T00:00:00+00:00
 lastmod: 2025-02-23T00:00:00+00:00
 draft: false

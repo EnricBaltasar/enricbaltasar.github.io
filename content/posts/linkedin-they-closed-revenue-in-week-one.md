@@ -1,5 +1,5 @@
 ---
-title: "They closed revenue in week one"
+title: "How the Scenarios framework helped close revenue in week one"
 date: 2025-05-23T00:00:00+00:00
 lastmod: 2025-05-23T00:00:00+00:00
 draft: false

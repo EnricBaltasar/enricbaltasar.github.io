@@ -1,5 +1,5 @@
 ---
-title: "Would you put your credit card on this website"
+title: "Your SaaS website should build trust, not win design awards"
 date: 2025-10-23T00:00:00+00:00
 lastmod: 2025-10-23T00:00:00+00:00
 draft: false

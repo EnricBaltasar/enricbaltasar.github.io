@@ -1,5 +1,5 @@
 ---
-title: "I call this \"My level of obsession\""
+title: "I spent 5 weeks reading one marketing blog and wrote 133 pages of notes"
 date: 2024-02-23T00:00:00+00:00
 lastmod: 2024-02-23T00:00:00+00:00
 draft: false

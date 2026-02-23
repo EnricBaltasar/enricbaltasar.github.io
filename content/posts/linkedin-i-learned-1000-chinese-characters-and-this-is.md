@@ -1,10 +1,10 @@
 ---
-title: "I learned 1,000+ Chinese characters, and this is what I discovered: You should ditch the..."
+title: "I learned 1,000+ Chinese characters by hacking visual memory"
 date: 2025-02-23T00:00:00+00:00
 lastmod: 2025-02-23T00:00:00+00:00
 draft: false
 topics: ["Languages"]
-description: "I learned 1,000+ Chinese characters, and this is what I discovered: You should ditch the traditional advice that focuses on repetition."
+description: "I learned 1,000+ Chinese characters by hacking visual memory"
 slug: "linkedin-i-learned-1000-chinese-characters-and-this-is"
 lang: en
 external_url: "https://www.linkedin.com/feed/update/urn:li:activity:7264517402120409088"

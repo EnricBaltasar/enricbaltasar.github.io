@@ -1,5 +1,5 @@
 ---
-title: "Have you seen competitors signing up for your product and webinars"
+title: "A competitor intelligence playbook: from leakers to geniuses"
 date: 2025-02-23T00:00:00+00:00
 lastmod: 2025-02-23T00:00:00+00:00
 draft: false

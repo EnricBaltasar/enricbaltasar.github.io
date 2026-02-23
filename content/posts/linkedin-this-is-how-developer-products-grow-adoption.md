@@ -1,5 +1,5 @@
 ---
-title: "This is how developer products grow adoption"
+title: "A framework for turning developer docs into a growth engine"
 date: 2026-02-16T00:00:00+00:00
 lastmod: 2026-02-16T00:00:00+00:00
 draft: false

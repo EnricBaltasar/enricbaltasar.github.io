@@ -1,10 +1,10 @@
 ---
-title: "Unsolicited growth tip #1: When people say \"It's expensive\", they aren't actually saying it costs a..."
+title: "When customers say 'it's expensive', they mean low value"
 date: 2024-02-23T00:00:00+00:00
 lastmod: 2024-02-23T00:00:00+00:00
 draft: false
 topics: ["Growth"]
-description: "Unsolicited growth tip #1: When people say \"It's expensive\", they aren't actually saying it costs a lot of money."
+description: "When customers say 'it's expensive', they mean low value."
 slug: "linkedin-unsolicited-growth-tip-1"
 lang: en
 external_url: "https://www.linkedin.com/feed/update/urn:li:activity:7105429512552624129"

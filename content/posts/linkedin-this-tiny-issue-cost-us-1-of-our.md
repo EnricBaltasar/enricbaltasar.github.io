@@ -1,5 +1,5 @@
 ---
-title: "This tiny issue cost us 1% of our users"
+title: "Email domain typos were silently killing 1% of our onboarding"
 date: 2025-05-23T00:00:00+00:00
 lastmod: 2025-05-23T00:00:00+00:00
 draft: false

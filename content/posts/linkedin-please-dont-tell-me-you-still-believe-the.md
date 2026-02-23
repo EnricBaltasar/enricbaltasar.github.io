@@ -1,5 +1,5 @@
 ---
-title: "Please don't tell me you still believe the future of SaaS is all-in-one"
+title: "Why integration-first SaaS beats all-in-one products"
 date: 2025-08-23T00:00:00+00:00
 lastmod: 2025-08-23T00:00:00+00:00
 draft: false

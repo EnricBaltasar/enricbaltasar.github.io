@@ -1,5 +1,5 @@
 ---
-title: "Get 1,000 people to your signup page"
+title: "How Apify reduces signup drop-off with context-aware pages"
 date: 2026-02-09T00:00:00+00:00
 lastmod: 2026-02-09T00:00:00+00:00
 draft: false

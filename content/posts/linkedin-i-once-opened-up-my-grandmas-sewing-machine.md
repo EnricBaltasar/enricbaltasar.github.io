@@ -1,5 +1,5 @@
 ---
-title: "I once opened up my grandma's sewing machine to see what was inside"
+title: "Reverse-engineering: how I approach growth by taking things apart"
 date: 2025-05-23T00:00:00+00:00
 lastmod: 2025-05-23T00:00:00+00:00
 draft: false

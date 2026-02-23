@@ -1,5 +1,5 @@
 ---
-title: "What if we made 367,000+ people learn a made-up language on Duolingo"
+title: "How we got 367,000+ people to learn a constructed language on Duolingo"
 date: 2025-02-23T00:00:00+00:00
 lastmod: 2025-02-23T00:00:00+00:00
 draft: false

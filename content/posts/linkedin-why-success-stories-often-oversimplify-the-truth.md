@@ -1,10 +1,10 @@
 ---
-title: "Why success stories often oversimplify the truth: The internet loves to tell stories that sell..."
+title: "Why success stories often oversimplify the truth"
 date: 2025-02-23T00:00:00+00:00
 lastmod: 2025-02-23T00:00:00+00:00
 draft: false
 topics: ["Essays"]
-description: "Why success stories often oversimplify the truth: The internet loves to tell stories that sell dreams: A startup gets rejected by a buyer, only to become a ..."
+description: "Why success stories often oversimplify the truth"
 slug: "linkedin-why-success-stories-often-oversimplify-the-truth"
 lang: en
 external_url: "https://www.linkedin.com/feed/update/urn:li:activity:7272899354992988160"

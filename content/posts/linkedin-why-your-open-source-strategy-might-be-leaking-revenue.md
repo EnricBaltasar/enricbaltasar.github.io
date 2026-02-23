@@ -1,10 +1,10 @@
 ---
-title: "Why your open-source strategy might be leaking revenue: Many devtool companies treat open-source..."
+title: "Why your open-source strategy might be leaking revenue"
 date: 2026-01-23T00:00:00+00:00
 lastmod: 2026-01-23T00:00:00+00:00
 draft: false
 topics: ["Growth"]
-description: "Why your open-source strategy might be leaking revenue: Many devtool companies treat open-source projects as product or engineering work."
+description: "Why your open-source strategy might be leaking revenue"
 slug: "linkedin-why-your-open-source-strategy-might-be-leaking-revenue"
 lang: en
 external_url: "https://www.linkedin.com/feed/update/urn:li:activity:7414259503975706624"

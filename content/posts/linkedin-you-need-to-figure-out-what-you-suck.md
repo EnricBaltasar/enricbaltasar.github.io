@@ -1,5 +1,5 @@
 ---
-title: "You need to figure out what you suck at or are just ok if you really want to create impact"
+title: "The rule of threes: focus on strengths, organize in groups of three"
 date: 2025-02-23T00:00:00+00:00
 lastmod: 2025-02-23T00:00:00+00:00
 draft: false

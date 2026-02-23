@@ -1,5 +1,5 @@
 ---
-title: "Most companies still get this workflow wrong and lose new signups: 1"
+title: "Stop losing signups: use Gmail deep links in your verification flow"
 date: 2025-09-23T00:00:00+00:00
 lastmod: 2025-09-23T00:00:00+00:00
 draft: false

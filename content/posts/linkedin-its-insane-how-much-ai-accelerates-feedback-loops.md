@@ -1,5 +1,5 @@
 ---
-title: "It's insane how much AI accelerates feedback loops and iteration cycles"
+title: "How AI accelerates feedback loops and iteration cycles"
 date: 2025-03-23T00:00:00+00:00
 lastmod: 2025-03-23T00:00:00+00:00
 draft: false

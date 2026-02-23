@@ -1,5 +1,5 @@
 ---
-title: "Want to boost community engagement"
+title: "The Engagement Pyramid: a framework for activating community members"
 date: 2025-02-23T00:00:00+00:00
 lastmod: 2025-02-23T00:00:00+00:00
 draft: false

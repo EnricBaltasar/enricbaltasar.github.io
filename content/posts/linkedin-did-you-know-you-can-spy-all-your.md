@@ -1,5 +1,5 @@
 ---
-title: "Did you know you can spy all your competitors' ads across Facebook, Instagram, Google, even Tiktok"
+title: "How to spy on competitors' ads across Meta, Google, TikTok and LinkedIn"
 date: 2025-02-23T00:00:00+00:00
 lastmod: 2025-02-23T00:00:00+00:00
 draft: false

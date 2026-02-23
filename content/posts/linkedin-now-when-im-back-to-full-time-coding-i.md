@@ -1,10 +1,10 @@
 ---
-title: "Now when I'm back to full-time coding (I hadn't done it since my first startup), I wanted to share..."
+title: "Lessons from going back to full-time coding as a founder"
 date: 2025-10-23T00:00:00+00:00
 lastmod: 2025-10-23T00:00:00+00:00
 draft: false
 topics: ["Essays"]
-description: "Now when I'm back to full-time coding (I hadn't done it since my first startup), I wanted to share a few lessons: 1."
+description: "Lessons from going back to full-time coding as a founder"
 slug: "linkedin-now-when-im-back-to-full-time-coding-i"
 lang: en
 external_url: "https://www.linkedin.com/feed/update/urn:li:activity:7386355667718127617"
