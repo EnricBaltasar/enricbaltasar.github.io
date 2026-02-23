@@ -120,17 +120,17 @@
 {{- range $pages.GroupByLastmod "2006" }}
 {{- if ne .Key "0001" }}
 <div class="archive-year">
-  <h2 class="archive-year-header">{{ .Key }}</h2>
+  <div class="archive-year-header">{{ .Key }}</div>
   {{- range .Pages.GroupByLastmod "January" }}
   <div class="archive-month">
-    <h3 class="archive-month-header">{{ .Key }}</h3>
+    <div class="archive-month-header">{{ .Key }}</div>
     <div class="archive-posts">
       {{- range .Pages }}
       {{- if eq .Kind "page" }}
       {{- $effectiveDate := .Lastmod | default .Date }}
       {{- $isUpdated := and .Lastmod (ne .Lastmod .Date) }}
       <div class="archive-entry" data-lang="{{ .Params.lang | default "es" }}" data-topics="{{ range .Params.topics }}{{ . | urlize }} {{ end }}" data-source="{{ .Params.external_source | default "site" }}">
-        <h3 class="archive-entry-title entry-hint-parent">
+        <h2 class="archive-entry-title entry-hint-parent">
           {{- .Title | markdownify }}
           {{- if $isUpdated }} <span class="updated-badge">(Updated)</span>{{ end }}
           {{- if .Draft }}
@@ -141,7 +141,7 @@
             </svg>
           </span>
           {{- end }}
-        </h3>
+        </h2>
         <div class="archive-tags">
           {{- with .Params.lang }}
           <span class="lang-badge lang-{{ . }}">{{ index $langNames . }}</span>
