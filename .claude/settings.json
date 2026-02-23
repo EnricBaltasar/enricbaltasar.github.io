@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:medium.com)",
+      "WebFetch(domain:nakora.ai)",
+      "WebFetch(domain:youtube.com)",
+      "WebFetch(domain:beehiiv.com)"
+    ]
+  }
+}

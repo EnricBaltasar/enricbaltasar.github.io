@@ -123,7 +123,17 @@
           <span class="topic-badge">{{ . | title }}</span>
           {{- end }}
         </div>
+        {{- if .Params.external_source }}
+        <div class="external-source-label">
+          <img class="external-source-icon" src="/icons/{{ .Params.external_source }}.png" alt="{{ .Params.external_source }}">
+          Posted on {{ .Params.external_source | title }}
+        </div>
+        {{- end }}
+        {{- if .Params.external_url }}
+        <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Params.external_url }}" target="_blank" rel="noopener noreferrer"></a>
+        {{- else }}
         <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .RelPermalink }}"></a>
+        {{- end }}
       </div>
       {{- end }}
       {{- end }}

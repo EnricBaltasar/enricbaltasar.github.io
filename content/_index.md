@@ -1,7 +1,7 @@
 ---
 title: "Enric Baltasar"
 draft: false
-description: "Life is a series of experiments"
+description: "Growth partner for B2B SaaS startups. I turn strong products into predictable revenue through data, AI, and systems that outpace competitors."
 ---
 
 {{< avatar >}}

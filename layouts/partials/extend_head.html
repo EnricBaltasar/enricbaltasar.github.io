@@ -354,6 +354,21 @@
   body.dark .project-filter-all.active { background: #fff; color: #222; border-color: #fff; }
   body.dark .project-filter-all .filter-count { background: rgba(255, 255, 255, 0.08); }
   body.dark .project-filter-all.active .filter-count { background: rgba(0, 0, 0, 0.1); }
+  /* ===== External Source Label (Articles page) ===== */
+  .external-source-label {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin-top: 7px;
+    font-size: 0.78em;
+    color: var(--ignite-gray);
+    opacity: 0.7;
+  }
+  .external-source-icon {
+    width: 14px;
+    height: 14px;
+  }
+  .archive-entry:hover .external-source-label { opacity: 1; }
 </style>
 
 {{- /* Google Analytics GA4 + JSON-LD structured data */ -}}
