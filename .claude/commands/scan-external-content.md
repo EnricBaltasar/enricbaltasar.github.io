@@ -145,7 +145,41 @@ Process each source in order. After finishing all sources, update the "Last chec
 
 ---
 
-## Source 5: LinkedIn (MANUAL)
+## Source 5: Substack (https://enricbaltasar.substack.com/)
+
+1. **Fetch the RSS feed** at `https://enricbaltasar.substack.com/feed` using the WebFetch tool. Extract every post's title, publication date, URL, and description/summary.
+
+2. **Check existing files** by reading all `content/posts/substack-*.md` files. For each, look at the `external_url` field in the front matter to build a set of already-tracked Substack URLs.
+
+3. **Compare** the RSS posts against existing files. Identify any new posts not yet tracked.
+
+4. **For each new post**, create a `.md` file in `content/posts/` following the template below.
+
+   - **Filename**: `substack-<short-slug>.md`
+   - **Front matter**:
+     ```yaml
+     ---
+     title: "Post Title Here"
+     date: 2025-09-10T00:00:00+00:00
+     draft: false
+     topics: ["BestMatchingTopic"]
+     description: "Brief description from RSS summary"
+     slug: "url-path-from-substack"
+     lang: en
+     external_url: "https://enricbaltasar.substack.com/p/slug-here"
+     external_source: "substack"
+     build:
+       render: never
+       publishResources: false
+     ---
+     ```
+   - **Topics mapping**: Map post content to existing site topics. Current topics: Challenges, Community, Esperanto, Growth, Productivity, Languages, Self-improvement. Pick the closest match or create a new one if needed.
+   - **Slug**: Use the path segment from the Substack URL (the `/p/` slug).
+   - **Body**: Leave empty.
+
+---
+
+## Source 6: LinkedIn (MANUAL)
 
 > **This source cannot be scanned automatically.** LinkedIn requires browser authentication and blocks programmatic access. Follow the manual steps below to extract posts.
 

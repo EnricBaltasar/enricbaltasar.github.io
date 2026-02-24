@@ -87,9 +87,9 @@
 {{- if $blogCount }}
   {{- $typeEntries = $typeEntries | append (dict "name" "Article" "sources" "site,medium,nakora,linkedin_pulse" "icons" "/favicon.png,/icons/medium.png,/icons/nakora.png,/icons/linkedin_pulse.png" "count" $blogCount) }}
 {{- end }}
-{{- $newsletterCount := $scratch.Get "source_beehiiv" | default 0 }}
+{{- $newsletterCount := add ($scratch.Get "source_beehiiv" | default 0) ($scratch.Get "source_substack" | default 0) }}
 {{- if $newsletterCount }}
-  {{- $typeEntries = $typeEntries | append (dict "name" "Newsletter" "sources" "beehiiv" "icons" "/icons/beehiiv.png" "count" $newsletterCount) }}
+  {{- $typeEntries = $typeEntries | append (dict "name" "Newsletter" "sources" "beehiiv,substack" "icons" "/icons/beehiiv.png,/icons/substack.png" "count" $newsletterCount) }}
 {{- end }}
 {{- $videoCount := $scratch.Get "source_youtube" | default 0 }}
 {{- if $videoCount }}
