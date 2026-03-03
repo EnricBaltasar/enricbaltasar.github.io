@@ -10,7 +10,7 @@
 | Type | Location | How to reference |
 |---|---|---|
 | Images (photos, illustrations) | `assets/images/` | `{{< img src="filename.ext" alt="..." >}}` shortcode, or Hugo Pipes `resources.Get "images/filename.ext"` in templates |
-| Static files (favicon, robots.txt) | `static/` | Referenced by absolute path e.g. `/favicon.png` |
+| Static files (favicon, robots.txt) | `static/` | Referenced by absolute path e.g. `/favicon.ico` |
 | CSS | `themes/Ignite/assets/css/ignite.css` (theme) — override via inline `<style>` in `layouts/partials/extend_head.html` | Loaded via Hugo Pipes + fingerprint. **`assets/css/extended/` is NOT loaded by Ignite** — do not put CSS there |
 | JS | `themes/Ignite/static/js/ignite.js` (theme) — additions go in `layouts/partials/extend_footer.html` | |
 

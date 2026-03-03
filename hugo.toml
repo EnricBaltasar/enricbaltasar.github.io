@@ -33,10 +33,10 @@ paginate = 10
   bio = "Growth Engineer. Writing about language learning, tech, and productivity."
   avatar = "images/enric-baltasar.png"
   [params.assets]
-    favicon = "/favicon.png"
-    favicon16x16 = "/favicon.png"
-    favicon32x32 = "/favicon.png"
-    apple_touch_icon = "/favicon.png"
+    favicon = "/favicon.ico"
+    favicon16x16 = "/favicon.ico"
+    favicon32x32 = "/favicon.ico"
+    apple_touch_icon = "/favicon.ico"
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowShareButtons = false
