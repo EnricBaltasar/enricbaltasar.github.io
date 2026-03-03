@@ -25,7 +25,7 @@ Cloudflare Bulk Redirects:
 
 Cloudflare Workers:
 - `enricbaltasar-wordpress-wpuploads-folder-redirects`: Redirects old WordPress media paths (`/wp-content/uploads/YYYY/MM/filename`) to new locations (`/pdf/`, `/audio/`, `/images/`). Route: `enricbaltasar.com/wp-content/uploads/*`
-- `enricbaltasar-trailing-slash-removal`: Strips trailing slashes from all page URLs. GitHub Pages forces trailing slashes; this worker removes them for cleaner URLs. Route: `enricbaltasar.com/*`
+- `enricbaltasar-trailing-slash-removal`: Strips trailing slashes from all page URLs. GitHub Pages forces trailing slashes; this worker removes them for cleaner URLs. Homepage (`/`) is excluded and keeps its trailing slash. Route: `enricbaltasar.com/*`
 
 ## Pricing & Limits:
 
