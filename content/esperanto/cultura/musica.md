@@ -49,4 +49,4 @@ Es menos sencillo que encontrar canciones en castellano, porque no se oyen en l
 
 ¿Qué canción te ha gustado más de las que has escuchado?
 
-También te puede interesar saber cómo encontrar <a href="/esperanto/cultura/letras-canciones/">letras de canciones en esperanto</a>.
+También te puede interesar saber cómo encontrar <a href="/esperanto/cultura/letras-canciones">letras de canciones en esperanto</a>.

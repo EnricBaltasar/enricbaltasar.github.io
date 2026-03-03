@@ -158,7 +158,7 @@ De paso, aquí tienes algunas preguntas más que se usan frecuentemente:
 
 <h2 id="multiplicando-vocabulario-con-mal"><span style="color: #ff6600;"><strong>Multiplicando vocabulario con MAL–</strong></span></h2>
 
-El <a href="/esperanto/gramatica/afijos/vocabulario-mal-il-ar-ej/">sufijo mal–</a> crea antónimos absolutos. En el caso de las emociones y sentimientos en esperanto podríamos crear por ejemplo las siguientes:
+El <a href="/esperanto/gramatica/afijos/vocabulario-mal-il-ar-ej">sufijo mal–</a> crea antónimos absolutos. En el caso de las emociones y sentimientos en esperanto podríamos crear por ejemplo las siguientes:
 
 <table>
 <tbody>

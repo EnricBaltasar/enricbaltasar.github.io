@@ -1,0 +1,5 @@
+{{- $url := . -}}
+{{- if ne $url "/" -}}
+  {{- $url = strings.TrimRight "/" $url -}}
+{{- end -}}
+{{- return $url -}}

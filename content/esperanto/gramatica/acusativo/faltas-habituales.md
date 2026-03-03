@@ -125,4 +125,4 @@ A Peter le gusta eso. A Peter le gusta bailar.
 
  
 
-<span style="color: #999999;"><em>En la siguiente lección veremos el <strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/eliptico/">acusativo elíptico</a></strong>, dentro de la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo/">Acusativo en esperanto</a>.</em></span>
+<span style="color: #999999;"><em>En la siguiente lección veremos el <strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/eliptico">acusativo elíptico</a></strong>, dentro de la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo">Acusativo en esperanto</a>.</em></span>

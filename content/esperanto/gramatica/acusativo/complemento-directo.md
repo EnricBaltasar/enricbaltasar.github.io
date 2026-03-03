@@ -32,4 +32,4 @@ Sin embargo, a los hispanohablantes les puede costar un poco acostumbrarse al pr
 
  
 
-<em><span style="color: #999999;">En la siguiente lección aprenderemos sobre la existencia de <strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/verbos/">verbos que no permiten ‒n</a></strong>, incluidos en la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo/">Acusativo en esperanto</a>.</span></em>
+<em><span style="color: #999999;">En la siguiente lección aprenderemos sobre la existencia de <strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/verbos">verbos que no permiten ‒n</a></strong>, incluidos en la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo">Acusativo en esperanto</a>.</span></em>

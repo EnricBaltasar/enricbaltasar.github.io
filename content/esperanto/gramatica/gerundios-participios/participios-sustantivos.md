@@ -52,4 +52,4 @@ En la práctica hay varias maneras de expresar que alguien hace algo, y ello mer
 
  
 
-<span style="color: #999999;"><em>En la siguiente lección veremos las <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios/verbos-intransitivos/">participios en esperanto con verbos intransitivos</a>, que también forman parte de la serie <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios/">Gerundios y participios en esperanto</a>.</em></span>
+<span style="color: #999999;"><em>En la siguiente lección veremos las <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios/verbos-intransitivos">participios en esperanto con verbos intransitivos</a>, que también forman parte de la serie <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios">Gerundios y participios en esperanto</a>.</em></span>

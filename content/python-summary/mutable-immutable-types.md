@@ -22,7 +22,7 @@ We created a <em>Hello</em> string. And the <strong>data types</strong> can be e
 	<li><strong>Immutable:</strong> integers, floats, strings, booleans, tuples, frozensets...</li>
 	<li><strong>Mutable:</strong> lists, sets...</li>
 </ul>
-<span style="color: #999999;">However, a exception exists: the type depends on dictionaries. For example, keys must be immutable. Read more about <a style="color: #999999;" href="/python-summary/dictionaries/">dictionaries in Python</a>.</span>
+<span style="color: #999999;">However, a exception exists: the type depends on dictionaries. For example, keys must be immutable. Read more about <a style="color: #999999;" href="/python-summary/dictionaries">dictionaries in Python</a>.</span>
 
 But what do inmmutable and mutable classification mean?
 <table>

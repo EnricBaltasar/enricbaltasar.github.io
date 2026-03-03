@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 layout: "projects"
-url: "/projects/"
+url: "/projects"
 summary: "projects"
 description: "Things I've built, created, or helped bring to life."
 lang: en
@@ -50,7 +50,7 @@ projects:
 
   - title: "Read 100 books in six months"
     categories: "education"
-    url: "/how-i-read-100-books-in-six-months/"
+    url: "/how-i-read-100-books-in-six-months"
     image: "/images/read-fast-kindle-book.png"
     description: "Set a challenge to read 100 books in a year and finished in six months. Shared my strategies and techniques."
     ps: "📚 It began with a sales book that made me feel like an idiot."
@@ -58,7 +58,7 @@ projects:
 
   - title: "Wrote my first book"
     categories: "writing"
-    url: "/nomad-gene-book/"
+    url: "/nomad-gene-book"
     image: "/images/projects/grab-printed-book.jpeg"
     description: "Published a book after spending years traveling the world and living in different continents."
     ps: "✍️ Wrote it in a language that isn't my native one."
@@ -138,7 +138,7 @@ projects:
 
   - title: "Attended psychology university for 4 years as a ghost student"
     categories: "education"
-    url: "/ir-oyente-universidad/"
+    url: "/ir-oyente-universidad"
     image: "/images/projects/valencia-city.jpg"
     description: "Attended four years of psychology lectures as an unregistered student. Half a degree, zero recognition, pure curiosity."
     ps: "🎓 Passed zero exams. Learned more than most who did."
@@ -190,7 +190,7 @@ projects:
 
   - title: "Created language course 0 → 367k signups"
     categories: "languages education"
-    url: "/how-created-popular-online-course-duolingo/"
+    url: "/how-created-popular-online-course-duolingo"
     image: "/images/projects/duolingo-esperanto-spanish-course.png"
     description: 'Co-created "Esperanto for Spanish speakers" on Duolingo. Grew to 367k+ signups in 14 months, without paid ads. We got 1M in total across languages.'
     top: true
@@ -206,7 +206,7 @@ projects:
 
   - title: "Translated one of Valencia's most celebrated poets"
     categories: "writing languages"
-    url: "/esperanto/cultura/vicent-andres-estelles/"
+    url: "/esperanto/cultura/vicent-andres-estelles"
     image: "/images/projects/vaesestelles.jpg"
     description: "Translated poems by Vicent Andrés Estellés, one of Valencia's most celebrated 20th-century poets, and recited them at poetry events."
     ps: "✍️ Recited them on stage."
@@ -214,7 +214,7 @@ projects:
 
   - title: "Translated a Spanish poetry book"
     categories: "writing languages"
-    url: "/esperanto/cultura/pedro-salinas/"
+    url: "/esperanto/cultura/pedro-salinas"
     image: "/images/projects/pedro-salinas.jpg"
     description: 'Translated book "Largo lamento" by Spanish poet Pedro Salinas, Spain''s "poet of love", and published 19 poems from that book and other ones in his trilogy.'
     finish: "2014-01"

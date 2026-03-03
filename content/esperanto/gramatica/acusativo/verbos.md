@@ -30,4 +30,4 @@ Y con esto hemos aprendido una parte importantísima del esperanto.
 
  
 
-<span style="color: #999999;"><em>En la siguiente lección veremos cómo el <strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/libertad-sintactica/">acusativo dota al esperanto de una gran libertad</a></strong> para expresar nuestros pensamientos, dentro de la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo/">Acusativo en esperanto</a>.</em></span>
+<span style="color: #999999;"><em>En la siguiente lección veremos cómo el <strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/libertad-sintactica">acusativo dota al esperanto de una gran libertad</a></strong> para expresar nuestros pensamientos, dentro de la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo">Acusativo en esperanto</a>.</em></span>

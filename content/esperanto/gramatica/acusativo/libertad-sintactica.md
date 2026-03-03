@@ -73,4 +73,4 @@ Compara estas dos oraciones:
 
  
 
-<span style="color: #999999;"><em>En la siguiente lección veremos qué pasa cuando aparece un <strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/nombres-propios/">nombre propio como complemento directo</a></strong>, en el marco de la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo/">Acusativo en esperanto</a>.</em></span>
+<span style="color: #999999;"><em>En la siguiente lección veremos qué pasa cuando aparece un <strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/nombres-propios">nombre propio como complemento directo</a></strong>, en el marco de la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo">Acusativo en esperanto</a>.</em></span>

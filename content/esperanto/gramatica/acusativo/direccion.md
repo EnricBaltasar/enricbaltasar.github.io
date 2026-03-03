@@ -99,4 +99,4 @@ Y recuerda que es mucho más común decir <em>Mi vojaĝas al Francio</em>.
 
  
 
-<span style="color: #999999;"><em>Lo que aprenderemos a continuación es el <strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/cantidad-tiempo/">acusativo de cantidad y tiempo</a></strong>, en de la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo/">Acusativo en esperanto</a>.</em></span>
+<span style="color: #999999;"><em>Lo que aprenderemos a continuación es el <strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/cantidad-tiempo">acusativo de cantidad y tiempo</a></strong>, en de la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo">Acusativo en esperanto</a>.</em></span>

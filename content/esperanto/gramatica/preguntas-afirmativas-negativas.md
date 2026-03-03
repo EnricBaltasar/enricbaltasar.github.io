@@ -31,4 +31,4 @@ Aparte, a veces encontrarás preguntas de este tipo anidadas:
 
  
 
-Eso es todo. Pronto veremos el <a href="/esperanto/gramatica/particulas-interrogativas/">otro tipo de preguntas</a> que se pueden hacer en esperanto.
+Eso es todo. Pronto veremos el <a href="/esperanto/gramatica/particulas-interrogativas">otro tipo de preguntas</a> que se pueden hacer en esperanto.

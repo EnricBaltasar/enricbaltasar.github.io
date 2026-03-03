@@ -21,13 +21,13 @@ Visto</pre>
  
 <h2 id="lecciones"><span style="color: #ff6600;"><strong>Lecciones</strong></span></h2>
 <ol>
- 	<li><a href="/esperanto/gramatica/gerundios-participios/verbos-compuestos/">Verbos compuestos</a></li>
- 	<li><a href="/esperanto/gramatica/gerundios-participios/participios-activos/">Participios activos</a></li>
- 	<li><a href="/esperanto/gramatica/gerundios-participios/participios-pasivos/">Participios pasivos</a></li>
- 	<li><a href="/esperanto/gramatica/gerundios-participios/modos-verbales/">Participios con modos verbales</a></li>
- 	<li><a href="/esperanto/gramatica/gerundios-participios/participios-adverbiales/">Participios adverbiales</a></li>
- 	<li><a href="/esperanto/gramatica/gerundios-participios/abreviaturas-participios/">Abreviaturas de participios</a></li>
- 	<li><a href="/esperanto/gramatica/gerundios-participios/participios-sustantivos/">Participios sustantivos</a></li>
- 	<li><a href="/esperanto/gramatica/gerundios-participios/verbos-intransitivos/">Participios con verbos intransitivos</a></li>
- 	<li><a href="/esperanto/gramatica/gerundios-participios/ampliacion-participios/">Ampliación de los participios</a></li>
+ 	<li><a href="/esperanto/gramatica/gerundios-participios/verbos-compuestos">Verbos compuestos</a></li>
+ 	<li><a href="/esperanto/gramatica/gerundios-participios/participios-activos">Participios activos</a></li>
+ 	<li><a href="/esperanto/gramatica/gerundios-participios/participios-pasivos">Participios pasivos</a></li>
+ 	<li><a href="/esperanto/gramatica/gerundios-participios/modos-verbales">Participios con modos verbales</a></li>
+ 	<li><a href="/esperanto/gramatica/gerundios-participios/participios-adverbiales">Participios adverbiales</a></li>
+ 	<li><a href="/esperanto/gramatica/gerundios-participios/abreviaturas-participios">Abreviaturas de participios</a></li>
+ 	<li><a href="/esperanto/gramatica/gerundios-participios/participios-sustantivos">Participios sustantivos</a></li>
+ 	<li><a href="/esperanto/gramatica/gerundios-participios/verbos-intransitivos">Participios con verbos intransitivos</a></li>
+ 	<li><a href="/esperanto/gramatica/gerundios-participios/ampliacion-participios">Ampliación de los participios</a></li>
 </ol>

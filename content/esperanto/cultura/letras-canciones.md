@@ -8,7 +8,7 @@ aliases: ["/letras-canciones-esperanto/"]
 lang: es
 ---
 
-<span style="color: #999999;"><em>[También te puede interesar: <a style="color: #999999;" href="/esperanto/cultura/musica/">canciones en esperanto</a>]</em></span>
+<span style="color: #999999;"><em>[También te puede interesar: <a style="color: #999999;" href="/esperanto/cultura/musica">canciones en esperanto</a>]</em></span>
 
 Hay canciones en esperanto, ¿pero se pueden encontrar las letras de las canciones? Sí, también, porque esto es útil:
 

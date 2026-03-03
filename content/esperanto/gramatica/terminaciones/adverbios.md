@@ -85,7 +85,7 @@ Y bien, aquí mi primer intento de explicar de pe a pa este tema que -sin necesi
 
 <em>Pido críticas para ir mejorando el artículo.</em>
 
-<em>Ahora te puede interesar también la lección <a href="/esperanto/gramatica/orden-adverbios/">Orden de los adverbios en esperanto</a>.</em>
+<em>Ahora te puede interesar también la lección <a href="/esperanto/gramatica/orden-adverbios">Orden de los adverbios en esperanto</a>.</em>
 
  
 <h3 id="enlaces-de-interes">ENLACES DE INTERÉS</h3>

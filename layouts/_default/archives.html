@@ -23,13 +23,13 @@
 <div class="popular-section">
   <span class="filter-label">Most popular:</span>
   <div class="popular-cards">
-    <a class="popular-card" href="/how-i-read-100-books-in-six-months/">
+    <a class="popular-card" href="/how-i-read-100-books-in-six-months">
       <span class="popular-card-title">How I Read 100 Books In Six Months</span>
     </a>
-    <a class="popular-card" href="/ir-oyente-universidad/">
+    <a class="popular-card" href="/ir-oyente-universidad">
       <span class="popular-card-title">Qué debes saber para ir de oyente a la universidad</span>
     </a>
-    <a class="popular-card" href="/esperanto/vocabulario/500-palabras-basicas/">
+    <a class="popular-card" href="/esperanto/vocabulario/500-palabras-basicas">
       <span class="popular-card-title">Vocabulario de las 500 palabras básicas del esperanto</span>
     </a>
   </div>
@@ -112,7 +112,7 @@
   <span class="filter-label">Guides:</span>
   {{- range $i, $g := . }}
   {{- if $i }} &middot; {{ end }}
-  <a class="topic-guide-link" href="{{ $g.RelPermalink }}">{{ $g.Title }}</a>
+  <a class="topic-guide-link" href="{{ partial "trim-slash.html" $g.RelPermalink }}">{{ $g.Title }}</a>
   {{- end }}
 </div>
 {{- end }}
@@ -160,7 +160,7 @@
         {{- if .Params.external_url }}
         <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Params.external_url }}" target="_blank" rel="noopener noreferrer"></a>
         {{- else }}
-        <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .RelPermalink }}"></a>
+        <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ partial "trim-slash.html" .RelPermalink }}"></a>
         {{- end }}
       </div>
       {{- end }}

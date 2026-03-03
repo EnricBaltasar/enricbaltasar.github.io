@@ -65,17 +65,17 @@ paginate = 10
 
 [[menus.main]]
   name = "Articles"
-  url = "/articles/"
+  url = "/articles"
   weight = 10
 
 [[menus.main]]
   name = "Projects"
-  url = "/projects/"
+  url = "/projects"
   weight = 15
 
 [[menus.main]]
   name = "About"
-  url = "/about/"
+  url = "/about"
   weight = 20
 
 # [[menus.main]]

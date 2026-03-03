@@ -53,7 +53,7 @@ Aquí tienes un <strong>resumen final del acusativo en esperanto</strong>:
 </li>
 </ul>
 
-Para revisar las lecciones puedes ir a la página <em><a href="/esperanto/gramatica/acusativo/">Acusativo en esperanto</a></em>.
+Para revisar las lecciones puedes ir a la página <em><a href="/esperanto/gramatica/acusativo">Acusativo en esperanto</a></em>.
 
  
 

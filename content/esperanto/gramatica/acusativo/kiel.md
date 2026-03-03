@@ -42,4 +42,4 @@ Esto es de lo más avanzado, y quizá lo que más tardarás en interiorizar. Per
 
 <h2 id="y-ya-por-fin-no-queda-nada-del-acusativo-que-explicar" style="text-align: center;"><strong><span style="color: #800080;">¡Y YA, POR FIN, NO QUEDA NADA DEL ACUSATIVO QUE EXPLICAR!</span></strong></h2>
 
-<span style="color: #999999;"><em>Ya no quedan más lecciones de la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo/">Acusativo en esperanto</a>, pero te he hecho un <strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/resumen/">resumen final del acusativo</a></strong> porque creo que puede serte útil.</em></span>
+<span style="color: #999999;"><em>Ya no quedan más lecciones de la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo">Acusativo en esperanto</a>, pero te he hecho un <strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/resumen">resumen final del acusativo</a></strong> porque creo que puede serte útil.</em></span>

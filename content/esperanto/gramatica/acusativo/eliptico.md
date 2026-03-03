@@ -37,4 +37,4 @@ Es bastante curioso... y sencillo.
 
  
 
-<span style="color: #999999;"><em>En la siguiente lección veremos el uso del <strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/libertad-sintactica/">acusativo con algunas preposiciones</a></strong> para expresar movimiento, incluido en la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo/">Acusativo en esperanto</a>.</em></span>
+<span style="color: #999999;"><em>En la siguiente lección veremos el uso del <strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/libertad-sintactica">acusativo con algunas preposiciones</a></strong> para expresar movimiento, incluido en la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo">Acusativo en esperanto</a>.</em></span>

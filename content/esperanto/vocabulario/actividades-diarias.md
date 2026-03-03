@@ -326,4 +326,4 @@ no sabe a cuál vas)</em></li>
 
  
 
-Te propongo como ejercicio describir un día típico. Te será útil mi lección sobre <a href="/esperanto/vocabulario/tiempo/horas/">horas en esperanto</a>.
+Te propongo como ejercicio describir un día típico. Te será útil mi lección sobre <a href="/esperanto/vocabulario/tiempo/horas">horas en esperanto</a>.

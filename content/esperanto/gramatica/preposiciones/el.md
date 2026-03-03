@@ -30,7 +30,7 @@ La preposición <strong>EL</strong> en esperanto.
  
 <h2 id="elemento-de-grupo-de"><span style="color: #ff6600;"><strong>ELEMENTO DE GRUPO (de)</strong>
 </span></h2>
-Algunos de estos casos coinciden con el <a href="/esperanto/gramatica/superlativo/">superlativo</a> (el más alto <span style="text-decoration: underline;">de</span> todos; el peor <span style="text-decoration: underline;">de</span> todos).
+Algunos de estos casos coinciden con el <a href="/esperanto/gramatica/superlativo">superlativo</a> (el más alto <span style="text-decoration: underline;">de</span> todos; el peor <span style="text-decoration: underline;">de</span> todos).
 <pre>» <strong>Vi estas unu <span style="text-decoration: underline;">el</span> ili</strong>
 <span style="color: #808080;">(eres uno <span style="text-decoration: underline;">de</span> ellos)</span>
 » <strong><span style="text-decoration: underline;">El</span> miaj amikoj vi estas la plej riĉa</strong>

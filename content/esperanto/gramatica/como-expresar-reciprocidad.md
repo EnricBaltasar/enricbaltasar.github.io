@@ -10,7 +10,7 @@ lang: es
 
 Para expresar reciprocidad en esperanto contamos con diferentes posibilidades, a elegir según la preferencia y conveniencia:
 
-<span style="color: #ff6600;"><strong>A)</strong></span> Con el <a href="/esperanto/gramatica/pronombres/reflexivo/">pronombre reflexivo</a>:
+<span style="color: #ff6600;"><strong>A)</strong></span> Con el <a href="/esperanto/gramatica/pronombres/reflexivo">pronombre reflexivo</a>:
 
 <pre><strong>Ili konis sin hieraŭ</strong> <span style="color: #808080;">(se conocieron ayer)</span></pre>
 

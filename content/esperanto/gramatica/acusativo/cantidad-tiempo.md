@@ -88,4 +88,4 @@ Una duda ‒y falta‒ habitual entre los que empiezan a aprender el acusativo d
 
  
 
-<span style="color: #999999;"><em>En la siguiente lección nos fijaremos en un caso de </em></span><span style="color: #999999;"><em><strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/predicativo/">acusativo y predicativo</a></strong>, en de la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo/">Acusativo en esperanto</a>.</em></span>
+<span style="color: #999999;"><em>En la siguiente lección nos fijaremos en un caso de </em></span><span style="color: #999999;"><em><strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/predicativo">acusativo y predicativo</a></strong>, en de la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo">Acusativo en esperanto</a>.</em></span>

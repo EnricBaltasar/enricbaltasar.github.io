@@ -39,7 +39,7 @@ Si no te han convendido los anteriores, aquí tienes algunas opciones más.
 
 {{< img src="programa-kurso-esperanto.png" >}}
 
-Para corregirte los <a href="/esperanto/recursos/correcciones-ejercicios-programa-kurso/">ejercicios de traducción de oraciones</a>, puedes servirte de mis correcciones.
+Para corregirte los <a href="/esperanto/recursos/correcciones-ejercicios-programa-kurso">ejercicios de traducción de oraciones</a>, puedes servirte de mis correcciones.
 <h3 id="kurso-jubilo-web-pdf"><span style="color: #ff9900;"><strong>Kurso Jubilo [Web] [PDF]</strong></span></h3>
 Todo un clásico. Era de las mejores en su momento, con la mayor parte de la gramática bien explicada, con ejemplos, ejercicios (que se pueden autocorregir), listas de vocabulario y un cuento final.
 

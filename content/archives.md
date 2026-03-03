@@ -1,7 +1,7 @@
 ---
 title: "Articles"
 layout: "archives"
-url: "/articles/"
+url: "/articles"
 summary: "articles"
 lang: en
 ---

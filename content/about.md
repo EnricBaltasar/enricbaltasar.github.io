@@ -29,7 +29,7 @@ lang: en
 <!-- /wp:heading -->
 
 <!-- wp:table -->
-<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Result</strong></td><td><strong>Context</strong></td></tr><tr><td><strong>367,000+ Enrollees on Duolingo</strong></td><td>Created a Duolingo course from zero to <a href="/how-created-popular-online-course-duolingo/">367,000+ enrollees in 14 months</a>, without spending on ads.</td></tr><tr><td><strong>$8M via SEO</strong></td><td>Generated this revenue figure directly via SEO in niches, primarily technical audiences.</td></tr><tr><td><strong>Zero to Millions in ARR</strong></td><td>Led end-to-end <a href="https://www.reo.dev/podcast/how-zenrows-went-from-0-to-million-arr-using-content" target="_blank" rel="noreferrer noopener">growth for a developer API startup</a> through a US-first strategy that made content the #1 revenue engine and led to global adoption. Without a sales team.</td></tr><tr><td><strong>3X Enterprise</strong></td><td>Grew 3X the enterprise customer base for an AI technical product by creating and scaling playbooks in low-awareness markets.</td></tr><tr><td><strong>2.5x Revenue Growth in First 90 Days</strong></td><td>I was hired as the first employee to jumpstart revenue. I designed and launched quick wins that were able to turn into systems later.</td></tr><tr><td><strong>Successful Acquisition</strong></td><td>Optimized and scaled new growth channels for a cross-platform European startup that drove the exit of an engineer-first company.</td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td><strong>Result</strong></td><td><strong>Context</strong></td></tr><tr><td><strong>367,000+ Enrollees on Duolingo</strong></td><td>Created a Duolingo course from zero to <a href="/how-created-popular-online-course-duolingo">367,000+ enrollees in 14 months</a>, without spending on ads.</td></tr><tr><td><strong>$8M via SEO</strong></td><td>Generated this revenue figure directly via SEO in niches, primarily technical audiences.</td></tr><tr><td><strong>Zero to Millions in ARR</strong></td><td>Led end-to-end <a href="https://www.reo.dev/podcast/how-zenrows-went-from-0-to-million-arr-using-content" target="_blank" rel="noreferrer noopener">growth for a developer API startup</a> through a US-first strategy that made content the #1 revenue engine and led to global adoption. Without a sales team.</td></tr><tr><td><strong>3X Enterprise</strong></td><td>Grew 3X the enterprise customer base for an AI technical product by creating and scaling playbooks in low-awareness markets.</td></tr><tr><td><strong>2.5x Revenue Growth in First 90 Days</strong></td><td>I was hired as the first employee to jumpstart revenue. I designed and launched quick wins that were able to turn into systems later.</td></tr><tr><td><strong>Successful Acquisition</strong></td><td>Optimized and scaled new growth channels for a cross-platform European startup that drove the exit of an engineer-first company.</td></tr></tbody></table></figure>
 <!-- /wp:table -->
 
 <!-- wp:heading -->
@@ -196,15 +196,15 @@ lang: en
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>📚 Read <strong><a href="/how-i-read-100-books-in-six-months/">100 books in six months</a></strong>.</li>
+<li>📚 Read <strong><a href="/how-i-read-100-books-in-six-months">100 books in six months</a></strong>.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>🎓 Attended <strong>four years of psychology lectures</strong> <a href="/ir-oyente-universidad/">as an unregistered student</a> (half a degree).</li>
+<li>🎓 Attended <strong>four years of psychology lectures</strong> <a href="/ir-oyente-universidad">as an unregistered student</a> (half a degree).</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>✍️ <strong>Wrote a <a href="/nomad-gene-book/">book</a></strong>.</li>
+<li>✍️ <strong>Wrote a <a href="/nomad-gene-book">book</a></strong>.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->

@@ -5,11 +5,11 @@
     <div id="title-info" class="title-info">
         {{- if .IsHome }}
         <h1 class="site-title">
-            <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+            <a href="/">{{ .Site.Title }}</a>
         </h1>
         {{- else }}
         <div class="site-title">
-            <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+            <a href="/">{{ .Site.Title }}</a>
         </div>
         {{- end }}
     </div>
@@ -17,7 +17,7 @@
         <ul class="menu-primary-items" id="menu-primary-items">
             {{- range .Site.Menus.main }}
             <li class="menu-item{{ if $.IsMenuCurrent "main" . }} current-menu-item{{ end }}{{ if $.HasMenuCurrent "main" . }} current-menu-item{{ end }}">
-                <a href="{{ .URL }}">{{ .Name | safeHTML }}</a>
+                <a href="{{ partial "trim-slash.html" .URL }}">{{ .Name | safeHTML }}</a>
             </li>
             {{- end }}
         </ul>

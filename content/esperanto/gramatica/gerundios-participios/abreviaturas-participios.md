@@ -25,4 +25,4 @@ Sin embargo, estas abreviaturas contienen mucha información en una forma demasi
 
  
 
-<span style="color: #999999;"><em>En la siguiente lección veremos los <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios/participios-sustantivos/">participios sustantivos en esperanto</a>, que también forman parte de la serie <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios/">Gerundios y participios en esperanto</a>.</em></span>
+<span style="color: #999999;"><em>En la siguiente lección veremos los <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios/participios-sustantivos">participios sustantivos en esperanto</a>, que también forman parte de la serie <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios">Gerundios y participios en esperanto</a>.</em></span>

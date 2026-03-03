@@ -45,7 +45,7 @@ Lo que yo haré a continuación será poner en una lista los morfemas resultante
 <strong>‒a</strong> <span style="color: #808080;">(adjetivo)</span>
 <strong>‒j</strong> <span style="color: #808080;">(plural)</span>
 <strong>‒is</strong> <span style="color: #808080;">(pasado)</span>, <strong>‒as</strong> <span style="color: #808080;">(presente)</span>, <strong>‒os</strong> <span style="color: #808080;">(futuro)</span>
-<a href="/esperanto/gramatica/acusativo/"><strong>‒n</strong></a> <span style="color: #808080;">(acusativo)</span>
+<a href="/esperanto/gramatica/acusativo"><strong>‒n</strong></a> <span style="color: #808080;">(acusativo)</span>
 <strong>‒u</strong> <span style="color: #808080;">(volitivo)</span>
 <strong>‒us</strong> <span style="color: #808080;">(condicional)</span>
 <strong>‒e</strong> <span style="color: #808080;">(adverbio)</span>
@@ -329,7 +329,7 @@ Lo que yo haré a continuación será poner en una lista los morfemas resultante
 <strong>Jes</strong> <span style="color: #808080;">(sí)</span>
 <strong>Ĉi</strong> <span style="color: #808080;">(indica proximidad)</span>
 <strong>Ankaŭ</strong> <span style="color: #808080;">(también)</span>
-<a href="/esperanto/gramatica/comparativo/"><strong>Pli</strong></a> <span style="color: #808080;">(más)</span>
+<a href="/esperanto/gramatica/comparativo"><strong>Pli</strong></a> <span style="color: #808080;">(más)</span>
 <strong>Nun</strong> <span style="color: #808080;">(ahora)</span>
 <strong>Ankoraŭ</strong> <span style="color: #808080;">(todavía, aun)</span>
 <strong>Jam</strong> <span style="color: #808080;">(ya)</span>
@@ -339,7 +339,7 @@ Lo que yo haré a continuación será poner en una lista los morfemas resultante
 <strong>For</strong> <span style="color: #808080;">(lejos)</span>
 <strong>Tre</strong> <span style="color: #808080;">(muy)</span>
 <a href="/esperanto/errores/mas-comunes/#mas-temporal"><strong>Plu</strong></a> <span style="color: #808080;">(más <em>[tiempo]</em>)</span>
-<a href="/esperanto/gramatica/superlativo/"><strong>Plej</strong></a> <span style="color: #808080;">(el más <em>[superlativo]</em>)</span>
+<a href="/esperanto/gramatica/superlativo"><strong>Plej</strong></a> <span style="color: #808080;">(el más <em>[superlativo]</em>)</span>
 <strong>Mem</strong> <span style="color: #808080;">(mismo)</span>
 <strong>Jen</strong> <span style="color: #808080;">(he aquí, aquí está)</span>
 <strong>Preskaŭ</strong> <span style="color: #808080;">(casi)</span>
@@ -356,39 +356,39 @@ Lo que yo haré a continuación será poner en una lista los morfemas resultante
  
 <h2 id="conjunciones"><span style="color: #ff6600;">CONJUNCIONES</span></h2>
 <pre><strong>Kaj</strong> <span style="color: #808080;">(y)</span>
-<a href="/esperanto/gramatica/preguntas-afirmativas-negativas/"><strong>Ĉu</strong></a> <span style="color: #808080;">(hacer preguntas de sí/no)</span>
+<a href="/esperanto/gramatica/preguntas-afirmativas-negativas"><strong>Ĉu</strong></a> <span style="color: #808080;">(hacer preguntas de sí/no)</span>
 <strong>Ke</strong> <span style="color: #808080;">(que)</span>
 <strong>Kiu</strong> <span style="color: #808080;">(el cual ~ que)</span>
 <strong>Sed</strong> <span style="color: #808080;">(pero)</span>
 <strong>Do</strong> <span style="color: #808080;">(por lo tanto, así que)</span>
-<a href="/esperanto/gramatica/particulas-interrogativas/"><strong>Ĉar...</strong></a> <span style="color: #808080;">(porque...)</span>
+<a href="/esperanto/gramatica/particulas-interrogativas"><strong>Ĉar...</strong></a> <span style="color: #808080;">(porque...)</span>
 <strong>Se...</strong> <span style="color: #808080;">(si...)</span>
 <strong>Aŭ</strong> <span style="color: #808080;">(o)</span>
 <strong>Tamen</strong> <span style="color: #808080;">(sin embargo)</span>
-<a href="/esperanto/gramatica/comparativo/"><strong>Ol</strong></a> <span style="color: #808080;">(que <em>[comparación]</em>)
+<a href="/esperanto/gramatica/comparativo"><strong>Ol</strong></a> <span style="color: #808080;">(que <em>[comparación]</em>)
 </span></pre>
  
 
  
 <h2 id="preposiciones"><span style="color: #ff6600;">PREPOSICIONES</span></h2>
-<pre><a href="/esperanto/gramatica/preposiciones/en/"><strong>En</strong></a> <span style="color: #808080;">(en)</span>
-<a href="/esperanto/gramatica/preposiciones/de/"><strong>De</strong></a> <span style="color: #808080;">(de)</span>
-<a href="/esperanto/gramatica/preposiciones/al/"><strong>Al</strong></a> <span style="color: #808080;">(a)</span>
-<a href="/esperanto/gramatica/preposiciones/pri/"><strong>Pri</strong></a> <span style="color: #808080;">(en cuanto a, sobre)</span>
-<a href="/esperanto/gramatica/preposiciones/por/"><strong>Por</strong></a> <span style="color: #808080;">(para, por)</span>
-<a href="/esperanto/gramatica/preposiciones/kun-sen/"><strong>Kun</strong></a> <span style="color: #808080;">(con)</span>, <a href="/esperanto/gramatica/preposiciones/kun-sen/"><strong>sen</strong></a> <span style="color: #808080;">(sin)</span>
+<pre><a href="/esperanto/gramatica/preposiciones/en"><strong>En</strong></a> <span style="color: #808080;">(en)</span>
+<a href="/esperanto/gramatica/preposiciones/de"><strong>De</strong></a> <span style="color: #808080;">(de)</span>
+<a href="/esperanto/gramatica/preposiciones/al"><strong>Al</strong></a> <span style="color: #808080;">(a)</span>
+<a href="/esperanto/gramatica/preposiciones/pri"><strong>Pri</strong></a> <span style="color: #808080;">(en cuanto a, sobre)</span>
+<a href="/esperanto/gramatica/preposiciones/por"><strong>Por</strong></a> <span style="color: #808080;">(para, por)</span>
+<a href="/esperanto/gramatica/preposiciones/kun-sen"><strong>Kun</strong></a> <span style="color: #808080;">(con)</span>, <a href="/esperanto/gramatica/preposiciones/kun-sen"><strong>sen</strong></a> <span style="color: #808080;">(sin)</span>
 <strong>Post</strong> <span style="color: #808080;">(después de)</span>
-<a href="/esperanto/gramatica/preposiciones/el/"><strong>El</strong></a> <span style="color: #808080;">(de <em>[origen]</em>)</span>
+<a href="/esperanto/gramatica/preposiciones/el"><strong>El</strong></a> <span style="color: #808080;">(de <em>[origen]</em>)</span>
 <strong>Antaŭ</strong> <span style="color: #808080;">(delante de, antes)</span>
 <strong>Inter</strong> <span style="color: #808080;">(entre)</span>
 <strong>Ĉe</strong> <span style="color: #808080;">("al lado")</span>
-<a href="/esperanto/gramatica/preposiciones/per/"><strong>Per</strong></a> <span style="color: #808080;">(por medio de, con)
-</span><a href="/esperanto/gramatica/preposiciones/da/"><strong>Da</strong></a><span style="color: #808080;"> (de [cantidad])</span>
+<a href="/esperanto/gramatica/preposiciones/per"><strong>Per</strong></a> <span style="color: #808080;">(por medio de, con)
+</span><a href="/esperanto/gramatica/preposiciones/da"><strong>Da</strong></a><span style="color: #808080;"> (de [cantidad])</span>
 <strong>Laŭ</strong> <span style="color: #808080;">(según)</span>
 <strong>Ĝis</strong> <span style="color: #808080;">(hasta)</span>
 <strong>Dum</strong> <span style="color: #808080;">(durante)</span>
 <strong>Sur</strong> <span style="color: #808080;">(encima de, sobre)</span>
-<a href="/esperanto/vocabulario/comodines-je-um-bleki/"><strong>Je</strong></a> <span style="color: #808080;">(*comodín*)</span>
+<a href="/esperanto/vocabulario/comodines-je-um-bleki"><strong>Je</strong></a> <span style="color: #808080;">(*comodín*)</span>
 <strong>Ekster</strong> <span style="color: #808080;">(fuera de)</span>
 <strong>Pro</strong> <span style="color: #808080;">(a causa de, por)</span>
 <strong>Sub</strong> <span style="color: #808080;">(debajo <em>[de]</em>)</span>
@@ -415,14 +415,14 @@ Lo que yo haré a continuación será poner en una lista los morfemas resultante
  
 <h2 id="determinantes"><span style="color: #ff6600;">DETERMINANTES</span></h2>
 <pre><strong>La</strong> <span style="color: #808080;">(artículo: el, la, los, las)</span>
-<a href="/esperanto/gramatica/correlativos/">Correlativos</a>
+<a href="/esperanto/gramatica/correlativos">Correlativos</a>
 </pre>
  
 
  
 <h2 id="otros"><span style="color: #ff6600;">OTROS</span></h2>
-<pre><a href="/esperanto/vocabulario/numeros/">Números</a>: 1-10, 100, 1.000
-<a href="/esperanto/vocabulario/interjecciones/basicas/">Interjecciones</a>: <strong>ha</strong> <span style="color: #808080;">(ah)</span>, <strong>nu</strong> <span style="color: #808080;">(bueno..., pues...)</span>, <strong>ho</strong> <span style="color: #808080;">(oh)</span></pre>
+<pre><a href="/esperanto/vocabulario/numeros">Números</a>: 1-10, 100, 1.000
+<a href="/esperanto/vocabulario/interjecciones/basicas">Interjecciones</a>: <strong>ha</strong> <span style="color: #808080;">(ah)</span>, <strong>nu</strong> <span style="color: #808080;">(bueno..., pues...)</span>, <strong>ho</strong> <span style="color: #808080;">(oh)</span></pre>
  
 
  
@@ -431,27 +431,27 @@ Lo que yo haré a continuación será poner en una lista los morfemas resultante
 <strong>‒ebl‒</strong> <span style="color: #808080;">(posibilidad)</span>
 <strong>‒ad‒</strong> <span style="color: #808080;">(duración)</span>
 <strong>‒ist‒</strong> <span style="color: #808080;">(ocupación)</span>
-<a href="/esperanto/gramatica/afijos/tamano-et-eg/"><strong>‒et‒</strong> <span style="color: #808080;">(diminutivo)</span>, <strong>‒eg‒</strong> <span style="color: #808080;">(aumentativo)</span></a>
+<a href="/esperanto/gramatica/afijos/tamano-et-eg"><strong>‒et‒</strong> <span style="color: #808080;">(diminutivo)</span>, <strong>‒eg‒</strong> <span style="color: #808080;">(aumentativo)</span></a>
 <strong>‒uj‒</strong> <span style="color: #808080;">(recipiente)</span>
 <strong>‒in‒</strong> <span style="color: #808080;">(femenino)</span>, <strong>‒iĉ‒</strong> <span style="color: #808080;">(masculino)</span> <strong>[*]</strong>
 <strong>‒aĵ‒</strong> <span style="color: #808080;">(cosa concreta)</span>
 <strong>‒ec‒</strong> <span style="color: #808080;">(cualidad)</span>
-<a href="/esperanto/gramatica/afijos/vocabulario-mal-il-ar-ej/"><strong>mal‒</strong> <span style="color: #808080;">(contrario)</span>, <strong>‒ar‒</strong> <span style="color: #808080;">(conjunto)</span>, <strong>‒ej‒</strong> <span style="color: #808080;">(lugar)</span>, <strong>‒il‒</strong> <span style="color: #808080;">(herramienta)</span></a>
+<a href="/esperanto/gramatica/afijos/vocabulario-mal-il-ar-ej"><strong>mal‒</strong> <span style="color: #808080;">(contrario)</span>, <strong>‒ar‒</strong> <span style="color: #808080;">(conjunto)</span>, <strong>‒ej‒</strong> <span style="color: #808080;">(lugar)</span>, <strong>‒il‒</strong> <span style="color: #808080;">(herramienta)</span></a>
 <strong>‒ul‒</strong> <span style="color: #808080;">(individuo)</span>
 <strong>‒an‒</strong> <span style="color: #808080;">(miembro)</span>
 <strong>‒ind‒</strong> <span style="color: #808080;">(digno)</span>
 <strong>‒estr‒</strong> <span style="color: #808080;">(jefe)</span>
 <strong>dis‒</strong> <span style="color: #808080;">(separación)</span>
 <strong>ek‒</strong> <span style="color: #808080;">(comienzo)</span>
-<a href="/esperanto/gramatica/afijos/numeros-obl-on-op/"><strong>‒on‒</strong> <span style="color: #808080;">(fracción)</span>, <strong>‒op‒</strong> <span style="color: #808080;">(conjunto)</span>, <strong>‒obl‒</strong> <span style="color: #808080;">(múltiplo)</span></a>
-<a href="/esperanto/gramatica/afijos/despectivos-ac-fi/"><strong>‒aĉ‒</strong> <span style="color: #808080;">(asco <em>[aspecto]</em>)</span>, <strong>fi‒</strong> <span style="color: #808080;">(asco <em>[moral]</em>)</span></a>
+<a href="/esperanto/gramatica/afijos/numeros-obl-on-op"><strong>‒on‒</strong> <span style="color: #808080;">(fracción)</span>, <strong>‒op‒</strong> <span style="color: #808080;">(conjunto)</span>, <strong>‒obl‒</strong> <span style="color: #808080;">(múltiplo)</span></a>
+<a href="/esperanto/gramatica/afijos/despectivos-ac-fi"><strong>‒aĉ‒</strong> <span style="color: #808080;">(asco <em>[aspecto]</em>)</span>, <strong>fi‒</strong> <span style="color: #808080;">(asco <em>[moral]</em>)</span></a>
 <strong>eks‒</strong> <span style="color: #808080;">(anterior)</span>
 <strong>‒er‒</strong> <span style="color: #808080;">(partícula)</span>
 <strong>‒em‒</strong> <span style="color: #808080;">(tendencia)</span>
 <strong>‒end‒</strong> <span style="color: #808080;">(obligación)</span>
 <strong>‒ism‒</strong> <span style="color: #808080;">(movimiento)</span>
 <strong>‒id‒</strong> <span style="color: #808080;">(descendiente)</span>
-<a href="/esperanto/gramatica/afijos/familia-bo/"><strong>bo‒</strong></a> <span style="color: #808080;">(familia)</span>
+<a href="/esperanto/gramatica/afijos/familia-bo"><strong>bo‒</strong></a> <span style="color: #808080;">(familia)</span>
 <strong>mis‒</strong> <span style="color: #808080;">(incorrectamente)</span>
 <strong>‒ing‒</strong> <span style="color: #808080;">(contenedor parcial)
 </span></pre>
@@ -459,4 +459,4 @@ Lo que yo haré a continuación será poner en una lista los morfemas resultante
 
  
 
-Si te has quedado con ganas de más, consulta las <a href="/esperanto/vocabulario/frases/frecuentes/">frases en esperanto</a> más frecuentes.
+Si te has quedado con ganas de más, consulta las <a href="/esperanto/vocabulario/frases/frecuentes">frases en esperanto</a> más frecuentes.

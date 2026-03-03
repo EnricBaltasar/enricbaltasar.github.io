@@ -81,4 +81,4 @@ Los adverbiales se usan principalmente en la lengua escrita, así como hay un ma
 
  
 
-<span style="color: #999999;"><em>En la siguiente lección veremos las <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios/abreviaturas-participios/">abreviaturas a los participios en esperanto</a>, que también forman parte de la serie <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios/">Gerundios y participios en esperanto</a>.</em></span>
+<span style="color: #999999;"><em>En la siguiente lección veremos las <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios/abreviaturas-participios">abreviaturas a los participios en esperanto</a>, que también forman parte de la serie <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios">Gerundios y participios en esperanto</a>.</em></span>

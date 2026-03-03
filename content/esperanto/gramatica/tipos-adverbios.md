@@ -8,7 +8,7 @@ aliases: ["/tipos-adverbios-esperanto/"]
 lang: es
 ---
 
-Existen dos tipos de <a href="/esperanto/gramatica/terminaciones/adverbios/">adverbios en esperanto</a> atendiendo a cómo están formados:
+Existen dos tipos de <a href="/esperanto/gramatica/terminaciones/adverbios">adverbios en esperanto</a> atendiendo a cómo están formados:
 
  
 
@@ -54,7 +54,7 @@ Tan solo existen unos pocos adverbios de este tipo, cuya <a href="https://es.wik
 <strong>Almenaŭ</strong> <span style="color: #808080;">(al menos)</span>
 <strong>Apenaŭ</strong> <span style="color: #808080;">(apenas)</span>
 <strong>Baldaŭ</strong> <span style="color: #808080;">(pronto)</span>
-<strong><a href="/esperanto/gramatica/particula-ci/">Ĉi</a></strong><span style="color: #999999;">*</span> <span style="color: #808080;">(partícula aproximativa)</span>
+<strong><a href="/esperanto/gramatica/particula-ci">Ĉi</a></strong><span style="color: #999999;">*</span> <span style="color: #808080;">(partícula aproximativa)</span>
 <strong>Eĉ</strong> <span style="color: #808080;">(incluso, aun, hasta)</span>
 <strong>For</strong> <span style="color: #808080;">(lejos)</span>
 <strong>Hieraŭ</strong> <span style="color: #808080;">(ayer)</span>

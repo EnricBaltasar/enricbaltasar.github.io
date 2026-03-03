@@ -8,7 +8,7 @@ aliases: ["/acusativo-locucion-prepositiva-esperanto/"]
 lang: es
 ---
 
-Probablemente habrás visto <strong><em>rilate al tio</em></strong>, pero también <strong><em>rilate tion</em></strong>. Ambas formas son correctas y significan lo mismo. Se trata del acusativo de <a href="/esperanto/gramatica/preposiciones/locuciones-prepositivas/">locución prepositiva en esperanto</a>, un caso raro pero que se da con relativa frecuencia.
+Probablemente habrás visto <strong><em>rilate al tio</em></strong>, pero también <strong><em>rilate tion</em></strong>. Ambas formas son correctas y significan lo mismo. Se trata del acusativo de <a href="/esperanto/gramatica/preposiciones/locuciones-prepositivas">locución prepositiva en esperanto</a>, un caso raro pero que se da con relativa frecuencia.
 
 Otro ejemplo de este caso:
 

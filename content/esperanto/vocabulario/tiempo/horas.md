@@ -8,7 +8,7 @@ aliases: ["/horas-esperanto/"]
 lang: es
 ---
 
-Una vez ya nos sabemos los <a href="/esperanto/vocabulario/numeros/">números en esperanto</a>, podemos empezar a decir la hora. Sin embargo, todo empieza con una pregunta:
+Una vez ya nos sabemos los <a href="/esperanto/vocabulario/numeros">números en esperanto</a>, podemos empezar a decir la hora. Sin embargo, todo empieza con una pregunta:
 
 <pre><strong>Kioma horo estas?</strong> <span style="color: #808080;">(¿Qué hora es?)</span></pre>
 

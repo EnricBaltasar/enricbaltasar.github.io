@@ -101,4 +101,4 @@ Por otro lado, una cosa importantísima que debemos tener en cuenta es que <stro
 
  
 
-<span style="color: #999999;"><em>A continuación veremos el <strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/direccion/">acusativo de dirección</a></strong>, íntimamente ligado a esta lección y en la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo/">Acusativo en esperanto</a>.</em></span>
+<span style="color: #999999;"><em>A continuación veremos el <strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/direccion">acusativo de dirección</a></strong>, íntimamente ligado a esta lección y en la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo">Acusativo en esperanto</a>.</em></span>

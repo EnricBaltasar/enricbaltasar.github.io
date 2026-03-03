@@ -8,7 +8,7 @@ aliases: ["/afijos-numeros-esperanto-obl-on-op/"]
 lang: es
 ---
 
-Hay tres sufijos del esperanto que se utilizan con los <a href="/esperanto/vocabulario/numeros/">números</a>. Si te los aprendes ahora, te ahorrarás en el futuro dolores de cabeza:
+Hay tres sufijos del esperanto que se utilizan con los <a href="/esperanto/vocabulario/numeros">números</a>. Si te los aprendes ahora, te ahorrarás en el futuro dolores de cabeza:
 <table>
 <thead>
 <tr>

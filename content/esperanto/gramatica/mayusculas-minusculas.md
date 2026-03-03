@@ -8,7 +8,7 @@ aliases: ["/mayusculas-minusculas-esperanto/"]
 lang: es
 ---
 
-<!--more-->Antes de empezar, me gustaría insistir en que la palabra <a href="/esperanto/errores/minusculas-castellano/"><em>esperanto</em> va en minúsculas en castellano</a>. Y, dicho esto, empecemos a ver cuándo debemos hacer uso de mayúsculas y minúsculas en esperanto, aunque el uso es igual o prácticamente idéntico al del castellano:
+<!--more-->Antes de empezar, me gustaría insistir en que la palabra <a href="/esperanto/errores/minusculas-castellano"><em>esperanto</em> va en minúsculas en castellano</a>. Y, dicho esto, empecemos a ver cuándo debemos hacer uso de mayúsculas y minúsculas en esperanto, aunque el uso es igual o prácticamente idéntico al del castellano:
 
  
 

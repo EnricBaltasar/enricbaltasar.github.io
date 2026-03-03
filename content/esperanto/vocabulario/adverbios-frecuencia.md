@@ -26,7 +26,7 @@ De más frecuente a menos:
     <li><strong>Neniam</strong> (nunca)</li>
 </ul>
 
-<span style="color: #808080;"><strong>Nota:</strong> <em>kutime</em> y <em>ofte</em> también se utilizan para decir <em>suelo</em>, en oraciones como <em>Suelo ir por las tardes</em>. +Info: <a style="color: #808080;" href="/esperanto/gramatica/perifrasis-ii/">perífrasis frecuentativas</a>.</span>
+<span style="color: #808080;"><strong>Nota:</strong> <em>kutime</em> y <em>ofte</em> también se utilizan para decir <em>suelo</em>, en oraciones como <em>Suelo ir por las tardes</em>. +Info: <a style="color: #808080;" href="/esperanto/gramatica/perifrasis-ii">perífrasis frecuentativas</a>.</span>
 
 <span style="color: #808080;"><strong>Nota:</strong> además de <em>iufoje</em>, también se puede deicr <em><a href="/esperanto/errores/mas-comunes/#alguna-vez">iafoje</a></em>, aunque es un poco más avanzado.</span>
 

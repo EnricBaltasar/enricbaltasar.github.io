@@ -8,7 +8,7 @@ aliases: ["/lista-interjecciones-esperanto/"]
 lang: es
 ---
 
-<!--more--><span style="color: #999999;"><em>((Antes de empezar con este artículo, te recomiendo el de introducción a las <a style="color: #999999;" href="/esperanto/vocabulario/interjecciones/basicas/">interjecciones en esperanto</a>))</em></span>
+<!--more--><span style="color: #999999;"><em>((Antes de empezar con este artículo, te recomiendo el de introducción a las <a style="color: #999999;" href="/esperanto/vocabulario/interjecciones/basicas">interjecciones en esperanto</a>))</em></span>
 
 Aquí te pongo una lista de interjecciones en esperanto. Si se te ocurre alguna otra, dímela y la añado.
 

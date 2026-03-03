@@ -47,6 +47,6 @@ And we can use a several backslashes.
 
 <strong>More information:</strong>
 <ul>
-	<li><a href="/python-summary/printing/">The print() function and default spacing</a></li>
+	<li><a href="/python-summary/printing">The print() function and default spacing</a></li>
 	<li><a href="http://www.secnetix.de/olli/Python/block_indentation.hawk" target="_blank" rel="noopener noreferrer">http://www.secnetix.de/olli/Python/block_indentation.hawk</a></li>
 </ul>

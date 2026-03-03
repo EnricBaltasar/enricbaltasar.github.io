@@ -20,29 +20,29 @@ The material for learning Python on the Internet is just overwhelming, mainly in
 <ul>
     <li><strong>Basic concepts:</strong>
 <ul>
-    <li><a href="/python-summary/versions/">Versions</a></li>
-    <li><a href="/python-summary/environments/">Environments</a></li>
-    <li><a href="/python-summary/printing/">Printing</a></li>
-    <li><a href="/python-summary/variables/">Variables</a></li>
-    <li><a href="/python-summary/spacing/">Spacing</a></li>
-    <li><a href="/python-summary/comments/">Comments</a></li>
+    <li><a href="/python-summary/versions">Versions</a></li>
+    <li><a href="/python-summary/environments">Environments</a></li>
+    <li><a href="/python-summary/printing">Printing</a></li>
+    <li><a href="/python-summary/variables">Variables</a></li>
+    <li><a href="/python-summary/spacing">Spacing</a></li>
+    <li><a href="/python-summary/comments">Comments</a></li>
 </ul>
 </li>
     <li><strong>Types:</strong>
 <ul>
-    <li><strong><a href="/python-summary/dictionaries/">Dictionaries</a></strong>
+    <li><strong><a href="/python-summary/dictionaries">Dictionaries</a></strong>
 <ul>
-    <li><a href="/python-summary/add-delete-elements-dictionary/">To add and delete elements in a dictionary</a></li>
+    <li><a href="/python-summary/add-delete-elements-dictionary">To add and delete elements in a dictionary</a></li>
 </ul>
 </li>
-    <li><span style="color: #999999;"><em><a style="color: #999999;" href="/python-summary/methods-lists/">Methods for lists</a></em></span></li>
-    <li><a href="/python-summary/mutable-immutable-types/">Mutable and immutable types</a></li>
+    <li><span style="color: #999999;"><em><a style="color: #999999;" href="/python-summary/methods-lists">Methods for lists</a></em></span></li>
+    <li><a href="/python-summary/mutable-immutable-types">Mutable and immutable types</a></li>
 </ul>
 </li>
     <li><strong>Operations:</strong>
 <ul>
-    <li><a href="/python-summary/operators/">Operators</a></li>
-    <li><a href="/python-summary/truth-tables/">Truth tables</a></li>
+    <li><a href="/python-summary/operators">Operators</a></li>
+    <li><a href="/python-summary/truth-tables">Truth tables</a></li>
 </ul>
 </li>
 </ul>

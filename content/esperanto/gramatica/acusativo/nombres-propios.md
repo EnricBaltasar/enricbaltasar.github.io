@@ -34,4 +34,4 @@ Se trata de un nombre propio, así que dejémoslo estar. Además, ¿te imaginas 
 
  
 
-<span style="color: #999999;"><em>En la siguiente lección nos volveremos conscientes de algunas <strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/faltas-habituales/">faltas habituales entre nuevos aprendices</a></strong>, también dentro de la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo/">Acusativo en esperanto</a>.</em></span>
+<span style="color: #999999;"><em>En la siguiente lección nos volveremos conscientes de algunas <strong><a style="color: #999999;" href="/esperanto/gramatica/acusativo/faltas-habituales">faltas habituales entre nuevos aprendices</a></strong>, también dentro de la serie <a style="color: #999999;" href="/esperanto/gramatica/acusativo">Acusativo en esperanto</a>.</em></span>

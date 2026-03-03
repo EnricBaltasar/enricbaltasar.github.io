@@ -9,7 +9,7 @@ aliases: ["/participios-activos-esperanto/"]
 lang: es
 ---
 
-Nos referimos a estructuras del estilo "Estoy aprendiendo" (verbo + gerundio) con el nombre de <a href="/esperanto/gramatica/gerundios-participios/verbos-compuestos/">verbos compuestos</a> en el artículo anterior. En realidad son perífrasis, es decir, dos verbos que aparecen juntos pero que transmiten una sola idea, y sirven para proporcionar una información de duración temporal. Así, la diferencia entre verbos simples y compuestos es:
+Nos referimos a estructuras del estilo "Estoy aprendiendo" (verbo + gerundio) con el nombre de <a href="/esperanto/gramatica/gerundios-participios/verbos-compuestos">verbos compuestos</a> en el artículo anterior. En realidad son perífrasis, es decir, dos verbos que aparecen juntos pero que transmiten una sola idea, y sirven para proporcionar una información de duración temporal. Así, la diferencia entre verbos simples y compuestos es:
 
 <table>
 <thead>
@@ -87,4 +87,4 @@ Recuerda que a las formas con ‒int‒, ‒ant‒ y ‒ont‒ las llamamos <st
 
  
 
-<span style="color: #999999;"><em>En la siguiente lección veremos los <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios/participios-pasivos/">participios pasivos en esperanto</a>, que también forman parte de la serie <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios/">Gerundios y participios en esperanto</a>.</em></span>
+<span style="color: #999999;"><em>En la siguiente lección veremos los <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios/participios-pasivos">participios pasivos en esperanto</a>, que también forman parte de la serie <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios">Gerundios y participios en esperanto</a>.</em></span>

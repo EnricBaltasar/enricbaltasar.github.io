@@ -27,7 +27,7 @@
     {{- /* Featured image */ -}}
     {{- with .Params.cover }}{{ with .image }}
     <div class="featured-image">
-        <a href="{{ $.Permalink }}"><img src="{{ . }}" alt="{{ $.Title }}"></a>
+        <a href="{{ partial "trim-slash.html" $.Permalink }}"><img src="{{ . }}" alt="{{ $.Title }}"></a>
     </div>
     {{- end }}{{ end }}
 
@@ -39,7 +39,7 @@
     {{- /* Excerpt title */ -}}
     <div class="excerpt-header">
         <h2 class="excerpt-title">
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
+            <a href="{{ partial "trim-slash.html" .Permalink }}">{{ .Title }}</a>
         </h2>
     </div>
 

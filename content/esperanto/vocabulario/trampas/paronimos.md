@@ -8,7 +8,7 @@ aliases: ["/paronimos-esperanto/"]
 lang: es
 ---
 
-<!--more-->Quitando de los <a href="/esperanto/vocabulario/trampas/falsos-amigos/">falsos amigos</a>, en el propio esperanto hay que tener en cuenta las <strong>voces parónimas</strong>, que son palabras que se parecen entre sí pero que tienen significados distintos:
+<!--more-->Quitando de los <a href="/esperanto/vocabulario/trampas/falsos-amigos">falsos amigos</a>, en el propio esperanto hay que tener en cuenta las <strong>voces parónimas</strong>, que son palabras que se parecen entre sí pero que tienen significados distintos:
 
 <pre><strong>serĉi</strong> <span style="color: #808080;">(buscar)</span>
 <strong>ŝerci</strong> <span style="color: #808080;">(bromear)</span></pre>

@@ -8,7 +8,7 @@ aliases: ["/particulas-interrogativas-esperanto/"]
 lang: es
 ---
 
-<!--more-->Una vez que ya sabemos cómo responder a <a href="/esperanto/gramatica/preguntas-afirmativas-negativas/">preguntas de sí o no</a>, vamos a ver el otro tipo de preguntas que se pueden hacer en esperanto: las que emplean partículas interrogativas (<em>qué</em>, <em>cuándo</em>, <em>cómo</em>, <em>por qué</em>...). Las más básicas son:
+<!--more-->Una vez que ya sabemos cómo responder a <a href="/esperanto/gramatica/preguntas-afirmativas-negativas">preguntas de sí o no</a>, vamos a ver el otro tipo de preguntas que se pueden hacer en esperanto: las que emplean partículas interrogativas (<em>qué</em>, <em>cuándo</em>, <em>cómo</em>, <em>por qué</em>...). Las más básicas son:
 
 <table>
 <thead>
@@ -127,6 +127,6 @@ De nuevo, veamos algunos ejemplos de preguntas:
 
 <hr />
 
-<span style="color: #999999;">Para acabar, decirte que te darás cuenta de que las partículas interrogativas son <a style="color: #999999;" href="/esperanto/gramatica/correlativos/">correlativos</a>.</span>
+<span style="color: #999999;">Para acabar, decirte que te darás cuenta de que las partículas interrogativas son <a style="color: #999999;" href="/esperanto/gramatica/correlativos">correlativos</a>.</span>
 
  

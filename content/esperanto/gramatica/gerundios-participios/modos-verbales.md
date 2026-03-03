@@ -78,4 +78,4 @@ Mi estus  |→ vidata = estaría siendo visto
 
  
 
-<span style="color: #999999;"><em>En la siguiente lección veremos los <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios/participios-pasivos/">participios adverbiales esperanto</a>, que también forman parte de la serie <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios/">Gerundios y participios en esperanto</a>.</em></span>
+<span style="color: #999999;"><em>En la siguiente lección veremos los <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios/participios-pasivos">participios adverbiales esperanto</a>, que también forman parte de la serie <a style="color: #999999;" href="/esperanto/gramatica/gerundios-participios">Gerundios y participios en esperanto</a>.</em></span>
