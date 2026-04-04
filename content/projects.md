@@ -6,6 +6,14 @@ summary: "projects"
 description: "Things I've built, created, or helped bring to life."
 lang: en
 projects:
+  - title: "HeyCompetitor"
+    categories: "startups"
+    url: "https://heycompetitor.com/?utm_source=enricbaltasar.com"
+    image: "/images/projects/heycompetitor.jpg"
+    description: "Discover how your competitors are generating revenue, and get the same visibility where it matters."
+    ps: "📊 Based on proven frameworks that generated $18M+."
+    finish: "2026-04"
+
   - title: "Developer Docs Audit"
     categories: "startups"
     url: "https://nakora.ai/tools/developer-docs-audit"

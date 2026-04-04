@@ -12,7 +12,7 @@ Languages. Movements. Markets. People.<br>
 I once got 300,000 people to learn a language most called "dead". Not because I was persuasive, but because I understood the mechanism.
 
 I raised half a million euros for causes I believed in.<br>
-Spoke at the European Parliament before 25.<br>
+Spoke at the European Parliament at 19.<br>
 Then I walked away.
 
 Social movements are slow.<br>
@@ -37,5 +37,9 @@ Technology turned out to be the fastest.
 I’m not loyal to industries.<br>
 I’m loyal to what works.
 
-Now, I run [Nakora](https://nakora.ai).<br>
 [Connect on LinkedIn](https://www.linkedin.com/in/enricbaltasar/).
+
+---
+
+Check out the developer marketing agency [Nakora](https://nakora.ai).<br>
+As well as the competitor intelligence tool [HeyCompetitor](https://heycompetitor.com/?utm_source=enricbaltasar.com).
