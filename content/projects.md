@@ -10,7 +10,7 @@ projects:
     categories: "startups"
     url: "https://heycompetitor.com/?utm_source=enricbaltasar.com"
     image: "/images/projects/heycompetitor.jpg"
-    description: "Discover how your competitors are generating revenue, and get the same visibility where it matters."
+    description: "Discover how your competitors are generating revenue, and get the same visibility where it matters with this competitor intelligence tool."
     ps: "📊 Based on proven frameworks that generated $18M+."
     finish: "2026-04"
 
