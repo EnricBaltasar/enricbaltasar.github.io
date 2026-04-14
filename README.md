@@ -2,6 +2,14 @@
 
 Personal website, migrated from WordPress.
 
+## Local development
+
+```bash
+bash scripts/start-hugo-server.sh
+```
+
+Then open http://localhost:1313.
+
 ## Stack
 
 - [Hugo](https://gohugo.io/) v0.156.0 — Static site generator (open source)

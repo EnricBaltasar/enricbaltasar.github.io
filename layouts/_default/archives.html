@@ -83,9 +83,9 @@
 </div>
 
 {{- $typeEntries := slice }}
-{{- $blogCount := add (add (add ($scratch.Get "source_site" | default 0) ($scratch.Get "source_medium" | default 0)) ($scratch.Get "source_nakora" | default 0)) ($scratch.Get "source_linkedin_pulse" | default 0) }}
+{{- $blogCount := add (add (add (add ($scratch.Get "source_site" | default 0) ($scratch.Get "source_medium" | default 0)) ($scratch.Get "source_nakora" | default 0)) ($scratch.Get "source_linkedin_pulse" | default 0)) ($scratch.Get "source_heycompetitor" | default 0) }}
 {{- if $blogCount }}
-  {{- $typeEntries = $typeEntries | append (dict "name" "Article" "sources" "site,medium,nakora,linkedin_pulse" "icons" "/favicon.ico,/icons/medium.png,/icons/nakora.png,/icons/linkedin_pulse.png" "count" $blogCount) }}
+  {{- $typeEntries = $typeEntries | append (dict "name" "Article" "sources" "site,medium,nakora,linkedin_pulse,heycompetitor" "icons" "/favicon.ico,/icons/medium.png,/icons/nakora.png,/icons/linkedin_pulse.png,/icons/heycompetitor.png" "count" $blogCount) }}
 {{- end }}
 {{- $newsletterCount := add ($scratch.Get "source_beehiiv" | default 0) ($scratch.Get "source_substack" | default 0) }}
 {{- if $newsletterCount }}
@@ -151,7 +151,7 @@
           {{- end }}
         </div>
         {{- if .Params.external_source }}
-        {{- $sourceNames := dict "medium" "Medium" "nakora" "Nakora" "youtube" "YouTube" "beehiiv" "Beehiiv" "linkedin" "LinkedIn" "linkedin_pulse" "LinkedIn Pulse" "x" "X" }}
+        {{- $sourceNames := dict "medium" "Medium" "nakora" "Nakora" "youtube" "YouTube" "beehiiv" "Beehiiv" "linkedin" "LinkedIn" "linkedin_pulse" "LinkedIn Pulse" "x" "X" "heycompetitor" "HeyCompetitor" }}
         <div class="external-source-label">
           <img class="external-source-icon" src="/icons/{{ .Params.external_source }}.png" alt="{{ .Params.external_source }}">
           Posted on {{ index $sourceNames .Params.external_source | default (.Params.external_source | title) }}
