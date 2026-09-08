@@ -6,8 +6,10 @@ description: "Growth partner for B2B SaaS startups. I turn strong products into 
 
 {{< avatar >}}
 
+AI SEO & GTM Engineer
+
 <p class="pseudo-h3">I reverse-engineer everything.</p>
-Languages. Movements. Markets. People.<br>
+Products. Movements. Markets.<br>
 
 I once got 300,000 people to learn a language most called "dead". Not because I was persuasive, but because I understood the mechanism.
 
@@ -26,20 +28,12 @@ Sat through four years of university lectures I wasn’t even enrolled in, becau
 
 The pattern never changed:
 
-Find what actually moves people.<br>
-Find the constraint others ignore.<br>
-And move the system.
-
-Activism was one vehicle.<br>
-Education was another.<br>
-Technology turned out to be the fastest.
-
-I’m not loyal to industries.<br>
-I’m loyal to what works.
+Find what changes people's behavior.<br>
+Then build and scale.
 
 [Connect on LinkedIn](https://www.linkedin.com/in/enricbaltasar/).
 
 ---
 
 Check out the developer marketing agency [Nakora](https://nakora.ai).<br>
-As well as the competitor intelligence tool [HeyCompetitor](https://heycompetitor.com/?utm_source=enricbaltasar.com).
+As well as the AI SEO tool [HeyCompetitor](https://heycompetitor.com/?utm_source=enricbaltasar.com).
