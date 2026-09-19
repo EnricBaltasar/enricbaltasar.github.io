@@ -35,5 +35,5 @@ Then build and scale.
 
 ---
 
-Check out the developer marketing agency [Nakora](https://nakora.ai).<br>
-As well as the AI SEO tool [HeyCompetitor](https://heycompetitor.com/?utm_source=enricbaltasar.com).
+Check out the technical marketing agency [Nakora](https://nakora.ai) specialized in AI SEO & Paid Ads.<br>
+Discover the best [ChatGPT Ads agency](https://nakora.ai/chatgpt-ads?utm_source=enricbaltasar.com).
